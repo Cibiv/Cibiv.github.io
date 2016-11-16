@@ -1,0 +1,210 @@
+/* =======================================
+            CIBIV colors
+ =========================================
+ dark-blue-cibiv:   #111F2A
+ blue-grey-cibiv:   #456379
+ grey-cibiv:        #89969F
+ light-blue-cibiv:  #CFE3F2
+ red-cibiv:         #CA0029
+ 
+ */
+
+* {
+    margin: 0;
+    padding: 0px;
+}
+
+
+body {
+    padding-top: 80px;
+    padding-bottom: 0px;
+    background: #ffffff;
+    margin: 0;
+    height: 100%;
+}
+
+
+.row-blau {
+    background-color:#CFE3F2;
+}
+
+.container-grey-full{
+    background-color:#FAFBFB;
+    width: 100%;
+}
+
+.container-full {
+    width: 100%;
+}
+
+.bg-grey {
+    background-color: #6d7d8e;
+}
+
+.bg-dark-blue-red-top {
+    background-color:#111F2A;
+    border-top: 3px solid #800001;
+}
+
+.bg-dark-blue-red-bottom {
+    background-color:#111F2A;
+    border-bottom: 3px solid #800001;
+}
+
+.bg-red {
+    background-color:#CA0029;
+}
+
+.bg-light-grey{
+    background-color:#89969F;
+}
+
+.img-logo-margin {
+    margin: 0px;
+}
+
+#map {
+    width: 500px;
+    height: 400px;
+    background-color: #CCC;
+}
+
+/* =======================================
+                People Images
+ ========================================= */
+
+.peopleimg {
+    padding: 5px;
+}
+
+/* =======================================
+                    Footer
+ ========================================= */
+#footerwrap {
+    padding-top: 20px;
+    padding-bottom: 100px;
+    /*background: #efefef;*/
+    background: #6d7d8e;
+    border-top: 0px solid #111F2A;
+    color: white;
+}
+
+/*
+#footerwrap p {
+    color: #111F2A;
+}
+
+#footerwrap i {
+    font-size: 30px;
+    color: #111F2A;
+    padding-right: 25px;
+}
+
+#footerwrap i:hover {
+    color: #337ab7
+}*/
+
+
+
+/* =======================================
+                    navbar 
+ =========================================*/
+.navbar-cibiv {
+    background-color: #FFFFFF;
+    /*background-color: #CFE3F2;*/
+    /*border-color: #E7E7E7;*/
+}
+
+.navbar-cibiv .navbar-toggle .icon-bar {
+    background-color: #800001;
+}
+
+/* title--------------------------------- */
+.navbar-cibiv .navbar-brand {
+    color: #111F2A;
+}
+.navbar-cibiv .navbar-brand:hover,
+.navbar-cibiv .navbar-brand:focus {
+    color: #CA0029;
+}
+/* link--------------------------------- */
+.navbar-cibiv .navbar-nav > li > a {
+    color: #111F2A;
+    border-bottom: 2px solid transparent;
+    margin-top: 20px;
+}
+.navbar-cibiv .navbar-nav > li > a:hover,
+.navbar-cibiv .navbar-nav > li > a:focus {
+    /*color: #CA0029;*/
+    border-bottom: 2px solid #CA0029;
+}
+.navbar-cibiv .navbar-nav > .active > a {
+    background-color: #D5D5D5;
+    border-bottom: 2px solid #CA0029;
+}
+.navbar-cibiv .navbar-nav > .active > a:hover,
+.navbar-cibiv .navbar-nav > .active > a:focus {
+    /*color: #CA0029;*/
+    background-color: #D5D5D5;
+    border-bottom: 2px solid #CA0029;
+}
+.navbar-cibiv .navbar-nav > .open > a,
+.navbar-cibiv .navbar-nav > .open > a:hover,
+.navbar-cibiv .navbar-nav > .open > a:focus {
+    /*color: #CA0029;*/
+    /*background-color: #D5D5D5;*/
+    border-bottom: 2px solid #CA0029;
+    
+}
+/* caret */
+.navbar-cibiv .navbar-nav > .dropdown > a .caret {
+    border-top-color: #111F2A;
+    border-bottom-color: #111F2A;
+}
+
+/* =======================================
+                media special
+ =========================================*/
+
+@media (max-width: 768px) {
+    .navbar-cibiv .navbar-nav > li > a {
+        color: #111F2A;
+        border-bottom: 2px solid transparent;
+        margin-top: 0px;
+    }
+}
+/*@media (min-width: 768px) {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+}*/
+
+/* =======================================
+                conference
+ =========================================*/
+
+ #conference_header {
+     background-image: url('/assets/img/iqtree-background.svg');
+     background-size: cover;
+     min-height: 0px;
+     padding-top: 50px;
+     padding-bottom: 50px;
+     text-align: center;
+     color: white;
+ }
+
+#standalonepage {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
