@@ -41,6 +41,10 @@ body {
     background-color: #6d7d8e;
 }
 
+.bg-dark-blue {
+    background-color:#111F2A;
+}
+
 .bg-dark-blue-red-top {
     background-color:#111F2A;
     border-top: 3px solid #800001;
@@ -49,6 +53,10 @@ body {
 .bg-dark-blue-red-bottom {
     background-color:#111F2A;
     border-bottom: 3px solid #800001;
+}
+
+.bg-dark-grey {
+    background-color: #6d7d8e;
 }
 
 .bg-red {
