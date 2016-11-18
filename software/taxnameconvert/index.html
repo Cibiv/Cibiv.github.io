@@ -1,0 +1,61 @@
+---
+# DO NOT CHANGE this layout!
+layout: software
+
+# name of the software
+software_name: TAXNAMECONVERT
+
+# short title of the software
+title: TAXNAMECONVERT
+
+# short description of the software
+description: A program to rename sequence and taxon names in tree and sequence files.
+
+# Type must be either:
+# Phylogenetics Inference
+# Next Generation Sequencing
+# Phylogenetics Modelling
+# Miscellaneous
+type: Miscellaneous
+
+# URL of the software if different from http://www.cibiv.at/software/...
+# mainurl: http://www.tree-puzzle.de
+---
+
+<!-- BEGIN OF software content -->
+
+<h3>TAXNAMECONVERT - to rename sequence and taxon names in tree and sequence files</h3>
+
+<h4>Introduction:</h4>
+Taxnameconvert is a commandline software that takes as input a file with a name table and usually a Newick formatted tree file or fasta sequence/alignment file, but can also be used to exchange names in many other text file formats.
+
+<p>On the command you can tell Taxnameconvert to exchange all names found in one specified column of name table file to the corresponding name in another specified column. The renaming takes place on the contents of a given sequence or tree file and either printed to screen or into a file with specified name.
+
+</p><p>The name table file is just a text file containing columns with different names for sequences like taxon name, 10-letter names (for PHYLIP files), common names, full names etc. The names can also contain spaces and can be bounded by quotes if desired during the renaming process. The latter is needed if the final names in treefiles contain spaces.
+
+</p><p>Taxnameconvert is a Perl-script, which means that <a href="http://www.perl.org/">Perl</a> needs to be installed, but runs on all operating systems.
+
+</p><p>Further details can be found in the included <tt>README</tt> file or by typing <tt>taxnameconvert.pl -h</tt>. Sample files are included in the <tt>data</tt> folder.
+
+</p><p>NOTE: The program does not check whether a taxon name is prefix/postfix/infix of another, i.e., it is contained within another name. To prevent that parts of the longer names renamed, make sure that the longer name occurs first in the name table file.
+
+</p><h4>Reference:</h4>
+   If you use the program please cite the following:
+   <ul>
+        <li>
+	    <b>H.A. Schmidt</b> (2004) 
+            TAXNAMECONVERT, version 2.4. Distributed by the author. Available from <a href="http://www.cibiv.at/software/taxnameconvert/">http://www.cibiv.at/software/taxnameconvert/</a>. 
+   </li></ul>
+
+
+<h4>Download TAXNAMECONVERT:</h4>
+<ul>
+	<li><a href="taxnameconvert-2.4.tar.gz">taxnameconvert-2.4.tar.gz</a> (tar format)
+	</li><li><a href="taxnameconvert-2.4.zip">taxnameconvert-2.4.zip</a> (zip format)
+<!--
+	<li><a HREF="iphula-1.10.tar.gz">iphula-1.10.tar.gz</a> (tar format, pre-release!)
+	<li><a HREF="iphula-1.10.zip">iphula-1.10.zip</a> (zip format, pre-release!)
+-->
+</li></ul>
+
+<!-- END OF software content -->

@@ -1,0 +1,126 @@
+---
+# DO NOT CHANGE this layout!
+layout: software
+
+# name of the software
+software_name: MISFITS
+
+# short title of the software
+title: MISFITS - Evaluating the goodness of fit between a phylogenetic model and an alignment
+
+# short description of the software
+description: A computer program to evaluate the goodness of fit between a phylogenetic model and an alignment.
+
+# Type must be either:
+# Phylogenetics Inference
+# Next Generation Sequencing
+# Phylogenetics Modelling
+# Miscellaneous
+type: Phylogenetics Modelling
+
+# URL of the software if different from http://www.cibiv.at/software/...
+# mainurl: http://www.tree-puzzle.de
+---
+
+<!-- BEGIN OF software content -->
+
+<h3>MISFITS: Evaluating the goodness of fit between a phylogenetic model and an alignment.</h3>
+
+<h4> <b> NEWS </b> </h4>
+<ul>
+	<li> April 21,  2011: Updated MANUAL provides detailed information how to compute the confidence interval. 
+	</li><li> August 11, 2010: Binary for Windows system is provided, though not carefully tested yet. 
+	</li><li> August 10, 2010: Binary and bash scripts for MacOS X are provided. 
+</li></ul>
+
+<h4>Introduction:</h4>
+MISFITS is a program to evaluate the goodness of fit of a model to an alignment in phylogeny reconstruction. It offers a look back
+ at the alignment to pinpoint to site patterns that do not fit to the model and the resulting tree (thereafter referred to as the 
+tree-model). MISFITS then introduces a number of extra-substitutions on the tree, in a parsimonious manner to fit these site 
+patterns in to the tree-model. These extra-substitutions plus the evolutionary model will then fully explain the alignment. 
+Thus, the number of extra-substitutions may be interpreted as a measure to evaluate the goodness of fit of the model to the alignment:
+ the less the number, the better the fit.
+<h4>Methods:</h4>
+The method is described in the following article:
+
+<ul>
+<li> Minh Anh Thi Nguyen, Steffen Klaere, and Arndt von Haeseler
+            (2010) MISFITS: Evaluating the goodness of fit between a phylogenetic model and an alignment.
+            <em>Mol. Biol. Evol.</em>, 28:143-152.
+            (<a href="http://mbe.oxfordjournals.org/cgi/reprint/msq180v1?ijkey=XcFZDwZzUhGGI97&amp;keytype=ref">free copy</a>,
+                <a href="http://mbe.oxfordjournals.org/cgi/content/abstract/msq180v1"> DOI: 10.1093/molbev/msq180</a>,
+             <a href="http://www.ncbi.nlm.nih.gov/pubmed/20643866">PMID: 20643866</a>)
+
+</li></ul>
+
+<!--If you are using MISFITS, please cite this article.-->
+
+A brief description of the method is as follows:
+<ol>
+	<li> Count the observed frequency of patterns in the alignment.
+	</li><li> Compute pattern likelihood under the model and the inferred tree.
+	</li><li> Determine the set of over-represented patterns D<sup>+</sup> and the set of under-represented patterns D<sup>-</sup>.
+	</li><li> For all pairs of patterns (p, p'), p ∈ D<sup>+</sup>, p' ∈ D<sup>-</sup>, compute the minimal number of extra-substitutions to convert p into p'.
+	</li><li> Select a matching between patterns in D<sup>+</sup> and D<sup>-</sup> such that the total number of extra-substitutions is minimal.
+	</li><li> Map the extra-substitutions on the tree.
+	</li><li> Determine the significance of the number of extra-substitutions computed at step 5.
+</li></ol>
+<h4>Availability:</h4>
+<ul>
+	<li> For step 1-6: The program is written in C++ and available free of charge. The executable file currently 
+		works under Unix platform (Linux and MacOS X systems) as well as Windows system.
+	</li><li> For step 7: Since it depends on the simulation and tree reconstruction programs that users want to use, we provide
+		a number of bash scripts running on Unix systems to carry out this task with: <a href="http://tree.bio.ed.ac.uk/software/seqgen/">SEQ-GEN</a> for simulation and <a href="http://www.atgc-montpellier.fr/phyml/">PHYML</a> 
+		for tree reconstruction.
+		Users may modify these scripts to use other programs instead as well as to use misfits with different options.
+	</li><li> Refer to <a href="#download">download</a> for the source code,
+                program manual, binary file of misfits and the bash scripts.
+
+</li></ul>
+<h4>External programs required:</h4>
+<ul>
+	<li> For step 1-6: the MISFITS program requires <a href="http://www.tree-puzzle.de/">TREE-PUZZLE</a> to compute likelihood
+		of the patterns (written in a phylip format alignment) given the tree and the model with the corresponding
+		parameter's values. Please make sure that the executable file of <a href="http://www.tree-puzzle.de/">TREE-PUZZLE</a> is named <i>puzzle</i>.
+	</li><li> For step 7: a simulator and a tree-reconstruction program are needed. If you use the bash scripts we provide, you need <a href="http://tree.bio.ed.ac.uk/software/seqgen/">SEQ-GEN</a>
+		and <a href="http://www.atgc-montpellier.fr/phyml/">PHYML</a> packages and the executable files should be named <i>seq-gen</i> and <i>PhyML_3.0</i>, respectively.
+	</li><li> Make sure that you use the correct binaries of these external programs, i.e. compatible with your system (Linux, MacOS, Windows). 
+<!--	<li> The binary files for <a HREF="http://www.tree-puzzle.de/">TREE-PUZZLE</a>, <a HREF="http://tree.bio.ed.ac.uk/software/seqgen/">SEQ-GEN</a> and <a HREF="http://www.atgc-montpellier.fr/phyml/">PHYML</a> are re-distributed together with their licence notes in <a href="#download">download</a>.	-->	
+</li></ul>
+<h4>Version history:</h4>
+<ul>
+	<li> March 2010: The first version misfits-1.0 was launched.
+</li></ul>
+<h4>Note:</h4>
+Please read the manual carefully if you try our program the first time. If you encounter bugs, please report to minh.anh.nguyen(AT)univie.ac.at together with the log files.  
+<h4><a name="download"> Download: </a></h4>
+<table border="1">
+    <tbody><tr>
+        <td>Type
+        </td><td>Links
+   </td></tr><tr>
+	<td>Manual
+	</td><td><a href="misfits_manual.pdf">misfits_manual.pdf</a>
+   </td></tr><tr>	
+        <td>Source code
+        </td><td><a href="misfits-1.0.tar.gz">misfits-1.0.tar.gz</a>
+   </td></tr><tr>
+        <td>Binary files for Linux system <br> (misfits-1.0, including 32-bit-binary)
+        </td><td><a href="Linux-binary-files.tar.gz">Linux-binary-files.tar.gz</a>
+	</td></tr><tr>
+        <td>Binary files for MacOS X system <br> (misfits-1.0) 
+        </td><td><a href="MacOS-binary-files.tar.gz">MacOS-binary-files.tar.gz</a>
+	</td></tr><tr>
+        <td>Binary files for Windows system <br> (misfits-1.0)
+        </td><td><a href="Windows-binary-files.tar.gz">Windows-binary-files.tar.gz</a>
+
+
+   </td></tr><tr>
+        <td>Example
+        </td><td><a href="example.tar.gz">example.tar.gz</a>
+   </td></tr><tr>
+	<td>Bash scripts for Unix (Linux and MacOS X)
+	</td><td><a href="Unix-phyml-misfits-1.0.tar.gz">Unix-phyml-misfits-1.0.tar.gz</a><br><a href="Unix-seqgen-phyml-misfits-1.0.tar.gz">Unix-seqgen-phyml-misfits-1.0.tar.gz</a>	
+</td></tr></tbody></table>
+
+<!-- END OF software content -->

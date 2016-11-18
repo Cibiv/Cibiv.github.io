@@ -1,0 +1,14 @@
+<div class="well">
+    <h4>CIBIV Members</h4>
+    <div class="row">
+        {% assign sorted_pages = (site.pages | where: "layout" , "personalpage" | sort: 'title') %}
+        {% for page in sorted_pages %}
+            <div class="col-sm-12 col-xs-6">
+                <p><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></p>
+            </div>
+        {% endfor %}
+        <div class="col-sm-12 col-xs-6">
+            <p><a href="{{ site.baseurl }}/people/former_members.html"><strong>&rarr; Former members</strong></a></p>
+        </div>
+    </div>
+</div>

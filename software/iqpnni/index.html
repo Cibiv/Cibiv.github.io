@@ -1,0 +1,114 @@
+---
+layout: software
+
+# name of the software
+software_name: IQPNNI
+
+title: IQPNNI - Important Quartet Puzzling and NNI Operation
+description: A quartet based method to reconstruct phylogenetic trees from really large datasets (DNA and protein). The method applies a QP-like approach requiring only a part of the quartets and some fast NNI optimization.
+type: Phylogenetics Inference
+---
+
+<!-- PAGE CONTENTS HERE -->
+
+<h1>Welcome to IQPNNI - Important Quartet Puzzling and NNI Operation</h1>
+
+<h2><font size="+2" color="red">Important notice: IQPNNI is not maintained anymore and is superseded by IQ-TREE. Please redirect to 
+ <a href="http://www.iqtree.org"><font size="+2" color="red">http://www.iqtree.org</font></a>
+</font></h2>
+
+<!-- <H3><FONT color="red">Note: IQPNNI is not maintained anymore and will soon be superseded by IQ-TREE
+at <a href="http://www.iqtree.org">http://www.iqtree.org</a>
+ </FONT></H3> -->
+
+<h2>Introduction:</h2>
+An efficient tree reconstruction method (IQPNNI) is introduced to reconstruct a phylogenetic
+tree based on DNA or amino acid sequence data. Our approach
+combines various fast algorithms to generate a list of potential
+candidate trees. The key ingredient is the definition of so-called
+important quartets (IQs), which allow the computation of an
+intermediate tree in O(n^2) time for n sequences. The
+resulting tree is then further optimized by applying the
+nearest neighbor interchange (NNI) operation. Subsequently a random
+fraction of the sequences is deleted from the best tree found so far. The deleted
+sequences are then re-inserted in the smaller tree using the important quartet puzzling (IQP) algorithm.
+These steps are repeated several times and the best tree, with respect to the
+likelihood criterion, is considered as the inferred phylogenetic
+tree. Moreover, we suggest a rule, which indicates when to stop the search.
+
+
+<h2>Latest version IQPNNI 3.3.2 (20th August 2010):</h2>
+
+<p>We are pleased to announce that <b>IQPNNI 3.3.2</b> has come out with some important bug-fixes and new features:
+
+</p><ul>
+<li>Model parameter estimations fail in rare cases for parameter-rich model
+</li><li>Invar+Gamma rate heterogeneity bug fix
+</li><li>Compatibility issue with GCC 4.3.2
+</li><li>BIONJ tree is now reconstructed twice from the initial distances and the corrected maximum-likelihood distances
+
+</li></ul>
+
+Therefore, we strongly recommend you to download and install this new version.
+
+<h4>Please read the <a href="iqpnni-manual.html">User Manual</a> (or in <a href="iqpnni-manual.pdf">PDF format</a>) carefully before using IQPNNI the first time or when you upgrade the new version!</h4>
+
+<h3> Download: </h3>
+
+Source package and sequential binary releases for Linux, MacOS and Windows are available in gzipped TAR format and ZIP format. No binary
+release for parallel version is available, you have to build it on your own machine.<br><br>
+
+<table border="1">
+    <tbody><tr>
+	<td>Type
+	</td><td>Links
+   </td></tr><tr>
+	<td>Source code
+	</td><td><a href="iqpnni-3.3.2.tar.gz">iqpnni-3.3.2.tar.gz</a><br><a href="iqpnni-3.3.2.zip">iqpnni-3.3.2.zip</a>
+   </td></tr><tr>
+	<td>All-in-one binary release
+	</td><td><a href="iqpnni-3.3.2-bin.tar.gz">iqpnni-3.3.2-bin.tar.gz</a><br><a href="iqpnni-3.3.2-bin.zip">iqpnni-3.3.2-bin.zip</a>
+</td></tr></tbody></table>
+<p>
+In the all-in-one binary release you find all 32bit executables for Linux, MacOSX, and Windows, thus are compatible with 64bit OS. The binaries were complied with GCC 4.3.2 (Linux, MacOSX) and MinWG (Windows) and statically linked.
+
+</p><h2>Older versions:</h2>
+
+
+Go to <a href="oldversions.html"><b>Version History</b></a> to find out more about the development of IQPNNI and for downloading older version releases.
+
+<h3>Reference:</h3>
+The method are described in details in the following articles:
+
+<ul>
+<li><b>Le Sy Vinh and Arndt von&nbsp;Haeseler</b> (2004)
+    IQPNNI: Moving fast through tree space and stopping in time. <i>Mol. Biol. Evol.</i>, 21(8):1565-1571.<br>
+    (<a href="http://mbe.oupjournals.org/cgi/content/abstract/msh176?ijkey=53pJbRKMJmZck&amp;keytype=ref">free reprint</a>,
+     <a href="http://dx.doi.org/10.1093/molbev/msh176">DOI: 10.1093/molbev/msh176</a>,
+     <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=15163768&amp;dopt=Abstract">PMID: 15163768</a>)
+
+</li><li><b>Bui Quang Minh, Le Sy Vinh, Arndt von Haeseler and Heiko A. Schmidt</b> (2005)
+	pIQPNNI: Parallel reconstruction of large maximum likelihood phylogenies. <i>Bioinformatics</i>, 21(19):3794-6.
+        (<a href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/bti594?ijkey=HabQPVVhx9TYTzb&amp;keytype=ref">free reprint</a>,
+         <a href="http://dx.doi.org/10.1093/bioinformatics/bti594">DOI: 10.1093/bioinformatics/bti594</a>,
+         <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=16046495&amp;dopt=Abstract">PMID: 16046495</a>)
+	 
+    </li><li><b>Bui Quang Minh, Le Sy Vinh, Heiko A. Schmidt, and Arndt von Haeseler</b> (2006) Large Maximum Likelihood Trees. 
+	<em>Proceedings of the NIC Symposium 2006</em>,  357-365, Forschungszentrum Jülich, Germany. 
+	    (ISBN 3-00-017351-X) <a href="http://www.fz-juelich.de/nic-series/volume32/minh.pdf">NIC series (PDF)</a>
+        </li><li><b>H.A. Schmidt and A. von Haeseler</b> (2009)
+                Phylogenetic Inference Using Maximum Likelihood Methods.
+                In P. Lemey, M. Salemi, A.M. Vandamme (eds.)<em>The Phylogenetic Handbook: a Practical Approach to Phylogenetic Analysis and Hypothesis Testing.</em>, 2nd Edition, 181-209, Cambridge University Press, Cambridge.
+                (ISBN: paperback: <a href="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521730716">9780521730716</a>, hardcover: <a href="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521877107">9780521877107</a>,
+                <a href="http://www.thephylogenetichandbook.org/">book webpage</a>)
+</li></ul>
+
+
+<h5> Note: </h5> 
+<ul>
+<li>Please, let us know if you download this program by sending an email to {minh.bui,arndt.von.haeseler}@univie.ac.at<br>
+
+</li></ul>
+
+<!-- PAGE CONTENTS END -->
+

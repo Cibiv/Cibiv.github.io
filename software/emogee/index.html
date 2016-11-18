@@ -1,0 +1,124 @@
+---
+# DO NOT CHANGE this layout!
+layout: software
+
+# name of the software
+software_name: EMOGEE
+
+# short title of the software
+title: EMOGEE - Estimator for MOdels of Gene Expression Evolution
+
+# short description of the software
+description: Neutral models for evolution of gene expression to analyze or simulate microarray data.
+
+# Type must be either:
+# Phylogenetics Inference
+# Next Generation Sequencing
+# Phylogenetics Modelling
+# Miscellaneous
+type: Miscellaneous
+
+# URL of the software if different from http://www.cibiv.at/software/...
+# mainurl: http://www.tree-puzzle.de
+---
+
+<!-- BEGIN OF software content -->
+
+<h3>EMOGEE and EMOGEE Tools (Last Update: 04.07.2007)</h3>
+
+<h4>Introduction:</h4>
+
+Recent studies describe
+that the level of gene expression between species is positively
+correlated with the time that has passed since the species split
+from a common ancestor (Ranz et al., 2006). Moreover,
+Khaitovich et al. (2004) found a linear relationship between
+divergence time and expression differences. This linearity can be
+explained by the neutral theory (Kimura, 1983). Consequently,
+a neutral model for gene expression evolution was suggested
+(Khaitovich et al., 2005). The model describes mutations in the
+regulatory region of a gene by a compound Poisson process. The
+strength of changes in the expression level is described by a
+continuous distribution which is called here mutation effect
+distribution. That is, whenever a mutation occurs, the gene
+expression level changes according to the mutation effect
+distribution.
+<p>
+The EMOGEE package implements the model by Khaitovich et al. (2005) and several extensions of that model.
+In a first extension a gamma distribution is
+used to describe mutation effects which is more flexible than the
+distributions used in the original model (M-gamma model). In a second extension,
+non-mutational effects are taken into account (M&amp;E model). These effects
+(e.g., metabolism and environmental effects) overlay mutational
+changes of gene expression. To describe them a new parameter is
+introduced which provides a better fit to real data. This
+makes it possible to estimate influences of mutational and
+non-mutational changes of the gene expression level. 
+</p><p>
+According to a variant of M&amp;E model using normal distributed mutation effects (M&amp;E-normal model), two applications were implemented. They are located in the EMOGEE Tools package. 
+The first application is a Bayesian method to detect genes with mutations in their
+regulatory regions. The second one is a non-neutrality
+test which can be applied to gene expression data
+sampled from individuals of a population. Based on this test one
+can detect those genes that show a significant deviation from
+expression levels under neutrality. The test is an adaptation of
+the widely used Tajima's D test (Tajima, 1989). Before using the Bayesian method or the Tajima-type test, it is necessary to estimate the model parameters 
+of the corresponding
+data with EMOGEE. The respective results have to be fed into
+the configuration file of EMOGEE Tools. Please see the manual for more details.
+ 
+</p><h4>Reference:</h4>
+   The methods are described in the following PhD thesis:
+
+   <ul>
+        <li><b><a href="http://www.cs.uni-duesseldorf.de/NewMA/Personen/entry_44">M. Rosskopf</a></b>
+            (2007) <a href="http://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=4974">Development and Applications of Neutral Models for Evolution of Gene Expression</a>,
+            <em>Inaugural-Dissertation zur Erlangung des Doktorgrades der Mathematisch-Naturwissenschaftlichen Fakultät der Heinrich-Heine-Universität Düsseldorf</em><br>
+   </li></ul>
+    If you are using EMOGEE or EMOGEE Tools, please cite this thesis.
+
+<h4>Download of the software:</h4>
+<ul>
+	<li>EMOGEE: <a href="emogee.zip">emogee.zip</a>
+        </li><li>EMOGEE Tools: <a href="emogeetools.zip">emogeetools.zip</a>
+        </li><li>Manual for both packages: <a href="emogee_manual.pdf">emogee_manual.pdf</a>
+</li></ul>
+<h4>Data sets:</h4>
+The following data sets were analysed in the thesis "Development and Applications of Neutral Models for Evolution of Gene Expression" and can be used directly with EMOGEE and EMOGEE Tools, respectively. The bracketed numbers signify the class labels of the individuals in the data sets. Please note that all data sets are preprocessed versions of published data. Please refer to the thesis for details and references.
+<h5>Data of human (1), chimpanzee (2) and orangutan (3) (Chapter 3):</h5>
+<ul>
+<li><a href="datasets/datatable_primates_liver95.txt">datatable_primates_liver95.txt</a>
+</li><li><a href="datasets/datatable_primates_brain95.txt">datatable_primates_brain95.txt</a>
+</li><li><a href="datasets/datatable_primates_liver133.txt">datatable_primates_liver133.txt</a>
+</li><li><a href="datasets/datatable_primates_brain133.txt">datatable_primates_brain133.txt</a>
+</li></ul>
+<h5>Data of human (1) and chimpanzee (2) (Chapter 4):</h5>
+<ul>
+<li><a href="datasets/datatable_human-chimp_brain.txt">datatable_human-chimp_brain.txt</a>
+</li><li><a href="datasets/datatable_human-chimp_heart.txt">datatable_human-chimp_heart.txt</a>
+</li><li><a href="datasets/datatable_human-chimp_kidney.txt">datatable_human-chimp_kidney.txt</a>
+</li><li><a href="datasets/datatable_human-chimp_liver.txt">datatable_human-chimp_liver.txt</a>
+</li><li><a href="datasets/datatable_human-chimp_testis.txt">datatable_human-chimp_testis.txt</a>
+</li></ul>
+<h5>Data of human (1) and chimpanzee (2) without sex-related genes (Chapter 5):</h5>
+<ul>
+<li><a href="datasets/datatable_human-chimp_brain_nosex.txt">datatable_human-chimp_brain_nosex.txt</a>
+</li><li><a href="datasets/datatable_human-chimp_heart_nosex.txt">datatable_human-chimp_heart_nosex.txt</a>
+</li><li><a href="datasets/datatable_human-chimp_kidney_nosex.txt">datatable_human-chimp_kidney_nosex.txt</a>
+</li><li><a href="datasets/datatable_human-chimp_liver_nosex.txt">datatable_human-chimp_liver_nosex.txt</a>
+</li><li><a href="datasets/datatable_human-chimp_testis_nosex.txt">datatable_human-chimp_testis_nosex.txt</a>
+</li></ul>
+<h5>Data of mus musculus domesticus (1), mus musculus musculus (2), mus musculus ssp (3), mus musculus castaneus (4) and mus spretus (5) (Chapter 3, chapter 4):</h5>
+<ul>
+<li><a href="datasets/datatable_mice_brain.txt">datatable_mice_brain.txt</a>
+</li><li><a href="datasets/datatable_mice_liverkidney.txt">datatable_mice_liverkidney.txt</a>
+</li><li><a href="datasets/datatable_mice_testis.txt">datatable_mice_testis.txt</a>
+</li></ul>
+(for details on the mice data please read Voolstra C., Tautz D., Farbrother P., Eichinger L., Harr B. (2007) <a href="http://www.genome.org/cgi/content/abstract/17/1/42">Contrasting evolution of expression differences in the testis between species and subspecies of the house mouse</a>, <i>Genome Research</i>, 17, 42-49)
+<h5>Medical data sets from adeno carcinomas (1) vs squamous cell carcinomas (2) and normal bone marrow (1) vs chronic myeloid leukaemia (2) (Chapter 6):</h5>
+<ul>
+<li><a href="datasets/datatable_adeno_vs_squamous.txt">datatable_adeno_vs_squamous.txt</a>
+</li><li><a href="datasets/datatable_normal_vs_cml.txt">datatable_normal_vs_cml.txt</a>
+</li></ul>
+
+<!-- END OF software content -->

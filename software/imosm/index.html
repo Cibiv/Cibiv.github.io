@@ -1,0 +1,99 @@
+---
+# DO NOT CHANGE this layout!
+layout: software
+
+# name of the software
+software_name: ImOSM
+
+# short title of the software
+title: ImOSM - Imbed One Step Mutations into an alignment
+
+# short description of the software
+description: A program to Imbed model violation as One Step Mutations into a sequence alignment. This is a useful tool to study the robustness in phylogeny inference.
+
+# Type must be either:
+# Phylogenetics Inference
+# Next Generation Sequencing
+# Phylogenetics Modelling
+# Miscellaneous
+type: Phylogenetics Modelling
+
+# URL of the software if different from http://www.cibiv.at/software/...
+# mainurl: http://www.tree-puzzle.de
+---
+
+<!-- BEGIN OF software content -->
+
+
+<h3>ImOSM: <em>Im</em>bedding <em>O</em>ne <em>S</em>tep <em>M</em>utations into phylogenetic data.</h3>
+
+<!-- <h4> <b> NEWS </b> </h4>
+<ul>
+	<li> April 21,  2011: Updated MANUAL provides detailed information how to compute the confidence interval. 
+	<li> August 11, 2010: Binary for Windows system is provided, though not carefully tested yet. 
+	<li> August 10, 2010: Binary and bash scripts for MacOS X are provided. 
+</ul> -->
+
+<h4>Introduction:</h4>
+ImOSM is a program to imbed <em>intermittent evolution</em> into a given alignment, where intermittent evolution refers to 
+extra substitution(s) which are thrown on branch(es) of the tree to convert a site pattern of the alignment into another site pattern.
+Extra substitutions are modeled by the one step mutation (OSM) matrix.
+Thus, ImOSM actually <em>Im</em>beds intermittent <em>O</em>ne <em>S</em>tep <em>M</em>utations into the alignment.
+<h4>Methods:</h4>
+The method is described in the following article (section ImOSM method):
+
+<ul>
+<li> Minh Anh Thi Nguyen, Tanja Gesell and Arndt von Haeseler,
+                ImOSM: Intermittent Evolution and Robustness of Phylogenetic Methods.
+                <em>Mol. Biol. Evol.</em>, 29, 663-673.
+                (<a href="http://mbe.oxfordjournals.org/cgi/reprint/msr220?ijkey=qlyYs3rZ4tzvY0Q&amp;keytype=ref">free reprint</a>,
+                <a href="http://dx.doi.org/10.1093/molbev/msr220">DOI: 10.1093/molbev/msr220</a>,
+                <a href="http://www.ncbi.nlm.nih.gov/pubmed/21940641">PMID: 21940641</a>)
+
+</li></ul>
+
+<!--If you are using MISFITS, please cite this article.-->
+
+<h4>Availability:</h4>
+<ul>
+	<li> The program is written in C++ and available free of charge. The executable file currently 
+		works under Linux platform. Binary files for MacOS and Windows systems can be compiled from the source
+		code provided. <!--Unix platform (Linux and MacOS X systems) as well as Windows system.-->
+
+</li></ul>
+<h4>Version history:</h4>
+<ul>
+	<li> Sep 02, 2011: Some code refinement to the sampling from discrete distribution in order to save computation time when the number of categories as well as the number of samples are large.
+	</li><li> June 2011: The first version was launched.
+</li></ul>
+<h4>Note:</h4>
+Please read the manual carefully if you try our program the first time. If you encounter bugs, please report to minh.anh.nguyen(AT)univie.ac.at together with the log files.  
+<h4><a name="download"> Download: </a></h4>
+<table border="1">
+    <tbody><tr>
+        <td>Type
+        </td><td>Links
+   </td></tr><tr>
+	<td>Manual
+	</td><td><a href="ImOSM-manual.pdf">ImOSM-manual.pdf</a>
+   </td></tr><tr>	
+        <td>Source code
+        </td><td><a href="imosm.tar.gz">imosm.tar.gz</a>
+   </td></tr><tr>
+        <td>Binary files for Linux system <br> 
+        </td><td><a href="Linux-binary-files.tar.gz">Linux-binary-files.tar.gz</a>
+<!--
+   <TR>
+        <TD>Binary files for MacOS X system <BR> (misfits-1.0) 
+        <TD><a HREF="MacOS-binary-files.tar.gz">MacOS-binary-files.tar.gz</a>
+   <TR>
+        <TD>Binary files for Windows system <BR> (misfits-1.0)
+        <TD><a HREF="Windows-binary-files.tar.gz">Windows-binary-files.tar.gz</a>
+-->
+
+   </td></tr><tr>
+        <td>Example
+        </td><td><a href="example.tar.gz">example.tar.gz</a>
+</td></tr></tbody></table>
+
+<!-- END OF software content -->

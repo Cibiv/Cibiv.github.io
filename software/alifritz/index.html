@@ -1,0 +1,56 @@
+---
+# DO NOT CHANGE this layout!
+layout: software
+
+# name of the software
+software_name: ALIFRITZ
+
+# short title of the software
+title: ALIFRITZ - Simultaneous Statistical Multiple Alignment and Phylogeny Reconstruction
+
+# short description of the software
+description: A program performing statistical multiple alignment and phylogeny reconstruction simultaneously.
+
+# Type must be either:
+# Phylogenetics Inference
+# Next Generation Sequencing
+# Phylogenetics Modelling
+# Miscellaneous
+type: Phylogenetics Modelling
+
+# URL of the software if different from http://www.cibiv.at/software/...
+# mainurl: http://www.tree-puzzle.de
+---
+
+<!-- BEGIN OF software content -->
+
+<h3>ALIFRITZ: Simultaneous Statistical Multiple Alignment and Phylogeny Reconstruction</h3>
+
+<h4>Introduction:</h4>
+While the reconstruction of phylogenetic trees and the computation of multiple sequence alignments
+are highly interdependent, these two areas of research lead quite separate lives. The former often making
+use of stochastic modelling, which the latter normally does not. Despite the fact
+that reasonable insertion and deletion models for sequence pairs were already introduced more than ten years ago, 
+they have only recently been applied to multiple alignment and only in their simplest version.
+Our program implements a strategy based on simulated annealing which makes use of these models to infer
+a phylogenetic tree for a set of DNA or protein sequences together with the sequences' indel history, i.e. their multiple
+alignment augmented with information about the positioning of insertion and deletion events in the tree. 
+
+
+<h4>Reference:</h4>
+The method is described in detail in the following article:
+
+<ul>
+<li>Roland Fleißner, Dirk Metzler and Arndt von&nbsp;Haeseler,
+    Simultaneous Statistical Multiple Alignment and Phylogeny Reconstruction. 
+    Syst. Biol., 54, 548-561. DOI: <a href="http://dx.doi.org/10.1080/10635150590950371">10.1080/10635150590950371</a>, PMID: <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;cmd=Retrieve&amp;dopt=AbstractPlus&amp;list_uids=16085574">16085574</a>
+</li></ul>
+
+<h4> Download: </h4>
+<ul>
+   <li><a href="alifritz_src_1.0.tgz">alifritz_src_1.0.tgz</a> (ALIFRITZ source code)
+   </li><li><a href="alifritz_linux_1.0.tgz">alifritz_linux_1.0.tgz</a> (new statically linked Linux executable version)
+</li></ul>
+
+
+<!-- END OF software content -->

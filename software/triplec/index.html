@@ -1,0 +1,116 @@
+---
+# DO NOT CHANGE this layout!
+layout: software
+
+# name of the software
+software_name: TripleC
+
+# short title of the software
+title: TripleC
+
+# short description of the software
+description: A program to constuct consensus trees from rooted triples.
+
+# Type must be either:
+# Phylogenetics Inference
+# Next Generation Sequencing
+# Phylogenetics Modelling
+# Miscellaneous
+type: Phylogenetics Inference
+
+# URL of the software if different from http://www.cibiv.at/software/...
+# mainurl: http://www.tree-puzzle.de
+---
+
+<!-- BEGIN OF software content -->
+<h1>Rooted Triple Consensus</h1>
+	    <hr>
+	  This page is for the implementation of the method described
+	  in <i>Rooted Triple Consensus and Anomalous Gene Trees, Greg
+	  Ewing, Ingo Ebersberger, Heiko A. Schmidt and Arndt von
+	  Haeseler</i>. 
+	    <p>
+
+	  The program is called triplec for Triple consensus and is
+	  written in java version 1.5. So it should run without
+	  problems on Mac, Windows and *nix machines. Although the
+	  program has been tested quite thoroughly it is a work in
+	  progress and must be treated as such. In particular most of
+	  the testing and simulations were mainly done on bifurcated
+	  trees. Finally don't forget that this method works only for
+	  rooted topologies.
+	      
+	  </p><hr>
+	    
+	  <h3>Licence</h3>
+	    
+	  Triplec is free to use for commercial and non commercial
+	  purposes but comes with no warranty expressed or implied.
+	  It is provided as is because it may be useful.
+	   
+	  <h4>Source</h4>
+	    
+	  The source can be requested and its availability will be
+	  decided on a case by case basis. The reason is that some of
+	  the code has dependencies with a very large code base and
+	  not all of this is relevant to this program and much of this
+	  code is not yet ready for release.
+	    
+	  <p>
+	      
+	  Some time later this year when the rest of the code base has
+	  been properly checked for other dependencies and is ready
+	  for release, this code will be published under one of the
+	  open source licences. Most likely LGPL 2 or a BSD licence.
+	      
+	  </p><hr>
+	  <h3>Download</h3>
+	  <a href="./Triplec.jar">Triplec Download</a>
+	  <hr>
+	  <h3>Usage</h3>
+
+	  java -jar Triplec.jar NoReps InFile.newick
+	    
+	  <br><br>
+
+	  Here NoReps is the number of triple reconstructions to use
+	  for the consensus.  This is required because reconstruction
+	  is a randomised algorithm. For small trees of about 20 taxa
+	  1000 replicates is enough. But larger numbers should be used
+	  for bigger data sets.
+	    
+	  <p>
+
+	  InFile.newick is a text file with one newick tree per
+	  line. The trees are considered to be rooted and each tree
+	  must contain only the taxa labels of the first tree. That is
+	  trees after the first must not contain new taxa.
+	      
+	  </p><p>
+	      
+	  Although it is not a error to have trees with less taxa than
+	  the first tree as part of the consensus, this method is not
+	  a supertree method. Performance under these conditions has
+	  not been tested and we expect would perform poorly.
+
+	  </p><h4>Tips, Memory and Performance</h4>
+
+	  This code is not highly optimised as of yet. But this should
+	  not be a big constraint for most people as its performance
+	  and memory requirements are reasonably modest.  Remember
+	  that by default java will only give 64 MB to a program and
+	  so on bigger trees it will seem to run out of memory. Just
+	  use the -Xmx switch in java. <br><br>
+
+	  Example: java -Xmx500M -jar Triplec.jar 10000
+	  bigTrees.newick.
+
+	  <hr>
+	  <h3>Bugs and Feature requests</h3>
+
+	  Please direct all bug reports and feature request to greg
+	  dot ewing AT univie.ac.at. Please use the subject heading
+	  triplec:
+
+	    <hr>
+<!-- END OF software content -->

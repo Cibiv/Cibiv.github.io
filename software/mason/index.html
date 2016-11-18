@@ -1,0 +1,121 @@
+---
+# DO NOT CHANGE this layout!
+layout: software
+
+# name of the software
+software_name: MASon
+
+# short title of the software
+title: MASon - Million Alignments in Seconds
+
+# short description of the software
+description: A C++ library that uses high performance architectures to reduce the computing time of NGS analysis pipelines.
+
+# Type must be either:
+# Phylogenetics Inference
+# Next Generation Sequencing
+# Phylogenetics Modelling
+# Miscellaneous
+type: Next Generation Sequencing
+
+# URL of the software if different from http://www.cibiv.at/software/...
+# mainurl: http://www.tree-puzzle.de
+---
+
+<!-- BEGIN OF software content -->
+
+<a name="What-is-MASon"></a>
+<h2>What is MASon?<a href="#What-is-MASon" class="wiki-anchor">¶</a></h2>
+
+
+	<p>MASon (Million Alignments in Seconds) is a C++ library that uses the advantages of widely distributed and inexpensive high performance architectures to reduce the computing time of NGS analysis pipelines. MASon employs an optimized SW implementation to align NGS reads and exploits graphic cards (CUDA, OpenCL) and CPU vector instructions (SSE, OpenCL). This allows computation of millions of short local pairwise sequence alignments (36bp - 1,000bp) within a few seconds. MASon can be easily integrated into NGS analysis pipelines and allows programmers to optimally utilize modern hardware, ranging from desktop computers to high-end clusters.</p>
+
+
+	<a name="System-requirements"></a>
+<h2>System requirements<a href="#System-requirements" class="wiki-anchor">¶</a></h2>
+
+
+	<p>CPU: SSE enabled<br>RAM: 4 GB (8 GB recommended)<br>GPU (optional): CUDA (Nvidia) or ATI Stream Technology (ATI) enabled <br>OS: Linux (OpenSUSE with gcc 4.3.4 recommended)<br>Software: CUDA 3.2 (or higher), AMD Accelerated Parallel Processing SDK 2.4 (or higher)</p>
+
+
+	<a name="How-to-install-prerequisite"></a>
+<h2>How to install prerequisite<a href="#How-to-install-prerequisite" class="wiki-anchor">¶</a></h2>
+
+
+	<a name="CUDA"></a>
+<h3>CUDA<a href="#CUDA" class="wiki-anchor">¶</a></h3>
+
+
+	<p>Download the CUDA SDK 4.0 from <a href="http://developer.nvidia.com/cuda-toolkit-40" class="external">here</a> and follow the <a href="http://developer.download.nvidia.com/compute/DevZone/docs/html/C/doc/CUDA_C_Getting_Started_Linux.pdf" class="external">install instructions</a></p>
+
+
+	<p><strong>IMPORTANT:</strong> Verify that the PATH environment variable contains the path to the cuda compiler and that LD_LIBRARY_PATH points to the install directory of CUDA.</p>
+
+
+	<a name="AMD-APP-SDK"></a>
+<h3>AMD APP SDK<a href="#AMD-APP-SDK" class="wiki-anchor">¶</a></h3>
+
+
+	<p>Download the AMD APP SDK from <a href="http://developer.amd.com/sdks/AMDAPPSDK/downloads/Pages/default.aspx" class="external">here</a> and follow the <a href="http://developer.amd.com/sdks/AMDAPPSDK/assets/AMD_APP_SDK_Installation_Notes.pdf" class="external">install instructions</a></p>
+
+
+	<p><strong>IMPORTANT:</strong> Verify that the AMDAPPSDKROOT points to the install path of the AMD APP SDK (default: /opt/AMDAPP).</p>
+
+
+	<a name="Download"></a>
+<h2>Download<a href="#Download" class="wiki-anchor">¶</a></h2>
+
+
+	<p>Source code: <a href="download/mason-rev12.tar.gz" class="external">mason-rev12.tar.gz</a></p>
+
+
+<!--	<p>SVN (account required): svn co <a class="external" href="https://intern.cibiv.univie.ac.at/svn/MASon/trunk">https://intern.cibiv.univie.ac.at/svn/MASon/trunk</a> mason-trunk</p>-->
+
+
+	<a name="How-to-build-MASon"></a>
+<h2>How to build MASon<a href="#How-to-build-MASon" class="wiki-anchor">¶</a></h2>
+
+
+<pre>tar xfvz mason-rev12.tar.gz
+cd mason-trunk/
+mkdir -p build/release
+cd build/release/
+cmake -DCMAKE_BUILD_TYPE=Release ../..
+make
+</pre>
+
+	<p>All binaries are located in mason-trunk/bin.For debug mode use -DCMAKE_BUILD_TYPE=Debug.</p>
+
+
+	<a name="Documentation"></a>
+<h2>Documentation<a href="#Documentation" class="wiki-anchor">¶</a></h2>
+
+
+	<p>see <a href="Documentation.shtml" class="wiki-page">here</a></p>
+
+
+	<a name="Known-issues"></a>
+<h2>Known issues<a href="#Known-issues" class="wiki-anchor">¶</a></h2>
+
+
+	<ul>
+	<li>CUDA doesn't support gcc 4.5 (or higher)<br>If your're using gcc 4.5 or higher, install gcc 4.4 and use the following command for building MASon:<br><pre>cmake -D CMAKE_C_COMPILER=gcc-4.4 -D CMAKE_CXX_COMPILER=g++-4.4 -DCMAKE_BUILD_TYPE=Release ../..
+</pre></li>
+	</ul>
+
+
+	<a name="Notes"></a>
+<h2>Notes<a href="#Notes" class="wiki-anchor">¶</a></h2>
+
+
+	<p>MASon was tested on openSUSE 11.4 (x86_64) with GCC 4.3.4 and Ubuntu 11.04/11.10 (x86_64) with GCC 4.4.5.</p>
+
+
+	<a name="Publications"></a>
+<h2>Publications<a href="#Publications" class="wiki-anchor">¶</a></h2>
+
+
+	<p>Rescheneder, P., von Haeseler, A., Sedlazeck, F. J., Mason: Million alignments in seconds, In Proceedings of the International Conference on Bioinformatics: Models, Methods and Algorithms, 2012, Algarve, Portugal, accepted for publication</p>
+
+
+<!-- END OF software content -->

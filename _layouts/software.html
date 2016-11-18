@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    {% include head.html %}
+
+<body>
+    {% include nav.html %}
+    {% include subheader.html %}
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-9">
+                <div class="row">
+                    <div class="col-sm-5 col-md-4">
+                        <img src="{{ page.image }}">
+                    </div>
+                    <div class="col-sm-7 col-md-8">
+                        {{ page.address }}
+                    </div>
+                </div>
+                {{ content }}
+            </div>
+            <div class="col-sm-3">
+                {% include sidebar-software.html %}
+            </div>
+        </div>
+    </div>
+    {% include footer.html %}
+    {% include js.html %}
+</body>
+</html>
+

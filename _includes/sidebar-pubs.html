@@ -1,0 +1,23 @@
+<div class="well">
+    <h4>Publications</h4>
+    <div class="row">
+        {% assign this_year = "" %}
+        {% assign count = 0 %}
+        {% assign sorted_years = site.data.pubdata.publications | map: 'year' %}
+        {% for year in sorted_years %}
+            {% if this_year != year %}
+                {% if this_year != "" %}
+                    ({{ count }} pubs)
+                    {% assign count = 0 %}
+                    </p></div>
+                {% endif %}
+                <div class="col-sm-12 col-xs-6">
+                    <p><a href="#{{ year | remove: "(" | remove: ")" }}">{{ year | remove: "(" | remove: ")" }}</a>
+                {% assign this_year = year %}
+            {% endif %}
+            {% assign count=count | plus: 1 %}
+        {% endfor %}
+            ({{ count }} pubs)
+            </p></div>
+    </div>
+</div>

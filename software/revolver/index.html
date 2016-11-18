@@ -1,0 +1,99 @@
+---
+# DO NOT CHANGE this layout!
+layout: software
+
+# name of the software
+software_name: REvolver
+
+# short title of the software
+title: REvolver - Modeling sequence evolution under domain constraints
+
+# short description of the software
+description: A program to simulate protein sequence evolution. REvolver automatically integrates domain information described by a profile Hidden Markov Model (pHMM) into the simulation.
+
+# Type must be either:
+# Phylogenetics Inference
+# Next Generation Sequencing
+# Phylogenetics Modelling
+# Miscellaneous
+type: Phylogenetics Modelling
+
+# URL of the software if different from http://www.cibiv.at/software/...
+# mainurl: http://www.tree-puzzle.de
+---
+
+<!-- BEGIN OF software content -->
+
+<h3>REvolver: Modeling sequence evolution under domain constraints</h3>
+
+
+<h4>Introduction:</h4>
+REvolver is a program to simulate protein sequence evolution. REvolver automatically integrates domain information described by a profile Hidden Markov Model (pHMM) into the
+simulation. In the simulation of protein evolution it often had been assumed that sites
+evolve identically and independently from each other. This simplification is necessary since
+information concerning site specific evolution is frequently unavailable. However, homologous sequences and domains have been collected, aligned, and pHMMs built. The pHMM
+describes the variability and shared characteristics of sequences that share a common ancestor. Here we do have knowledge about what sites are conserved, at what positions in
+the sequences insertions are more likely, or what sites can be deleted. Pfam (Finn et al.,
+2010) and SMART (Letunic, Doerks and Bork, 2009) are examples for databases providing
+such data. REvolver is the first method, for simulating protein sequence evolution that
+integrates this pre-existing information about evolution in an automatic fashion.
+REvolver
+
+<h4>Methods:</h4>
+The method is described in the following article:
+
+<ul>
+<li> Tina Koestler, Arndt von Haeseler, and Ingo Ebersberger
+            (2012) REvolver: Modeling sequence evolution under domain constraints.
+            <em>Mol Biol Evol</em> (<a href="http://mbe.oxfordjournals.org/content/early/2012/02/29/molbev.mss078.abstract">DOI: 10.1093/molbev/mss078</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/22383532">PMID: 2383532</a>), accepted.
+            <!--(<a HREF="http://mbe.oxfordjournals.org/=ref">free copy</a>,-->
+             
+
+</li></ul>
+
+<h4>External programs required:</h4>
+REvolver is written in java, thus you need to have java 6 installed. The HMMER3 software package (<a href="http://hmmer.janelia.org/" )="">HMMER3</a>) has to be installed. Please note, hmmscan need to be run with the option <bf>--notextw</bf>.
+Please download any pHMM database you want to use for REvolver simulations (e.g. <a href="http://pfam.sanger.ac.uk/">Pfam</a>, or <a href="http://smart.embl-heidelberg.de/">SMART</a>). 
+
+<h4>Version history:</h4>
+<ul>
+	<li> August 2011: The first version of REvolver was released.
+	</li><li> February 2012: Manuscript was accepted for publication in <em>MBE</em>
+
+</li></ul>
+<h4>Note:</h4>
+Please read the manual carefully if you try our program the first time. If you encounter bugs, please report to tina.koestler(AT)univie.ac.at.  
+<h4><a name="download"> Download: </a></h4>
+<table border="1">
+    <tbody><tr>
+        <td>Type
+        </td><td>Links (tar.gz)
+	</td><td>Links (zip)
+   </td></tr><tr>
+	<td>Manual
+	</td><td>
+	</td><td><a href="REvolver_manual.pdf">REvolver_manual.pdf</a>
+   </td></tr><tr>	
+        <td>Jar File
+        </td><td>
+	</td><td><a href="REvolver.jar">REvolver.jar</a>
+   </td></tr><tr>
+        <td>Example data
+        </td><td><a href="examples.tar.gz">examples.tar.gz</a>
+	</td><td><a href="examples.zip">examples.zip</a>
+   </td></tr><tr>
+   </tr><tr>
+        <td>xml schema
+	</td><td>
+        </td><td><a href="schema.txt">schema.txt</a>
+   </td></tr><tr>
+   </tr><tr>
+        <td>All
+        </td><td><a href="REvolver_all.tar.gz">REvolver_all.tar.gz</a>
+	</td><td><a href="REvolver_all.zip">REvolver_all.zip</a>
+   </td></tr><tr>
+
+</tr></tbody></table>
+<br>
+The source code is available upon request.
+<!-- END OF software content -->

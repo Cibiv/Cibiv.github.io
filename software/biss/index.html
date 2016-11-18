@@ -1,0 +1,236 @@
+---
+# DO NOT CHANGE this layout!
+layout: software
+
+# name of the software
+software_name: BiSS
+
+# short title of the software
+title: BiSS - Bisulfite Sequencing Scrorer
+
+# short description of the software
+description: An analysis pipeline for the deep sequencing data after bisulfite conversion (BS-Seq).
+
+# Type must be either:
+# Phylogenetics Inference
+# Next Generation Sequencing
+# Phylogenetics Modelling
+# Miscellaneous
+type: Next Generation Sequencing
+
+# URL of the software if different from http://www.cibiv.at/software/...
+# mainurl: http://www.tree-puzzle.de
+---
+
+<!-- BEGIN OF software content -->
+<!-- PAGE CONTENTS HERE -->
+
+     <h1>Welcome to <u>Bi</u>sulfite <u>S</u>equencing <u>S</u>corer
+
+(BiSS)
+
+ 
+
+     </h1>
+
+     <div class="MsoNormal" style="text-align: center;" align="center">
+
+     <hr size="2" width="100%" align="center"> </div>
+
+     <h2>Introduction:</h2>
+
+     <p> BiSS (<u>Bi</u>sulfite <u>S</u>equencing <u>S</u>corer) is
+
+an analysis pipeline for the deep sequencing data after bisulfite
+
+conversion (BS-Seq). </p>
+
+     <h3>Mapping procedure:</h3>
+
+     <li> using banded <b>Smith-Waterman</b> local alignment
+
+algorithm </li>
+
+     <li> implemented in the Graphical Processing Unit based package
+
+       <a href="../NGM/index.shtml"> NextGenMap. </a> </li>
+
+     <li> special <b>asymmetric scoring function</b> </li>
+
+     <li> <b>3.5 letter hashing table</b>. </li>
+
+     <h3>Downstream analysis (methylation calling):</h3>
+
+ 
+
+     We are currently maintaining the code and updating it.
+
+ In the mean time we recommend to use Bis-SNP (<a href="http://epigenome.usc.edu/publicationdata/bissnp2011/"> http://epigenome.usc.edu/publicationdata/bissnp2011/</a>).<p>
+
+ 
+
+ Sorry for the inconvenience.</p><p>
+
+ 
+
+     </p><h3> Running instruction </h3>
+
+ 
+
+     <li style="margin-left: 40px;">Running: <b> ngm </b> -r reference_filename -q read_filename -t number_of_threads_used -o output_filename --bs-mapping<br>
+
+     </li>
+
+     <p>
+
+     </p><li style="margin-left: 40px;"> Running with paired-end data: <b>ngm</b> -1 read1_filename -2 read2_filename -r reference_filename -o output_filename -t number_of_threads_used --bs-mapping </li>
+
+    <p>
+
+ 
+
+</p><li style="margin-left: 40px;">   Please also <b>provide the read group information</b> as this is required for Bis-SNP:
+
+ 
+
+<table border="0">
+
+ <tbody><tr>
+
+<td>--rg-sm</td>         <td>RG header: Sample</td>
+
+ </tr>
+
+ <tr>
+
+<td>--rg-lb </td>      <td>RG header: Library </td>
+
+ </tr>
+
+ <tr>
+
+<td>--rg-pl </td>          <td>RG header: Platform </td>
+
+ </tr>
+
+ <tr>
+
+<td>--rg-ds </td>         <td>RG header: Description </td>
+
+ </tr>
+
+ <tr>
+
+<td>--rg-dt </td>           <td>RG header: Date </td>
+
+ </tr>
+
+ <tr>
+
+<td>--rg-pu </td>    <td> RG header: Platform unit </td>
+
+ </tr>
+
+ <tr>
+
+<td>--rg-pi </td>            <td> RG header: Median insert size </td>
+
+ </tr>
+
+ <tr>
+
+<td>--rg-pg </td>           <td> RG header: Programs </td>
+
+ </tr>
+
+ <tr>
+
+<td>--rg-cn  </td>            <td> RG header: sequencing center </td>
+
+ </tr>
+
+ <tr>
+
+<td>--rg-fo </td>           <td> RG header: Flow order </td>
+
+ </tr>
+
+ <tr>
+
+<td>--rg-ks </td>           <td> RG header: Key sequence </td>
+
+ </tr>
+
+</tbody></table>
+
+ </li>
+
+
+
+<p>
+
+ 
+
+   </p><li style="margin-left: 40px;"> You can use the following parameter to speed up the mapping:  -s 0.8 --kmer-skip 4 </li>
+
+   <p>
+
+  </p><li style="margin-left: 40px;"> <b>Post processing:</b>
+
+java -Xmx10g -jar BisSNP-0.82.2.jar -R reference_filename -I output_filename.bam  -T BisulfiteGenotyper -vfn1 cpg.raw.vcf -vfn2 snp.raw.vcf -stand_call_conf 20 -stand_emit_conf 0 -mmq 30 -mbq 0
+
+</li>
+
+
+
+ 
+
+ 
+
+    <h2>Availability:</h2>
+
+     <h3>Latest version BiSS-on-NextGenMap:</h3>
+
+     <ul style="margin-top: 0cm;" type="disc">
+
+       <li class="MsoNormal" style="">Please read the <a href="../NGM/NGM-manual.shtml">User Manual</a> carefully before using
+
+NextGenMap the first time or when you upgrade the new version!&nbsp;</li>
+
+       <li class="MsoNormal" style="">The
+
+current version of NextGenMap is currently only tested and released
+
+under Linux.</li>
+
+
+
+     </ul>
+
+<h2> Contact:</h2>
+
+<p>We are always intrested in feedback on how we can improve NextGenMap. If you have any suggestions please do not hesitate to 
+either leave a note in the <a href="https://github.com/Cibiv/NextGenMap/issues/">issue section</a> or to contact us directly:</p>
+<p></p><a href="mailto:fritz.sedlazeck@univie.ac.at">fritz.sedlazeck@univie.ac.at</a><p></p>
+<p></p><a href="mailto:philipp.rescheneder@univie.ac.at">philipp.rescheneder@univie.ac.at</a><p></p>
+
+       <a> </a>
+
+     
+
+     <a> </a>
+
+ 
+
+     <a> </a>
+
+     <ul style="margin-top: 0cm;" type="disc">
+
+       <a> </a>
+
+ 
+
+ 
+
+ </ul>
+<!-- END OF software content -->

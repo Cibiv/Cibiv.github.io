@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    {% include head.html %}
+
+<body>
+    {% include nav.html %}
+    {% include subheader.html %}
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-9">
+                <div class="row">
+                    <div class="col-sm-5 col-md-4">
+                        <img src="{{ page.image }}">
+                    </div>
+                    <div class="col-sm-7 col-md-8">
+                        {{ page.address }}
+                    </div>
+                </div>
+                {{ content }}
+                {% assign this_year = "" %}
+                {% assign pubname_underlined = page.pubname | prepend: "<U>" | append: "</U>"%}
+                {% for pub in site.data.pubdata.publications %}
+                {% if page.pubname and pub.authors contains page.pubname %}
+                    {% if pub.year != this_year %}
+                        {% if this_year != "" %}
+                        </ul>
+                        {% else %}
+                        <h2>Publications</h2>
+                        {% endif %}
+                        {% assign this_year = pub.year %}
+                        {% if page.pubyear %}
+                            <a name="{{pub.year | remove: "(" | remove: ")" }}"></a>
+                            <h3>{{pub.year | remove: "(" | remove: ")" }}</h3>
+                        {% endif %}
+                        <ul>
+                    {% endif %}
+                        <li>
+                            <strong>{{pub.authors | remove: "<U>" | remove: "</U>"| remove: "<u>" | remove: "</u>" | replace: page.pubname, pubname_underlined }}</strong>
+                            {{pub.year}} {{pub.title}} {{pub.journal}} {{pub.links}}
+                        </li>
+                {% endif %}
+                {% endfor %}
+                        </ul>
+            </div>
+            <div class="col-sm-3">
+                {% include sidebar-people.html %}
+            </div>
+        </div>
+    </div>
+    {% include footer.html %}
+    {% include js.html %}
+</body>
+</html>
+

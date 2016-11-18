@@ -1,0 +1,122 @@
+---
+# DO NOT CHANGE this layout!
+layout: software
+
+# name of the software
+software_name: Epi-Speller
+
+# short title of the software
+title: Epi-Speller
+
+# short description of the software
+description: A program for analyzing multiple genome-wide profiling epigenomic data.
+
+# Type must be either:
+# Phylogenetics Inference
+# Next Generation Sequencing
+# Phylogenetics Modelling
+# Miscellaneous
+type: Miscellaneous
+
+# URL of the software if different from http://www.cibiv.at/software/...
+# mainurl: http://www.tree-puzzle.de
+---
+
+<!-- BEGIN OF software content -->
+
+      <h1>Welcome to Epi-Speller </h1>
+
+<div class="MsoNormal" align="center" style="text-align:center">
+      <hr size="2" width="100%" align="center">
+      </div>
+
+      <h2>Introduction:</h2>
+     
+      <p> <strong>Epi-Speller</strong> is a program for analyzing multiple genome-wide profling epigenomic data. It includes: </p>
+      <li>Signal discretization	based on automatic inference of <strong>cut-offs</strong> for genome-wide signal levels.</li>
+      <li><strong>Clustering</strong> based on letter-representation.</li>
+	  <li>Using <strong>sequence logo</strong> to summarize the frequent signals using Weblogo.       </li>
+	  <div class="MsoNormal" align="center" style="text-align:center">
+	    <hr size="2" width="100%" align="center">
+      </div>
+
+
+      <h2>Availability:</h2>
+      <h3>Source code:</h3> 
+      <a href="http://www.cibiv.at/~huy/EpiSpeller/epi_speller_v0.zip">Epi-Speller package</a>
+      <h3>Installation:      </h3>
+      <p>Unzipping the package and compiling the <strong>epi_letter.cpp</strong> program by following command (in the same folder):</p>
+      <p><strong>g++ epi_letter.cpp -o epi_letter</strong></p>
+      <div class="MsoNormal" align="center" style="text-align:center">
+        <hr size="2" width="100%" align="center">
+      </div>
+      <h2> How to use?</h2>
+<h3>Input data:</h3>
+	  <p>List of genomic coordinates (e.g. windows, bin, tiles, ...) and corresponding signals (microarray intensity or number of mapped short-reads with or without normalization) for chromatin marks according to the following format (tab-separated):</p>
+	  <p>- First row: Names of chromatin marks </p>
+	  <p>- For each of following row: first is the genomic coordinate (format <strong>start:end</strong>) following by corresponding signals for chromatin marks in the first row.</p>
+	  <p>- <strong>Example input file:</strong> <a href="http://www.cibiv.at/~huy/EpiSpeller/example.txt">example.txt</a> consist of 21K tiles from 12 tiling arrays for histone modification marks and DNA methylation in Arabidopsis.</p>
+	  <h3>Running the Epi-Speller step by step</h3>
+	  <ol>
+	    <li>Grouping of epigenetic signatures
+	      with input data <strong>example.txt</strong>
+	      <ol>
+	        <p><strong>perl dictionary_maker.pl</strong>
+	          -i 
+              &lt;<strong>example.txt</strong>&gt; -k <strong>&lt;number_of_epi_letter&gt;</strong></p>
+	        <p>Example of running with 3-letter (e.g. <strong>L</strong>ow, <strong>M</strong>edium, <strong>H</strong>igh): <strong>perl dictionary_maker.pl</strong> -i <strong>example.txt</strong> -k <strong>3</strong></p>
+	        <p>The program will output a list of files including automatic-inferred cutoffs for each individual marks (with extension .cutoff).</p>
+	      </ol>
+	      </li>
+	    <li>Assigning epi-letters</li>
+	      <ol>
+	        <p><strong>R --vanilla &lt; alphabet_chrom.R</strong>
+	          --f 
+              <strong>&lt;input file</strong>&gt; --k &lt;<strong>number_of_epi_letter&gt;</strong> --d &lt;<strong>dictionary_file</strong>&gt;--r &lt;<strong>0&gt;</strong> --o &lt;<strong>mutilple_epigenome_filename</strong>&gt;</p>
+	        <p>Example: <strong>R --vanilla &lt; alphabet_chrom.R</strong> --f <strong>example.txt</strong> --k <strong>3 </strong>--d<strong> epi_letter.dict</strong> --r <strong>0</strong> --o <strong>example.epi</strong></p>
+	        <p>Please create the text file with the acronyms for the epi-letter as you want, each row is for a letter (--d parameter, e.g. <a href="http://www.cibiv.at/~huy/EpiSpeller/epi_letter.dict">epi_letter.dict</a>), --r parameter is for creating random epi-letter-represented epigenomes (0-no, 1-yes), default 0.</p>
+	        <p>It will create	the multiple epigenomes for all chromatin marks with epi-letter representation in a single file (--o is parameter for output file). </p>
+	        <p>It also creates the look-up dictionary (.dict) listing all the tiles with coordinates, signals and letter_ID assigned and the epi-letter string file (.dna) for each individual mark. The coordinate file (.coor) is created for using in the next step.</p>
+	      </ol>
+	      <li>Searching/Clustering
+	        for epigenetic signatures: either by using conventional profiling signals or by using epi-letter representation as following</li>
+	      <ol>
+	        <p>3.1 Scanning for the epigenetic patterns</p>
+	        <p><strong>perl epimotif_scanning.pl </strong>-f <strong>&lt;mutilple_epigenome_filename&gt;</strong> (currently only support column patterns)</p>
+	        <p>Example: <strong>perl epimotif_scanning.pl </strong>-f <strong>example.epi</strong></p>
+	        <p>It will create a file with ".cols" that list all column patterns and the corresponding frequency of its appreances (in the file .cols.freq). </p>
+	        <p>3.2 Using R to make a unique column file for removing the repeated patterns for efficient computation of Hamming distance between patterns, for example:</p>
+		<p><strong>write.table(unique(read.table("example.epi.cols.freq")), "example.epi.cols.freq.uniq", sep = "\t", quote=F, row.names=F, col.names=F)</strong></p>
+		<p> OR using shell command-line as following:</p>
+		<p><strong>sort example.epi.cols.freq | uniq &gt; example.epi.cols.freq.uniq</strong></p>
+	        <p><strong>example.epi.cols.freq.uniq</strong> is the file of unique column patterns. The orginal pattern file (<strong>example.epi.cols</strong>) is still necessary for tracing back the corresponding location in the genome.</p>
+	        <p>3.3 Computing Hamming distance matrix for clustering</p>
+	        <p><strong>perl hamming_distance.pl</strong>	-f <strong>&lt;column_pattern_file&gt;</strong></p>
+	        <p>Example: <strong>perl hamming_distance.pl</strong> -f <strong>example.epi.cols.freq.uniq</strong></p>
+	        <p>It will output the .hamming file that can be used for clustering, for example with k-mean method in R in the next step.</p>
+	        <p>3.4 Clustering </p>
+	        <p><strong>R --vanilla &lt; try_clustering.R</strong>
+	          --f              <strong>&lt;hamming_distance_file&gt;</strong> --u <strong>&lt;</strong><strong>unique_pattern_file&gt;</strong> --c <strong>&lt;</strong><strong>column_pattern_file&gt;</strong> --k <strong>&lt;</strong><strong>number_of_cluster</strong>&gt;</p>
+	        <p>Example: <strong>R --vanilla &lt; try_clustering.R</strong> --f <strong>example.epi.cols.freq.uniq.hamming </strong>--u<strong> example.epi.cols.freq.uniq </strong>--c <strong>example.epi.cols </strong>--k <strong>4</strong></p>
+	        <p>It will output for each cluster one file (named <strong>cluster_xx</strong>, xx is the cluster_id) consiting of the pattern, coordinates and cluster_id. It also extract the pattern (the 2nd column in the file <strong>.logo</strong>) for the logo representation in the next step. </p>
+	      </ol>
+		        <li>Logo representation using <a href="http://weblogo.threeplusone.com/">Weblogo 3.2 program</a> (download the <a href="http://code.google.com/p/weblogo/">sourcecode</a> or <a href="http://www.cibiv.at/~huy/EpiSpeller/weblogo-3.2.zip">here</a>. You have to unzip the files to use it)</li>
+      <ol>
+	        <p>Example:<strong> ./weblogo-3.2/weblogo </strong>--format <strong>pdf</strong> --ylabel <strong>''</strong> --show-xaxis <strong>no</strong> --alphabet <strong>'LMH'</strong> --errorbars <strong>no</strong> --color <strong>red H</strong> <strong>'High'</strong> --color <strong>green L 'Low'</strong> --color <strong>blue M 'Middle'</strong> &lt;<strong>cluster_1.logo</strong> &gt;<strong>cluster_1.pdf</strong></p>
+	        <p>If everything works out, it will produce the logo for the input cluster 1 which looks like <a href="http://www.cibiv.at/~huy/EpiSpeller/cluster_1.pdf"> cluster_1.pdf</a>.</p>
+      </ol></ol>
+	  <p>&nbsp;</p>
+	  <div class="MsoNormal" align="center" style="text-align:center">
+	    <hr size="2" width="100%" align="center">
+	    </div>
+	  <h2>References:</h2>
+<p>Dinh HQ, Mittelsten Scheid O, von Haeseler A. Epi-Speller - a bioinformatic tool for epigenomic signature discovery. (submitted)</p>
+      <p>Crooks et al.<strong>, </strong><a href="http://www.ncbi.nlm.nih.gov/pubmed/15173120" ref="ordinalpos=8&amp;ncbi_uid=15173120&amp;link_uid=15173120&amp;linksrc=docsum_title">WebLogo: a sequence logo generator.</a> <span title="Genome research">Genome Res</span>. 2004 Jun;14(6):1188-90.</p>
+      <p>Roudier et al., <a href="http://www.ncbi.nlm.nih.gov/pubmed/21487388" ref="ordinalpos=2&amp;ncbi_uid=21487388&amp;link_uid=21487388&amp;linksrc=docsum_title">Integrative epigenomic mapping defines four main chromatin states in Arabidopsis</a>. <span title="The EMBO journal">EMBO J</span>. 2011 May 18;30(10):1928-38.</p>
+      <h5> Note: </h5> 
+<ul>
+<li>Please, let us know if you download this program by sending an email to {huy.dinh,arndt.von.haeseler}@univie.ac.at<br>
+
+</li></ul>
+
+<!-- END OF software content -->

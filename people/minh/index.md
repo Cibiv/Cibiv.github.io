@@ -1,0 +1,91 @@
+---
+layout: personalpage
+title: Bui Quang Minh
+image: /assets/img/people/minh2.jpg
+pubname: B.Q. Minh
+pubyear: true
+address: |
+  <strong>Dr. rer. nat.</strong><br>
+  Center for Integrative Bioinformatics Vienna (CIBIV)<br>
+  Max F. Perutz Laboratories<br>
+  Campus Vienna Biocenter 5 (VBC5), Ebene 1, Room 1812.4<br>
+  A-1030 Wien, Austria<br>
+  Phone: ++43 +1 / 4277 - 74326<br>
+  Email: minh.bui(AT)univie.ac.at<br>
+
+---
+
+Research interests
+------------------
+
+* Bioinformatics
+* Phylogenetics
+* Evolution
+* Phylogenomics
+* Biodiversity and Conservation
+* Algorithms
+* High Performance Computing
+* Software Engineering
+
+Software
+--------
+
+Software development is my hobby with C++ as favorite language. The following scientific software is all GNU-GPL licensed. IQ-TREE is my main interest right now, which has reached about 90,000 lines of codes.
+
+* [IQ-TREE: Efficient phylogenetic software by maximum likelihood](http://www.iqtree.org)
+* [PDA - Phylogenetic Diversity Analyzer](http://www.cibiv.at/software/pda)
+* [IQPNNI (superseded by IQ-TREE) - Important Quartet Puzzling and Nearest Neighbor Interchange](http://www.cibiv.at/software/iqpnni)
+
+Occasionally I also programmed in Java for fun. A five-in-a-row game engine, which reached a very competitive level vs. Human, is available for Android:
+
+* [BCaro Lite: Five-in-a-row app (Gomoku) for Android](https://play.google.com/store/apps/details?id=com.caro&hl=en)
+
+Education
+---------
+
+* __Jan 2006 - Jan 2009__: Ph.D. in Bioinformatics, University of Vienna, Austria
+Center for Integrative Bioinformatics Vienna (CIBIV), Max F. Perutz Laboratories
+Thesis: Computational Methods in Biodiversity Conservation
+Advisor: Prof. Dr. Arndt von Haeseler
+
+* __Oct 2002 - Oct 2005__: M.Sc. in Applied Computer Science, University of Freiburg, Germany
+Thesis: Parallel reconstruction of large maximum likelihood phylogenies
+Advisor: Prof. Dr. Susanne Albers
+
+* __Sep 1997 - Jun 2001__: B.Sc. in Computer Science, Vietnam National University, Hanoi, Vietnam
+Thesis: Solutions to Vietnamese in Linux
+Advisor: Assoc. Prof. Dr. Ha Quang Thuy
+
+* __Sep 1994 - Jun 1997__: High School for the Talents in Informatics, Hanoi University of Science, Vietnam.
+
+
+Employment
+----------
+
+* __Since Feb 2009__: Postdoctoral researcher, Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, University of Vienna, Austria.
+* __Jan 2006 - Jan 2009__: Research assistant, Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, Austria.
+* __Aug 2005 - Oct 2005__: Guest student, John von Neumann Institute for Computing, Research Center Juelich, Helmholtz Association, Germany.
+* __May 2003 - Feb 2004__: Student research assistant, Computer networks and telematics group (Prof.Dr. Stefan Leue), University of Freiburg, Germany.
+* __Sep 2001 - Sep 2002__: Teaching Assistant, Faculty of Technology, Vietnam National University, Hanoi, Vietnam.
+
+
+Funding
+-------
+
+* __2013-2015__: Fast methods for sequence analysis problems with large data sets, National Foundation for Science and Technology Development (NAFOSTED), Vietnam
+* __2010-2014__: Computational and mathematical approaches for statistical sequence alignment and phylogenetic inference on emerging parallel architectures, within D-A-CH framework between Deutsche Forschungsgemeinschaft (DFG) and Fonds zur Foerderung der wissenschaftlichen Forschung (FWF), Austria.
+* __2010-2014__: Initiativkolleg Computational Science: Algorithms for graph optimization and their applications in life and nano sciences, University of Vienna, Austria.
+
+Awards
+------
+
+* __2003-2005__: Master study scholarship, Konrad-Adenauer-Stiftung (KAS), Germany.
+* __2004__: 4th prize, Microsoft Germany Imagine Cup for the project Mobile Learning, Germany together with Duc Phuong Nguyen.
+* __2001__: 2nd prize, Vietnam Fund for Supporting Technological Creations (VIFOTEC) for project "Solutions to Vietnamese in Linux", Vietnam.
+* __2000__: 3rd prize in the competition of Chinese chess computer players, Vietnam.
+* __2000__: Youth Innovation Medal by Vietnam Youth Union, Vietnam.
+* __1998__: Special prize, National Informatics Olympiad for Universities, Vietnam.
+* __1997__: 1st prize in National Informatics Contest for High Schools, Vietnam.
+* __1994__: 3rd prize in National Mathematics Contest for Secondary Schools, Vietnam.
+* __1994__: 1st prize for Problem Solving Contest of Magazine for Mathematics and Youth, Vietnam.
+

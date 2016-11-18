@@ -1,0 +1,17 @@
+{% for soft in site.software_type %}
+<div class="well">
+    <h4>{{soft}}</h4>
+    <div class="row">
+        {% assign sorted_pages = (site.pages | where: "layout" , "software" | where: "type" , soft | sort: 'title') %}
+        {% for page in sorted_pages %}
+        <div class="col-sm-12 col-xs-6">
+            {% if page.mainurl %}
+                <p><a href="{{ page.mainurl }}">{{ page.software_name }}</a></p>
+            {% else %}
+                <p><a href="{{ page.url | prepend: site.baseurl }}">{{ page.software_name }}</a></p>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endfor %}
