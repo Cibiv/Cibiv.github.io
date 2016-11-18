@@ -12,7 +12,7 @@
                     </p></div>
                 {% endif %}
                 <div class="col-sm-12 col-xs-6">
-                    <p><a href="#{{ year | remove: "(" | remove: ")" }}">{{ year | remove: "(" | remove: ")" }}</a>
+                    <p><a href="#{{ year }}">{{ year }}</a>
                 {% assign this_year = year %}
             {% endif %}
             {% assign count=count | plus: 1 %}

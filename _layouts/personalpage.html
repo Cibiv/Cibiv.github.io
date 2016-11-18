@@ -12,7 +12,7 @@
             <div class="col-sm-9">
                 <div class="row">
                     <div class="col-sm-5 col-md-4">
-                        <img src="{{ page.image }}">
+                        <img class="img-rounded" src="{{ page.image }}">
                     </div>
                     <div class="col-sm-7 col-md-8">
                         {{ page.address }}
@@ -31,14 +31,14 @@
                         {% endif %}
                         {% assign this_year = pub.year %}
                         {% if page.pubyear %}
-                            <a name="{{pub.year | remove: "(" | remove: ")" }}"></a>
-                            <h3>{{pub.year | remove: "(" | remove: ")" }}</h3>
+                            <a name="{{pub.year}}"></a>
+                            <h3>{{pub.year}}</h3>
                         {% endif %}
                         <ul>
                     {% endif %}
                         <li>
                             <strong>{{pub.authors | remove: "<U>" | remove: "</U>"| remove: "<u>" | remove: "</u>" | replace: page.pubname, pubname_underlined }}</strong>
-                            {{pub.year}} {{pub.title}} {{pub.journal}} {{pub.links}}
+                            ({{pub.year}}) {{pub.title}} {{pub.journal}} {{pub.links}}
                         </li>
                 {% endif %}
                 {% endfor %}

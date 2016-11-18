@@ -3,19 +3,19 @@
 layout: personalpage
 
 # name, appeared as title of the personal page as well
-title: Diep Thi Hoang
+title: Stephen Crotty
 
 #either Head, Postdoc, PhD student, or Student
-position: PhD student
+position: Postdoc
 
 # image that will appear in the people page
-image: /assets/img/people/diep_thi_hoang.png
+image: /assets/img/people/olga_chernomor.png
 
 # name appeared in publications, used to display personal publications
-pubname:
+pubname: S. Crotty
 
 # true to categorize publications into years
-pubyear: true
+pubyear: false
 
 # address lines, appeared at the beginning of personal page
 address: |

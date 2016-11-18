@@ -1,7 +1,23 @@
 ---
+# DO NOT CHANGE this layout!
 layout: personalpage
+
+# name, appeared as title of the personal page as well
 title: Miguel Gallach
+
+#either Head, Postdoc, PhD student, or Student
+position: Postdoc
+
+# image that will appear in the people page
 image: /assets/img/people/miguel_gallach.png
+
+# name appeared in publications, used to display personal publications
+pubname: M. Gallach
+
+# true to categorize publications into years
+pubyear: true
+
+# address lines, appeared at the beginning of personal page
 address: |
   <strong>Dr. rer. nat.</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>

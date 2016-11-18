@@ -1,11 +1,20 @@
 <div class="well">
     <h4>CIBIV Members</h4>
     <div class="row">
-        {% assign sorted_pages = (site.pages | where: "layout" , "personalpage" | sort: 'title') %}
-        {% for page in sorted_pages %}
-            <div class="col-sm-12 col-xs-6">
-                <p><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></p>
+        {% for pos in site.data.metadata.people_type %}
+            {% assign sorted_pages = (site.pages | where: "layout" , "personalpage" | where: 'position', pos | sort: 'title') %}
+            <div class="col-xs-12">
+                <p><strong>{{pos}}</strong></p>
             </div>
+        {% for p in sorted_pages %}
+            <div class="col-sm-12 col-xs-6">
+                {% if p.title == page.title %}
+                    <p><strong>{{ p.title }}</strong></p>
+                {% else %}
+                    <p><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></p>
+                {% endif %}
+            </div>
+        {% endfor %}
         {% endfor %}
         <div class="col-sm-12 col-xs-6">
             <p><a href="{{ site.baseurl }}/people/former_members.html"><strong>&rarr; Former members</strong></a></p>

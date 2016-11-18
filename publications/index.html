@@ -10,12 +10,12 @@ title: Publications
     </ul>
     {% endif %}
     {% assign this_year = pub.year %}
-    <a name="{{pub.year | remove: "(" | remove: ")" }}"></a>
-    <h3>{{pub.year | remove: "(" | remove: ")" }}</h3>
+    <a name="{{pub.year}}"></a>
+    <h3>{{pub.year}}</h3>
     <ul>
 {% endif %}
     <li>
-        <strong>{{pub.authors}}</strong> {{pub.year}} {{pub.title}} {{pub.journal}} {{pub.links}}
+        <strong>{{pub.authors}}</strong> ({{pub.year}}) {{pub.title}} {{pub.journal}} {{pub.links}}
     </li>
 {% endfor %}
 

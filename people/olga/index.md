@@ -1,9 +1,23 @@
 ---
+# DO NOT CHANGE this layout!
 layout: personalpage
+
+# name, appeared as title of the personal page as well
 title: Olga Chernomor
+
+#either Head, Postdoc, PhD student, or Student
+position: Postdoc
+
+# image that will appear in the people page
 image: /assets/img/people/olga_chernomor.png
+
+# name appeared in publications, used to display personal publications
 pubname: O. Chernomor
+
+# true to categorize publications into years
 pubyear: false
+
+# address lines, appeared at the beginning of personal page
 address: |
   <strong>Dr. rer. nat.</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>

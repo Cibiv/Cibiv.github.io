@@ -1,7 +1,23 @@
 ---
+# DO NOT CHANGE this layout!
 layout: personalpage
+
+# name, appeared as title of the personal page as well
 title: Heiko A. Schmidt
+
+#either Head, Postdoc, PhD student, or Student
+position: Postdoc
+
+# image that will appear in the people page
 image: /assets/img/people/heiko2.jpg
+
+# name appeared in publications, used to display personal publications
+pubname: H.A. Schmidt
+
+# true to categorize publications into years
+pubyear: false
+
+# address lines, appeared at the beginning of personal page
 address: |
   <strong>Dr. rer. nat.</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>

@@ -1,14 +1,16 @@
-{% for soft in site.software_type %}
+{% for soft in site.data.metadata.software_type %}
 <div class="well">
     <h4>{{soft}}</h4>
     <div class="row">
-        {% assign sorted_pages = (site.pages | where: "layout" , "software" | where: "type" , soft | sort: 'title') %}
-        {% for page in sorted_pages %}
+        {% assign sorted_pages = (site.pages | where: "layout" , "software" | where: "type" , soft | sort: 'softwareid') %}
+        {% for p in sorted_pages %}
         <div class="col-sm-12 col-xs-6">
-            {% if page.mainurl %}
-                <p><a href="{{ page.mainurl }}">{{ page.software_name }}</a></p>
+            {% if p.title == page.title %}
+                <p><strong>{{ p.software_name }}</strong></p>
+            {% elsif p.mainurl %}
+                <p><a href="{{ p.mainurl }}">{{ p.software_name }}</a></p>
             {% else %}
-                <p><a href="{{ page.url | prepend: site.baseurl }}">{{ page.software_name }}</a></p>
+                <p><a href="{{ p.url | prepend: site.baseurl }}">{{ p.software_name }}</a></p>
             {% endif %}
         </div>
         {% endfor %}

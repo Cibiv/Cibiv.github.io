@@ -1,17 +1,5 @@
 # Build settings
 
-software_type:
-  - Phylogenetics Inference
-  - Next Generation Sequencing
-  - Phylogenetics Modelling
-  - Miscellaneous
-
-people_type:
-  - Head
-  - Postdoc
-  - PhD student
-  - Student
-
 markdown: kramdown
 kramdown:
   enable_coderay: true
