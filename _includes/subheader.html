@@ -1,15 +1,10 @@
-    <div id="headerwrap" class="container-full">
+    <div class="container-full">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
-            <h2> {% if page.layout == "personalpage" %}
-                    Member &rarr;
-                 {% endif %}
-                 {% if page.layout == "software" %}
-                    Software &rarr;
-                 {% endif %}
-                {{page.title}}
-            </h2>
+            <div class="page-header">
+                <h3>{{page.title}}</h3>
+            </div>
             </div>
         </div>
     </div>

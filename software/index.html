@@ -19,7 +19,7 @@ title: Software
             <h4>{{ soft }}</h4>
             <div class="well">
             <ul>
-                {% assign sorted_pages = (site.pages | where: "layout" , "software" | where: "type" , soft | sort: 'title') %}
+                {% assign sorted_pages = (site.pages | where: "layout" , "software" | where: "type" , soft | sort: 'softwareid') %}
                 {% for page in sorted_pages %}
                 <li>
                     {% if page.mainurl %}
