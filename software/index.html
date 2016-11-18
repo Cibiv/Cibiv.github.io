@@ -17,21 +17,21 @@ title: Software
         {% for soft in site.data.metadata.software_type %}
         <div class="col-sm-6">
             <h4>{{ soft }}</h4>
-            <div class="well">
-            <ul>
-                {% assign sorted_pages = (site.pages | where: "layout" , "software" | where: "type" , soft | sort: 'softwareid') %}
-                {% for page in sorted_pages %}
-                <li>
-                    {% if page.mainurl %}
-                    <p><a href="{{page.mainurl}}"><strong>{{page.title}}</strong></a></p>
+            {% assign sorted_pages = (site.pages | where: "layout" , "software" | where: "type" , soft | sort: 'softwareid') %}
+            {% for p in sorted_pages %}
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    {% if p.mainurl %}
+                        <a href="{{p.mainurl}}"><h3 class="panel-title">{{p.title}}</h3></a>
                     {% else %}
-                    <p><a href="{{page.url | prepend: site.baseurl}}"><strong>{{page.title}}</strong></a></p>
+                        <a href="{{p.url | prepend: site.baseurl}}"><h3 class="panel-title">{{p.title}}</h3></a>
                     {% endif %}
-                    <p>{{ page.description}}</p>
-                </li>
-                {% endfor %}
-            </ul>
-            </div>
+                  </div>
+                  <div class="panel-body">
+                    {{ p.description}}
+                  </div>
+                </div>
+            {% endfor %}
         </div>
         {% endfor %}
     </div>

@@ -1,15 +1,14 @@
 <div class="well">
-    <h4>CIBIV Members</h4>
     <div class="row">
         {% for pos in site.data.metadata.people_type %}
             {% assign sorted_pages = (site.pages | where: "layout" , "personalpage" | where: 'position', pos | sort: 'title') %}
             <div class="col-xs-12">
-                <p><strong>{{pos}}</strong></p>
+                <h4>{{pos}}</h4>
             </div>
         {% for p in sorted_pages %}
             <div class="col-sm-12 col-xs-6">
                 {% if p.title == page.title %}
-                    <p><strong>{{ p.title }}</strong></p>
+                    <p>&rarr; {{ p.title }}</p>
                 {% else %}
                     <p><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></p>
                 {% endif %}

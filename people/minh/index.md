@@ -16,6 +16,7 @@ pubname: B.Q. Minh
 
 # true to categorize publications into years
 pubyear: true
+pubnumber: true
 
 # address lines, appeared at the beginning of personal page
 address: |
@@ -27,10 +28,25 @@ address: |
   Phone: ++43 +1 / 4277 - 74326<br>
   Email: minh.bui(AT)univie.ac.at<br>
 
+# additional publications (e.g. before CIBIV)
+publications:
+  - authors: L.-T. Nguyen, A. von Haeseler, and B.Q. Minh
+    year: submitted
+    title: Complex models of sequence evolution require accurate estimators as exemplified with the invariable site plus Gamma model.
+    
+  - authors: S. Kalyaanamoorthy, B.Q. Minh, T.K.F. Wong, A. von Haeseler, L.S. Jermiin
+    year: submitted
+    title: ModelFinder - A model-selection method that greatly improves the accuracy of phylogenetic estimates.
+    
+  - authors: H.C. Wang, S. Susko, B.Q. Minh, and A.J. Roger
+    year: submitted
+    title: Modeling site heterogeneity with posterior mean site frequency profiles accelerates accurate phylogenomic estimation.
+
 ---
 
-Research interests
-------------------
+
+### Research interests
+<div class="hline"></div>
 
 * Bioinformatics
 * Phylogenetics
@@ -41,8 +57,9 @@ Research interests
 * High Performance Computing
 * Software Engineering
 
-Software
---------
+
+### Software
+<div class="hline"></div>
 
 Software development is my hobby with C++ as favorite language. The following scientific software is all GNU-GPL licensed. IQ-TREE is my main interest right now, which has reached about 90,000 lines of codes.
 
@@ -54,8 +71,9 @@ Occasionally I also programmed in Java for fun. A five-in-a-row game engine, whi
 
 * [BCaro Lite: Five-in-a-row app (Gomoku) for Android](https://play.google.com/store/apps/details?id=com.caro&hl=en)
 
-Education
----------
+
+### Education
+<div class="hline"></div>
 
 * __Jan 2006 - Jan 2009__: Ph.D. in Bioinformatics, University of Vienna, Austria
 Center for Integrative Bioinformatics Vienna (CIBIV), Max F. Perutz Laboratories
@@ -73,8 +91,9 @@ Advisor: Assoc. Prof. Dr. Ha Quang Thuy
 * __Sep 1994 - Jun 1997__: High School for the Talents in Informatics, Hanoi University of Science, Vietnam.
 
 
-Employment
-----------
+
+### Employment
+<div class="hline"></div>
 
 * __Since Feb 2009__: Postdoctoral researcher, Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, University of Vienna, Austria.
 * __Jan 2006 - Jan 2009__: Research assistant, Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, Austria.
@@ -83,15 +102,17 @@ Employment
 * __Sep 2001 - Sep 2002__: Teaching Assistant, Faculty of Technology, Vietnam National University, Hanoi, Vietnam.
 
 
-Funding
--------
+
+### Funding
+<div class="hline"></div>
 
 * __2013-2015__: Fast methods for sequence analysis problems with large data sets, National Foundation for Science and Technology Development (NAFOSTED), Vietnam
 * __2010-2014__: Computational and mathematical approaches for statistical sequence alignment and phylogenetic inference on emerging parallel architectures, within D-A-CH framework between Deutsche Forschungsgemeinschaft (DFG) and Fonds zur Foerderung der wissenschaftlichen Forschung (FWF), Austria.
 * __2010-2014__: Initiativkolleg Computational Science: Algorithms for graph optimization and their applications in life and nano sciences, University of Vienna, Austria.
 
-Awards
-------
+
+### Awards
+<div class="hline"></div>
 
 * __2003-2005__: Master study scholarship, Konrad-Adenauer-Stiftung (KAS), Germany.
 * __2004__: 4th prize, Microsoft Germany Imagine Cup for the project Mobile Learning, Germany together with Duc Phuong Nguyen.

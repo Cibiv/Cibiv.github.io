@@ -9,7 +9,7 @@ title: Stephen Crotty
 position: Postdoc
 
 # image that will appear in the people page
-image: /assets/img/people/olga_chernomor.png
+image: 
 
 # name appeared in publications, used to display personal publications
 pubname: S. Crotty

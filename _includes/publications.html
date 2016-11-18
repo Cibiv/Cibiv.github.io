@@ -1,0 +1,90 @@
+{% assign this_year = "" %}
+{% assign pubname_underlined = page.pubname | prepend: "<U>" | append: "</U>"%}
+
+{% for pub in page.publications %}
+{% if pub.year == "submitted" %}
+    {% if pub.year != this_year %}
+        {% if this_year == "" %}
+            <h3>Publications</h3>
+            <div class="hline"></div>
+            {% if page.pubnumber %}
+                <ol>
+            {% else %}
+                <ul>
+            {% endif %}
+        {% endif %}
+        {% assign this_year = pub.year %}
+        {% if page.pubyear %}
+            <a name="{{pub.year}}"></a>
+            <h4>{{pub.year}}</h4>
+        {% endif %}
+    {% endif %}
+        <li>
+            <strong>{{pub.authors | remove: "<U>" | remove: "</U>"| remove: "<u>" | remove: "</u>" | replace: page.pubname, pubname_underlined }}</strong>
+            ({{pub.year}}) {{pub.title}} {{pub.journal}} {{pub.links}}
+        </li>
+{% endif %}
+{% endfor %}
+
+
+
+
+{% for pub in site.data.pubdata.publications %}
+{% if page.pubname and pub.authors contains page.pubname %}
+    {% if pub.year != this_year %}
+        {% if this_year == "" %}
+            <h3>Publications</h3>
+            <div class="hline"></div>
+            {% if page.pubnumber %}
+                <ol>
+            {% else %}
+                <ul>
+            {% endif %}
+        {% endif %}
+        {% assign this_year = pub.year %}
+        {% if page.pubyear %}
+            <a name="{{pub.year}}"></a>
+            <h4>{{pub.year}}</h4>
+        {% endif %}
+    {% endif %}
+        <li>
+            <strong>{{pub.authors | remove: "<U>" | remove: "</U>"| remove: "<u>" | remove: "</u>" | replace: page.pubname, pubname_underlined }}</strong>
+            ({{pub.year}}) {{pub.title}} {{pub.journal}} {{pub.links}}
+        </li>
+{% endif %}
+{% endfor %}
+
+
+{% for pub in page.publications %}
+{% if pub.year != "submitted" %}
+    {% if pub.year != this_year %}
+        {% if this_year == "" %}
+            <h3>Publications</h3>
+            <div class="hline"></div>
+            {% if page.pubnumber %}
+                <ol>
+            {% else %}
+                <ul>
+            {% endif %}
+        {% endif %}
+        {% assign this_year = pub.year %}
+        {% if page.pubyear %}
+            <a name="{{pub.year}}"></a>
+            <h4>{{pub.year}}</h4>
+        {% endif %}
+    {% endif %}
+        <li>
+            <strong>{{pub.authors | remove: "<U>" | remove: "</U>"| remove: "<u>" | remove: "</u>" | replace: page.pubname, pubname_underlined }}</strong>
+            ({{pub.year}}) {{pub.title}} {{pub.journal}} {{pub.links}}
+        </li>
+{% endif %}
+{% endfor %}
+
+{% if this_year != "" %}
+    {% if page.pubnumber %}
+        </ol>
+    {% else %}
+        </ul>
+    {% endif %}
+{% endif %}
+
