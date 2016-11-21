@@ -1,0 +1,36 @@
+---
+layout: default
+title: Teaching
+---
+<div class="container">
+    <div class="row">
+        <div class="col-sm-10">
+            <div class="page-header">
+                <h3>Courses at CIBIV</h3>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-9">
+        {% assign this_year = "" %}
+        {% assign years = site.pages | where: "layout" , "teachingpage" | map: 'year' | sort | reverse %}
+        {% for y in years %}
+            {% if y == this_year %}
+                {% continue %}
+            {% endif %}
+            {% assign this_year = y %}
+            {% assign study_id = "" %}
+            <h3>{{y}}</h3>
+            {% assign sorted_pages = (site.pages | where: "layout" , "teachingpage" | where: "year", y | sort: "field_study") %}
+            {% for p in sorted_pages %}
+                {% if study_id != p.field_study %}
+                    {% assign study_id = p.field_study %}
+                    <h4>{{ site.data.teaching.field_study[study_id]}}</h4>
+                {% endif %}
+                <p><a href="{{ p.url | prepend: site.baseurl }}">{{p.title}}</a> ({{p.semester}}. semester)</p>
+            {% endfor %}
+        {% endfor %}
+        </div>
+    </div>
+    <div style="height:40px;"></div>
+</div>

@@ -9,22 +9,12 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-9">
-                <div class="row">
-                    <div class="col-sm-5 col-md-4">
-                        <img class="img-rounded" src="{{ page.image }}">
-                    </div>
-                    <div class="col-sm-7 col-md-8">
-                        {{ page.address }}
-                    </div>
-                </div>
                 {% if page.date %}
                     <div align="right"><em>Last update: {{ page.date | date: "%b %d, %Y" }}</em></div>
                 {% endif %}
                 {{ content }}
-                {% include publications.html %}
             </div>
             <div class="col-sm-3">
-                {% include sidebar-people.html %}
             </div>
         </div>
     </div>

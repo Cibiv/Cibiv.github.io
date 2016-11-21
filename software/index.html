@@ -14,7 +14,7 @@ title: Software
     
     <div class="row">
         <div style="height:20px;"></div>
-        {% for soft in site.data.metadata.software_type %}
+        {% for soft in site.data.cibivdata.software_type %}
         <div class="col-sm-6">
             <h4>{{ soft }}</h4>
             {% assign sorted_pages = (site.pages | where: "layout" , "software" | where: "type" , soft | sort: 'softwareid') %}

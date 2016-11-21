@@ -13,7 +13,7 @@ title: People
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12 text-center">
         {% assign id = 0 %}
-        {% for pos in site.data.metadata.people_type %}
+        {% for pos in site.data.cibivdata.people_type %}
             {% assign sorted_pages = (site.pages | where: "layout" , "personalpage" | where: 'position', pos | sort: 'title') %}
         {% for page in sorted_pages %}
             <div class="col-sm-4">

@@ -1,6 +1,6 @@
 <div class="well">
     <div class="row">
-        {% for pos in site.data.metadata.people_type %}
+        {% for pos in site.data.cibivdata.people_type %}
             {% assign sorted_pages = (site.pages | where: "layout" , "personalpage" | where: 'position', pos | sort: 'title') %}
             <div class="col-xs-12">
                 <h4>{{pos}}</h4>

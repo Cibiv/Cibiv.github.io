@@ -4,6 +4,7 @@ layout: personalpage
 
 # name, appeared as title of the personal page as well
 title: Bui Quang Minh
+date: 2016-11-18
 
 #either Head, Postdoc, PhD student, or Student
 position: Postdoc
@@ -20,27 +21,33 @@ pubnumber: true
 
 # address lines, appeared at the beginning of personal page
 address: |
-  <strong>Dr. rer. nat.</strong><br>
-  Center for Integrative Bioinformatics Vienna (CIBIV)<br>
-  Max F. Perutz Laboratories<br>
   Campus Vienna Biocenter 5 (VBC5), Ebene 1, Room 1812.4<br>
   A-1030 Wien, Austria<br>
   Phone: ++43 +1 / 4277 - 74326<br>
   Email: minh.bui(AT)univie.ac.at<br>
+  <a href="https://scholar.google.com/citations?user=UI0xN_QAAAAJ&sortby=pubdate">Google Scholar</a><br>
+  <a href="https://www.researchgate.net/profile/Bui_Minh">ResearchGate</a><br>
+  <a href="http://www.researcherid.com/rid/E-8899-2016">ResearcherID</a>
 
 # additional publications (e.g. before CIBIV)
 publications:
   - authors: L.-T. Nguyen, A. von Haeseler, and B.Q. Minh
     year: submitted
     title: Complex models of sequence evolution require accurate estimators as exemplified with the invariable site plus Gamma model.
+    journal:
+    links:
     
   - authors: S. Kalyaanamoorthy, B.Q. Minh, T.K.F. Wong, A. von Haeseler, L.S. Jermiin
     year: submitted
     title: ModelFinder - A model-selection method that greatly improves the accuracy of phylogenetic estimates.
+    journal:
+    links:
     
   - authors: H.C. Wang, S. Susko, B.Q. Minh, and A.J. Roger
     year: submitted
     title: Modeling site heterogeneity with posterior mean site frequency profiles accelerates accurate phylogenomic estimation.
+    journal:
+    links:
 
 ---
 
