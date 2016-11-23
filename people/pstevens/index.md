@@ -58,27 +58,3 @@ Degree
   Thesis: History and evolution of ancient human pathogens
 * 'B.Sc.' (2010), Tuebingen, Germany
     Thesis: Experimentelle Annotation der Transkriptionslandschaften von Candida albicans und Candida dubliniensis 
-
-Publications
-------
-* __2016__
-
-    Grumaz S\*, __Stevens P__\*, Grumaz C, Decker SO, Weigand MA, Hofer S, Brenner T, von Haeseler A,Sohn K
-    Next-generation sequencing diagnostics of bacteremia in septic patients, Genome Medicine, 8:73. (doi:10.1186/s13073-016-0326-8).
-
-    \* Contributed equally 
-
-* __2015__
-
-    Guenther M, Grumaz C, Lorenz S,__Stevens P.__, Lindemann E, Hirth T, Sohn K, Zibek S, Rupp S.
-    The transcriptomic profile of Pseudozyma aphidis during production of mannosylerythritol lipids, Appl Microbiol Biotechnol, 99(3):1375-88. (doi:10.1007/s00253-014-6359-2). 
-
-* __2013__
-
-    Grumaz C, Lorenz S,__Stevens P.__, Lindemann E, Schoeck U, Retey J, Rupp S, Sohn K.
-    Species and condition specific adaptation of the transcriptional landscapes in Candida albicans and Candida dubliniensis, BMC Genomics, 14:212. (doi:10.1186/1471-2164-14-212). 
-
-* __2012__
-
-    Bos KI,__Stevens P__, Nieselt K, Poinar HN, DeWitter SN, Krause J.
-    Yersinia pestis: New Evidence for an Old Infection, PLOS ONE, 7(11):e49803. (doi:10.1371/journal.pone.0049803). 
