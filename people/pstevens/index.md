@@ -40,6 +40,7 @@ Education
 ---------
 
 * __2013 - present__: Max F. Perutz Laboratories, Center for Integrative Bioinformatics Vienna, Phd. (in collaboration with the Functional Genomics Group from Fraunhofer Institute for Interfacial Engineering and Biotechnology (IGB), Stuttgart, Germany) 
+
 * 2010 - 2012: Eberhard Karls Universitaet Tuebingen, M.Sc. Bioinformatics
 * 2007 - 2010: Eberhard Karls Universitaet Tuebingen, B.Sc. Bioinformatics 
 
