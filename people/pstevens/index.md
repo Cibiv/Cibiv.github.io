@@ -24,7 +24,11 @@ address: |
   Max F. Perutz Laboratories<br>
   Campus Vienna Biocenter 5 (VBC5), Ebene 1, Room 1812.4<br>
   A-1030 Wien, Austria<br>
-  Phone: ++43 +1 / 4277 - 74326<br>
+  
+  Fraunhofer IGB
+  Nobelstrasse 12
+  70569 Stuttgart
+  Phone: ++49 (0)711 / 970 - 4079<br>
   Email: philip.stevens@igb.fraunhofer.de<br>
 
 ---
