@@ -52,7 +52,7 @@ Education
 Employment
 ----------
 
-* __2009-2012__: Student assistant at Fraunhofer IGB, Stuttgart, Germany.
+* 2009-2012: Student assistant at Fraunhofer IGB, Stuttgart, Germany.
 
 
 Degree
