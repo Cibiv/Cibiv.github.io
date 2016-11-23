@@ -58,3 +58,4 @@ Degree
   Thesis: History and evolution of ancient human pathogens
 * 'B.Sc.' (2010), Tuebingen, Germany
     Thesis: Experimentelle Annotation der Transkriptionslandschaften von Candida albicans und Candida dubliniensis 
+ 
