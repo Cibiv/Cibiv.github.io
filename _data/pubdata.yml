@@ -2,6 +2,16 @@
 publications:
 
 ########### in press ###########
+  - authors: <U>T.S. Kaiser</U>, B. Poehn, <U>D. Szkiba</U>, M. Preussner, <U>F.J. Sedlazeck</U>, <U>A. Zrim</U>, <U>T. Neumann</U>, <U>L.-T. Nguyen</U>, A.J. Betancourt, T. Hummel, H. Vogel, S. Dorner, F. Heyd, <U>A. von Haeseler</U>, and K. Tessmar-Raible</B>
+    year: in press
+    title: The genomic basis of circadian and circalunar timing adaptations in a midge.
+    journal: <EM>Nature</EM>, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/nature20151">DOI&#58; 10.1038/nature20151</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27871090">PMID&#58; 27871090</A>,
+      <A HREF="http://cluniobase.cibiv.univie.ac.at/">ClunioBase</A>)
+
+    
   - authors: <U>C. Prakash</U> and <U>A. von Haeseler</U>
     year: in press
     title: An Enumerative Combinatorics Model for Fragmentation Patterns in RNA Sequencing Provides Insights into Non-uniformity of the Expected Fragment Starting Point and Coverage Profile.
