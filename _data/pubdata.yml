@@ -735,7 +735,7 @@ publications:
   - authors: <u>M. Fischer</u>, S. Klaere, <u>M.A.T. Nguyen</u> and <u>A. von Haeseler</u>
     year: 2012
     title: On the group theoretical background of assigning stepwise mutations onto phylogenies.
-    journal: <EM>Alg. Mol. Biol.</em>, 7, 36.
+    journal: <EM>Algoritms Mol. Biol.</em>, 7, 36.
     links: |
       (<A HREF="http://dx.doi.org/10.1186/1748-7188-7-36">DOI&#58; 10.1186/1748-7188-7-36</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/23241267">PMID&#58; 23241267</A>)
@@ -1516,7 +1516,7 @@ publications:
   - authors:  <u>J. Kohl</u>, <u>I. Paulsen</u>, <u>T. Laubach</u>, <u>A. Radtke</u>, and <u>A. von Haeseler</u>
     year: 2006
     title: HvrBase++&#58; A phylogenetic database for primate species.
-    journal: <EM>Nucl. Acids Res.</em>, 34, D700-D704.
+    journal: <EM>Nucleic Acids Res.</em>, 34, D700-D704.
     links: |
       (<A HREF="http://dx.doi.org/10.1093/nar/gkj030">DOI&#58; 10.1093/nar/gkj030</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/16381963">PMID&#58; 16381963</A>)
@@ -1546,7 +1546,7 @@ publications:
   - authors:  <u>I. Paulsen</u> and <u>A. von Haeseler</u>
     year: 2006
     title: INVHOGEN&#58; A database of homologous invertebrate genes.
-    journal: <EM>Nucl. Acids Res.</em>, 34, D349-D353.
+    journal: <EM>Nucleic Acids Res.</em>, 34, D349-D353.
     links: |
       (<A HREF="http://dx.doi.org/10.1093/nar/gkj100">DOI&#58; 10.1093/nar/gkj100</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/16381884">PMID&#58; 16381884</A>)
@@ -1647,7 +1647,7 @@ publications:
   - authors:  S. Moslavac, O. Mirus, R. Bredemeier, J. Soll, <u>A. von Haeseler</u>, and E. Schleiff
     year: 2005
     title: Conserved pore-forming regions in polypeptide-transporting proteins.
-    journal: <EM>FEBS Journal (formerly&#58; European Journal of Biochemistry)</em>, 272, 1367-1378.
+    journal: <EM>FEBS J.</em>, 272, 1367-1378.
     links: |
       (<A HREF="http://dx.doi.org/10.1111/j.1742-4658.2005.04569.x">DOI&#58; 10.1111/j.1742-4658.2005.04569.x</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/15752354">PMID&#58; 15752354</A>)
@@ -1655,7 +1655,7 @@ publications:
   - authors:  H. Oota, B. Pakendorf, <u>G. Weiss</u>, <u>A. von Haeseler</u>, S. Pookajorn, W. Settheetham-Ishida, D. Tiwawech, T. Ishida, and M. Stoneking
     year: 2005
     title: Recent Origin and Cultural Reversion of a Hunter-Gatherer Group.
-    journal: <EM>PLoS Biology</em>, 3, e71.
+    journal: <EM>PLoS Biol.</em>, 3, e71.
     links: |
       (<A HREF="http://dx.doi.org/10.1371/journal.pbio.0030071">DOI&#58; 10.1371/journal.pbio.0030071</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/15736978">PMID&#58; 15736978</A>)
