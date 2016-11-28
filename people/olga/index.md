@@ -19,7 +19,7 @@ pubyear: false
 
 # address lines, appeared at the beginning of personal page
 address: |
-  <strong></strong><br>
+  <strong>Address:</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>
   Max F. Perutz Laboratories<br>
   Campus Vienna Biocenter 5 (VBC5), Ebene 1, Room 1812.4<br>
@@ -33,7 +33,9 @@ Research interests
 ------------------
 
 * Bioinformatics
-* Phylogenetics
+* Phylogenetics and Molecular Evolution
+* Algorithms and Software development
+* Methods for Conservation Optimization
 
 Education
 ---------
@@ -48,7 +50,7 @@ Advisor: Prof. Dr. Arndt von Haeseler
 * __Sep 2004 - Jun 2008__: B.Sc. in Mathematics and basics of Economics, Oles Honchar Dnipropetrovsk National University, Ukraine
 
 
-Employment
+Professional Experience
 ----------
 
 * __Since May 2016__: Postdoctoral researcher, Center for Integrative Bioinformatics Vienna, University of Vienna, Austria.
@@ -56,3 +58,8 @@ Employment
 * __Oct 2011 - Apr 2016__: Scientific Assistant, Center for Integrative Bioinformatics Vienna (CIBIV), University of Vienna, Austria
 * __Oct 2011 - Feb 2015__: Scientific Assistant, Max F. Perutz Laboratories (MFPL), Austria
 * __Apr 2011 - Jul 2011__: Collaboration with group of Computational Biophysics, Biochemistry and Chemistry (CBBC), La Sapienza-University of Rome, Italy
+
+Software contributions
+----------
+* __IQ-TREE__ 	- <a HREF="http://www.iqtree.org"> http://www.iqtree.org</a> </li>
+* __PDA__	- <a HREF="http://www.cibiv.at/software/pda/">http://www.cibiv.at/software/pda/</a></li>
