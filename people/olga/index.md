@@ -18,7 +18,7 @@ pubname: O. Chernomor
 pubyear: false
 
 # address lines, appeared at the beginning of personal page
-address: |
+address:
   <strong>Address:</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>
   Max F. Perutz Laboratories<br>
@@ -26,14 +26,6 @@ address: |
   A-1030 Wien, Austria<br>
   Phone: ++43 +1 / 4277 - 74326<br>
   Email: olga.chernomor(AT)univie.ac.at<br>
-
-# additional publications (e.g. before CIBIV)
-publications:
-  - authors: E. Coccia, O. Chernomor, M. Barborini, S. Sorella, and L. Guidoni
-    year: 2012
-    title: Molecular Electrical Properties from Quantum Monte Carlo Calculations: Application to Ethyne.
-    journal: Journal of Chemical Theory and Computation, 8(6), pp 1952-1962
-    links:http://dx.doi.org/10.1021/ct300171q
 
 ---
 
