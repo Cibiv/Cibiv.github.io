@@ -13,7 +13,6 @@ image: /assets/img/people/olga_chernomor.png
 
 # name appeared in publications, used to display personal publications
 pubname: O. Chernomor
-date: 2016/11/28
 
 # true to categorize publications into years
 pubyear: false
