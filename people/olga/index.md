@@ -13,6 +13,7 @@ image: /assets/img/people/olga_chernomor.png
 
 # name appeared in publications, used to display personal publications
 pubname: O. Chernomor
+date: 2016/11/28
 
 # true to categorize publications into years
 pubyear: false
@@ -27,7 +28,16 @@ address: |
   Phone: ++43 +1 / 4277 - 74326<br>
   Email: olga.chernomor(AT)univie.ac.at<br>
 
+# additional publications (e.g. before CIBIV)
+publications:
+  - authors: E. Coccia, O. Chernomor, M. Barborini, S. Sorella, and L. Guidoni
+    year: 2012
+    title: Molecular Electrical Properties from Quantum Monte Carlo Calculations: Application to Ethyne.
+    journal: Journal of Chemical Theory and Computation, 8(6), pp 1952-1962
+    links:http://dx.doi.org/10.1021/ct300171q
+
 ---
+
 
 Research interests
 ------------------
@@ -40,10 +50,8 @@ Research interests
 Education
 ---------
 
-* __Oct 2011 - Dec 2015__: Ph.D. in Bioinformatics, Vienna Graduate School in Computational Science, University of Vienna, Austria
-
-Thesis: <a HREF="http://www.cibiv.at/~olga/Olga_Chernomor-Thesis-2015-univie.pdf">"Phylogenomics: theory, algorithms and applications"</a>
-
+* __Oct 2011 - Dec 2015__: Ph.D. in Bioinformatics, Vienna Graduate School in Computational Science, University of Vienna, Austria<br>
+Thesis: <a HREF="http://www.cibiv.at/~olga/Olga_Chernomor-Thesis-2015-univie.pdf">"Phylogenomics: theory, algorithms and applications"</a><br>
 Advisor: Prof. Dr. Arndt von Haeseler
 
 * __Sep 2009 - Jul 2011__: M.Sc. in Mathematical Engineering, University of L'Aquila (Italy) / University of Nice - Sophia Antipolis (France)
