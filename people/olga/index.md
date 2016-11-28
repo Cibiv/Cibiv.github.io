@@ -40,9 +40,8 @@ Research interests
 Education
 ---------
 
-* __Oct 2011 - Dec 2015__: Ph.D. in Bioinformatics, Vienna Graduate School in Computational Science, University of Vienna, Austria
-Center for Integrative Bioinformatics Vienna (CIBIV), Max F. Perutz Laboratories
-Thesis: <a HREF="http://www.cibiv.at/~olga/Olga_Chernomor-Thesis-2015-univie.pdf">"Phylogenomics: theory, algorithms and applications"</a>
+* __Oct 2011 - Dec 2015__: Ph.D. in Bioinformatics, Vienna Graduate School in Computational Science, University of Vienna, Austria.
+Thesis: <a HREF="http://www.cibiv.at/~olga/Olga_Chernomor-Thesis-2015-univie.pdf">"Phylogenomics: theory, algorithms and applications".</a>
 Advisor: Prof. Dr. Arndt von Haeseler
 
 * __Sep 2009 - Jul 2011__: M.Sc. in Mathematical Engineering, University of L'Aquila (Italy) / University of Nice - Sophia Antipolis (France)
