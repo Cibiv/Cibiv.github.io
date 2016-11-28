@@ -33,7 +33,7 @@ publications:
     year: 2012
     title: "Molecular Electrical Properties from Quantum Monte Carlo Calculations: Application to Ethyne."
     journal: Journal of Chemical Theory and Computation, 8(6), pp 1952-1962
-    links: <a HREF="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12299/abstract">DOI:10.1111/2041-210X.12299</a>
+    links: <a HREF="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12299/abstract">(DOI:10.1111/2041-210X.12299)</a>
    
 ---
 
