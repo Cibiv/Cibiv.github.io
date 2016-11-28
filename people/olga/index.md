@@ -15,11 +15,11 @@ image: /assets/img/people/olga_chernomor.png
 pubname: O. Chernomor
 
 # true to categorize publications into years
-pubyear: false
+pubyear: true
 
 # address lines, appeared at the beginning of personal page
-address:
-  <strong>Address:</strong><br>
+address: |
+  <strong>Address</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>
   Max F. Perutz Laboratories<br>
   Campus Vienna Biocenter 5 (VBC5), Ebene 1, Room 1812.4<br>
