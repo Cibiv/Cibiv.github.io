@@ -27,6 +27,14 @@ address: |
   Phone: ++43 +1 / 4277 - 74326<br>
   Email: olga.chernomor(AT)univie.ac.at<br>
 
+# additional publications (e.g. before CIBIV)
+publications:
+  - authors: E. Coccia, O. Chernomor, M. Barborini, S. Sorella, and L. Guidoni
+    year: 2012
+    title: "Molecular Electrical Properties from Quantum Monte Carlo Calculations: Application to Ethyne."
+    journal: Journal of Chemical Theory and Computation, 8(6), pp 1952-1962
+    links: http://pubs.acs.org/doi/abs/10.1021/ct300171q
+   
 ---
 
 
