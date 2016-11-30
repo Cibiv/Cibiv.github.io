@@ -89,9 +89,8 @@ body {
                     Header
  ========================================= */
 
-#headerwrap {
-    background: #6d7d8e;
-    color: white;
+.page-header {
+    border-bottom: 1px solid #888888;
 }
 
 /* =======================================
@@ -127,7 +126,7 @@ body {
                     navbar 
  =========================================*/
 .navbar-cibiv {
-    background-color: #FFFFFF;
+    background-color: #DDDDDD;
     /*background-color: #CFE3F2;*/
     /*border-color: #E7E7E7;*/
 }
@@ -156,13 +155,14 @@ body {
     border-bottom: 2px solid #CA0029;
 }
 .navbar-cibiv .navbar-nav > .active > a {
-    background-color: #D5D5D5;
+    /*background-color: #D5D5D5;*/
     border-bottom: 2px solid #CA0029;
+    color: #CA0029;
 }
 .navbar-cibiv .navbar-nav > .active > a:hover,
 .navbar-cibiv .navbar-nav > .active > a:focus {
     /*color: #CA0029;*/
-    background-color: #D5D5D5;
+    /*background-color: #D5D5D5;*/
     border-bottom: 2px solid #CA0029;
 }
 .navbar-cibiv .navbar-nav > .open > a,
@@ -217,7 +217,7 @@ body {
 
 
 .hline {
-    border-top: 2px solid #888888;
+    border-top: 1px solid #888888;
     padding-bottom: 20px;
 }
 
