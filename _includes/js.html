@@ -6,3 +6,13 @@
 <!-- Latest compiled JavaScript -->
 <!--<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>-->
 <script src="{{ "/assets/js/bootstrap.min.js" | prepend: site.baseurl}}"></script>
+
+<script type="text/javascript">
+$(window).scroll(function() {
+  if ($(document).scrollTop() > 50) {
+    $('nav').addClass('shrink');
+  } else {
+    $('nav').removeClass('shrink');
+  }
+});
+</script>
