@@ -42,8 +42,7 @@ Education
 ---------
 
 * __Nov 2012 - Oct 2016__: Ph.D. in Applied Mathematics, University of Adelaide, Australia
-School of Mathematical Sciences
-Thesis: GHOST: A time-reversible mixture model for recovering phylogenetic signal from heterotachously-evolved sequence alignements.
+School of Mathematical Sciences \nThesis: GHOST: A time-reversible mixture model for recovering phylogenetic signal from heterotachously-evolved sequence alignements.
 Advisor: Prof. Nigel Bean
 
 * __Feb 2010 - Apr 2012__: M.Sc. in Mathematical Sciences, University of Adelaide
