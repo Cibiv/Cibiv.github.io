@@ -14,8 +14,16 @@ title: Software
     
     <div class="row">
         <div style="height:20px;"></div>
+        {% assign id=0 %}
         {% for soft in site.data.cibivdata.software_type %}
-        <div class="col-sm-6">
+            {% if id == 0 %}
+                <div class="col-sm-6" style="background-color:#DDDDDD;">
+                {% assign id = 1 %}
+            {% else %}
+                <div class="col-sm-6" style="background-color:#648aa7;">
+                {% assign id = 0 %}
+            {% endif %}
+            
             <h4>{{ soft }}</h4>
             {% assign sorted_pages = (site.pages | where: "layout" , "software" | where: "type" , soft | sort: 'softwareid') %}
             {% for p in sorted_pages %}
