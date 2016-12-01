@@ -12,7 +12,7 @@ position: Postdoc
 image: 
 
 # name appeared in publications, used to display personal publications
-pubname: S. Crotty
+pubname: S. M. Crotty
 
 # true to categorize publications into years
 pubyear: false
@@ -38,25 +38,25 @@ Research interests
 Education
 ---------
 
-* __Jan 2006 - Jan 2009__: Ph.D. in Bioinformatics, University of Vienna, Austria
+* __Nov 2012 - Oct 2016__: Ph.D. in Applied Mathematics, University of Adelaide, Australia
 Center for Integrative Bioinformatics Vienna (CIBIV), Max F. Perutz Laboratories
-Thesis: Computational Methods in Biodiversity Conservation
-Advisor: Prof. Dr. Arndt von Haeseler
+Thesis: GHOST: A time-reversible mixture model for recovering phylogenetic signal from heterotachously-evolved sequence alignements.
+Advisor: Prof. Nigel Bean
 
 
 Employment
 ----------
 
-* __Since Feb 2009__: Postdoctoral researcher, Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, University of Vienna, Austria.
+* __Since Oct 2016__: Postdoctoral researcher, Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, University of Vienna, Austria.
 
 
 Funding
 -------
 
-* __2013-2015__: Fast methods for sequence analysis problems with large data sets, National Foundation for Science and Technology Development (NAFOSTED), Vietnam
+*
 
 Awards
 ------
 
-* __2003-2005__: Master study scholarship, Konrad-Adenauer-Stiftung (KAS), Germany.
+*
 
