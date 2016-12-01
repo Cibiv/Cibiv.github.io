@@ -42,7 +42,8 @@ Education
 ---------
 
 * __Nov 2012 - Oct 2016__: Ph.D. in Applied Mathematics, University of Adelaide, Australia
-School of Mathematical Sciences \nThesis: GHOST: A time-reversible mixture model for recovering phylogenetic signal from heterotachously-evolved sequence alignements.
+School of Mathematical Sciences<br>
+Thesis: GHOST: A time-reversible mixture model for recovering phylogenetic signal from heterotachously-evolved sequence alignements.<br>
 Advisor: Prof. Nigel Bean
 
 * __Feb 2010 - Apr 2012__: M.Sc. in Mathematical Sciences, University of Adelaide
@@ -56,7 +57,7 @@ Employment
 
 * __Since Oct 2016__: Postdoctoral researcher, Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, University of Vienna, Austria.
 
-* __Jul 2010 - Sept 2016__: Tutor, School of Mathematical Sciences, University of Adelaide
+* __Jul 2010 - Sept 2016__: Tutor, School of Mathematical Sciences, University of Adelaide<br>
 Statistical Practice I, Numerical Methods II, Engineering Mathematics IIA, Engineering Mathematics IIB, Communication Skills III.
 
 * __Mar 2010 - Nov 2012__: Research Assistant, Centre for Automotive Safety Research, University of Adelaide
