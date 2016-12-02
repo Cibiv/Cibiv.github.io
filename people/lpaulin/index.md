@@ -9,8 +9,8 @@ title: Luis Felipe Paulin Paz
 position: PhD student
 
 # image that will appear in the people page
-# image: /assets/img/people/luis_paulin_paz.png
-image: /people/lpaulin/luis5.jpg
+image: /assets/img/people/luis_paulin_paz.png
+# image: /people/lpaulin/luis5.jpg
 
 # name appeared in publications, used to display personal publications
 pubname:
