@@ -33,8 +33,8 @@ publications:
  - authors: A
     year: submitted
     title: B
-    journal:C
-    links: D
+    journal: 
+    links:
 ---
 
 Research interests
