@@ -32,8 +32,8 @@ address: |
 Research interests
 ------------------
 
-* Bioinformatics
-* Phylogenetics
+* Modelling the read count distribution from RNA Sequencing experiments
+* Analysis of NGS data
 
 Education
 ---------
