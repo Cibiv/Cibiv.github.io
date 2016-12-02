@@ -31,11 +31,6 @@ address: |
 
 # additional publications (e.g. before CIBIV)
 publications:
- - authors: A
-    year: submitted
-    title: B
-    journal: 
-    links:
     
 ---
 
