@@ -38,12 +38,12 @@ Research interests
 Education
 ---------
 
-* __2007 - 2011__: BSc Genomic Sciences, Universidad Nacional Autonoma de Mexico (UNAM)
+* __Aug 2007 - Jun 2011__: BSc Genomic Sciences, Universidad Nacional Autonoma de Mexico (UNAM)
 
-* __2010 - 2013__: MSc. Biochemistry, focus field: Virology, Universidad Nacional Autonoma de Mexico (UNAM)
+* __Aug 2010 - Mar 2013__: MSc. Biochemistry, focus field: Virology, Universidad Nacional Autonoma de Mexico (UNAM)
 
 
-* __Jan 2014 - Present__: PhD. Student at the University of Vienna, Austria
+* __Apr 2014 - Present__: PhD. Student at the University of Vienna, Austria
 Center for Integrative Bioinformatics Vienna (CIBIV), Max F. Perutz Laboratories
 Advisor: Prof. Dr. Arndt von Haeseler
 
