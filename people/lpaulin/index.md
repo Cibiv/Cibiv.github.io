@@ -50,7 +50,7 @@ Advisor: Prof. Dr. Arndt von Haeseler
 
 
 
-Education
+Publications
 ---------
 
 * __Paulin LF__, de los D Soto-Del Rio M, Sanchez I, Hernandez J, Gutierrez-Rios RM, Lopez-Martinez I, Wong-Chew RM, Parissi-Crivelli A, Isa P, Lopez S, Arias CF. PhyloFlu, a DNA microarray for determining the phylogenetic origin of influenza A virus gene segments and the genomic fingerprint of viral strains. J. Clin. Microbiol., 52(3):803-13 2014. (DOI:  10.1128/JCM.03134-13, PMID: 24353006)
