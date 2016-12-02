@@ -30,11 +30,11 @@ address: |
   Email: luis.paulin.paz(AT)univie.ac.at<br>
 
 publications:
- - authors: 
+ - authors: A
     year: submitted
-    title: 
-    journal:
-    links:
+    title: B
+    journal:C
+    links: D
 ---
 
 Research interests
