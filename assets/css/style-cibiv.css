@@ -77,6 +77,14 @@ body {
     background-color: #CCC;
 }
 
+
+.cibiv-button-1 :hover {
+    background-color: #b8bdc5;
+    color: white;
+    
+
+}
+
 /* =======================================
                 People Images
  ========================================= */
@@ -110,7 +118,7 @@ body {
 }
 
 #footerwrap a:hover {
-    color: #DDD1F4;
+    color: #9fc5f4;
 }
 
 
