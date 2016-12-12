@@ -11,17 +11,6 @@ publications:
 
     
 
-  - authors: <U>T.S. Kaiser</U>, B. Poehn, <U>D. Szkiba</U>, M. Preussner, <U>F.J. Sedlazeck</U>, <U>A. Zrim</U>, <U>T. Neumann</U>, <U>L.-T. Nguyen</U>, A.J. Betancourt, T. Hummel, H. Vogel, S. Dorner, F. Heyd, <U>A. von Haeseler</U>, and K. Tessmar-Raible</B>
-    year: in press
-    title: The genomic basis of circadian and circalunar timing adaptations in a midge.
-    journal: <EM>Nature</EM>, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1038/nature20151">DOI&#58; 10.1038/nature20151</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27871090">PMID&#58; 27871090</A>,
-      <A HREF="http://cluniobase.cibiv.univie.ac.at/">ClunioBase</A>)
-
-    
-
   - authors: N. Popitsch, I. Bilusic, <U>P. Rescheneder</U>, R. Schroeder, and M. Lybecker
     year: in press
     title: Temperature-dependent sRNA transcriptome of the Lyme disease spirochete.
@@ -127,7 +116,6 @@ publications:
 
     
 
-    
   - authors: K.B. Holthaus, B. Strasser, W. Sipos, <U>H.A. Schmidt</U>, V. Mlitz, S. Sukseree, A. Weissenbacher, E. Tschachler, L. Alibardi, and L. Eckhart
     year: 2016
     title: Comparative genomics identifies epidermal proteins associated with the evolution of the turtle shell.
@@ -144,8 +132,6 @@ publications:
 
     
 
-    
-    
   - authors: M. Jagut, P. Hamminger, A. Woglar, S. Millonigg, <U>L. Paulin</U>, M. Mikl, M.R. Dello Stritto, L. Tang, C. Habacher, A. Tam, <U>M. Gallach</U>, <U>A. von Haeseler</U>, A.M. Villeneuve, V. Jantsch
     year: 2016
     title: Separable Roles for a Caenorhabditis elegans RMI1 Homolog in Promoting and Antagonizing Meiotic Crossovers Ensure Faithful Chromosome Inheritance.
@@ -157,8 +143,18 @@ publications:
 
     
 
+  - authors: <U>T.S. Kaiser</U>, B. Poehn, <U>D. Szkiba</U>, M. Preussner, <U>F.J. Sedlazeck</U>, <U>A. Zrim</U>, <U>T. Neumann</U>, <U>L.-T. Nguyen</U>, A.J. Betancourt, T. Hummel, H. Vogel, S. Dorner, F. Heyd, <U>A. von Haeseler</U>, and K. Tessmar-Raible</B>
+    year: 2016
+    title: The genomic basis of circadian and circalunar timing adaptations in a midge.
+    journal: <EM>Nature</EM>, 540, 69-73.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/nature20151">DOI&#58; 10.1038/nature20151</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27871090">PMID&#58; 27871090</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC5133387">PMCID&#58; PMC5133387</A>,
+      <A HREF="http://cluniobase.cibiv.univie.ac.at/">ClunioBase</A>)
+
     
-    
+
   - authors: D. Schrempf, <U>B.Q. Minh</U>, N. De Maio, <U>A. von Haeseler</U>, and C. Kosiol
     year: 2016
     title: Reversible polymorphism-aware phylogenetic models and their application to tree inference.
@@ -506,7 +502,8 @@ publications:
     journal: <EM>BMC Genomics</em>, 15, 725.
     links: |
       (<A HREF="http://dx.doi.org/10.1186/1471-2164-15-725">DOI&#58; 10.1186/1471-2164-15-725</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25163811">PMID&#58; 25163811</A>)
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25163811">PMID&#58; 25163811</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC4156628">PMCID&#58; PMC4156628</A>)
 
     
 
