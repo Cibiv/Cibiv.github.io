@@ -2,6 +2,15 @@
 publications:
 
 ########### in press ###########
+  - authors: D.T. Hoang, L.S. Vinh, T. Flouri, A. Stamatakis, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
+    year: in press
+    title: A new phylogenetic tree sampling method for maximum parsimony bootstrapping and proof-of-concept implementation.
+    journal: <EM>Proceedings of the 8th International Conference on Knowledge and Systems Engeneering - KSE-2016</em> (Hanoi, Vietnam), 1-6, IEEE Computer Society, Piscataway, NJ, USA.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1109/KSE.2016.7758020">DOI&#58; 10.1109/KSE.2016.7758020</A>)
+
+    
+
   - authors: <U>T.S. Kaiser</U>, B. Poehn, <U>D. Szkiba</U>, M. Preussner, <U>F.J. Sedlazeck</U>, <U>A. Zrim</U>, <U>T. Neumann</U>, <U>L.-T. Nguyen</U>, A.J. Betancourt, T. Hummel, H. Vogel, S. Dorner, F. Heyd, <U>A. von Haeseler</U>, and K. Tessmar-Raible</B>
     year: in press
     title: The genomic basis of circadian and circalunar timing adaptations in a midge.
@@ -12,6 +21,17 @@ publications:
       <A HREF="http://cluniobase.cibiv.univie.ac.at/">ClunioBase</A>)
 
     
+
+  - authors: N. Popitsch, I. Bilusic, <U>P. Rescheneder</U>, R. Schroeder, and M. Lybecker
+    year: in press
+    title: Temperature-dependent sRNA transcriptome of the Lyme disease spirochete.
+    journal: <EM>BMC Genomics</em>, 15, 725.
+#    links: |
+#      (<A HREF="http://dx.doi.org/10.1186/1471-2164-15-725">DOI&#58; 10.1186/1471-2164-15-725</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25163811">PMID&#58; 25163811</A>)
+
+    
+
   - authors: <U>C. Prakash</U> and <U>A. von Haeseler</U>
     year: in press
     title: An Enumerative Combinatorics Model for Fragmentation Patterns in RNA Sequencing Provides Insights into Non-uniformity of the Expected Fragment Starting Point and Coverage Profile.
@@ -269,10 +289,10 @@ publications:
 
     
 
-  - authors: D.T. Nguyen, T.M.T. Pham, T.H. Dang, H.A.T. Nguyen, S.Q. Le, <u>B.Q. Minh</u>, Q.M. Dao, B.S Pham, and L.S. Vinh (2015)
+  - authors: D.T. Nguyen, T.M.T. Pham, T.H. Dang, H.A.T. Nguyen, S.Q. Le, <u>B.Q. Minh</u>, Q.M. Dao, B.S Pham, and L.S. Vinh
     year: 2015
     title: Building population-specific reference genomes&#58; A case study of Vietnamese reference genome.
-    journal: <EM>Proceedings of the 7nd International Conference on Knowledge and Systems Engeneering - KSE-2015</em> (Ho Chi Minh City, Vietnam), 97-102, IEEE Computer Society, Los Alamitos, CA, USA.
+    journal: <EM>Proceedings of the 7th International Conference on Knowledge and Systems Engeneering - KSE-2015</em> (Ho Chi Minh City, Vietnam), 97-102, IEEE Computer Society, Los Alamitos, CA, USA.
     links: |
       (<A HREF="http://dx.doi.org/10.1109/KSE.2015.49">DOI&#58; 10.1109/KSE.2015.49</A>)
 
