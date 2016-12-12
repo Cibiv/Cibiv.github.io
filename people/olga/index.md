@@ -15,48 +15,59 @@ image: /assets/img/people/olga_chernomor.png
 pubname: O. Chernomor
 
 # true to categorize publications into years
-pubyear: false
+pubyear: true
 
 # address lines, appeared at the beginning of personal page
 address: |
-  <strong>Dr. rer. nat.</strong><br>
+  <strong>Address</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>
   Max F. Perutz Laboratories<br>
   Campus Vienna Biocenter 5 (VBC5), Ebene 1, Room 1812.4<br>
   A-1030 Wien, Austria<br>
   Phone: ++43 +1 / 4277 - 74326<br>
-  Email: minh.bui(AT)univie.ac.at<br>
+  Email: olga.chernomor(AT)univie.ac.at<br>
 
+# additional publications (e.g. before CIBIV)
+publications:
+  - authors: E. Coccia, O. Chernomor, M. Barborini, S. Sorella, and L. Guidoni
+    year: 2012
+    title: "Molecular Electrical Properties from Quantum Monte Carlo Calculations: Application to Ethyne."
+    journal: Journal of Chemical Theory and Computation, 8(6), pp 1952-1962
+    links: <a HREF="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12299/abstract">(DOI:10.1111/2041-210X.12299)</a>
+   
 ---
+
 
 Research interests
 ------------------
 
 * Bioinformatics
-* Phylogenetics
+* Phylogenetics and Molecular Evolution
+* Algorithms and Software development
+* Methods for Conservation Optimization
 
 Education
 ---------
 
-* __Jan 2006 - Jan 2009__: Ph.D. in Bioinformatics, University of Vienna, Austria
-Center for Integrative Bioinformatics Vienna (CIBIV), Max F. Perutz Laboratories
-Thesis: Computational Methods in Biodiversity Conservation
+* __Oct 2011 - Dec 2015__: Ph.D. in Bioinformatics, Vienna Graduate School in Computational Science, University of Vienna, Austria<br>
+Thesis: <a HREF="http://www.cibiv.at/~olga/Olga_Chernomor-Thesis-2015-univie.pdf">"Phylogenomics: theory, algorithms and applications"</a><br>
 Advisor: Prof. Dr. Arndt von Haeseler
 
+* __Sep 2009 - Jul 2011__: M.Sc. in Mathematical Engineering, University of L'Aquila (Italy) / University of Nice - Sophia Antipolis (France)
+* __Sep 2008 - Jun 2009__: M.Sc. in Mathematics, Oles Honchar Dnipropetrovsk National University, Ukraine
+* __Sep 2004 - Jun 2008__: B.Sc. in Mathematics and basics of Economics, Oles Honchar Dnipropetrovsk National University, Ukraine
 
-Employment
+
+Professional Experience
 ----------
 
-* __Since Feb 2009__: Postdoctoral researcher, Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, University of Vienna, Austria.
+* __Since May 2016__: Postdoctoral researcher, Center for Integrative Bioinformatics Vienna, University of Vienna, Austria.
+* __WS 2012, WS 2013__: Tutor, Introduction to bioinformatics, University of Vienna, Austria
+* __Oct 2011 - Apr 2016__: Scientific Assistant, Center for Integrative Bioinformatics Vienna (CIBIV), University of Vienna, Austria
+* __Oct 2011 - Feb 2015__: Scientific Assistant, Max F. Perutz Laboratories (MFPL), Austria
+* __Apr 2011 - Jul 2011__: Collaboration with group of Computational Biophysics, Biochemistry and Chemistry (CBBC), La Sapienza-University of Rome, Italy
 
-
-Funding
--------
-
-* __2013-2015__: Fast methods for sequence analysis problems with large data sets, National Foundation for Science and Technology Development (NAFOSTED), Vietnam
-
-Awards
-------
-
-* __2003-2005__: Master study scholarship, Konrad-Adenauer-Stiftung (KAS), Germany.
-
+Software contributions
+----------
+* __IQ-TREE__ 	- <a HREF="http://www.iqtree.org"> http://www.iqtree.org</a>
+* __PDA__	- <a HREF="http://www.cibiv.at/software/pda/">http://www.cibiv.at/software/pda/</a>

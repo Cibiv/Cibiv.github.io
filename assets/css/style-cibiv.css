@@ -77,6 +77,14 @@ body {
     background-color: #CCC;
 }
 
+
+.cibiv-button-1 :hover {
+    background-color: #b8bdc5;
+    color: white;
+    
+
+}
+
 /* =======================================
                 People Images
  ========================================= */
@@ -89,9 +97,8 @@ body {
                     Header
  ========================================= */
 
-#headerwrap {
-    background: #6d7d8e;
-    color: white;
+.page-header {
+    border-bottom: 1px solid #888888;
 }
 
 /* =======================================
@@ -99,12 +106,21 @@ body {
  ========================================= */
 #footerwrap {
     padding-top: 20px;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
     /*background: #efefef;*/
     background: #6d7d8e;
     border-top: 0px solid #111F2A;
     color: white;
 }
+
+#footerwrap a {
+    color: white;
+}
+
+#footerwrap a:hover {
+    color: #9fc5f4;
+}
+
 
 /*
 #footerwrap p {
@@ -118,7 +134,7 @@ body {
 }
 
 #footerwrap i:hover {
-    color: #337ab7
+    color: #337ab7;
 }*/
 
 
@@ -127,7 +143,7 @@ body {
                     navbar 
  =========================================*/
 .navbar-cibiv {
-    background-color: #FFFFFF;
+    background-color: #DDDDDD;
     /*background-color: #CFE3F2;*/
     /*border-color: #E7E7E7;*/
 }
@@ -156,13 +172,14 @@ body {
     border-bottom: 2px solid #CA0029;
 }
 .navbar-cibiv .navbar-nav > .active > a {
-    background-color: #D5D5D5;
+    /*background-color: #D5D5D5;*/
     border-bottom: 2px solid #CA0029;
+    color: #CA0029;
 }
 .navbar-cibiv .navbar-nav > .active > a:hover,
 .navbar-cibiv .navbar-nav > .active > a:focus {
     /*color: #CA0029;*/
-    background-color: #D5D5D5;
+    /*background-color: #D5D5D5;*/
     border-bottom: 2px solid #CA0029;
 }
 .navbar-cibiv .navbar-nav > .open > a,
@@ -179,6 +196,25 @@ body {
     border-bottom-color: #111F2A;
 }
 
+nav.navbar.shrink {
+  min-height: 35px;
+}
+
+nav.shrink a {
+  padding-top: 10px !important;
+  margin-top: 5px !important;
+  padding-bottom: 10px !important;
+  font-size: 15px;
+}
+
+nav.shrink .navbar-cibiv {
+  font-size: 25px;
+}
+
+nav.shrink .navbar-toggle {
+  padding: 4px 5px;
+  margin: 8px 15px 8px 0;
+}
 /* =======================================
                 media special
  =========================================*/
@@ -217,13 +253,33 @@ body {
 
 
 .hline {
-    border-top: 2px solid #888888;
+    border-top: 1px solid #888888;
     padding-bottom: 20px;
 }
 
 
 
 
+#headerwrap {
+    background-image: url('/assets/img/cibiv-image-dna-3.svg');
+    background-size: cover;
+	min-height: 0px;
+	padding-top: 100px;
+	padding-bottom: 50px;
+	text-align: center;
+}
 
+#headerwrap h3, h5 {
+	color: white;
+	font-weight: 400;
+}
 
+#headerwrap h1 {
+	color: white;
+	margin-bottom: 25px;
+}
+
+#headerwrap .img-responsive {
+	margin: 0 auto;
+}
 

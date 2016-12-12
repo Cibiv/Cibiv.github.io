@@ -4,7 +4,7 @@ title: People
 ---
 <div class="container">
     <div class="row">
-        <div class="col-sm-10">
+        <div class="col-sm-12">
             <div class="page-header">
                 <h3>Current Members</h3>
             </div>
@@ -13,8 +13,7 @@ title: People
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12 text-center">
         {% assign id = 0 %}
-        {% for pos in site.data.cibivdata.people_type %}
-            {% assign sorted_pages = (site.pages | where: "layout" , "personalpage" | where: 'position', pos | sort: 'title') %}
+        {% assign sorted_pages = (site.pages | where: "layout" , "personalpage" | sort: 'title') %}
         {% for page in sorted_pages %}
             <div class="col-sm-4">
                 <div style="height:10px;"></div>
@@ -24,7 +23,6 @@ title: People
             {% if id == 3 %}
                 {% assign id = 0 %}
             {% endif %}
-        {% endfor %}
         {% endfor %}
         </div>
     </div>

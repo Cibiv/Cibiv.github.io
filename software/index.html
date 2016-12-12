@@ -5,7 +5,7 @@ title: Software
 
 <div class="container">
     <div class="row">
-        <div class="col-sm-10">
+        <div class="col-sm-12">
             <div class="page-header">
                 <h3>Software developed at the Department</h3>
             </div>
@@ -14,22 +14,27 @@ title: Software
     
     <div class="row">
         <div style="height:20px;"></div>
+        {% assign id=0 %}
         {% for soft in site.data.cibivdata.software_type %}
-        <div class="col-sm-6">
+            {% if id == 0 %}
+                <div class="col-sm-6 well" style="background-color:#DDDDDD;">
+                {% assign id = 1 %}
+            {% else %}
+                <div class="col-sm-6 well" style="background-color:#648aa7;">
+                {% assign id = 0 %}
+            {% endif %}
+            
             <h4>{{ soft }}</h4>
             {% assign sorted_pages = (site.pages | where: "layout" , "software" | where: "type" , soft | sort: 'softwareid') %}
             {% for p in sorted_pages %}
-                <div class="panel panel-default">
-                  <div class="panel-heading">
+                <div class="well">
                     {% if p.mainurl %}
                         <a href="{{p.mainurl}}"><h3 class="panel-title">{{p.title}}</h3></a>
                     {% else %}
                         <a href="{{p.url | prepend: site.baseurl}}"><h3 class="panel-title">{{p.title}}</h3></a>
                     {% endif %}
-                  </div>
-                  <div class="panel-body">
+                    <div style="height:5px;"></div>
                     {{ p.description}}
-                  </div>
                 </div>
             {% endfor %}
         </div>
