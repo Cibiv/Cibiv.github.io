@@ -72,15 +72,3 @@ Employment
 * __1995-1997__: Software engineer and system administrator at the <A HREF="http://www.dkfz.de/tbi/">Theoretical Bioinformatics</A>, <A HREF="http://www.dkfz.de/">DKFZ</A>, Heidelberg 
 
 
-<!--
-# Funding
-# -------
-# 
-# * __2013-2015__: Fast methods for sequence analysis problems with large data sets, National Foundation for Science and Technology Development (NAFOSTED), Vietnam
-# 
-# Awards
-# ------
-# 
-# * __2003-2005__: Master study scholarship, Konrad-Adenauer-Stiftung (KAS), Germany.
--->
-
