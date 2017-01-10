@@ -19,21 +19,26 @@ pubyear: false
 
 # address lines, appeared at the beginning of personal page
 address: |
-  <strong>Dr. rer. nat.</strong><br>
+  <strong>Dr. rer. nat. Heiko A. Schmidt</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>
   Max F. Perutz Laboratories<br>
-  Campus Vienna Biocenter 5 (VBC5), Ebene 1, Room 1812.4<br>
+  Campus Vienna Biocenter 5 (VBC5), Ebene 1, Room 1812.1<br>
   A-1030 Wien, Austria<br>
-  Phone: ++43 +1 / 4277 - 74326<br>
-  Email: minh.bui(AT)univie.ac.at<br>
+  Phone: ++43 +1 / 4277 - 74321<br>
+  Email: heiko.schmidt(AT)univie.ac.at<br>
 
 ---
 
 Research interests
 ------------------
 
-* Bioinformatics
-* Phylogenetics
+* Phylogentics/Phylogenomics (methods, development and application; <A HREF="http://www.tree-puzzle.de/">TREE-PUZZLE</A>, <A HREF="http://www.iqtree.org/">IQ-Tree</A>)
+)
+* Evolution on species and gene level
+* Phylogenetic trees for large datasets 
+* Quality checks for alignments (phylogenetic information, quartet likelihood mapping)
+* Parallel and grid computing in phylogenetics and bioinformatics
+* Scientific workflows
 
 Education
 ---------
@@ -44,19 +49,36 @@ Thesis: Computational Methods in Biodiversity Conservation
 Advisor: Prof. Dr. Arndt von Haeseler
 
 
+* __2003__: Ph.D. at Düsseldorf University: Computer Science
+	Advisor: Prof. Arndt von Haeseler
+	Thesis:	<A HREF="http://www.cibiv.at/~hschmidt/publ/schmidt2003.phdthesis.pdf">Phylogenetic Trees from Large Datasets</A>
+	(also accessible via <A HREF="http://nbn-resolving.org/urn:nbn:de:hbz:061-20030730-000597-4">URN:NBN-resolver:urn:nbn:de:hbz:061-20030730-000597-4</A> or the <A HREF="http://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=2597">document service</A> at Düsseldorf University) 
+* __1996__: 'M.Sc.' in Biology (Diplom Biologe), Cologne, Germany
+	Advisors: Prof. Andreas Radbruch, Prof. Rainer Schrader
+	Thesis: <A HREF="http://www.cibiv.at/~hschmidt/publ/schmidt1996.diplomarbeit.pdf">Parallelization of Phylogenetic Methods for the Analysis of the Crown Group Radiation</A> (in German) 
+* __1991-1994__: Studies at Bonn University: Computer Science
+* __1989-1996__: Studies at Cologne University: Biology
+* __1979-1988__: Beethoven-Gymnasium, Bonn 
+
 Employment
 ----------
 
 * __Since Feb 2009__: Postdoctoral researcher, Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, University of Vienna, Austria.
 
+* __2005-present__: Postdoc at the <A HREF="http://www.cibiv.at">Center for Integrative Bioinformatics Vienna</A> (CIBIV), <A HREF="http://www.mfpl.ac.at/">Max F. Perutz Laboratories</A> (MFPL), Vienna, Austria
+* __2003-2005__: Postdoc at the <A HREF="http://www.fz-juelich.de/nic">John-von-Neumann Institute for Computing</A> (NIC), <A HREF="http://www.fz-juelich.de/">Research Center Jülich</A>, Jülich
+* __2001-2003__: Staff scientist at the <A HREF="http://cmb.molgen.mpg.de/">Computational Molecular Biology</A>, <A HREF="http://www.molgen.mpg.de/">MPI for Molecular Genetics</A>, Berlin
+* __1997-2001__: Staff scientist at the <A HREF="http://www.dkfz.de/tbi/">Theoretical Bioinformatics</A>, <A HREF="http://www.dkfz.de/">DKFZ</A>, Heidelberg
+* __1995-1997__: Software engineer and system administrator at the <A HREF="http://www.dkfz.de/tbi/">Theoretical Bioinformatics</A>, <A HREF="http://www.dkfz.de/">DKFZ</A>, Heidelberg 
 
-Funding
--------
 
-* __2013-2015__: Fast methods for sequence analysis problems with large data sets, National Foundation for Science and Technology Development (NAFOSTED), Vietnam
-
-Awards
-------
-
-* __2003-2005__: Master study scholarship, Konrad-Adenauer-Stiftung (KAS), Germany.
+# Funding
+# -------
+# 
+# * __2013-2015__: Fast methods for sequence analysis problems with large data sets, National Foundation for Science and Technology Development (NAFOSTED), Vietnam
+# 
+# Awards
+# ------
+# 
+# * __2003-2005__: Master study scholarship, Konrad-Adenauer-Stiftung (KAS), Germany.
 
