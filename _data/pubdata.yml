@@ -20,7 +20,6 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
-
   - authors: F. Enkner, B. Pichlhöfer, A.T. Zaharie, <u>M. Krunic</u>, T.M. Holper, S. Janik, B. Moser, K. Schlangen, B. Neudert, K. Walter, B. Migschitz, and L. Müllauer
     year: in press
     title: Molecular Profiling of Thymoma and Thymic Carcinoma&#58; Genetic Differences and Potential Novel Therapeutic Targets.
@@ -28,7 +27,6 @@ publications:
     links: |
       (<a href="http://dx.doi.org/10.1007/s12253-016-0144-8">DOI&#58; 10.1007/s12253-016-0144-8</a>,
       <a href="http://www.ncbi.nlm.nih.gov/pubmed/27844328">PMID&#58; 27844328</a>)
-
 
   - authors: E. Klopf, <U>H.A. Schmidt</U>, S. Clauder-M&uuml;nster, L.M. Steinmetz, and C. Sch&uuml;ller 
     year: in press
@@ -38,8 +36,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/nar/gkw1292">DOI&#58; 10.1093/nar/gkw1292</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28025392">PMID&#58; 28025392</A>)
 
-    
-
   - authors: <U>C. Prakash</U> and <U>A. von Haeseler</U>
     year: in press
     title: An Enumerative Combinatorics Model for Fragmentation Patterns in RNA Sequencing Provides Insights into Non-uniformity of the Expected Fragment Starting Point and Coverage Profile.
@@ -48,11 +44,9 @@ publications:
       (<A HREF="http://dx.doi.org/10.1089/cmb.2016.0096">DOI&#58; 10.1089/cmb.2016.0096</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27661099">PMID&#58; 27661099</A>)
 
- 
 
 ########### 2017 ###########
 
-    
   - authors: N. Popitsch, I. Bilusic, <U>P. Rescheneder</U>, R. Schroeder, and M. Lybecker
     year: 2017
     title: Temperature-dependent sRNA transcriptome of the Lyme disease spirochete.
@@ -64,7 +58,6 @@ publications:
 
 ########### 2016 ###########
 
-    
   - authors: F. Burki, M. Kaplan, D.V. Tikhonekov, V. Zlatogursky, <U>B.Q. Minh</U>, L.V. Radaykina, A. Smirnov, A.P. Mylnikov, and P.J. Keeling
     year: 2016
     title: Untangling the early diversification of eukaryotes&#58; a phylogenomic study of the evolutionary origins of Centrohelida, Haptophyta, and Cryptista.
@@ -74,9 +67,6 @@ publications:
       <A HREF="http://dx.doi.org/10.1098/rspb.2015.2802">DOI&#58; 10.1098/rspb.2015.2802</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/26817772">PMID&#58; 26817772</A>)
 
-    
-
-    
   - authors: <U>O. Chernomor</U>, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: 2016
     title: Terrace Aware Data Structure for Phylogenomic Inference from Supermatrices.
@@ -87,9 +77,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27121966">PMID&#58; 27121966</A>,
       <A HREF="http://www.cibiv.at/software/iqtree/">software</A>)
 
-    
-
-    
   - authors: <U>O. Chernomor</U>, S. Klaere, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: 2016
     title: Split diversity&#58; measuring and optimizing biodiversity using phylogenetic split networks. In R. Pellens and P. Grandcolas (eds.)
@@ -100,9 +87,6 @@ publications:
       eISBN: <A HREF="http://www.springer.com/de/book/9783319224619">978-3-319-22461-9</A>,
       ISBN: <A HREF="http://www.springer.com/de/book/9783319224602">978-3-319-22460-2</A>)
 
-    
-
-    
   - authors: <U>M. Gallach</U> and E. Betran
     year: 2016
     title: Dosage compensation and the distribution of sex-biased gene expression in <em>Drosophila</em>&#58; considerations and genomic constraints.
@@ -111,9 +95,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1007/s00239-016-9735-y">DOI&#58; 10.1007/s00239-016-9735-y</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27059220">PMID&#58; 27059220</A>)
 
-    
-
-    
   - authors: K. Gesson<sup>e</sup>, <U>P. Rescheneder</U><sup>e</sup>, M.P. Skoruppa, <U>A. von Haeseler</U>, T. Dechat, and R. Foisner
     year: 2016
     title: A-type lamins bind both hetero- and euchromatin, the latter being regulated by lamina-associated polypeptide 2alpha.
@@ -124,9 +105,6 @@ publications:
       <BR><sup>e</sup>
       &nbsp;contributed equally
 
-    
-
-    
   - authors: S. Grumaz<sup>e</sup>, <U>P. Stevens</U><sup>e</sup>, C. Grumaz, S. Decker, M. Weigand, S. Hofer, T. Brenner, <U>A. von Haeseler</U>, and K. Sohn
     year: 2016
     title: Next-generation sequencing diagnostics of bacteremia in septic patients.
@@ -137,15 +115,12 @@ publications:
       <BR><sup>e</sup>
       &nbsp;contributed equally
 
-    
-
   - authors: D.T. Hoang, L.S. Vinh, T. Flouri, A. Stamatakis, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: 2016
     title: A new phylogenetic tree sampling method for maximum parsimony bootstrapping and proof-of-concept implementation.
     journal: <EM>Proceedings of the 8th International Conference on Knowledge and Systems Engeneering - KSE-2016</em> (Hanoi, Vietnam), 1-6, IEEE Computer Society, Piscataway, NJ, USA.
     links: |
       (<A HREF="http://dx.doi.org/10.1109/KSE.2016.7758020">DOI&#58; 10.1109/KSE.2016.7758020</A>)
-
 
   - authors: K.B. Holthaus, B. Strasser, W. Sipos, <U>H.A. Schmidt</U>, V. Mlitz, S. Sukseree, A. Weissenbacher, E. Tschachler, L. Alibardi, and L. Eckhart
     year: 2016
@@ -161,7 +136,6 @@ publications:
       <A HREF="http://www.meduniwien.ac.at/homepage/1/news-and-topstories/?tx_ttnews[tt_news]=6198&cHash=86a2dd471ca6ba2e1df7f885bfa5f25d">Medical University of Vienna</A>
       (<A HREF="http://www.meduniwien.ac.at/homepage/news-und-topstories/?tx_ttnews[tt_news]=6198&cHash=88e9a2168298df42f3764e1a4b6443af">German version</A>)
 
-
   - authors: M. Jagut, P. Hamminger, A. Woglar, S. Millonigg, <U>L. Paulin</U>, M. Mikl, M.R. Dello Stritto, L. Tang, C. Habacher, A. Tam, <U>M. Gallach</U>, <U>A. von Haeseler</U>, A.M. Villeneuve, V. Jantsch
     year: 2016
     title: Separable Roles for a Caenorhabditis elegans RMI1 Homolog in Promoting and Antagonizing Meiotic Crossovers Ensure Faithful Chromosome Inheritance.
@@ -170,8 +144,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1371/journal.pbio.1002412">DOI&#58; 10.1371/journal.pbio.1002412</A>)
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27011106">PMID&#58; 27011106</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC4807110">PMCID&#58; PMC4807110</A>)
-
-    
 
   - authors: <U>T.S. Kaiser</U>, B. Poehn, <U>D. Szkiba</U>, M. Preussner, <U>F.J. Sedlazeck</U>, <U>A. Zrim</U>, <U>T. Neumann</U>, <U>L.-T. Nguyen</U>, A.J. Betancourt, T. Hummel, H. Vogel, S. Dorner, F. Heyd, <U>A. von Haeseler</U>, and K. Tessmar-Raible</B>
     year: 2016
@@ -183,8 +155,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC5133387">PMCID&#58; PMC5133387</A>,
       <A HREF="http://cluniobase.cibiv.univie.ac.at/">ClunioBase</A>)
 
-    
-
   - authors: D. Schrempf, <U>B.Q. Minh</U>, N. De Maio, <U>A. von Haeseler</U>, and C. Kosiol
     year: 2016
     title: Reversible polymorphism-aware phylogenetic models and their application to tree inference.
@@ -195,10 +165,6 @@ publications:
       <A HREF="http://www.cibiv.at/software/iqtree/">software</A>,
       <A HREF="http://dx.doi.org/10.1101/048496">preprint-DOI:10.1101/048496</A>)
 
-    
-
-    
-    
   - authors: <U>J. Trifinopoulos</U>, <U>L.-T. Nguyen</U>, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: 2016
     title: W-IQ-TREE&#58; a fast online phylogenetic tool for maximum likelihood analysis.
@@ -212,7 +178,6 @@ publications:
 
 ########### 2015 ###########
 
-
   - authors: J. Cheng, <u>F. Sedlazek</u>, J. Altm&uuml;ller, and A. Nolte</u>
     year: 2015
     title: Ectodysplasin signalling genes and typic evolution in sculpins (Cottus).
@@ -221,16 +186,12 @@ publications:
       (<A HREF="http://dx.doi.org/10.1098/rspb.2015.0746">DOI&#58; 10.1098/rspb.2015.0746</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/26354934">PMID&#58; 26354934</A>)
 
-    
-
   - authors: <u>O. Chernomor</u>, <u>B.Q. Minh</u>, F. Forest, S. Klaere, T. Ingram, M. Henzinger, and <u>A. von Haeseler</u>
     year: 2015
     title: Split Diversity in Constrained Conservation Prioritization using Integer Linear Programming.
     journal: <EM>Methods Ecol. Evol.</em>, 6, 83-91.
     links: |
       (<A HREF="http://dx.doi.org/10.1111/2041-210X.12299">DOI&#58; 10.1111/2041-210X.12299</A>)
-
-    
 
   - authors: <u>O. Chernomor</u>, <u>B.Q. Minh</u>, and <u>A. von Haeseler</u>
     year: 2015
@@ -240,8 +201,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1089/cmb.2015.0146">DOI&#58; 10.1089/cmb.2015.0146</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/26448206">PMID&#58; 26448206</A>)
 
-    
-
   - authors: D. Drecktrah, M. Lybecker, <u>N. Popitsch</u>, <u>P. Rescheneder</u>, L.S. Hall, and D.S. Samuels
     year: 2015
     title: The Borrelia burgdorferi RelA/SpoT Homolog and Stringent Response Regulate Survival in the Tick Vector and Global Gene Expression during Starvation.
@@ -250,8 +209,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1371/journal.ppat.1005160">DOI&#58; 10.1371/journal.ppat.1005160</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/26371761">PMID&#58; 26371761</A>)
 
-    
-
   - authors: C. Fieber, N. Gratz, <u>T. Koestler</u>, X.-D. Li, V. Castiglia, M. Janos, M. Aberle, M. Sauert, M. Wegner, L. Alexopoulou, C.J. Kirschning, Z.J. Chen, <u>A. von Haeseler</u>, and P. Kovarik
     year: 2015
     title: Innate immune response to Streptococcus pyogenes depends on the combined activation of TLR13 and TLR2.
@@ -259,8 +216,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1371/journal.pone.0119727">DOI&#58; 10.1371/journal.pone.0119727</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25756897">PMID&#58; 25756897</A>)
-
-    
 
   - authors: T. Flouri, F. Izquierdo-Carrasco, D. Darriba, A.J. Aberer, <u>L.-T. Nguyen</u>, <u>B.Q. Minh</u>, <u>A. von Haeseler</u>, and A. Stamatakis
     year: 2015
@@ -271,8 +226,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25358969">PMID&#58; 25358969</A>,
       <A HREF="http://www.libpll.org/">software</A>)
 
-    
-
   - authors: <u>M. Gallach</u>
     year: 2015
     title: 1.688 g/cm<sup>3</sup> satellite-related repeats&#58; a missing link to dosage compensation and speciation.
@@ -280,8 +233,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1111/mec.13335">DOI&#58; 10.1111/mec.13335</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/26224418">PMID&#58; 26224418</A>)
-
-    
 
   - authors: M. G&uuml;nther, C. Grumaz, S. Lorenz, <u>P. Stevens</u>, E. Lindemann, T. Hirth, K. Sohn, S. Zibek, and S. Rupp
     year: 2015
@@ -291,8 +242,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1007/s00253-014-6359-2">DOI&#58; 10.1007/s00253-014-6359-2</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25586580">PMID&#58; 25586580</A>)
 
-    
-
   - authors: D.T. Hai, N.D. Thanh, P.T.M. Trang, L.S. Quang, P.T.T. Hang, D.C. Cuong, H.K. Phuc, N.H. Duc, D.D. Dong, <u>B.Q. Minh</u>, P.B. Son, and L.S. Vinh
     year: 2015
     title: Whole genome analysis of a Vietnamese trio.
@@ -300,8 +249,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1007/s12038-015-9501-0">DOI&#58; 10.1007/s12038-015-9501-0</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25740146">PMID&#58; 25740146</A>)
-
-    
 
   - authors: <u>M. Krunic</u><sup>e</sup>, R. Ertl<sup>e</sup>, B. Hagen, <u>F.J. Sedlazeck</u>, R. Hofmann-Lehmann, <u>A. von Haeseler</u> and D. Klein
     year: 2015
@@ -313,16 +260,12 @@ publications:
       <BR><sup>e</sup>
       &nbsp;contributed equally
 
-    
-
   - authors: D.T. Nguyen, T.M.T. Pham, T.H. Dang, H.A.T. Nguyen, S.Q. Le, <u>B.Q. Minh</u>, Q.M. Dao, B.S Pham, and L.S. Vinh
     year: 2015
     title: Building population-specific reference genomes&#58; A case study of Vietnamese reference genome.
     journal: <EM>Proceedings of the 7th International Conference on Knowledge and Systems Engeneering - KSE-2015</em> (Ho Chi Minh City, Vietnam), 97-102, IEEE Computer Society, Los Alamitos, CA, USA.
     links: |
       (<A HREF="http://dx.doi.org/10.1109/KSE.2015.49">DOI&#58; 10.1109/KSE.2015.49</A>)
-
-    
 
   - authors: <u>L.-T. Nguyen</u>, <u>H.A. Schmidt</u>, <u>A. von Haeseler</u>, and <u>B.Q. Minh</u>
     year: 2015
@@ -335,8 +278,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC4271533">PMCID&#58; PMC4271533</A>,
       <A HREF="http://www.cibiv.at/software/iqtree/">software</A>)
 
-    
-
   - authors: M. Preusser, A.S. Berghoff, R. Koller, C.C. Zielinski, J.A. Hainfellner, S. Liebmann-Reindl, <u>N. Popitsch</u>, C.B. Geier, B. Streubel, and P. Birner
     year: 2015
     title: Spectrum of gene mutations detected by next generation exome sequencing in brain metastases of lung adenocarcinoma.
@@ -345,16 +286,12 @@ publications:
       (<A HREF="http://dx.doi.org/10.1016/j.ejca.2015.06.107">DOI&#58; 10.1016/j.ejca.2015.06.107</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/26164066">PMID&#58; 26164066</A>)
 
-    
-
   - authors: <u>H.A. Schmidt</u>
     year: 2015
     title: Round and Roundabout (Rundumadum).
     journal: In <em>RSCDS Book 49&#58; 12 Scottish Country Dances</em>, page 16, Royal Scottish Country Dance Society, Edinburgh.
     links: |
       (ISBN&nbsp;978-0-902997-30-1</A>)
-
-    
 
   - authors: <u>M. Smolka</u>, <u>P. Rescheneder</u>, M. Schatz, <u>A. von Haeseler</u>, and F.J. Sedlazeck
     year: 2015
@@ -366,8 +303,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC4618857">PMCID&#58; PMC4618857</A>,
       <A HREF="http://teaser.cibiv.univie.ac.at/">Teaser webpage</A>)
 
-    
-
   - authors: M. Tscherner, F. Zwolanek, S. Jenull, <u>F.J. Sedlazeck</u>, A. Petryshyn, I.E. Frohner, J. Mavrianos, N. Chauhan, <u>A. von Haeseler</u>, and K. Kuchler
     year: 2015
     title: The <i>Candida albicans</i> Histone Acetyltransferase Hat1 Regulates Stress Resistance and Virulence via Distinct Chromatin Assembly Pathways.
@@ -375,8 +310,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1371/journal.ppat.1005218">DOI&#58; 10.1371/journal.ppat.1005218</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/26473952">PMID&#58; 26473952</A>)
-
-    
 
   - authors: K. Wagner, J. Linde, K. Krause, M. Gube, <u>T. Koestler</u>, D. Sammer, O. Kniemeyer, and E. Kothe
     year: 2015
@@ -386,9 +319,8 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/femsec/fiv120">DOI&#58; 10.1093/femsec/fiv120</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/26449385">PMID&#58; 26449385</A>)
 
-    
-########### 2014 ###########
 
+########### 2014 ###########
 
   - authors: R.G. Bayer, <u>T. K&ouml;stler</u>, A. Jain, S. Stael, I. Ebersberger, and M. Teige
     year: 2014
@@ -399,8 +331,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25178282">PMID&#58; 25178282</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC4261837">PMCID&#58; PMC4261837</A>)
 
-    
-
   - authors: I. Bilusic, <u>N. Popitsch</u>, <u>P. Rescheneder</u>, R. Schroeder, and M. Lybecker
     year: 2014
     title: Revisiting the coding potential of the E. coli genome through Hfq co-immunoprecipitation.
@@ -408,8 +338,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.4161/rna.29299">DOI&#58; 10.4161/rna.29299</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/24922322">PMID&#58; 24922322</A>)
-
-    
 
   - authors: A.D. Chipman, D.E.K. Ferrier, C. Brena, J. Qu, D.S.T. Hughes, R. Schr&ouml;der, M. Torres-Oliva, N. Znassi, H. Jiang, F.C. Almeida, C.R. Alonso, Z. Apostolou, P. Aqrawi, W. Arthur, J.C.J. Barna, K.P. Blankenburg, D. Brites, S. Capella-Gutierrez, M. Coyle, P.K. Dearden, L. Du Pasquier, E.J. Duncan, D. Ebert, C. Eibner, G. Erikson, P.D. Evans, C.G. Extavour, L. Francisco, T. Gabaldon, W.J. Gillis, E.A. Goodwin-Horn, J.E. Green, S. Griffiths-Jones, C.J.P. Grimmelikhuijzen, S. Gubbala, R. Guido, Y. Han, F. Hauser, P. Havlak, L. Hayden, S. Helbing, M. Holder, J.H.L. Hui, J.P. Hunn, V.S. Hunnekuhl, L. Jackson, M. Javaid, S.N. Jhangiani, F.M. Jiggins, T.E. Jones, <u>T.S. Kaiser</u>, D. Kalra, N.J. Kenny, V. Korchina, C.L. Kovar, F.B. Kraus, F. Lapraz, S.L. Lee, J. Lv, C. Mandapat, G. Manning, M. Mariotti, R. Mata, T. Mathew, T. Neumann, I. Newsham, D.N. Ngo, M. Ninova, G. Okwuonu, F. Ongeri, W.J. Palmer, S. Patil, P. Patraquim, C. Pham, L.-L. Pu, N.H. Putman, C. Rabouille, O. Mendivil Ramos, A.C. Rhodes, H.E. Robertson, H.M. Robertson, M. Ronshaugen, J. Rozas, N. Saada, A. Sanchez-Gracia, S.E. Scherer, A.M. Schurko, K.W. Siggens, D. Simmons, A. Stief, E. Stolle, M.J. Telford, K. Tessmar-Raible, R. Thornton, M. van der Zee, <u>A. von Haeseler</u>, J.M. Williams, J.H. Willis, Y. Wu, X. Zou, D. Lawson, D.M. Muzny, K.C. Worley, R.A. Gibbs, M. Akam, and S. Richards
     year: 2014
@@ -419,8 +347,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1371/journal.pbio.1002005">DOI&#58; 10.1371/journal.pbio.1002005</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25423365">PMID&#58; 25423365</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC4244043">PMCID&#58; PMC4244043</A>)
-
-    
 
   - authors: E. Dell'Ampio<sup>e</sup>, K. Meusemann<sup>e</sup>, N.U. Szucsich<sup>e</sup>, R.S. Peters<sup>e</sup>, B. Meyer, J. Borner, M. Petersen, A.J. Aberer, A. Stamatakis, M.G. Walzl, <u>B.Q. Minh</u>, <u>A. von Haeseler</u>, I. Ebersberger, G. Pass, and B. Misof
     year: 2014
@@ -432,8 +358,6 @@ publications:
       <BR><sup>e</sup>
       &nbsp;contributed equally
 
-    
-
   - authors: L. Demmel, K. Schmidt, L. Lucast, K. Havlicek, A. Zankel, <u>T. Koestler</u>, V. Reithofer, P. de Camilli, and G. Warren
     year: 2014
     title: The endocytic activity of the flagellar pocket in Trypanosoma brucei is regulated by an adjacent phosphatidylinositol phosphate kinase.
@@ -441,8 +365,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1242/jcs.146894">DOI&#58; 10.1242/jcs.146894</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/24639465">PMID&#58; 24639465</A>)
-
-    
 
   - authors: I. Ebersberger and <u>A. von Haeseler</u>
     year: 2014
@@ -452,8 +374,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1515/9783110277524.595">DOI&#58; 10.1515/9783110277524.595</A>,
       eISBN: <a HREF="http://www.degruyter.com/search?f_0=isbnissn&q_0=9783110277524">9783110277524</a>)
 
-    
-
   - authors: <u>I. Ebersberger</u>, S. Simm, M. Leisegang, <u>P. Schmitzberger</u>, O. Mirus, <u>A. von Haeseler</u>, M. Bohnsack, and E. Schleiff
     year: 2014
     title: The evolution of the ribosome biogenesis pathway from a yeast perspective.
@@ -461,8 +381,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1093/nar/gkt1137">DOI&#58; 10.1093/nar/gkt1137</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/24234440">PMID&#58; 24234440</A>)
-
-    
 
   - authors: <u>M. Gallach</u>
     year: 2014
@@ -472,8 +390,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/gbe/evu104">DOI&#58; 10.1093/gbe/evu104</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/24846631">PMID&#58; 24846631</A>)
 
-    
-
   - authors: S. Iantorno, K. Gori, N. Goldman, <u>M. Gil</u>, and C. Dessimoz
     year: 2014
     title: Who Watches the Watchmen? An Appraisal of Benchmarks for Multiple Sequence Alignment.
@@ -482,8 +398,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1007/978-1-62703-646-7_4">DOI&#58; 10.1007/978-1-62703-646-7_4</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/24170395">PMID&#58; 24170395</A>)
 
-    
-
   - authors: M. Kaschner, A. Loeschcke, J. Krause, <u>B.Q. Minh</u>, A. Heck, S. Endres, V. Svensson, A. Wirtz, <u>A. von Haeseler</u> K.-E. Jaeger, T. Drepper, and U. Krauss
     year: 2014
     title: Discovery of the first light-dependent protochlorophyllide oxidoreductase in anoxygenic phototrophic bacteria.
@@ -491,8 +405,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1111/mmi.12719">DOI&#58; 10.1111/mmi.12719</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25039543">PMID&#58; 25039543</A>)
-
-    
 
   - authors: Y.K. Novozhilov, D.W. Mitchell, <u>M.V. Okun</u>, and O.N. Shchepin
     year: 2014
@@ -503,7 +415,6 @@ publications:
       <A HREF="http://mycosphere.org/vol-5-issue4.php#article8">abstract</A>,
       <A HREF="http://www.mycosphere.org/pdfs/Mycosphere_5_4_8.pdf">PDF</A>)
 
-
   - authors: D.D. Pollak, <u>B.Q. Minh</u>, A. Cicvaric, and F.J. Monje
     year: 2014
     title: A novel Fibroblast Growth Factor Receptor family member promotes neuronal outgrowth and synaptic plasticity in Aplysia.
@@ -511,8 +422,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1007/s00726-014-1803-2">DOI&#58; 10.1007/s00726-014-1803-2</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25059541">PMID&#58; 25059541</A>)
-
-    
 
   - authors: <u>N. Popitsch</u>
     year: 2014
@@ -524,8 +433,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/24872424">PMID&#58; 24872424</A>,
       <A HREF="http://www.cibiv.at/~niko/codoc/">software</A>)
 
-    
-
   - authors: G. Sengoelge, W. Winnicki, <u>A. Kupczok</u>, <u>A. von Haeseler</u>, M. Schuster, W. Pfaller, P. Jennings, A. Weltermann, S. Blake, and G. Sunder-Plassmann
     year: 2014
     title: A SAGE based approach to human glomerular endothelium&#58; defining the transcriptome, finding a novel molecule and highlighting endothelial diversity.
@@ -535,8 +442,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25163811">PMID&#58; 25163811</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC4156628">PMCID&#58; PMC4156628</A>)
 
-    
-
   - authors: M. Sorourian, M. M. Kunte, S. Domingues, <u>M. Gallach</u>, F. &Ouml;zdil, J. Rio and E. Betran
     year: 2014
     title: Relocation Facilitates the Acquisition of Short Cis-Regulatory Regions that Drive the Expression of Retrogenes during Spermatogenesis in Drosophila.
@@ -544,8 +449,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1093/molbev/msu168">DOI&#58; 10.1093/molbev/msu168</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/24855141">PMID&#58; 24855141</A>)
-
-    
 
   - authors: <u>D. Szkiba</u>, M. Kapun, <u>A. von Haeseler</u>, and <u>M. Gallach</u>
     year: 2014
@@ -556,8 +459,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/24561481">PMID&#58; 24561481</A>,
       <A HREF="http://www.cibiv.at/software/snp2go/">software</A>)
 
-    
-
   - authors: C. Vesely, <u>S. Tauber</u>, <u>F. Sedlazeck</u>, M. Tajaddod, <u>A. von Haeseler</u>, and M. Jantsch
     year: 2014
     title: ADAR2 induces reproducible changes in sequence and abundance of mature microRNAs in the mouse brain.
@@ -565,8 +466,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1093/nar/gku844">DOI&#58; 10.1093/nar/gku844</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25260591">PMID&#58; 25260591</A>)
-
-    
 
   - authors: H. Watanabe, <u>H.A. Schmidt</u>, A. Kuhn, S. &Ouml;zbek, S. H&ouml;ger, Y. Kocag&ouml;z, N. Laumann-Lipp, and T. Holstein
     year: 2014
@@ -589,8 +488,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/23914788">PMID&#58; 23914788</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC3751533">PMCID&#58; PMC3751533</A>)
 
-    
-
   - authors: A. Bracher, A. Soler, <u>S. Tauber</u>, A.M. Fink, A. Steiner, H. Pehamberger, H. Niederleithner, P. Petzelbauer, M. Groeger, and R. Loewe
     year: 2013
     title: Epidermal growth factor facilitates melanoma lymph node metastasis by influencing tumor lymphangiogenesis.
@@ -599,15 +496,12 @@ publications:
       (<A HREF="http://dx.doi.org/10.1038/jid.2012.272">DOI&#58; 10.1038/jid.2012.272</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/22951723">PMID&#58; 22951723</A>)
 
-    
-
   - authors: D.A. Erastova, <u>M.V. Okun</u>, A.M. Fiore-Donno, Y.K. Novozhilov, and M. Schnittler
     year: 2013
     title: Phylogenetic position of the enigmatic myxomycete genus Kelleromyxa revealed by SSU rDNA sequences.
     journal: <EM>Mycol. Prog.</em>, 12, 599-608.
     links: |
       (<A HREF="http://dx.doi.org/10.1007/s11557-013-0892-8">DOI&#58; 10.1007/s11557-013-0892-8</A>)
-
 
   - authors: C.A. Gebeshuber, C. Kornauth, L. Dong, R. Sierig, J. Seibler, M. Reiss, <u>S. Tauber</u>, M. Bilban, S. Wang, R. Kain, G.A. B&ouml;mig, M.J. Moeller, H.-J. Gr&ouml;ne, C. Englert, J. Martinez<sup>e</SUP>, and D. Kerjaschki<sup>e</SUP>
     year: 2013
@@ -619,7 +513,6 @@ publications:
       <BR><sup>e</sup>
       &nbsp;contributed equally
 
-
   - authors: E. Giannoulatou, G. McVean, I.B. Taylor, S.J. McGowan, G.J. Maher, Z. Iqbal, <u>S.P. Pfeifer</u>, I. Turner, E.M.M. Burkitt Wright, J. Shorto, A. Itani, K. Turner, L. Gregory, D. Buck, E. Rajpert-De Meyts, L.H.J. Looijenga, B. Kerr, A.O.M. Wilkie, and Anne Goriely
     year: 2013
     title: Contributions of intrinsic mutation rate and selfish selection to levels of de novo HRAS mutations in the paternal germline.
@@ -628,7 +521,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1073/pnas.1311381110">DOI&#58; 10.1073/pnas.1311381110</A>)
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/24259709">PMID&#58; 24259709</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC3864328">PMCID&#58; PMC3864328</A>)
-
 
   - authors: <u>M. Gil</u>, M.S. Zanetti, S. Zoller, and M. Anisimova
     year: 2013
@@ -639,7 +531,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/23436912">PMID&#58; 23436912</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC3649670">PMCID&#58; PMC3649670</A>)
 
-
   - authors: J.E. Heraud-Farlow, T. Sharangdhar, X. Li, P. Pfeifer, <u>S. Tauber</u>, D. Orozco, A. H&ouml;rmann, S. Thomas, A. Bakosova, A.R. Farlow, D. Edbauer, H.D. Lipshitz, Q.D. Morris, M. Bilban, M. Doyle, M.A. Kiebler
     year: 2013
     title: Staufen2 Regulates Neuronal Target RNAs.
@@ -648,7 +539,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1016/j.celrep.2013.11.039">DOI&#58; 10.1016/j.celrep.2013.11.039</A>)
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/24360961">PMID&#58; 24360961</A>)
 
-
   - authors: S. J&uuml;nemann, <u>F.J. Sedlazeck</u>, K. Prior, A. Albersmeier, U. John, J. Kalinowski, A. Mellmann, A. Goesmann, <u>A. von Haeseler</u>, J. Stoye and D. Harmsen
     year: 2013
     title: Updating benchtop sequencing performance comparison.
@@ -656,7 +546,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1038/nbt.2522">DOI&#58; 10.1038/nbt.2522</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/23563421">PMID&#58; 23563421</A>)
-
 
   - authors: <u>B.Q. Minh</u>, M.A.T. Nguyen, and <u>A. von Haeseler</u>
     year: 2013
@@ -668,7 +557,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/23418397">PMID&#58; 23418397</A>,
       <A HREF="http://www.cibiv.at/software/iqtree/">software</A>)
 
-
   - authors: Y.K. Novozhilov, <u>M.V. Okun</u>, D.A. Erastova, N. Shchepin, I.V. Zemlyanskaya, E. Garcia-Carvajal and M. Schnittler
     year: 2013
     title: Description, culture and phylogenetic position of a new xerotolerant species of Physarum.
@@ -677,14 +565,12 @@ publications:
       (<A HREF="http://dx.doi.org/10.3852/12-284">DOI&#58; 10.3852/12-284</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/23921236">PMID&#58; 23921236</A>)
 
-
   - authors: Y.K. Novozhilov, M. Schnittler, D.A. Erastova, <u>M.V. Okun</u>, N. Shchepin, and E. Heinrich
     year: 2013
     title: Diversity of nivicolous myxomycetes of the Teberda State Biosphere Reserve (Northwestern Caucasus, Russia).
     journal: <EM>Fungal Divers.</em>, 59, 109-130.
     links: |
       (<A HREF="http://dx.doi.org/10.1007/s13225-012-0199-0">DOI&#58; 10.1007/s13225-012-0199-0</A>)
-
 
   - authors: <u>N. Popitsch</u> and <u>A. von Haeseler</u>
     year: 2013
@@ -696,7 +582,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/23066097">PMID&#58; 23066097</A>,
       <A HREF="http://www.cibiv.at/~niko/ngc/">software</A>)
 
-
   - authors: E. Porpaczy, <u>S. Tauber</u>, M. Bilban, G. Kostner, M. Gruber, S. Eder, D. Heintel, T. Le, K. Fleiss, C. Skrabs, M. Shehata, U. J&auml;ger, and K. Vanura
     year: 2013
     title: Lipoprotein lipase in chronic lymphocytic leukaemia - Strong biomarker with lack of functional significance.
@@ -704,7 +589,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1016/j.leukres.2013.02.008">DOI&#58; 10.1016/j.leukres.2013.02.008</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/23478142">PMID&#58; 23478142</A>)
-
 
   - authors: S.F. Schoppmann, U. Vinatzer, <u>N. Popitsch</u>, G. Jomrich, B. Streubel and P. Birner
     year: 2013
@@ -743,7 +627,6 @@ publications:
 
 
 ########### 2012 ###########
-
 
   - authors: C. Dessimoz, T. Gabaldon, D.S. Roos, E. Sonnhammer, J. Herrero, and the <u>Quest for Orthologs Consortium</u>*
     year: 2012
@@ -924,7 +807,6 @@ publications:
 
 ########### 2011 ###########
 
-
   - authors: A.M. Foerster, <u>H.Q. Dinh</u>, L. Sedman, B. Wohlrab, O. Mittelsten Scheid
     year: 2011
     title: Genetic Rearrangements Can Modify Chromatin Features at Epialleles.
@@ -1000,7 +882,6 @@ publications:
 
 
 ########### 2010 ###########
-
 
   - authors: T. Baubec, <u>H.Q. Dinh</u>, A. Pecinka, B. Rakic, W. Rozhon, B. Wohlrab, <u>A. von Haeseler</u> and O. Mittelsten Scheid
     year: 2010
@@ -1369,7 +1250,6 @@ publications:
 
 ########### 2007 ###########
 
-
   - authors: R. Bredemeier, <u>T. Schlegel</u>, F. Ertel, A. Vojita, L. Borissenko, M.T. Bohnsack, M. Groll, <u>A. von Haeseler</u>, and E. Schleiff
     year: 2007
     title: Functional and phylogenetic properties of the pore forming &beta;-barrel transporter of the Omp85 family.
@@ -1488,6 +1368,7 @@ publications:
     journal: <EM>FEBS J.</em>, 274, 86.
     links: |
       (<A HREF="http://dx.doi.org/10.1111/j.0014-2956.2007.05861_1.x">DOI&#58; 10.1111/j.0014-2956.2007.05861_1.x</A>)
+
   - authors:  <u>T. Schlegel</u>, O. Mirus, <u>A. von Haeseler</u> and E. Schleiff
     year: 2007
     title: The tetratricopeptide repeats of receptors involved in protein translocation across membranes.
@@ -1516,7 +1397,6 @@ publications:
 
 
 ########### 2006 ###########
-
 
   - authors: I. Bruns, U. Steidl, J.C. Fischer, S. Raschke, G. Kobbe, R. Fenk, <u>M. Rosskopf</u>, S. Pechtel, U.-P. Rohr, <u>A. von Haeseler</u>, P. Wernet, D. Tenen, R. Haas, and R. Kronenwett
     year: 2006
@@ -1730,9 +1610,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1186/1471-2105-6-92">DOI&#58; 10.1186/1471-2105-6-92</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/15819989">PMID&#58; 15819989</A>)
-
-
-
 
 
 ---
