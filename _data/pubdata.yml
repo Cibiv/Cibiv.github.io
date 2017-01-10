@@ -40,15 +40,6 @@ publications:
 
     
 
-  - authors: N. Popitsch, I. Bilusic, <U>P. Rescheneder</U>, R. Schroeder, and M. Lybecker
-    year: in press
-    title: Temperature-dependent sRNA transcriptome of the Lyme disease spirochete.
-    journal: <EM>BMC Genomics</em>, 15, 725.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1186/s12864-016-3398-3">DOI&#58; 10.1186/s12864-016-3398-3</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28056764">PMID&#58; 28056764</A>)
-
-
   - authors: <U>C. Prakash</U> and <U>A. von Haeseler</U>
     year: in press
     title: An Enumerative Combinatorics Model for Fragmentation Patterns in RNA Sequencing Provides Insights into Non-uniformity of the Expected Fragment Starting Point and Coverage Profile.
@@ -181,6 +172,15 @@ publications:
       <A HREF="http://cluniobase.cibiv.univie.ac.at/">ClunioBase</A>)
 
     
+
+  - authors: N. Popitsch, I. Bilusic, <U>P. Rescheneder</U>, R. Schroeder, and M. Lybecker
+    year: in press
+    title: Temperature-dependent sRNA transcriptome of the Lyme disease spirochete.
+    journal: <EM>BMC Genomics</em>, 18, 28.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1186/s12864-016-3398-3">DOI&#58; 10.1186/s12864-016-3398-3</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28056764">PMID&#58; 28056764</A>)
+
 
   - authors: D. Schrempf, <U>B.Q. Minh</U>, N. De Maio, <U>A. von Haeseler</U>, and C. Kosiol
     year: 2016
