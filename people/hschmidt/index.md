@@ -33,7 +33,6 @@ Research interests
 ------------------
 
 * Phylogentics/Phylogenomics (methods, development and application; <A HREF="http://www.tree-puzzle.de/">TREE-PUZZLE</A>, <A HREF="http://www.iqtree.org/">IQ-Tree</A>)
-)
 * Evolution on species and gene level
 * Phylogenetic trees for large datasets 
 * Quality checks for alignments (phylogenetic information, quartet likelihood mapping)
