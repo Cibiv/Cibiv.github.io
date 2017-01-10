@@ -63,8 +63,6 @@ Advisor: Prof. Dr. Arndt von Haeseler
 Employment
 ----------
 
-* __Since Feb 2009__: Postdoctoral researcher, Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, University of Vienna, Austria.
-
 * __2005-present__: Postdoc at the <A HREF="http://www.cibiv.at">Center for Integrative Bioinformatics Vienna</A> (CIBIV), <A HREF="http://www.mfpl.ac.at/">Max F. Perutz Laboratories</A> (MFPL), Vienna, Austria
 * __2003-2005__: Postdoc at the <A HREF="http://www.fz-juelich.de/nic">John-von-Neumann Institute for Computing</A> (NIC), <A HREF="http://www.fz-juelich.de/">Research Center Jülich</A>, Jülich
 * __2001-2003__: Staff scientist at the <A HREF="http://cmb.molgen.mpg.de/">Computational Molecular Biology</A>, <A HREF="http://www.molgen.mpg.de/">MPI for Molecular Genetics</A>, Berlin
