@@ -72,6 +72,7 @@ Employment
 * __1995-1997__: Software engineer and system administrator at the <A HREF="http://www.dkfz.de/tbi/">Theoretical Bioinformatics</A>, <A HREF="http://www.dkfz.de/">DKFZ</A>, Heidelberg 
 
 
+<!--
 # Funding
 # -------
 # 
@@ -81,4 +82,5 @@ Employment
 # ------
 # 
 # * __2003-2005__: Master study scholarship, Konrad-Adenauer-Stiftung (KAS), Germany.
+-->
 
