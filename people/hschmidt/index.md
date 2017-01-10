@@ -43,19 +43,13 @@ Research interests
 Education
 ---------
 
-* __Jan 2006 - Jan 2009__: Ph.D. in Bioinformatics, University of Vienna, Austria
-Center for Integrative Bioinformatics Vienna (CIBIV), Max F. Perutz Laboratories
-Thesis: Computational Methods in Biodiversity Conservation
-Advisor: Prof. Dr. Arndt von Haeseler
-
-
 * __2003__: Ph.D. at Düsseldorf University: Computer Science
-	Advisor: Prof. Arndt von Haeseler
-	Thesis:	<A HREF="http://www.cibiv.at/~hschmidt/publ/schmidt2003.phdthesis.pdf">Phylogenetic Trees from Large Datasets</A>
-	(also accessible via <A HREF="http://nbn-resolving.org/urn:nbn:de:hbz:061-20030730-000597-4">URN:NBN-resolver:urn:nbn:de:hbz:061-20030730-000597-4</A> or the <A HREF="http://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=2597">document service</A> at Düsseldorf University) 
+	<BR>Advisor: Prof. Arndt von Haeseler
+	<BR>Thesis:	<A HREF="http://www.cibiv.at/~hschmidt/publ/schmidt2003.phdthesis.pdf">Phylogenetic Trees from Large Datasets</A>
+	<BR>(also accessible via <A HREF="http://nbn-resolving.org/urn:nbn:de:hbz:061-20030730-000597-4">URN:NBN-resolver:urn:nbn:de:hbz:061-20030730-000597-4</A> or the <A HREF="http://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=2597">document service</A> at Düsseldorf University) 
 * __1996__: 'M.Sc.' in Biology (Diplom Biologe), Cologne, Germany
-	Advisors: Prof. Andreas Radbruch, Prof. Rainer Schrader
-	Thesis: <A HREF="http://www.cibiv.at/~hschmidt/publ/schmidt1996.diplomarbeit.pdf">Parallelization of Phylogenetic Methods for the Analysis of the Crown Group Radiation</A> (in German) 
+	<BR>Advisors: Prof. Andreas Radbruch, Prof. Rainer Schrader
+	<BR>Thesis: <A HREF="http://www.cibiv.at/~hschmidt/publ/schmidt1996.diplomarbeit.pdf">Parallelization of Phylogenetic Methods for the Analysis of the Crown Group Radiation</A> (in German) 
 * __1991-1994__: Studies at Bonn University: Computer Science
 * __1989-1996__: Studies at Cologne University: Biology
 * __1979-1988__: Beethoven-Gymnasium, Bonn 
