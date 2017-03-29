@@ -237,13 +237,14 @@ nav.shrink .navbar-toggle {
  =========================================*/
 
  #conference_header {
-     background-image: url('/assets/img/bg/iqtree-background.svg');
+     /*background-image: url('/assets/img/bg/iqtree-background.svg');*/
+     background-image: url('workshops/masamb2017/img/masamb2017-bg1.svg');
      background-size: cover;
      min-height: 0px;
      padding-top: 50px;
      padding-bottom: 50px;
      text-align: center;
-     color: white;
+     /*color: white;*/
  }
 
 #standalonepage {
@@ -283,3 +284,11 @@ nav.shrink .navbar-toggle {
 	margin: 0 auto;
 }
 
+blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    background: #f9f9f9;
+    border-left: 10px solid #5081AF;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
