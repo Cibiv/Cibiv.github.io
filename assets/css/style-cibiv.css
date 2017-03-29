@@ -216,6 +216,35 @@ nav.shrink .navbar-toggle {
   margin: 8px 15px 8px 0;
 }
 /* =======================================
+ navbar-masamb
+ =======================================*/
+.navbar-masamb {
+    background-color: #2c2c30;
+    /*background-color: #CFE3F2;*/
+    /*border-color: #E7E7E7;*/
+}
+.navbar-masamb .navbar-brand {
+    color: #111F2A;
+}
+.navbar-masamb .navbar-brand:hover,
+.navbar-masamb .navbar-brand:focus {
+    color: #CA0029;
+}
+
+.navbar-masamb .navbar-nav > li > a:hover,
+.navbar-masamb .navbar-nav > li > a:focus {
+    color: #111F2A;
+    border-bottom: 2px solid #CA0029;
+}
+.navbar-masamb .navbar-nav > li > a {
+    color: #FFFFFF;
+    border-bottom: 2px solid transparent;
+}
+.navbar-masamb .navbar-toggle .icon-bar {
+    background-color: #FFFFFF;
+}
+
+/* =======================================
                 media special
  =========================================*/
 
@@ -285,8 +314,10 @@ nav.shrink .navbar-toggle {
 }
 
 blockquote {
-    background: #f9f9f9;
-    border-left: 10px solid #ccc;
+    /*background: #f9f9f9;
+     border-left: 10px solid #ccc;*/
+    background: #eff7fc;
+    border-left: 10px solid #5081AF;
     background: #f9f9f9;
     border-left: 10px solid #5081AF;
     margin: 1.5em 10px;
