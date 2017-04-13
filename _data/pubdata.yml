@@ -2,14 +2,15 @@
 publications:
 
 ########### in press ###########
-### Proceedings template
+### Proceedings template (7 lines)
 #  - authors: D.T. Hoang, <U>B.Q. Minh</U>, and <U>A. von Haeseler</U>
 #    year: in press
 #    title: TTTT.
 #    journal: <EM>Proceedings of the 8th International Conference on Knowledge and Systems Engeneering - KSE-2016</em> (Hanoi, Vietnam), 1-6, IEEE Computer Society, Piscataway, NJ, USA.
 #    links: |
 #      (<A HREF="http://dx.doi.org/10.1186/XXXXX">DOI&#58; XXXXX</A>)
-### article template
+#
+### article template (11 lines)
 #  - authors: N. Popitsch, <U>P. Rescheneder</U>, and <U>A. von Haeseler</U>
 #    year: in press
 #    title: TTTT.
@@ -19,6 +20,7 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+#
 
   - authors: F. Enkner, B. Pichlh&ouml;fer, A.T. Zaharie, <u>M. Krunic</u>, T.M. Holper, S. Janik, B. Moser, K. Schlangen, B. Neudert, K. Walter, B. Migschitz, and L. M&uuml;llauer
     year: in press
@@ -28,6 +30,16 @@ publications:
       (<a href="http://dx.doi.org/10.1007/s12253-016-0144-8">DOI&#58; 10.1007/s12253-016-0144-8</a>,
       <a href="http://www.ncbi.nlm.nih.gov/pubmed/27844328">PMID&#58; 27844328</a>)
 
+### embargoed util May 1, 2017, 16:00 London time (GMT)
+#  - authors: S. Kalyaanamoorthy, <U>B.Q. Minh</U>, T.K.F. Wong, <U>A. von Haeseler</U>, and L.S. Jermiin
+#    year: in press
+#    title: ModelFinder: Fast Model Selection for Accurate Phylogenetic Estimates.
+#    journal: <EM>Nat. Methods</em>, 15, in press.
+#    links: |
+#      (<A HREF="http://dx.doi.org/10.1186/XXXXX">DOI&#58; XXXXX</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/iqtree/">software</A>)
+
   - authors: E. Klopf, <U>H.A. Schmidt</U>, S. Clauder-M&uuml;nster, L.M. Steinmetz, and C. Sch&uuml;ller 
     year: in press
     title: INO80 represses osmostress induced gene expression by resetting promoter proximal nucleosomes.
@@ -36,13 +48,13 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/nar/gkw1292">DOI&#58; 10.1093/nar/gkw1292</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28025392">PMID&#58; 28025392</A>)
 
-  - authors: <U>C. Prakash</U> and <U>A. von Haeseler</U>
+  - authors:  A. K&uuml;hbacher, H. Henkel, <U>P. Stevens</U>, C. Grumaz, D. Finkelmeier, A. Burger-Kentischer, K. Sohn, and S. Rupp
     year: in press
-    title: An Enumerative Combinatorics Model for Fragmentation Patterns in RNA Sequencing Provides Insights into Non-uniformity of the Expected Fragment Starting Point and Coverage Profile.
-    journal: <EM>J. Comput. Biol.</EM>, 24, in press.
+    title: Dermal Fibroblasts Play a Central Role in Skin Model Protection against C. albicans Invasion.
+    journal: <EM>J. Infect. Dis.</em>, in press.
     links: |
-      (<A HREF="http://dx.doi.org/10.1089/cmb.2016.0096">DOI&#58; 10.1089/cmb.2016.0096</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27661099">PMID&#58; 27661099</A>)
+      (<A HREF="http://dx.doi.org/10.1186/10.1093/infdis/jix153">DOI&#58; 10.1093/infdis/jix153</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28368492">PMID&#58; 28368492</A>)
 
 
 ########### 2017 ###########
@@ -54,6 +66,14 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1186/s12864-016-3398-3">DOI&#58; 10.1186/s12864-016-3398-3</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28056764">PMID&#58; 28056764</A>)
+
+  - authors: <U>C. Prakash</U> and <U>A. von Haeseler</U>
+    year: 2017
+    title: An Enumerative Combinatorics Model for Fragmentation Patterns in RNA Sequencing Provides Insights into Non-uniformity of the Expected Fragment Starting Point and Coverage Profile.
+    journal: <EM>J. Comput. Biol.</EM>, 24, 200-212.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1089/cmb.2016.0096">DOI&#58; 10.1089/cmb.2016.0096</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27661099">PMID&#58; 27661099</A>)
 
 
 ########### 2016 ###########
