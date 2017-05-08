@@ -34,7 +34,7 @@ publications:
 
   - authors: S. Kalyaanamoorthy<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, T.K.F. Wong, <U>A. von Haeseler</U>, and L.S. Jermiin
     year: in press
-    title: ModelFinder: Fast Model Selection for Accurate Phylogenetic Estimates.
+    title: "ModelFinder: Fast Model Selection for Accurate Phylogenetic Estimates."
     journal: <EM>Nat. Methods</em>, 15, in press.
     links: |
       (<A HREF="http://dx.doi.org/10.1186/10.1038/nmeth.4285">DOI&#58; 10.1038/nmeth.4285</A>,
