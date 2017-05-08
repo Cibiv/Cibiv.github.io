@@ -31,15 +31,15 @@ publications:
       <a href="http://www.ncbi.nlm.nih.gov/pubmed/27844328">PMID&#58; 27844328</a>)
 
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
-#  - authors: S. Kalyaanamoorthy<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, T.K.F. Wong, <U>A. von Haeseler</U>, and L.S. Jermiin
-#    year: 2017
-#    title: ModelFinder: Fast Model Selection for Accurate Phylogenetic Estimates.
-#    journal: <EM>Nat. Methods</em>, 15, in press.
-#    links: |
-#      (<A HREF="http://dx.doi.org/10.1186/10.1038/nmeth.4285">DOI&#58; 10.1038/nmeth.4285</A>,
+  - authors: S. Kalyaanamoorthy<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, T.K.F. Wong, <U>A. von Haeseler</U>, and L.S. Jermiin
+    year: in press
+    title: ModelFinder: Fast Model Selection for Accurate Phylogenetic Estimates.
+    journal: <EM>Nat. Methods</em>, 15, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1186/10.1038/nmeth.4285">DOI&#58; 10.1038/nmeth.4285</A>,
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/iqtree/">software</A>)
-#      <BR><sup>e</sup>&nbsp;contributed equally
+      <A HREF="http://www.cibiv.at/software/iqtree/">software</A>)
+      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors:  A. K&uuml;hbacher, H. Henkel, <U>P. Stevens</U>, C. Grumaz, D. Finkelmeier, A. Burger-Kentischer, K. Sohn, and S. Rupp
     year: in press
