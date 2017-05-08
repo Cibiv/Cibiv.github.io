@@ -30,34 +30,35 @@ publications:
       (<a href="http://dx.doi.org/10.1007/s12253-016-0144-8">DOI&#58; 10.1007/s12253-016-0144-8</a>,
       <a href="http://www.ncbi.nlm.nih.gov/pubmed/27844328">PMID&#58; 27844328</a>)
 
-### embargoed util May 1, 2017, 16:00 London time (GMT)
-#  - authors: S. Kalyaanamoorthy, <U>B.Q. Minh</U>, T.K.F. Wong, <U>A. von Haeseler</U>, and L.S. Jermiin
-#    year: in press
+### embargoed util May 8, 2017, 16:00 London time (GMT)
+#  - authors: S. Kalyaanamoorthy<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, T.K.F. Wong, <U>A. von Haeseler</U>, and L.S. Jermiin
+#    year: 2017
 #    title: ModelFinder: Fast Model Selection for Accurate Phylogenetic Estimates.
 #    journal: <EM>Nat. Methods</em>, 15, in press.
 #    links: |
-#      (<A HREF="http://dx.doi.org/10.1186/XXXXX">DOI&#58; XXXXX</A>,
+#      (<A HREF="http://dx.doi.org/10.1186/10.1038/nmeth.4285">DOI&#58; 10.1038/nmeth.4285</A>,
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/iqtree/">software</A>)
-
-  - authors: E. Klopf, <U>H.A. Schmidt</U>, S. Clauder-M&uuml;nster, L.M. Steinmetz, and C. Sch&uuml;ller 
-    year: in press
-    title: INO80 represses osmostress induced gene expression by resetting promoter proximal nucleosomes.
-    journal: <EM>Nucleic Acids Res.</em>, 45, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1093/nar/gkw1292">DOI&#58; 10.1093/nar/gkw1292</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28025392">PMID&#58; 28025392</A>)
+#      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors:  A. K&uuml;hbacher, H. Henkel, <U>P. Stevens</U>, C. Grumaz, D. Finkelmeier, A. Burger-Kentischer, K. Sohn, and S. Rupp
     year: in press
     title: Dermal Fibroblasts Play a Central Role in Skin Model Protection against C. albicans Invasion.
     journal: <EM>J. Infect. Dis.</em>, in press.
     links: |
-      (<A HREF="http://dx.doi.org/10.1186/10.1093/infdis/jix153">DOI&#58; 10.1093/infdis/jix153</A>,
+      (<A HREF="http://dx.doi.org/10.1093/infdis/jix153">DOI&#58; 10.1093/infdis/jix153</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28368492">PMID&#58; 28368492</A>)
 
 
 ########### 2017 ###########
+
+  - authors: E. Klopf, <U>H.A. Schmidt</U>, S. Clauder-M&uuml;nster, L.M. Steinmetz, and C. Sch&uuml;ller 
+    year: 2017
+    title: INO80 represses osmostress induced gene expression by resetting promoter proximal nucleosomes.
+    journal: <EM>Nucleic Acids Res.</em>, 45, 3752-3766.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/nar/gkw1292">DOI&#58; 10.1093/nar/gkw1292</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28025392">PMID&#58; 28025392</A>)
 
   - authors: N. Popitsch, I. Bilusic, <U>P. Rescheneder</U>, R. Schroeder, and M. Lybecker
     year: 2017
@@ -122,8 +123,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1101/gr.196220.115">DOI&#58; 10.1101/gr.196220.115</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/26798136">PMID&#58; 26798136</A>)
-      <BR><sup>e</sup>
-      &nbsp;contributed equally
+      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: S. Grumaz<sup>e</sup>, <U>P. Stevens</U><sup>e</sup>, C. Grumaz, S. Decker, M. Weigand, S. Hofer, T. Brenner, <U>A. von Haeseler</U>, and K. Sohn
     year: 2016
