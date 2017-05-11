@@ -34,19 +34,13 @@ publications:
   - authors: L.-T. Nguyen, A. von Haeseler, and B.Q. Minh
     year: submitted
     title: Complex models of sequence evolution require accurate estimators as exemplified with the invariable site plus Gamma model.
-    journal:
+    journal: Syst. Biol.
     links:
-    
-  - authors: S. Kalyaanamoorthy, B.Q. Minh, T.K.F. Wong, A. von Haeseler, L.S. Jermiin
-    year: submitted
-    title: ModelFinder - A model-selection method that greatly improves the accuracy of phylogenetic estimates.
-    journal:
-    links:
-    
+        
   - authors: H.C. Wang, S. Susko, B.Q. Minh, and A.J. Roger
     year: submitted
     title: Modeling site heterogeneity with posterior mean site frequency profiles accelerates accurate phylogenomic estimation.
-    journal:
+    journal: Syst. Biol.
     links:
 
 ---
