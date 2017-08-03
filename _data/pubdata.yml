@@ -60,6 +60,12 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
+  - authors: H.C. Wang<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, S. Susko, and A.J. Roger
+    year: in press
+    title: Modeling site heterogeneity with posterior mean site frequency profiles accelerates accurate phylogenomic estimation.
+    journal: Syst. Biol.
+    links: <sup>e</sup>&nbsp;contributed equally
+
 ########### 2017 ###########
 
   - authors: S. Kalyaanamoorthy<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, T.K.F. Wong<sup>e</sup>, <U>A. von Haeseler</U>, and L.S. Jermiin

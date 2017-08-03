@@ -37,12 +37,6 @@ publications:
     journal: Syst. Biol.
     links:
         
-  - authors: H.C. Wang, B.Q. Minh, S. Susko, and A.J. Roger
-    year: in press
-    title: Modeling site heterogeneity with posterior mean site frequency profiles accelerates accurate phylogenomic estimation.
-    journal: Syst. Biol.
-    links:
-
 ---
 
 
