@@ -32,18 +32,6 @@ publications:
       (<a href="http://dx.doi.org/10.1007/s12253-016-0144-8">DOI&#58; 10.1007/s12253-016-0144-8</a>,
       <a href="http://www.ncbi.nlm.nih.gov/pubmed/27844328">PMID&#58; 27844328</a>)
 
-  - authors: S. Kalyaanamoorthy<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, T.K.F. Wong<sup>e</sup>, <U>A. von Haeseler</U>, and L.S. Jermiin
-    year: in press
-    title: "ModelFinder: Fast Model Selection for Accurate Phylogenetic Estimates."
-    journal: <EM>Nat. Methods</em>, 15, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1038/nmeth.4285">DOI&#58; 10.1038/nmeth.4285</A>,
-      <A HREF="http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4285.html">abstract</A>,
-      <A HREF="http://www.iqtree.org/">software</A>)
-      press release by
-      <A HREF="https://www.mfpl.ac.at/about-us/news/article/news-detail/a-new-tool-to-decipher-evolutionary-biology.html">MFPL</A>
-      <BR><sup>e</sup>&nbsp;contributed equally
-
   - authors:  A. K&uuml;hbacher, H. Henkel, <U>P. Stevens</U>, C. Grumaz, D. Finkelmeier, A. Burger-Kentischer, K. Sohn, and S. Rupp
     year: in press
     title: Dermal Fibroblasts Play a Central Role in Skin Model Protection against C. albicans Invasion.
@@ -73,6 +61,19 @@ publications:
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
 ########### 2017 ###########
+
+  - authors: S. Kalyaanamoorthy<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, T.K.F. Wong<sup>e</sup>, <U>A. von Haeseler</U>, and L.S. Jermiin
+    year: 2017
+    title: "ModelFinder: Fast Model Selection for Accurate Phylogenetic Estimates."
+    journal: <EM>Nat. Methods</em>, 14, 587–589.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/nmeth.4285">DOI&#58; 10.1038/nmeth.4285</A>,
+      <A HREF="http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4285.html">abstract</A>,
+      <A HREF="http://www.iqtree.org/">software</A>)
+      press release by
+      <A HREF="https://www.mfpl.ac.at/about-us/news/article/news-detail/a-new-tool-to-decipher-evolutionary-biology.html">MFPL</A>
+      <BR><sup>e</sup>&nbsp;contributed equally
+
 
   - authors: E. Klopf, <U>H.A. Schmidt</U>, S. Clauder-M&uuml;nster, L.M. Steinmetz, and C. Sch&uuml;ller 
     year: 2017
