@@ -24,39 +24,13 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
-  - authors: F. Enkner, B. Pichlh&ouml;fer, A.T. Zaharie, <u>M. Krunic</u>, T.M. Holper, S. Janik, B. Moser, K. Schlangen, B. Neudert, K. Walter, B. Migschitz, and L. M&uuml;llauer
-    year: in press
-    title: Molecular Profiling of Thymoma and Thymic Carcinoma&#58; Genetic Differences and Potential Novel Therapeutic Targets.
-    journal: <EM>Pathol. Oncol. Res.</em>, in press.
-    links: |
-      (<a href="http://dx.doi.org/10.1007/s12253-016-0144-8">DOI&#58; 10.1007/s12253-016-0144-8</a>,
-      <a href="http://www.ncbi.nlm.nih.gov/pubmed/27844328">PMID&#58; 27844328</a>)
-
-  - authors:  A. K&uuml;hbacher, H. Henkel, <U>P. Stevens</U>, C. Grumaz, D. Finkelmeier, A. Burger-Kentischer, K. Sohn, and S. Rupp
-    year: in press
-    title: Dermal Fibroblasts Play a Central Role in Skin Model Protection against C. albicans Invasion.
-    journal: <EM>J. Infect. Dis.</em>, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1093/infdis/jix153">DOI&#58; 10.1093/infdis/jix153</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28368492">PMID&#58; 28368492</A>)
-
   - authors: O. Ratmann, C. Wymant, C. Colijn, S. Danaviah, M. Essex, S.D.W. Frost, A. Gall, S. Gaiseitsiwe, M. Grabowski, R. Gray, S. Guindon, <U>A. von Haeseler</U>, P. Kaleebu, M. Kendall, A. Kozlov, J. Manasa, <U>B.Q. Minh</U>, S. Moyo, V. Novitsky, R. Nsubuga, S. Pillay, T.C. Quinn, D. Serwadda, D. Ssemwanga, A. Stamatakis, <U>J. Trifinopoulos</U>, M. Wawer, A. Leigh Brown, T. de Oliveira, P. Kellam, D. Pillay, and C. Fraser
     year: in press
     title: HIV-1 full-genome phylogenetics of generalized epidemics in sub-Saharan Africa&#58; impact of missing nucleotide characters in next-generation sequences.
     journal: <EM>AIDS Res. Hum. Retrovir.</em>, 33, in press.
     links: |
-      (<A HREF="http://dx.doi.org/10.1186/10.1089/AID.2017.0061">DOI&#58; 10.1089/AID.2017.0061</A>,
+      (<A HREF="http://dx.doi.org/10.1089/AID.2017.0061">DOI&#58; 10.1089/AID.2017.0061</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28540766">PMID&#58; 28540766</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-
-  - authors: N. Sedlyarova, <U>P. Rescheneder</U>, A. Mag&aacute;n, N. Popitsch, N. Rziha, I. Bilusic, V. Epshtein, B. Zimmermann, M. Lybecker, V. Sedlyarov, R. Schroeder, and E. Nudler
-    year: in press
-    title: Natural RNA polymerase aptamers regulate transcription in E. coli.
-    journal: <EM>Mol. Cell</em>, in press.
-#    links: |
-#      (<A HREF="http://dx.doi.org/10.1186/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
@@ -64,9 +38,22 @@ publications:
     year: in press
     title: Modeling site heterogeneity with posterior mean site frequency profiles accelerates accurate phylogenomic estimation.
     journal: Syst. Biol.
-    links: <sup>e</sup>&nbsp;contributed equally
+    links: |
+#      (<A HREF="http://dx.doi.org/10.1186/XXXXX">DOI&#58; XXXXX</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+      <BR><sup>e</sup>&nbsp;contributed equally
 
 ########### 2017 ###########
+
+  - authors: F. Enkner, B. Pichlh&ouml;fer, A.T. Zaharie, <u>M. Krunic</u>, T.M. Holper, S. Janik, B. Moser, K. Schlangen, B. Neudert, K. Walter, B. Migschitz, and L. M&uuml;llauer
+    year: 2017
+    title: Molecular Profiling of Thymoma and Thymic Carcinoma&#58; Genetic Differences and Potential Novel Therapeutic Targets.
+    journal: <EM>Pathol. Oncol. Res.</em>, 23, 551–564.
+    links: |
+      (<a href="http://dx.doi.org/10.1007/s12253-016-0144-8">DOI&#58; 10.1007/s12253-016-0144-8</a>,
+      <a href="http://www.ncbi.nlm.nih.gov/pubmed/27844328">PMID&#58; 27844328</a>)
 
   - authors: S. Kalyaanamoorthy<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, T.K.F. Wong<sup>e</sup>, <U>A. von Haeseler</U>, and L.S. Jermiin
     year: 2017
@@ -80,7 +67,6 @@ publications:
       <A HREF="https://www.mfpl.ac.at/about-us/news/article/news-detail/a-new-tool-to-decipher-evolutionary-biology.html">MFPL</A>
       <BR><sup>e</sup>&nbsp;contributed equally
 
-
   - authors: E. Klopf, <U>H.A. Schmidt</U>, S. Clauder-M&uuml;nster, L.M. Steinmetz, and C. Sch&uuml;ller 
     year: 2017
     title: INO80 represses osmostress induced gene expression by resetting promoter proximal nucleosomes.
@@ -88,6 +74,14 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1093/nar/gkw1292">DOI&#58; 10.1093/nar/gkw1292</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28025392">PMID&#58; 28025392</A>)
+
+  - authors:  A. K&uuml;hbacher, H. Henkel, <U>P. Stevens</U>, C. Grumaz, D. Finkelmeier, A. Burger-Kentischer, K. Sohn, and S. Rupp
+    year: 2017
+    title: Dermal Fibroblasts Play a Central Role in Skin Model Protection against C. albicans Invasion.
+    journal: <EM>J. Infect. Dis.</em>, 215, 1742–1752.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/infdis/jix153">DOI&#58; 10.1093/infdis/jix153</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28368492">PMID&#58; 28368492</A>)
 
   - authors: N. Popitsch, I. Bilusic, <U>P. Rescheneder</U>, R. Schroeder, and M. Lybecker
     year: 2017
@@ -104,6 +98,16 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1089/cmb.2016.0096">DOI&#58; 10.1089/cmb.2016.0096</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27661099">PMID&#58; 27661099</A>)
+
+  - authors: N. Sedlyarova, <U>P. Rescheneder</U>, A. Mag&aacute;n, N. Popitsch, N. Rziha, I. Bilusic, V. Epshtein, B. Zimmermann, M. Lybecker, V. Sedlyarov, R. Schroeder, and E. Nudler
+    year: 2017
+    title: Natural RNA polymerase aptamers regulate transcription in E. coli.
+    journal: <EM>Mol. Cell</em>, 67, 30-43.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1186/10.1016/j.molcel.2017.05.025">DOI&#58; 10.1016/j.molcel.2017.05.025</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28648779">PMID&#58; 28648779</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC5535762">PMCID&#58; PMC5535762</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
 
 ########### 2016 ###########
