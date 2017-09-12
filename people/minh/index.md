@@ -34,9 +34,27 @@ publications:
   - authors: L.-T. Nguyen, A. von Haeseler, and B.Q. Minh
     year: submitted
     title: Complex models of sequence evolution require accurate estimators as exemplified with the invariable site plus Gamma model.
-    journal: Syst. Biol.
-    links:
-        
+    journal: <EM>Syst. Biol.</EM>
+    links: <A href="https://doi.org/10.1101/185652">Preprint</A>
+
+  - authors: D.T. Hoang, O. Chernomor, A. von Haeseler, B.Q. Minh<sup>c</sup>, and L.S. Vinh<sup>c</sup>
+    year: submitted
+    title: "UFBoot2: Improving the ultrafast bootstrap approximation."
+    journal: <EM>Mol. Biol. Evol.</EM>
+    links: <sup>c</sup>corresponding author. <A href="https://doi.org/10.1101/153916">Preprint</A>
+
+  - authors: D.T. Hoang, L.S. Vinh, T. Flouri, A. Stamatakis, A. von Haeseler, and B.Q. Minh
+    year: submitted
+    title: "MPBoot: Novel and fast approximation for maximum parsimony bootstrap."
+    journal: <EM>BMC. Evol. Biol.</EM>
+    links: 
+
+  - authors: S.M. Crotty<sup>e</sup>, B.Q. Minh<sup>e</sup>, N.G. Bean, B.R. Holland, J. Tuke, L.S. Jermiin, and A. von Haeseler
+    year: submitted
+    title: "GHOST: Recovering historical signal from heterotachously-evolved sequence alignments."
+    journal: <EM>Syst. Biol.</EM>
+    links: <sup>e</sup> equal contribution. <A href="https://doi.org/10.1101/174789">Preprint</A>
+
 ---
 
 
