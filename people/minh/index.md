@@ -4,7 +4,7 @@ layout: personalpage
 
 # name, appeared as title of the personal page as well
 title: Bui Quang Minh
-date: 2016-11-18
+date: 2017-09-12
 
 #either Head, Postdoc, PhD student, or Student
 position: Postdoc
