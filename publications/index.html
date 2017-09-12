@@ -6,7 +6,7 @@ title: Publications
 {% assign this_year = "" %}
 {% for pub in site.data.pubdata.publications %}
 {% if pub.year != this_year %}
-    {% if this_year != "" "%}
+    {% if this_year != "" %}
     </ul>
     {% endif %}
     {% assign this_year = pub.year %}
