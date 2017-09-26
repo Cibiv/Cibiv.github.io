@@ -250,12 +250,13 @@ publications:
       (<A HREF="http://dx.doi.org/10.1098/rspb.2015.0746">DOI&#58; 10.1098/rspb.2015.0746</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/26354934">PMID&#58; 26354934</A>)
 
-  - authors: <u>O. Chernomor</u>, <u>B.Q. Minh</u>, F. Forest, S. Klaere, T. Ingram, M. Henzinger, and <u>A. von Haeseler</u>
+  - authors: <u>O. Chernomor</u>, <u>B.Q. Minh</u><sup>c</sup>, F. Forest, S. Klaere, T. Ingram, M. Henzinger, and <u>A. von Haeseler</u>
     year: 2015
     title: Split Diversity in Constrained Conservation Prioritization using Integer Linear Programming.
     journal: <EM>Methods Ecol. Evol.</em>, 6, 83-91.
     links: |
-      (<A HREF="http://dx.doi.org/10.1111/2041-210X.12299">DOI&#58; 10.1111/2041-210X.12299</A>)
+      (<A HREF="http://dx.doi.org/10.1111/2041-210X.12299">DOI&#58; 10.1111/2041-210X.12299</A>),
+      <sup>c</sup></b>&nbsp;corresponding author
 
   - authors: <u>O. Chernomor</u>, <u>B.Q. Minh</u>, and <u>A. von Haeseler</u>
     year: 2015
