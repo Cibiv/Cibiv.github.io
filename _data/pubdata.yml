@@ -36,10 +36,8 @@ publications:
     title: Thiol-linked alkylation for the metabolic sequencing of RNA. 
     journal: <EM>Nat. Methods</EM>, in press.
     links: |
-       (<A HREF="http://dx.doi.org/10.1038/nMeth.4435">DOI&#58; 10.1038/nMeth.4435</A>)
-#      <A HREF="http://www.iqtree.org/">software</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+       (<A HREF="http://dx.doi.org/10.1038/nMeth.4435">DOI&#58; 10.1038/nMeth.4435</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28945705">PMID&#58; 28945705</A>)
 
   - authors: O. Ratmann, C. Wymant, C. Colijn, S. Danaviah, M. Essex, S.D.W. Frost, A. Gall, S. Gaiseitsiwe, M. Grabowski, R. Gray, S. Guindon, <U>A. von Haeseler</U>, P. Kaleebu, M. Kendall, A. Kozlov, J. Manasa, <U>B.Q. Minh</U>, S. Moyo, V. Novitsky, R. Nsubuga, S. Pillay, T.C. Quinn, D. Serwadda, D. Ssemwanga, A. Stamatakis, <U>J. Trifinopoulos</U>, M. Wawer, A. Leigh Brown, T. de Oliveira, P. Kellam, D. Pillay, and C. Fraser
     year: in press
@@ -48,8 +46,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1089/AID.2017.0061">DOI&#58; 10.1089/AID.2017.0061</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28540766">PMID&#58; 28540766</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
   - authors: H.C. Wang<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, S. Susko, and A.J. Roger
     year: in press
@@ -58,9 +54,8 @@ publications:
     links: |
        <BR><sup>e</sup>&nbsp;contributed equally
        (<A HREF="http://dx.doi.org/10.1093/sysbio/syx068">DOI&#58; 10.1093/sysbio/syx068</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28950365">PMID&#58; 28950365</A>,
        <A HREF="http://www.iqtree.org/">software</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 
 
 ########### 2017 ###########
@@ -1093,8 +1088,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1128/JB.00923-09">DOI&#58; 10.1128/JB.00923-09</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/19783626">PMID&#58; 19783626</A>)
-      <BR><sup>e</sup>
-      &nbsp;contributed equally, <sup>c</sup></b>&nbsp;corresponding author
+      <BR><sup>e</sup>&nbsp;contributed equally, <sup>c</sup></b>&nbsp;corresponding author
 
   - authors: <u>A. Kupczok</u> and <u>A. von Haeseler</u>
     year: 2009
