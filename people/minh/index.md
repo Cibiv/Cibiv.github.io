@@ -37,12 +37,6 @@ publications:
     journal: <EM>Syst. Biol.</EM>
     links: <A href="https://doi.org/10.1101/185652">Preprint</A>
 
-  - authors: D.T. Hoang, O. Chernomor, A. von Haeseler, B.Q. Minh<sup>c</sup>, and L.S. Vinh<sup>c</sup>
-    year: submitted
-    title: "UFBoot2: Improving the ultrafast bootstrap approximation."
-    journal: <EM>Mol. Biol. Evol.</EM>
-    links: <sup>c</sup>corresponding author. <A href="https://doi.org/10.1101/153916">Preprint</A>
-
   - authors: D.T. Hoang, L.S. Vinh, T. Flouri, A. Stamatakis, A. von Haeseler, and B.Q. Minh
     year: submitted
     title: "MPBoot: Novel and fast approximation for maximum parsimony bootstrap."
