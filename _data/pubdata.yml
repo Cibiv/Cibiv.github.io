@@ -24,11 +24,13 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
-  - authors: D.T. Hoang, <U>O. Chernomor</U>, <U>A. von Haeseler</U>, <U>B.Q. Minh</U><sup>c</sup>, and L.S. Vinh<sup>c</sup>
+  - authors: D.T. Hoang<sup>e</sup>, <U>O. Chernomor</U><sup>e</sup>, <U>A. von Haeseler</U>, <U>B.Q. Minh</U><sup>c</sup>, and L.S. Vinh<sup>c</sup>
     year: in press
     title: "UFBoot2: Improving the ultrafast bootstrap approximation."
     journal: <EM>Mol. Biol. Evol.</EM>, in press.
-    links: <sup>c</sup>corresponding author. <A href="https://doi.org/10.1101/153916">Preprint</A>
+    links: |
+        <BR><sup>e</sup>&nbsp;contributed equally, <sup>c</sup>corresponding author.
+        <A href="https://doi.org/10.1101/153916">Preprint</A>
 
 
   - authors: V.A. Herzog, B. Reichholf, T. Neumann, <U>P. Rescheneder</U>, P. Bhat, T.R. Burkard, W. Wlotzka, <U>A. von Haeseler</U>, J. Zuber, and S.L. Ameres
