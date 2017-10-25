@@ -34,7 +34,7 @@ publications:
 
   - authors: D.T. Hoang<sup>e</sup>, <U>O. Chernomor</U><sup>e</sup>, <U>A. von Haeseler</U>, <U>B.Q. Minh</U><sup>c</sup>, and L.S. Vinh<sup>c</sup>
     year: in press
-    title: "UFBoot2: Improving the ultrafast bootstrap approximation."
+    title: UFBoot2&#58; Improving the ultrafast bootstrap approximation.
     journal: <EM>Mol. Biol. Evol.</EM>, in press.
     links: |
 #      (<A HREF="http://dx.doi.org/10.1186/XXXXX">DOI&#58; XXXXX</A>,
