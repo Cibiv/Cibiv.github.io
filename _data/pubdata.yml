@@ -36,7 +36,7 @@ publications:
     year: in press
     title: UFBoot2&#58; Improving the ultrafast bootstrap approximation.
     journal: <EM>Mol. Biol. Evol.</EM>, in press.
-    links: | <sup>e</sup>&nbsp;contributed equally, <sup>c</sup>corresponding author.
+    links: | <sup>e</sup>&nbsp;contributed equally, <sup>c</sup>&nbsp;corresponding author.
 #      (<A HREF="http://dx.doi.org/10.1186/XXXXX">DOI&#58; XXXXX</A>,
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A href="https://doi.org/10.1101/153916">Preprint</A>
@@ -64,10 +64,10 @@ publications:
     title: Modeling site heterogeneity with posterior mean site frequency profiles accelerates accurate phylogenomic estimation.
     journal: <EM>Syst. Biol.</EM>, in press.
     links: |
-       <BR><sup>e</sup>&nbsp;contributed equally
        (<A HREF="http://dx.doi.org/10.1093/sysbio/syx068">DOI&#58; 10.1093/sysbio/syx068</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28950365">PMID&#58; 28950365</A>,
        <A HREF="http://www.iqtree.org/">software</A>)
+       <BR><sup>e</sup>&nbsp;contributed equally
 
 
 ########### 2017 ###########
@@ -190,8 +190,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1186/s13073-016-0326-8">DOI&#58; 10.1186/s13073-016-0326-8</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27368373">PMID&#58; 27368373</A>)
-      <BR><sup>e</sup>
-      &nbsp;contributed equally
+      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: D.T. Hoang, L.S. Vinh, T. Flouri, A. Stamatakis, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: 2016
@@ -336,8 +335,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1186/s12917-015-0378-9">DOI&#58; 10.1186/s12917-015-0378-9</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/25879730">PMID&#58; 25879730</A>)
-      <BR><sup>e</sup>
-      &nbsp;contributed equally
+      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: D.T. Nguyen, T.M.T. Pham, T.H. Dang, H.A.T. Nguyen, S.Q. Le, <u>B.Q. Minh</u>, Q.M. Dao, B.S Pham, and L.S. Vinh
     year: 2015
@@ -434,8 +432,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1093/molbev/mst196">DOI&#58; 10.1093/molbev/mst196</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/24140757">PMID&#58; 24140757</A>)
-      <BR><sup>e</sup>
-      &nbsp;contributed equally
+      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: L. Demmel, K. Schmidt, L. Lucast, K. Havlicek, A. Zankel, <u>T. Koestler</u>, V. Reithofer, P. de Camilli, and G. Warren
     year: 2014
@@ -589,8 +586,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1038/nm.3142">DOI&#58; 10.1038/nm.3142</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/23502960">PMID&#58; 23502960</A>)
-      <BR><sup>e</sup>
-      &nbsp;contributed equally
+      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: E. Giannoulatou, G. McVean, I.B. Taylor, S.J. McGowan, G.J. Maher, Z. Iqbal, <u>S.P. Pfeifer</u>, I. Turner, E.M.M. Burkitt Wright, J. Shorto, A. Itani, K. Turner, L. Gregory, D. Buck, E. Rajpert-De Meyts, L.H.J. Looijenga, B. Kerr, A.O.M. Wilkie, and Anne Goriely
     year: 2013
@@ -685,8 +681,7 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/bioinformatics/btt468">DOI&#58; 10.1093/bioinformatics/btt468</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/23975764">PMID&#58; 23975764</A>,
       <A HREF="http://www.cibiv.at/software/ngm/NGM/">software</A>)
-      <BR><sup>e</sup>
-      &nbsp;contributed equally
+      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: <u>F.J. Sedlazeck</u>, P. Talloji, <u>A. von Haeseler</u>, and A. Bachmair
     year: 2013
@@ -732,8 +727,7 @@ publications:
       (<A HREF="http://dx.doi.org/10.1371/journal.pone.0041528">DOI&#58; 10.1371/journal.pone.0041528</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/22911809">PMID&#58; 22911809</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC3401099">PMCID&#58; PMC3401099</A>)
-      <BR><sup>e</sup>
-      &nbsp;contributed equally
+      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: <u>I. Ebersberger</u>, R. de Matos Simoes, A. Kupczok, M. Gube, E. Kothe, K. Voigt, and <u>A. von Haeseler</u>
     year: 2012
@@ -872,8 +866,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1101/gr.133025.111">DOI&#58; 10.1101/gr.133025.111</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/22310477">PMID&#58; 22310477</A>)
-      <BR><sup>e</sup>
-      &nbsp;contributed equally
+      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: J.O. Yanez-Cuna, <u>H.Q. Dinh</u>, E.Z. Kvon, D. Shlyueva, and A. Stark
     year: 2012
@@ -1055,8 +1048,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1371/journal.pone.0009169">DOI&#58; 10.1371/journal.pone.0009169</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/20161784">PMID&#58; 20161784</A>)
-      <BR><sup>e</sup>
-      &nbsp;contributed equally
+      <BR><sup>e</sup>&nbsp;contributed equally
 
 
 ########### 2009 ###########
@@ -1100,7 +1092,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1128/JB.00923-09">DOI&#58; 10.1128/JB.00923-09</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/19783626">PMID&#58; 19783626</A>)
-      <BR><sup>e</sup>&nbsp;contributed equally, <sup>c</sup></b>&nbsp;corresponding author
+      <BR><sup>e</sup>&nbsp;contributed equally, <sup>c</sup>&nbsp;corresponding author
 
   - authors: <u>A. Kupczok</u> and <u>A. von Haeseler</u>
     year: 2009
@@ -1156,8 +1148,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1186/1741-7007-7-68">DOI&#58; 10.1186/1741-7007-7-68</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/19821963">PMID&#58; 19821963</A>)
-      <BR><sup>e</sup>
-      &nbsp;contributed equally
+      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: <u>H.A. Schmidt</u>
     year: 2009
