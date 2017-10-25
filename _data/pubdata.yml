@@ -36,11 +36,11 @@ publications:
     year: in press
     title: UFBoot2&#58; Improving the ultrafast bootstrap approximation.
     journal: <EM>Mol. Biol. Evol.</EM>, in press.
-    links: |
-        <BR><sup>e</sup>&nbsp;contributed equally, <sup>c</sup>corresponding author.
+    links: | <sup>e</sup>&nbsp;contributed equally, <sup>c</sup>corresponding author.
 #      (<A HREF="http://dx.doi.org/10.1186/XXXXX">DOI&#58; XXXXX</A>,
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A href="https://doi.org/10.1101/153916">Preprint</A>
+#        <BR><sup>e</sup>&nbsp;contributed equally, <sup>c</sup>corresponding author.
 
   - authors: D. Mail&auml;nder-S&eacute;nchez, C. Braunsdorf, C. Grumaz, C. M&uuml;ller, S. Lorenz, <U>P. Stevens</U>, J. Wagener, B. Hebecker, B. Hube, F. Bracher, K. Sohn, and M. Schaller
     year: in press
