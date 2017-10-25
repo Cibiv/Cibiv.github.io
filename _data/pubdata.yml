@@ -8,7 +8,7 @@ publications:
 #    title: TTTT.
 #    journal: <EM>Proceedings of the 8th International Conference on Knowledge and Systems Engeneering - KSE-2016</em> (Hanoi, Vietnam), 1-6, IEEE Computer Society, Piscataway, NJ, USA.
 #    links: |
-#      (<A HREF="http://dx.doi.org/10.1186/XXXXX">DOI&#58; XXXXX</A>)
+#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>)
 #
 ### article template (11 lines)
 #  - authors: N. Popitsch, <U>P. Rescheneder</U>, and <U>A. von Haeseler</U>
@@ -16,7 +16,7 @@ publications:
 #    title: TTTT.
 #    journal: <EM>JJJJ</em>, 15, 725.
 #    links: |
-#      (<A HREF="http://dx.doi.org/10.1186/XXXXX">DOI&#58; XXXXX</A>,
+#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
@@ -48,7 +48,7 @@ publications:
     title: Antifungal defense of probiotic Lactobacillus rhamnosus GG is mediated by blocking adhesion and nutrient depletion.
     journal: <EM>PLoS</em>, 12, e0184438.
     links: |
-      (<A HREF="http://dx.doi.org/10.1186/10.1371/journal.pone.0184438">DOI&#58; 10.1371/journal.pone.0184438</A>,
+      (<A HREF="http://dx.doi.org/10.1371/journal.pone.0184438">DOI&#58; 10.1371/journal.pone.0184438</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29023454">PMID&#58; 29023454</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC5638248">PMCID&#58; PMC5638248</A>)
 
@@ -131,7 +131,7 @@ publications:
     title: Natural RNA polymerase aptamers regulate transcription in E. coli.
     journal: <EM>Mol. Cell</em>, 67, 30-43.
     links: |
-      (<A HREF="http://dx.doi.org/10.1186/10.1016/j.molcel.2017.05.025">DOI&#58; 10.1016/j.molcel.2017.05.025</A>,
+      (<A HREF="http://dx.doi.org/10.1016/j.molcel.2017.05.025">DOI&#58; 10.1016/j.molcel.2017.05.025</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28648779">PMID&#58; 28648779</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC5535762">PMCID&#58; PMC5535762</A>)
 
