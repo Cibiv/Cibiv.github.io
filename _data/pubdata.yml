@@ -24,15 +24,6 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
-  - authors: D.T. Hoang<sup>e</sup>, <U>O. Chernomor</U><sup>e</sup>, <U>A. von Haeseler</U>, <U>B.Q. Minh</U><sup>c</sup>, and L.S. Vinh<sup>c</sup>
-    year: in press
-    title: "UFBoot2: Improving the ultrafast bootstrap approximation."
-    journal: <EM>Mol. Biol. Evol.</EM>, in press.
-    links: |
-        <BR><sup>e</sup>&nbsp;contributed equally, <sup>c</sup>corresponding author.
-        <A href="https://doi.org/10.1101/153916">Preprint</A>
-
-
   - authors: V.A. Herzog, B. Reichholf, T. Neumann, <U>P. Rescheneder</U>, P. Bhat, T.R. Burkard, W. Wlotzka, <U>A. von Haeseler</U>, J. Zuber, and S.L. Ameres
     year: in press
     title: Thiol-linked alkylation for the metabolic sequencing of RNA. 
@@ -40,6 +31,25 @@ publications:
     links: |
        (<A HREF="http://dx.doi.org/10.1038/nMeth.4435">DOI&#58; 10.1038/nMeth.4435</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28945705">PMID&#58; 28945705</A>)
+
+  - authors: D.T. Hoang<sup>e</sup>, <U>O. Chernomor</U><sup>e</sup>, <U>A. von Haeseler</U>, <U>B.Q. Minh</U><sup>c</sup>, and L.S. Vinh<sup>c</sup>
+    year: in press
+    title: "UFBoot2: Improving the ultrafast bootstrap approximation."
+    journal: <EM>Mol. Biol. Evol.</EM>, in press.
+    links: |
+#      (<A HREF="http://dx.doi.org/10.1186/XXXXX">DOI&#58; XXXXX</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A href="https://doi.org/10.1101/153916">Preprint</A>
+        <BR><sup>e</sup>&nbsp;contributed equally, <sup>c</sup>corresponding author.
+
+  - authors: D. Mail&auml;nder-S&eacute;nchez, C. Braunsdorf, C. Grumaz, C. M&uuml;ller, S. Lorenz, <U>P. Stevens</U>, J. Wagener, B. Hebecker, B. Hube, F. Bracher, K. Sohn, and M. Schaller
+    year: in press
+    title: Antifungal defense of probiotic Lactobacillus rhamnosus GG is mediated by blocking adhesion and nutrient depletion.
+    journal: <EM>PLoS</em>, 12, e0184438.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1186/10.1371/journal.pone.0184438">DOI&#58; 10.1371/journal.pone.0184438</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29023454">PMID&#58; 29023454</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC5638248">PMCID&#58; PMC5638248</A>)
 
   - authors: O. Ratmann, C. Wymant, C. Colijn, S. Danaviah, M. Essex, S.D.W. Frost, A. Gall, S. Gaiseitsiwe, M. Grabowski, R. Gray, S. Guindon, <U>A. von Haeseler</U>, P. Kaleebu, M. Kendall, A. Kozlov, J. Manasa, <U>B.Q. Minh</U>, S. Moyo, V. Novitsky, R. Nsubuga, S. Pillay, T.C. Quinn, D. Serwadda, D. Ssemwanga, A. Stamatakis, <U>J. Trifinopoulos</U>, M. Wawer, A. Leigh Brown, T. de Oliveira, P. Kellam, D. Pillay, and C. Fraser
     year: in press
