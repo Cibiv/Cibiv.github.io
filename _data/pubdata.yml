@@ -52,14 +52,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29023454">PMID&#58; 29023454</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC5638248">PMCID&#58; PMC5638248</A>)
 
-  - authors: O. Ratmann, C. Wymant, C. Colijn, S. Danaviah, M. Essex, S.D.W. Frost, A. Gall, S. Gaiseitsiwe, M. Grabowski, R. Gray, S. Guindon, <U>A. von Haeseler</U>, P. Kaleebu, M. Kendall, A. Kozlov, J. Manasa, <U>B.Q. Minh</U>, S. Moyo, V. Novitsky, R. Nsubuga, S. Pillay, T.C. Quinn, D. Serwadda, D. Ssemwanga, A. Stamatakis, <U>J. Trifinopoulos</U>, M. Wawer, A. Leigh Brown, T. de Oliveira, P. Kellam, D. Pillay, and C. Fraser
-    year: in press
-    title: HIV-1 full-genome phylogenetics of generalized epidemics in sub-Saharan Africa&#58; impact of missing nucleotide characters in next-generation sequences.
-    journal: <EM>AIDS Res. Hum. Retrovir.</em>, 33, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1089/AID.2017.0061">DOI&#58; 10.1089/AID.2017.0061</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28540766">PMID&#58; 28540766</A>)
-
   - authors: H.C. Wang<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, S. Susko, and A.J. Roger
     year: in press
     title: Modeling site heterogeneity with posterior mean site frequency profiles accelerates accurate phylogenomic estimation.
@@ -125,6 +117,14 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1089/cmb.2016.0096">DOI&#58; 10.1089/cmb.2016.0096</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27661099">PMID&#58; 27661099</A>)
+
+  - authors: O. Ratmann, C. Wymant, C. Colijn, S. Danaviah, M. Essex, S.D.W. Frost, A. Gall, S. Gaiseitsiwe, M. Grabowski, R. Gray, S. Guindon, <U>A. von Haeseler</U>, P. Kaleebu, M. Kendall, A. Kozlov, J. Manasa, <U>B.Q. Minh</U>, S. Moyo, V. Novitsky, R. Nsubuga, S. Pillay, T.C. Quinn, D. Serwadda, D. Ssemwanga, A. Stamatakis, <U>J. Trifinopoulos</U>, M. Wawer, A. Leigh Brown, T. de Oliveira, P. Kellam, D. Pillay, and C. Fraser
+    year: 2017
+    title: HIV-1 full-genome phylogenetics of generalized epidemics in sub-Saharan Africa&#58; impact of missing nucleotide characters in next-generation sequences.
+    journal: <EM>AIDS Res. Hum. Retrovir.</em>, 33, 1083-1098.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1089/AID.2017.0061">DOI&#58; 10.1089/AID.2017.0061</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28540766">PMID&#58; 28540766</A>)
 
   - authors: N. Sedlyarova, <U>P. Rescheneder</U>, A. Mag&aacute;n, N. Popitsch, N. Rziha, I. Bilusic, V. Epshtein, B. Zimmermann, M. Lybecker, V. Sedlyarov, R. Schroeder, and E. Nudler
     year: 2017
