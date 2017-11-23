@@ -52,7 +52,7 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29023454">PMID&#58; 29023454</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC5638248">PMCID&#58; PMC5638248</A>)
 
-  - authors: <U>L.-T. Nguyen</U>, <U>A. von Haeseler, and <U>B.Q. Minh</U>
+  - authors: <U>L.-T. Nguyen</U>, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: in press
     title: Complex models of sequence evolution require accurate estimators as exemplified with the invariable site plus Gamma model.
     journal: <EM>Syst. Biol.</EM>, in press.
