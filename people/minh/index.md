@@ -31,11 +31,6 @@ address: |
 
 # additional publications (e.g. before CIBIV)
 publications:
-  - authors: L.-T. Nguyen, A. von Haeseler, and B.Q. Minh
-    year: submitted
-    title: Complex models of sequence evolution require accurate estimators as exemplified with the invariable site plus Gamma model.
-    journal: <EM>Syst. Biol.</EM>
-    links: <A href="https://doi.org/10.1101/185652">Preprint</A>
 
   - authors: D.T. Hoang, L.S. Vinh, T. Flouri, A. Stamatakis, A. von Haeseler, and B.Q. Minh
     year: submitted
