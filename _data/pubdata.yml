@@ -37,20 +37,9 @@ publications:
     title: UFBoot2&#58; Improving the ultrafast bootstrap approximation.
     journal: <EM>Mol. Biol. Evol.</EM>, in press.
     links: |
-       (<A HREF="http://dx.doi.org/10.1093/molbev/msx281">DOI&#58; 10.1093/molbev/msx281</A>)
+       (<A HREF="http://dx.doi.org/10.1093/molbev/msx281">DOI&#58; 10.1093/molbev/msx281</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29077904">PMID&#58; 29077904</A>)
        <BR><sup>e</sup>&nbsp;contributed equally, <sup>c</sup>&nbsp;corresponding authors.
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A href="https://doi.org/10.1101/153916">Preprint</A>
-#        <BR><sup>e</sup>&nbsp;contributed equally, <sup>c</sup>corresponding author.
-
-  - authors: D. Mail&auml;nder-S&eacute;nchez, C. Braunsdorf, C. Grumaz, C. M&uuml;ller, S. Lorenz, <U>P. Stevens</U>, J. Wagener, B. Hebecker, B. Hube, F. Bracher, K. Sohn, and M. Schaller
-    year: in press
-    title: Antifungal defense of probiotic Lactobacillus rhamnosus GG is mediated by blocking adhesion and nutrient depletion.
-    journal: <EM>PLoS</em>, 12, e0184438.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1371/journal.pone.0184438">DOI&#58; 10.1371/journal.pone.0184438</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29023454">PMID&#58; 29023454</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC5638248">PMCID&#58; PMC5638248</A>)
 
   - authors: <U>L.-T. Nguyen</U>, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: in press
@@ -111,6 +100,15 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1093/infdis/jix153">DOI&#58; 10.1093/infdis/jix153</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28368492">PMID&#58; 28368492</A>)
+
+  - authors: D. Mail&auml;nder-S&eacute;nchez, C. Braunsdorf, C. Grumaz, C. M&uuml;ller, S. Lorenz, <U>P. Stevens</U>, J. Wagener, B. Hebecker, B. Hube, F. Bracher, K. Sohn, and M. Schaller
+    year: 2017
+    title: Antifungal defense of probiotic Lactobacillus rhamnosus GG is mediated by blocking adhesion and nutrient depletion.
+    journal: <EM>PLoS</em>, 12, e0184438.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1371/journal.pone.0184438">DOI&#58; 10.1371/journal.pone.0184438</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29023454">PMID&#58; 29023454</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC5638248">PMCID&#58; PMC5638248</A>)
 
   - authors: N. Popitsch, I. Bilusic, <U>P. Rescheneder</U>, R. Schroeder, and M. Lybecker
     year: 2017
