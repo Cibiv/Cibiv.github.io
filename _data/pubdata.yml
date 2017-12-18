@@ -45,11 +45,10 @@ publications:
     year: in press
     title: Complex models of sequence evolution require accurate estimators as exemplified with the invariable site plus Gamma model.
     journal: <EM>Syst. Biol.</EM>, in press.
-#    links: |
-#       (<A HREF="http://dx.doi.org/10.1093/sysbio/syx068">DOI&#58; 10.1093/sysbio/syx068</A>,
-#       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28950365">PMID&#58; 28950365</A>,
-#       <A HREF="http://www.iqtree.org/">software</A>)
-#       <BR><sup>e</sup>&nbsp;contributed equally
+    links: |
+       (<A HREF="http://dx.doi.org/10.1093/sysbio/syx092">DOI&#58; 10.1093/sysbio/syx092</A>,
+        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29186593">PMID&#58; 29186593</A>,
+        <A HREF="http://www.iqtree.org/">software</A>)
 
   - authors: H.C. Wang<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, S. Susko, and A.J. Roger
     year: in press
