@@ -24,14 +24,6 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
-  - authors: V.A. Herzog, B. Reichholf, T. Neumann, <U>P. Rescheneder</U>, P. Bhat, T.R. Burkard, W. Wlotzka, <U>A. von Haeseler</U>, J. Zuber, and S.L. Ameres
-    year: in press
-    title: Thiol-linked alkylation for the metabolic sequencing of RNA. 
-    journal: <EM>Nat. Methods</EM>, in press.
-    links: |
-       (<A HREF="http://dx.doi.org/10.1038/nMeth.4435">DOI&#58; 10.1038/nMeth.4435</A>,
-       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28945705">PMID&#58; 28945705</A>)
-
   - authors: D.T. Hoang<sup>e</sup>, <U>O. Chernomor</U><sup>e</sup>, <U>A. von Haeseler</U>, <U>B.Q. Minh</U><sup>c</sup>, and L.S. Vinh<sup>c</sup>
     year: in press
     title: UFBoot2&#58; Improving the ultrafast bootstrap approximation.
@@ -70,6 +62,14 @@ publications:
     links: |
       (<a href="http://dx.doi.org/10.1007/s12253-016-0144-8">DOI&#58; 10.1007/s12253-016-0144-8</a>,
       <a href="http://www.ncbi.nlm.nih.gov/pubmed/27844328">PMID&#58; 27844328</a>)
+
+  - authors: V.A. Herzog, B. Reichholf, T. Neumann, <U>P. Rescheneder</U>, P. Bhat, T.R. Burkard, W. Wlotzka, <U>A. von Haeseler</U>, J. Zuber, and S.L. Ameres
+    year: 2017
+    title: Thiol-linked alkylation for the metabolic sequencing of RNA. 
+    journal: <EM>Nat. Methods</EM>, 14, 1198-1204.
+    links: |
+       (<A HREF="http://dx.doi.org/10.1038/nMeth.4435">DOI&#58; 10.1038/nMeth.4435</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/28945705">PMID&#58; 28945705</A>)
 
   - authors: S. Kalyaanamoorthy<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, T.K.F. Wong<sup>e</sup>, <U>A. von Haeseler</U>, and L.S. Jermiin
     year: 2017
