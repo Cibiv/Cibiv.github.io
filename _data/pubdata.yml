@@ -24,15 +24,6 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
-  - authors: D.T. Hoang<sup>e</sup>, <U>O. Chernomor</U><sup>e</sup>, <U>A. von Haeseler</U>, <U>B.Q. Minh</U><sup>c</sup>, and L.S. Vinh<sup>c</sup>
-    year: in press
-    title: UFBoot2&#58; Improving the ultrafast bootstrap approximation.
-    journal: <EM>Mol. Biol. Evol.</EM>, in press.
-    links: |
-       (<A HREF="http://dx.doi.org/10.1093/molbev/msx281">DOI&#58; 10.1093/molbev/msx281</A>,
-       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29077904">PMID&#58; 29077904</A>)
-       <BR><sup>e</sup>&nbsp;contributed equally, <sup>c</sup>&nbsp;corresponding authors.
-
   - authors: <U>L.-T. Nguyen</U>, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: in press
     title: Complex models of sequence evolution require accurate estimators as exemplified with the invariable site plus Gamma model.
@@ -52,6 +43,19 @@ publications:
        <A HREF="http://www.iqtree.org/">software</A>)
        <BR><sup>e</sup>&nbsp;contributed equally
 
+
+########### 2018 ###########
+
+  - authors: D.T. Hoang<sup>e</sup>, <U>O. Chernomor</U><sup>e</sup>, <U>A. von Haeseler</U>, <U>B.Q. Minh</U><sup>c</sup>, and L.S. Vinh<sup>c</sup>
+    year: 2018
+    title: UFBoot2&#58; Improving the ultrafast bootstrap approximation.
+    journal: <EM>Mol. Biol. Evol.</EM>, 35, 518-522.
+    links: |
+      (<A HREF="https://academic.oup.com/mbe/article/35/2/518/4565479?guestAccessKey=b7140d09-7224-4133-bf8d-f670e34988ce">free reprint</A>,
+       <A HREF="http://dx.doi.org/10.1093/molbev/msx281">DOI&#58; 10.1093/molbev/msx281</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29077904">PMID&#58; 29077904</A>,
+       <A HREF="http://www.iqtree.org/">software</A>)
+       <BR><sup>e</sup>&nbsp;contributed equally, <sup>c</sup>&nbsp;corresponding authors.
 
 ########### 2017 ###########
 
