@@ -41,8 +41,8 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1186/s12862-018-1131-3">DOI&#58; 10.1186/s12862-018-1131-3</A>,
        <A HREF="http://www.iqtree.org/">software</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>,
        <BR><sup>c</sup>&nbsp;corresponding authors.
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>,
 
   - authors: <U>L.-T. Nguyen</U>, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: in press
