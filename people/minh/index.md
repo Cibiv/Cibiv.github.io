@@ -32,12 +32,6 @@ address: |
 # additional publications (e.g. before CIBIV)
 publications:
 
-  - authors: D.T. Hoang, L.S. Vinh, T. Flouri, A. Stamatakis, A. von Haeseler, and B.Q. Minh
-    year: submitted
-    title: "MPBoot: Novel and fast approximation for maximum parsimony bootstrap."
-    journal: <EM>BMC. Evol. Biol.</EM>
-    links: 
-
   - authors: S.M. Crotty<sup>e</sup>, B.Q. Minh<sup>e</sup>, N.G. Bean, B.R. Holland, J. Tuke, L.S. Jermiin, and A. von Haeseler
     year: submitted
     title: "GHOST: Recovering historical signal from heterotachously-evolved sequence alignments."
