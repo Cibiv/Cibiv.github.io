@@ -50,3 +50,4 @@ Professional Experience
 * __20015 - present__: PhD Student at the Center for Integrative Bioinformatics Vienna (CIBIV)
 * __2008 - 2015__: Self-employed software developer
 * __Summer 2007__: Various contributions to the open-source database system *PostgreSQL* (http://www.postgresql.org), payed through the "Google Summer of Code" program
+* __1995 - 2007__" Sofwaredeveloper at "solution-X software GmbH"
