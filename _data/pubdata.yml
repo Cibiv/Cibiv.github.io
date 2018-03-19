@@ -24,6 +24,16 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
+  - authors: R. Alves, <U>B.Q. Minh</U>, T. Urich, <U>A. von Haeseler</U>, and C. Schleper
+    year: accepted
+    title: Unifying the global phylogeny and environmental distribution of ammonia-oxidising archaea based on amoA genes.
+    journal: <EM>Nat. Commun.</em>, accepted.
+#    links: |
+#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+#
   - authors: C. M&uuml;ller, <U>M Krunic</U>, J. Wendt, <U>A. von Haeseler</U>, and I. Okamoto
     year: accepted
     title: Germline variants in the POT1-gene in high-risk melanoma patients in Austria.
