@@ -34,16 +34,6 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 #
-  - authors: C. M&uuml;ller, <U>M Krunic</U>, J. Wendt, <U>A. von Haeseler</U>, and I. Okamoto
-    year: accepted
-    title: Germline variants in the POT1-gene in high-risk melanoma patients in Austria.
-    journal: <EM>G3-Genes Genomes Genet.</EM>, accepted.
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-
   - authors: F.J. Sedlazeck<sup>e</sup>, <U>P. Rescheneder</U><sup>e</sup>, <U>M. Smolka</U>, H. Fang, M. Nattestad, <U>A. von Haeseler</U>, and M.C. Schatz
     year: accepted
     title: Accurate detection of complex structural variations using single molecule sequencing.
@@ -54,6 +44,14 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+
+  - authors: C. M&uuml;ller, <U>M Krunic</U>, J. Wendt, <U>A. von Haeseler</U>, and I. Okamoto
+    year: in press
+    title: Germline variants in the POT1-gene in high-risk melanoma patients in Austria.
+    journal: <EM>G3-Genes Genomes Genet.</EM>, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1534/g3.117.300394">DOI&#58; 10.1534/g3.117.300394</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29523635">PMID&#58; 29523635</A>)
 
   - authors: <U>L.-T. Nguyen</U>, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: in press
