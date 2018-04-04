@@ -26,7 +26,7 @@ publications:
 
   - authors: <U>F. Pflug</U> and <U>A. von Haeseler</U>
     year: accepted
-    title: TRUmiCount: Correctly counting absolute numbers of molecules using unique molecular identifiers.
+    title: TRUmiCount&#58; Correctly counting absolute numbers of molecules using unique molecular identifiers.
     journal: <EM>Bioinformatics</em>, accepted.
     links: |
       (<A HREF="http://www.cibiv.at/software/trumicount/">software</A>)
