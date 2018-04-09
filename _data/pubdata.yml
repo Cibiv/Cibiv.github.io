@@ -63,6 +63,14 @@ publications:
       (<A HREF="http://dx.doi.org/10.1534/g3.117.300394">DOI&#58; 10.1534/g3.117.300394</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29523635">PMID&#58; 29523635</A>)
 
+  - authors: M. Muhar, A. Ebert, T. Neumann, C. Umkehrer, J. Jude, C. Wieshofer, <U>P. Rescheneder</U>, J.J. Lipp, V.A. Herzog, B. Reichholf, D.A. Cisneros, T. Hoffmann, M.F. Schlapansky, P. Bhat, <U>A. von Haeseler</U>, T. K&ouml;cher, A.C. Obenauf, J. Popow, S.L. Ameres, and J. Zuber
+    year: in press
+    title: SLAM-seq defines direct gene-regulatory functions of the BRD4-MYC axis.
+    journal: <EM>Science</em>, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1126/science.aao2793">DOI&#58; 10.1126/science.aao2793</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29622725">PMID&#58; 29622725</A>)
+
   - authors: <U>L.-T. Nguyen</U>, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: in press
     title: Complex models of sequence evolution require accurate estimators as exemplified with the invariable site plus Gamma model.
