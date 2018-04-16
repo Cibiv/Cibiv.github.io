@@ -81,15 +81,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1126/science.aao2793">DOI&#58; 10.1126/science.aao2793</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29622725">PMID&#58; 29622725</A>)
 
-  - authors: <U>L.-T. Nguyen</U>, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
-    year: in press
-    title: Complex models of sequence evolution require accurate estimators as exemplified with the invariable site plus Gamma model.
-    journal: <EM>Syst. Biol.</EM>, 67, in press.
-    links: |
-       (<A HREF="http://dx.doi.org/10.1093/sysbio/syx092">DOI&#58; 10.1093/sysbio/syx092</A>,
-        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29186593">PMID&#58; 29186593</A>,
-        <A HREF="http://www.iqtree.org/">software</A>)
-
 
 ########### 2018 ###########
 
@@ -113,6 +104,15 @@ publications:
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29390973">PMID&#58; 29390973</A>,
        <A HREF="http://www.iqtree.org/">software</A>)
        <BR><sup>c</sup>&nbsp;corresponding authors.
+
+  - authors: <U>L.-T. Nguyen</U>, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
+    year: 2018
+    title: Complex models of sequence evolution require accurate estimators as exemplified with the invariable site plus Gamma model.
+    journal: <EM>Syst. Biol.</EM>, 67, 552-558.
+    links: |
+       (<A HREF="http://dx.doi.org/10.1093/sysbio/syx092">DOI&#58; 10.1093/sysbio/syx092</A>,
+        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29186593">PMID&#58; 29186593</A>,
+        <A HREF="http://www.iqtree.org/">software</A>)
 
   - authors: H.C. Wang<sup>e</sup>, <U>B.Q. Minh</U><sup>e</sup>, S. Susko, and A.J. Roger
     year: 2018
