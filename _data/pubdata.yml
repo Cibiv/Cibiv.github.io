@@ -34,16 +34,6 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 #
-  - authors: <U>F. Pflug</U> and <U>A. von Haeseler</U>
-    year: accepted
-    title: TRUmiCount&#58; Correctly counting absolute numbers of molecules using unique molecular identifiers.
-    journal: <EM>Bioinformatics</em>, accepted.
-    links: |
-      (<A HREF="http://www.cibiv.at/software/trumicount/">software</A>)
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#
   - authors: F.J. Sedlazeck<sup>e</sup>, <U>P. Rescheneder</U><sup>e</sup>, <U>M. Smolka</U>, H. Fang, M. Nattestad, <U>A. von Haeseler</U>, and M.C. Schatz
     year: accepted
     title: Accurate detection of complex structural variations using single molecule sequencing.
@@ -81,6 +71,16 @@ publications:
       (<A HREF="http://dx.doi.org/10.1126/science.aao2793">DOI&#58; 10.1126/science.aao2793</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29622725">PMID&#58; 29622725</A>)
 
+  - authors: <U>F. Pflug</U> and <U>A. von Haeseler</U>
+    year: in press
+    title: TRUmiCount&#58; Correctly counting absolute numbers of molecules using unique molecular identifiers.
+    journal: <EM>Bioinformatics</em>, in press.
+    links: |
+      (<A HREF="http://www.cibiv.at/software/trumicount/">software</A>,
+      <A HREF="http://dx.doi.org/10.1093/bioinformatics/bty283">DOI&#58; 10.1093/bioinformatics/bty283</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#
 
 ########### 2018 ###########
 
