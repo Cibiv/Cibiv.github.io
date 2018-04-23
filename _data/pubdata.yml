@@ -24,16 +24,6 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
-  - authors: R. Alves, <U>B.Q. Minh</U>, T. Urich, <U>A. von Haeseler</U>, and C. Schleper
-    year: accepted
-    title: Unifying the global phylogeny and environmental distribution of ammonia-oxidising archaea based on amoA genes.
-    journal: <EM>Nat. Commun.</em>, accepted.
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
   - authors: F.J. Sedlazeck<sup>e</sup>, <U>P. Rescheneder</U><sup>e</sup>, <U>M. Smolka</U>, H. Fang, M. Nattestad, <U>A. von Haeseler</U>, and M.C. Schatz
     year: accepted
     title: Accurate detection of complex structural variations using single molecule sequencing.
@@ -83,6 +73,15 @@ publications:
 #
 
 ########### 2018 ###########
+
+  - authors: R. Alves, <U>B.Q. Minh</U>, T. Urich, <U>A. von Haeseler</U>, and C. Schleper
+    year: 2018
+    title: Unifying the global phylogeny and environmental distribution of ammonia-oxidising archaea based on amoA genes.
+    journal: <EM>Nat. Commun.</em>, 9, 1517.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41467-018-03861-1">DOI&#58; 10.1038/s41467-018-03861-1</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29666365">PMID&#58; 29666365</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC5904100">PMCID&#58; PMC5904100</A>)
 
   - authors: D.T. Hoang<sup>e</sup>, <U>O. Chernomor</U><sup>e</sup>, <U>A. von Haeseler</U>, <U>B.Q. Minh</U><sup>c</sup>, and L.S. Vinh<sup>c</sup>
     year: 2018
