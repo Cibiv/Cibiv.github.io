@@ -35,16 +35,6 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
-  - authors: S. Uhse, <U>F. Pflug</U>, A. Stirnberg, K. Ehrlinger, <U>A. von Haeseler</U>, and A. Djamei
-    year: accepted
-    title: In vivo Insertion Pool Sequencing identifies Virulence Factors in a complex Fungal-Host Interaction.
-    journal: <EM>PLoS Biol.</em>, accepted.
-#    links: |
-#      (<A HREF="http://www.cibiv.at/software/trumicount/">software</A>)
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#
   - authors: C. M&uuml;ller, <U>M Krunic</U>, J. Wendt, <U>A. von Haeseler</U>, and I. Okamoto
     year: in press
     title: Germline variants in the POT1-gene in high-risk melanoma patients in Austria.
@@ -71,6 +61,14 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #
+  - authors: S. Uhse, <U>F. Pflug</U>, A. Stirnberg, K. Ehrlinger, <U>A. von Haeseler</U>, and A. Djamei
+    year: in press
+    title: In vivo Insertion Pool Sequencing identifies Virulence Factors in a complex Fungal-Host Interaction.
+    journal: <EM>PLoS Biol.</em>, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1371/journal.pbio.2005129">DOI&#58; 10.1371/journal.pbio.2005129</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29684023">PMID&#58; 29684023</A>)
+
 
 ########### 2018 ###########
 
