@@ -24,22 +24,6 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
-  - authors: C. M&uuml;ller, <U>M Krunic</U>, J. Wendt, <U>A. von Haeseler</U>, and I. Okamoto
-    year: in press
-    title: Germline variants in the POT1-gene in high-risk melanoma patients in Austria.
-    journal: <EM>G3-Genes Genomes Genet.</EM>, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1534/g3.117.300394">DOI&#58; 10.1534/g3.117.300394</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29523635">PMID&#58; 29523635</A>)
-
-  - authors: M. Muhar, A. Ebert, T. Neumann, C. Umkehrer, J. Jude, C. Wieshofer, <U>P. Rescheneder</U>, J.J. Lipp, V.A. Herzog, B. Reichholf, D.A. Cisneros, T. Hoffmann, M.F. Schlapansky, P. Bhat, <U>A. von Haeseler</U>, T. K&ouml;cher, A.C. Obenauf, J. Popow, S.L. Ameres, and J. Zuber
-    year: in press
-    title: SLAM-seq defines direct gene-regulatory functions of the BRD4-MYC axis.
-    journal: <EM>Science</em>, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1126/science.aao2793">DOI&#58; 10.1126/science.aao2793</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29622725">PMID&#58; 29622725</A>)
-
   - authors: <U>F. Pflug</U> and <U>A. von Haeseler</U>
     year: in press
     title: TRUmiCount&#58; Correctly counting absolute numbers of molecules using unique molecular identifiers.
@@ -48,15 +32,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/bioinformatics/bty283">DOI&#58; 10.1093/bioinformatics/bty283</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29672674">PMID&#58; 29672674</A>,
       <A HREF="http://www.cibiv.at/software/trumicount/">software</A>)
-
-  - authors: F.J. Sedlazeck<sup>e</sup>, <U>P. Rescheneder</U><sup>e</sup>, <U>M. Smolka</U>, H. Fang, M. Nattestad, <U>A. von Haeseler</U>, and M.C. Schatz
-    year: in press
-    title: Accurate detection of complex structural variations using single molecule sequencing.
-    journal: <EM>Nat. Meth.</em>, 15, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1038/s41592-018-0001-7">DOI&#58; 10.1038/s41592-018-0001-7</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29713083">PMID&#58; 29713083</A>)
-       <BR><sup>e</sup>&nbsp;contributed equally
 
 
 ########### 2018 ###########
@@ -91,6 +66,22 @@ publications:
        <A HREF="http://www.iqtree.org/">software</A>)
        <BR><sup>c</sup>&nbsp;corresponding authors.
 
+  - authors: M. Muhar, A. Ebert, T. Neumann, C. Umkehrer, J. Jude, C. Wieshofer, <U>P. Rescheneder</U>, J.J. Lipp, V.A. Herzog, B. Reichholf, D.A. Cisneros, T. Hoffmann, M.F. Schlapansky, P. Bhat, <U>A. von Haeseler</U>, T. K&ouml;cher, A.C. Obenauf, J. Popow, S.L. Ameres, and J. Zuber
+    year: 2018
+    title: SLAM-seq defines direct gene-regulatory functions of the BRD4-MYC axis.
+    journal: <EM>Science</em>, 360, 800-805.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1126/science.aao2793">DOI&#58; 10.1126/science.aao2793</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29622725">PMID&#58; 29622725</A>)
+
+  - authors: C. M&uuml;ller, <U>M Krunic</U>, J. Wendt, <U>A. von Haeseler</U>, and I. Okamoto
+    year: 2018
+    title: Germline variants in the POT1-gene in high-risk melanoma patients in Austria.
+    journal: <EM>G3-Genes Genomes Genet.</EM>, 8, 1475-1480.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1534/g3.117.300394">DOI&#58; 10.1534/g3.117.300394</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29523635">PMID&#58; 29523635</A>)
+
   - authors: <U>L.-T. Nguyen</U>, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: 2018
     title: Complex models of sequence evolution require accurate estimators as exemplified with the invariable site plus Gamma model.
@@ -99,6 +90,15 @@ publications:
        (<A HREF="http://dx.doi.org/10.1093/sysbio/syx092">DOI&#58; 10.1093/sysbio/syx092</A>,
         <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29186593">PMID&#58; 29186593</A>,
         <A HREF="http://www.iqtree.org/">software</A>)
+
+  - authors: F.J. Sedlazeck<sup>e</sup>, <U>P. Rescheneder</U><sup>e</sup>, <U>M. Smolka</U>, H. Fang, M. Nattestad, <U>A. von Haeseler</U>, and M.C. Schatz
+    year: 2018
+    title: Accurate detection of complex structural variations using single molecule sequencing.
+    journal: <EM>Nat. Meth.</em>, 15, 461-468.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41592-018-0001-7">DOI&#58; 10.1038/s41592-018-0001-7</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29713083">PMID&#58; 29713083</A>)
+       <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: S. Uhse, <U>F. Pflug</U>, A. Stirnberg, K. Ehrlinger, <U>A. von Haeseler</U>, and A. Djamei
     year: 2018
