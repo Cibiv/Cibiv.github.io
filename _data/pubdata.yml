@@ -24,6 +24,14 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
+  - authors: M. Nattestad, S. Goodwin, K. Ng, T. Baslan, F. Sedlazeck, <U>P. Rescheneder</U>, T. Garvin, H. Fang, J. Gurtowski, E. Hutton, E. Tseng, J. Chin, T. Beck, Y. Sundaravadanam, M. Kramer, E. Antoniou, J. McPherson, J. Hicks, W.R. McCombie, and M.C Schatz
+    year: in press
+    title: Complex rearrangements and oncogene amplifications revealed by long-read DNA and RNA sequencing of a breast cancer cell line.
+    journal: <EM>Genome Res.</em>, 28, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/gr.231100.117">DOI&#58; 10.1101/gr.231100.117</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29954844">PMID&#58; 29954844</A>)
+
   - authors: <U>F. Pflug</U> and <U>A. von Haeseler</U>
     year: in press
     title: TRUmiCount&#58; Correctly counting absolute numbers of molecules using unique molecular identifiers.
