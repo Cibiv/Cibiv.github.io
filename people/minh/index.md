@@ -40,7 +40,7 @@ publications:
 
 ---
 
-<font color="red">I have recently moved to Australian National University: [new home page here](https://researchers.anu.edu.au/researchers/bui-m) </font>
+<font color="red">I have recently moved to Australian National University:</font> <https://researchers.anu.edu.au/researchers/bui-m>
 
 ### Research interests
 <div class="hline"></div>
