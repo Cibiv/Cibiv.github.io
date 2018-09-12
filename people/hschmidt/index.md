@@ -71,6 +71,7 @@ publications:
     journal: J. Virol., 77, 7157-7158. 
     links: |
       (<A HREF="http://dx.doi.org/10.1128/JVI.77.12.7156-7158.2003">DOI&#58; 10.1128/JVI.77.12.7156-7158.2003</A>)
+
   - authors: B. Klempa, H.A. Schmidt, R. Ulrich, S. Kaluz, M. Labuda, H. Meisel, B. Hjelle, and D.H. Krüger
     year: 2003
     title: "Genetic Interaction between Distinct Dobrava Hantavirus Subtypes in Apodemus agrarius and A. flavicollis in Nature."
@@ -78,6 +79,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1128/JVI.77.1.804-809.2003">DOI&#58; 10.1128/JVI.77.1.804-809.2003</A>, 
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/12477889">PMID&#58; 12477889</A>)
+
   - authors: H.A. Schmidt and A. von Haeseler
     year: 2003
     title: "Maximum Likelihood Analysis using TREE-PUZZLE. In A.D. Baxevanis, D.B. Davison, R.D.M. Page, G. Stormo, and L. Stein (eds.)"
@@ -85,18 +87,21 @@ publications:
     links: |
       (ISBN <A HREF="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471250937.html">0-471-25093-7</A>, 
        <A HREF="https://currentprotocols.onlinelibrary.wiley.com/">CP online</A>)
+
   - authors: H.A. Schmidt, E. Petzold, M. Vingron, and A. von Haeseler
     year: 2003
     title: "Molecular Phylogenetics: Parallelized Parameter Estimation and Quartet Puzzling."
     journal: J. Parallel Distrib. Comput., 63, 719-727. 
     links: |
       (<A HREF="http://dx.doi.org/10.1016/S0743-7315(03)00129-1">DOI&#58; 10.1016/S0743-7315(03)00129-1</A>)
+
   - authors: H.A. Schmidt and A. von Haeseler
     year: 2002
     title: "Quartet Trees as a Tool to Reconstruct Large Trees from Sequences. In K. Jajuga, A. Sokolowsky, and H.-H. Bock (eds.)" 
     journal: Data Analysis, Classification, and Related Methods (Proceedings of the 9th Conference of the International Federation of Classification Societies - IFCS-2002, Krakow), 379-388, Springer, Heidelberg/New York. 
     links: |
       (<A HREF="http://dx.doi.org/10.1007/978-3-642-56181-8_42">DOI&#58; 10.1007/978-3-642-56181-8_42</A>)
+
   - authors: H.A. Schmidt, K. Strimmer, M. Vingron, and A. von Haeseler
     year: 2002
     title: "TREE-PUZZLE: Maximum Likelihood Phylogenetic Analysis Using Quartets and Parallel Computing."
@@ -104,6 +109,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1093/bioinformatics/18.3.502">DOI&#58; 10.1093/bioinformatics/18.3.502</A>, 
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/11934758">PMID&#58; 11934758</A>)
+
   - authors: N. Pollet, H.A. Schmidt, V. Gawantka, M. Vingron, and C. Niehrs
     year: 2000
     title: "Axeldb: a Xenopus laevis database focusing on gene expression."
@@ -111,6 +117,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1093/nar/28.1.139">DOI&#58; 10.1093/nar/28.1.139</A>, 
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/10592204">PMID&#58; 10592204</A>)
+
   - authors: N. Pollet, H.A. Schmidt, V. Gawantka, C. Niehrs, M. Vingron
     year: 2000
     title: "In Silico Analysis of Gene Expression Patterns During Early Development of Xenopus laevis."
@@ -118,12 +125,14 @@ publications:
     links: |
       (<A HREF="http://www.ncbi.nlm.nih.gov/pubmed/10902192">PMID&#58; 10902192</A>, 
        <A HREF="http://psb.stanford.edu/psb-online/proceedings/psb00/pollet.pdf">PDF</A>)
+
   - authors: Bhattacharya, D., Friedl, T., and Schmidt, H.A.
     year: 1999
     title: "The Phylogeny of Thermophiles and Hyperthermophiles and the Three Domains of Life. The Phylogeny of Thermophiles. In Seckbach, J. (ed.)" 
     journal: Enigmatic Microorganisms and Life in Extreme Environments, 291-304, Kluwer Academic Publishers, Dordrecht, Netherlands, 
     links: |
       (ISBN <A HREF="https://www.springer.com/de/book/9780792354925">978-0-7923-5492-5</A>)
+
   - authors: Bhattacharya, D. and Schmidt, H.A.
     year: 1997
     title: "Division Glaucocystophyta. In Bhattacharya, D.(ed.)"
@@ -131,6 +140,4 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1007/978-3-7091-6542-3_7">DOI&#58; 10.1007/978-3-7091-6542-3_7</A>, 
        ISBN <A HREF"https://www.springer.com/de/book/9783709165423#otherversion=9783211830352">978-3-211-83035-2</A>) 
-  
-
 
