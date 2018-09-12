@@ -19,13 +19,12 @@ pubyear: true
 
 # CHANGE: address lines, appeared at the beginning of personal page
 address: |
-  <strong>Address</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>
   Max F. Perutz Laboratories<br>
   Campus Vienna Biocenter 5 (VBC5), Ebene 1, Room 1812.4<br>
   A-1030 Wien, Austria<br>
-  <strong>Phone:</strong> +43 (0)14277-74323<br>
-  <strong>Email:</strong> lukasz.reszczynski(AT)univie.ac.at<br>
+  Phone: +43 (0)14277-74323<br>
+  Email: lukasz.reszczynski(AT)univie.ac.at<br>
 
 # CHANGE: additional publications (e.g. before CIBIV)
 # publications:
@@ -56,7 +55,7 @@ address: |
 * __Sep 2013 - Jun 2015__: BSc (Hons) Open, Applied Mathematics and Physics, The Open University, United Kingdom
 
 
-### Professional Experience
+### Employment
 <div class="hline"></div>
 
 * __May 2018 - present__: Scientific Assistant, Max F. Perutz Laboratories (MFPL), Austria
