@@ -27,42 +27,6 @@ address: |
   <strong>Phone:</strong> ++43 +1 / 4277 - 74321<br>
   <strong>Email:</strong> heiko.schmidt(AT)univie.ac.at<br>
 
----
-
-Research interests
-------------------
-
-* Phylogentics/Phylogenomics (methods, development and application; <A HREF="http://www.tree-puzzle.de/">TREE-PUZZLE</A>, <A HREF="http://www.iqtree.org/">IQ-Tree</A>)
-* Evolution on species and gene level
-* Phylogenetic trees for large datasets 
-* Quality checks for alignments (phylogenetic information, quartet likelihood mapping)
-* Parallel and grid computing in phylogenetics and bioinformatics
-* Scientific workflows
-
-Education
----------
-
-* __2003__: Ph.D. in Computer Science (Dr. rer. nat.) at Düsseldorf University, Germany
-	<BR>Advisor: Prof. Arndt von Haeseler
-	<BR>Thesis:	<A HREF="http://www.cibiv.at/~hschmidt/publ/schmidt2003.phdthesis.pdf">Phylogenetic Trees from Large Datasets</A>
-	<BR>(also accessible via <A HREF="http://nbn-resolving.org/urn:nbn:de:hbz:061-20030730-000597-4">URN:NBN-resolver:urn:nbn:de:hbz:061-20030730-000597-4</A> or the <A HREF="http://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=2597">document service</A> at Düsseldorf University) 
-* __1996__: 'M.Sc.' in Biology (Diplom Biologe), Cologne University, Germany
-	<BR>Advisors: Prof. Andreas Radbruch, Prof. Rainer Schrader
-	<BR>Thesis: <A HREF="http://www.cibiv.at/~hschmidt/publ/schmidt1996.diplomarbeit.pdf">Parallelization of Phylogenetic Methods for the Analysis of the Crown Group Radiation</A> (in German) 
-* __1989-1996__: Studies at Cologne University: Biology
-* __1991-1994__: Studies at Bonn University: Computer Science
-* __1979-1988__: Beethoven-Gymnasium, Bonn 
-
-Employment
-----------
-
-* __2005-present__: Postdoc at the <A HREF="http://www.cibiv.at">Center for Integrative Bioinformatics Vienna</A> (CIBIV), <A HREF="http://www.mfpl.ac.at/">Max F. Perutz Laboratories</A> (MFPL), <A HREF="http://www.univie.ac.at">University of Vienna</A><br>, Vienna, Austria
-* __2003-2005__: Postdoc at the <A HREF="http://www.fz-juelich.de/nic">John-von-Neumann Institute for Computing</A> (NIC), <A HREF="http://www.fz-juelich.de/">Research Center Jülich</A>, Jülich
-* __2001-2003__: Staff scientist at the <A HREF="http://cmb.molgen.mpg.de/">Computational Molecular Biology</A>, <A HREF="http://www.molgen.mpg.de/">MPI for Molecular Genetics</A>, Berlin
-* __1997-2001__: Staff scientist at the <A HREF="http://www.dkfz.de/tbi/">Theoretical Bioinformatics</A>, <A HREF="http://www.dkfz.de/">DKFZ</A>, Heidelberg
-* __1995-1997__: Software engineer and system administrator at the <A HREF="http://www.dkfz.de/tbi/">Theoretical Bioinformatics</A>, <A HREF="http://www.dkfz.de/">DKFZ</A>, Heidelberg 
-
-
 publications:
   - authors: B. Klempa, R. Ulrich, H. Meisel, D.H. Krüger, H.A. Schmidt, S. Kaluz, M. Labuda, and B. Hjelle
     year: 2003
@@ -139,4 +103,40 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1007/978-3-7091-6542-3_7">DOI&#58; 10.1007/978-3-7091-6542-3_7</A>, 
        ISBN <A HREF"https://www.springer.com/de/book/9783709165423#otherversion=9783211830352">978-3-211-83035-2</A>) 
+
+---
+
+Research interests
+------------------
+
+* Phylogentics/Phylogenomics (methods, development and application; <A HREF="http://www.tree-puzzle.de/">TREE-PUZZLE</A>, <A HREF="http://www.iqtree.org/">IQ-Tree</A>)
+* Evolution on species and gene level
+* Phylogenetic trees for large datasets 
+* Quality checks for alignments (phylogenetic information, quartet likelihood mapping)
+* Parallel and grid computing in phylogenetics and bioinformatics
+* Scientific workflows
+
+Education
+---------
+
+* __2003__: Ph.D. in Computer Science (Dr. rer. nat.) at Düsseldorf University, Germany
+	<BR>Advisor: Prof. Arndt von Haeseler
+	<BR>Thesis:	<A HREF="http://www.cibiv.at/~hschmidt/publ/schmidt2003.phdthesis.pdf">Phylogenetic Trees from Large Datasets</A>
+	<BR>(also accessible via <A HREF="http://nbn-resolving.org/urn:nbn:de:hbz:061-20030730-000597-4">URN:NBN-resolver:urn:nbn:de:hbz:061-20030730-000597-4</A> or the <A HREF="http://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=2597">document service</A> at Düsseldorf University) 
+* __1996__: 'M.Sc.' in Biology (Diplom Biologe), Cologne University, Germany
+	<BR>Advisors: Prof. Andreas Radbruch, Prof. Rainer Schrader
+	<BR>Thesis: <A HREF="http://www.cibiv.at/~hschmidt/publ/schmidt1996.diplomarbeit.pdf">Parallelization of Phylogenetic Methods for the Analysis of the Crown Group Radiation</A> (in German) 
+* __1989-1996__: Studies at Cologne University: Biology
+* __1991-1994__: Studies at Bonn University: Computer Science
+* __1979-1988__: Beethoven-Gymnasium, Bonn 
+
+Employment
+----------
+
+* __2005-present__: Postdoc at the <A HREF="http://www.cibiv.at">Center for Integrative Bioinformatics Vienna</A> (CIBIV), <A HREF="http://www.mfpl.ac.at/">Max F. Perutz Laboratories</A> (MFPL), <A HREF="http://www.univie.ac.at">University of Vienna</A><br>, Vienna, Austria
+* __2003-2005__: Postdoc at the <A HREF="http://www.fz-juelich.de/nic">John-von-Neumann Institute for Computing</A> (NIC), <A HREF="http://www.fz-juelich.de/">Research Center Jülich</A>, Jülich
+* __2001-2003__: Staff scientist at the <A HREF="http://cmb.molgen.mpg.de/">Computational Molecular Biology</A>, <A HREF="http://www.molgen.mpg.de/">MPI for Molecular Genetics</A>, Berlin
+* __1997-2001__: Staff scientist at the <A HREF="http://www.dkfz.de/tbi/">Theoretical Bioinformatics</A>, <A HREF="http://www.dkfz.de/">DKFZ</A>, Heidelberg
+* __1995-1997__: Software engineer and system administrator at the <A HREF="http://www.dkfz.de/tbi/">Theoretical Bioinformatics</A>, <A HREF="http://www.dkfz.de/">DKFZ</A>, Heidelberg 
+
 
