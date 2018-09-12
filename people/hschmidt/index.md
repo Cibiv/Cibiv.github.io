@@ -63,7 +63,6 @@ Employment
 * __1995-1997__: Software engineer and system administrator at the <A HREF="http://www.dkfz.de/tbi/">Theoretical Bioinformatics</A>, <A HREF="http://www.dkfz.de/">DKFZ</A>, Heidelberg 
 
 
-# CHANGE: additional publications (e.g. before CIBIV)
 publications:
   - authors: B. Klempa, R. Ulrich, H. Meisel, D.H. Krüger, H.A. Schmidt, S. Kaluz, M. Labuda, and B. Hjelle
     year: 2003
