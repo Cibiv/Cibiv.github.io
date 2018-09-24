@@ -51,3 +51,25 @@ Professional Experience
 * __2008 - 2015__: Self-employed software developer
 * __Summer 2007__: Various contributions to the open-source database system *PostgreSQL* (http://www.postgresql.org), payed through the "Google Summer of Code" program
 * __1995 - 2007__" Sofwaredeveloper at "solution-X software GmbH"
+
+Talks and Posters
+------------------
+
+__2016__
+
+* *CMStatistics 2016* (9th International Conference of the ERCIM WG on Computational and Methodological Statistics), Sevilla, Spain, December 9-11 2016. Talk: *Stochastic modelling of PCR to estimate and correct for unobserved molecules in quantitative NGS experiments*
+
+__2017__
+
+* *MASAMB 2017* (27th Annual Workshop on Mathematical and Statistical Aspects of Molecular Biology), Vienna, Austria, April 3-4 2017. Poster: *Correcting for unobserved Molecules in quantitative NGS Experiments*
+
+__2018__
+
+* *Stochastic models of evolving populations: from bacteria to cancer* (at the ICMS -- International Centra of Mathematical Sciences), Edinburgh, UK, July 16-20. Talk: *Correctly counting molecules with a little help from a well-known population model*
+
+* *GCB 2018* (German Conference on Bioinformatics), Vienna, Austria, September 25-28. Talk: *Correctly counting molecules using unique molecular identifiers*
+
+Software Constributions
+-----------------------
+
+* TRUmiCount (http://www.cibiv.at/software/trumicount)
