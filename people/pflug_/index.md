@@ -63,6 +63,8 @@ __2017__
 
 * *MASAMB 2017* (27th Annual Workshop on Mathematical and Statistical Aspects of Molecular Biology), Vienna, Austria, April 3-4 2017. Poster: *Correcting for unobserved Molecules in quantitative NGS Experiments*
 
+* *Interscience - 1st Symposium of the Vienna Doctoral Schools*, Vienna, Austria, Semptember 14-15. Talk: *Unbiased Counting Absolute Numbers of Molecules Using Unique Molecular Identifiers* (Best Talk Award)
+
 __2018__
 
 * *Stochastic models of evolving populations: from bacteria to cancer* (at the ICMS -- International Centra of Mathematical Sciences), Edinburgh, UK, July 16-20. Talk: *Correctly counting molecules with a little help from a well-known population model*
