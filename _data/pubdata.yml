@@ -33,15 +33,6 @@ publications:
     #   <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29672674">PMID&#58; 29672674</A>,
     #   <A HREF="http://www.cibiv.at/software/trumicount/">software</A>)
 
-  - authors: <U>F. Pflug</U> and <U>A. von Haeseler</U>
-    year: in press
-    title: TRUmiCount&#58; Correctly counting absolute numbers of molecules using unique molecular identifiers.
-    journal: <EM>Bioinformatics</em>, 34, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1093/bioinformatics/bty283">DOI&#58; 10.1093/bioinformatics/bty283</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29672674">PMID&#58; 29672674</A>,
-      <A HREF="http://www.cibiv.at/software/trumicount/">software</A>)
-
 
 ########### 2018 ###########
 
@@ -107,6 +98,15 @@ publications:
        (<A HREF="http://dx.doi.org/10.1093/sysbio/syx092">DOI&#58; 10.1093/sysbio/syx092</A>,
         <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29186593">PMID&#58; 29186593</A>,
         <A HREF="http://www.iqtree.org/">software</A>)
+
+  - authors: <U>F. Pflug</U> and <U>A. von Haeseler</U>
+    year: 2018
+    title: TRUmiCount&#58; Correctly counting absolute numbers of molecules using unique molecular identifiers.
+    journal: <EM>Bioinformatics</em>, 34, 3137-3144.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/bioinformatics/bty283">DOI&#58; 10.1093/bioinformatics/bty283</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29672674">PMID&#58; 29672674</A>,
+      <A HREF="http://www.cibiv.at/software/trumicount/">software</A>)
 
   - authors: F.J. Sedlazeck<sup>e</sup>, <U>P. Rescheneder</U><sup>e</sup>, <U>M. Smolka</U>, H. Fang, M. Nattestad, <U>A. von Haeseler</U>, and M.C. Schatz
     year: 2018
