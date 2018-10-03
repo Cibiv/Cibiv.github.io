@@ -24,6 +24,15 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
+  - authors: R. Finsterwalder, M. Karthika Ganesan, H. Leb, A. Habertheuer, J. Basílio, I. Lang, <U>M. Krunic</U>, D. Wiedemann, P. Petzelbauer
+    year: in press
+    title: Hypoxia/reperfusion predisposes to atherosclerosis.
+    journal: <EM>PLoS ONE</em>, 13, in press.
+    # links: |
+    #   (<A HREF="http://dx.doi.org/10.1093/bioinformatics/bty283">DOI&#58; 10.1093/bioinformatics/bty283</A>,
+    #   <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29672674">PMID&#58; 29672674</A>,
+    #   <A HREF="http://www.cibiv.at/software/trumicount/">software</A>)
+
   - authors: <U>F. Pflug</U> and <U>A. von Haeseler</U>
     year: in press
     title: TRUmiCount&#58; Correctly counting absolute numbers of molecules using unique molecular identifiers.
