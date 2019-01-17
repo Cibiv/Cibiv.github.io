@@ -24,10 +24,18 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
-  - authors: R. Finsterwalder, M. Karthika Ganesan, H. Leb, A. Habertheuer, J. Basílio, I. Lang, <U>M. Krunic</U>, D. Wiedemann, P. Petzelbauer
+  - authors: A. Jain, D. Perisa, F. Fliedner, <U>A. von Haeseler</U>, and I. Ebersberger
     year: in press
-    title: Hypoxia/reperfusion predisposes to atherosclerosis.
-    journal: <EM>PLoS ONE</em>, 13, in press.
+    title: The evolutionary traceability of a protein.
+    journal: <EM>Genome Biol. Evol.</em>, 11, accepted.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/gbe/evz008">DOI&#58; 10.1093/gbe/evz008</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/30649284">PMID&#58; 30649284</A>
+
+  - authors: S. Schenk, S. Bannister, F.J. Sedlazeck, D. Anrather, <U>B.Q. Minh</U>, A. Bileck, M. Hartl, <U>A. von Haeseler</U>, C. Gerner, F. Raible, and K. Tessmar-Raible
+    year: in press
+    title: Combined transcriptome and proteome profiling reveals specific molecular brain signatures for sex, maturation and circalunar clock phase
+    journal: <EM>eLife</em>, 8, accepted.
     # links: |
     #   (<A HREF="http://dx.doi.org/10.1093/bioinformatics/bty283">DOI&#58; 10.1093/bioinformatics/bty283</A>,
     #   <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29672674">PMID&#58; 29672674</A>,
@@ -44,6 +52,14 @@ publications:
       (<A HREF="http://dx.doi.org/10.1038/s41467-018-03861-1">DOI&#58; 10.1038/s41467-018-03861-1</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29666365">PMID&#58; 29666365</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC5904100">PMCID&#58; PMC5904100</A>)
+
+  - authors: R. Finsterwalder, M. Karthika Ganesan, H. Leb, A. Habertheuer, J. Basílio, I. Lang, <U>M. Krunic</U>, D. Wiedemann, and P. Petzelbauer
+    year: 2018
+    title: Hypoxia/reperfusion predisposes to atherosclerosis.
+    journal: <EM>PLoS ONE</em>, 13, e0205067.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1371/journal.pone.0205067">DOI&#58; 10.1371/journal.pone.0205067</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/30289932">PMID&#58; 30289932</A>
 
   - authors: D.T. Hoang<sup>e</sup>, <U>O. Chernomor</U><sup>e</sup>, <U>A. von Haeseler</U>, <U>B.Q. Minh</U><sup>c</sup>, and L.S. Vinh<sup>c</sup>
     year: 2018
