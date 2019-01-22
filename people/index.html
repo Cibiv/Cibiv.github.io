@@ -11,7 +11,7 @@ title: People
         </div>
     </div>
     <div class="row">
-        <div class="col-lg-8 col-lg-offset-4 col-md-10 col-md-offset-2 col-sm-12 text-center">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12 text-center">
         {% assign id = 0 %}
         {% assign sorted_pages = (site.pages | where: "layout" , "personalpage" | sort: 'title') %}
         {% for page in sorted_pages %}
