@@ -95,13 +95,16 @@ body {
 
 .imageCIBIV {
     position: relative;
-    float: left;
+    /*float: left;*/
+}
+.imageCIBIV .hoverImg {
+    /*position: absolute;
+    left: 0;*/
+    /*top: 0;*/
+    display: none;
 }
 
-.imageCIBIV .hoverImg {
-    position: absolute;
-    left: 0;
-    top: 0;
+.imageCIBIV:hover .imageInn {
     display: none;
 }
 
