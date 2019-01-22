@@ -11,7 +11,7 @@ title: People
         </div>
     </div>
     <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-10 col-sm-12 text-center">
+        <div class="col-lg-8 col-lg-offset-4 col-md-10 col-md-offset-2 col-sm-12 text-center">
         {% assign id = 0 %}
         {% assign sorted_pages = (site.pages | where: "layout" , "personalpage" | sort: 'title') %}
         {% for page in sorted_pages %}
@@ -19,17 +19,18 @@ title: People
             <div class="row">
         {% endif %}
             <div class="col-md-3">
-                <div style="height:10px;"></div>
+                <div style="height:20px;"></div>
                 
                 <a href="{{ page.url | prepend: site.baseurl }}">
-                    <div class="imageCIBIV">
+                    <!--<div class="imageCIBIV">
                         <div class="imageInn">
-                            <img class="img-circle" src="{{page.image}}" width=180 alt="{{page.title}}">
+                            <img class="img-circle" src="{{page.image}}" width=100 alt="{{page.title}}">
                         </div>
                         <div class="hoverImg">
-                            <img class="img-circle" src="{{page.image2}}" width=180 alt="{{page.title}}">
+                            <img class="img-circle" src="{{page.image2}}" width=100 alt="{{page.title}}">
                         </div>
-                    </div>
+                    </div>-->
+                    <img class="img-circle" src="{{page.image}}" width=180 alt="{{page.title}}">
                 </a>
                 
                 <p><font size="3"><a href="{{ page.url | prepend: site.baseurl }}">{{page.title}}</a></font><br>
