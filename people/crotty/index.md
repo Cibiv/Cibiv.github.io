@@ -9,8 +9,8 @@ title: Stephen Crotty
 position: Postdoc
 
 # image that will appear in the people page
-image: 
-
+image: /assets/img/people/new_pics/stephen_1.png
+image2: /assets/img/people/new_pics/stephen_2.png
 # name appeared in publications, used to display personal publications
 pubname: S. M. Crotty
 
@@ -19,18 +19,20 @@ pubyear: false
 
 # address lines, appeared at the beginning of personal page
 address: |
-  <strong>Dr. Stephen Crotty</strong><br>
+ <strong>Email:</strong> stephen.crotty(AT)univie.ac.at<br>
+ <strong>Phone:</strong> ++43 +1 / 4277 - 74326<br>
+ <br>
+ <strong>Postal address:</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>
   Max F. Perutz Laboratories<br>
-  Campus Vienna Biocenter 5 (VBC5), Ebene 1, Room 1812.4<br>
+  Campus Vienna Biocenter 5 (VBC5)<br>
   A-1030 Wien, Austria<br>
-  Phone: ++43 +1 / 4277 - 74326<br>
-  Email: stephen.crotty(AT)univie.ac.at<br>
+
 
 ---
 
-Research interests
-------------------
+### Research interests
+<div class="hline"></div>
 
 * Bioinformatics
 * Phylogenetics
@@ -38,8 +40,8 @@ Research interests
 * Biodiversity
 * Natural history
 
-Education
----------
+### Education
+<div class="hline"></div>
 
 * __Nov 2012 - Oct 2016__: Ph.D. in Applied Mathematics, University of Adelaide, Australia
 School of Mathematical Sciences<br>
@@ -52,8 +54,8 @@ Advisor: Prof. Nigel Bean
 
 * __Feb 1997 - Nov 2003__: B.Eng. Hon. in Mechanical and Manufacturing Engineering, University of South Australia
 
-Employment
-----------
+### Professional Experience
+<div class="hline"></div>
 
 * __Since Oct 2016__: Postdoctoral researcher, Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, University of Vienna, Austria.
 

@@ -9,8 +9,8 @@ title: Lukasz Reszczynski
 position: PhD student
 
 # image that will appear in the people page
-image: 
-
+image: /assets/img/people/new_pics/lukasz_1.png
+image2: /assets/img/people/new_pics/lukasz_2.png
 # CHANGE: name appeared in publications, used to display personal publications
 pubname: L. Reszczynski
 
@@ -19,20 +19,18 @@ pubyear: true
 
 # CHANGE: address lines, appeared at the beginning of personal page
 address: |
+  <strong>Email:</strong> lukasz.reszczynski(AT)univie.ac.at<br>
+  <strong>Phone:</strong> +43 (0)14277-74323<br>
+  <br>
+  <strong>Postal address:</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>
   Max F. Perutz Laboratories<br>
-  Campus Vienna Biocenter 5 (VBC5), Ebene 1, Room 1812.4<br>
+  Campus Vienna Biocenter 5 (VBC5)<br>
   A-1030 Wien, Austria<br>
-  Phone: +43 (0)14277-74323<br>
-  Email: lukasz.reszczynski(AT)univie.ac.at<br>
+
+
 
 # CHANGE: additional publications (e.g. before CIBIV)
-# publications:
-#  - authors: E. Coccia, O. Chernomor, M. Barborini, S. Sorella, and L. Guidoni
-#    year: 2012
-#    title: "Molecular Electrical Properties from Quantum Monte Carlo Calculations: Application to Ethyne."
-#    journal: Journal of Chemical Theory and Computation, 8(6), pp 1952-1962
-#    links: <a HREF="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12299/abstract">(DOI:10.1111/2041-210X.12299)</a>
   
   
 # CHANGE: everything below
@@ -55,7 +53,7 @@ address: |
 * __Sep 2013 - Jun 2015__: BSc (Hons) Open, Applied Mathematics and Physics, The Open University, United Kingdom
 
 
-### Employment
+### Professional Experience
 <div class="hline"></div>
 
 * __May 2018 - present__: Scientific Assistant, Max F. Perutz Laboratories (MFPL), Austria

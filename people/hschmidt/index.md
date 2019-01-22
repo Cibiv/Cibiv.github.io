@@ -9,7 +9,8 @@ title: Heiko A. Schmidt
 position: Postdoc
 
 # image that will appear in the people page
-image: /assets/img/people/heiko2.jpg
+image: /assets/img/people/new_pics/heiko_1.png
+image2: /assets/img/people/new_pics/heiko_2.png
 
 # name appeared in publications, used to display personal publications
 pubname: H.A. Schmidt
@@ -19,13 +20,16 @@ pubyear: false
 
 # address lines, appeared at the beginning of personal page
 address: |
-  <strong>Dr. rer. nat. Heiko A. Schmidt</strong><br>
+  <strong>Email:</strong> heiko.schmidt(AT)univie.ac.at<br>
+  <strong>Phone:</strong> ++43 +1 / 4277 - 74321<br>
+  <br>
+  <strong>Postal address:</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>
   Max F. Perutz Laboratories<br>
-  Campus Vienna Biocenter 5 (VBC5), Ebene 1, Room 1812.1<br>
+  Campus Vienna Biocenter 5 (VBC5)<br>
   A-1030 Wien, Austria<br>
-  <strong>Phone:</strong> ++43 +1 / 4277 - 74321<br>
-  <strong>Email:</strong> heiko.schmidt(AT)univie.ac.at<br>
+
+
 
 publications:
   - authors: B. Klempa, R. Ulrich, H. Meisel, D.H. Krüger, H.A. Schmidt, S. Kaluz, M. Labuda, and B. Hjelle
@@ -106,8 +110,8 @@ publications:
 
 ---
 
-Research interests
-------------------
+### Research interests
+<div class="hline"></div>
 
 * Phylogentics/Phylogenomics (methods, development and application; <A HREF="http://www.tree-puzzle.de/">TREE-PUZZLE</A>, <A HREF="http://www.iqtree.org/">IQ-Tree</A>)
 * Evolution on species and gene level
@@ -116,8 +120,8 @@ Research interests
 * Parallel and grid computing in phylogenetics and bioinformatics
 * Scientific workflows
 
-Education
----------
+### Education
+<div class="hline"></div>
 
 * __2003__: Ph.D. in Computer Science (Dr. rer. nat.) at Düsseldorf University, Germany
 	<BR>Advisor: Prof. Arndt von Haeseler
@@ -130,8 +134,8 @@ Education
 * __1991-1994__: Studies at Bonn University: Computer Science
 * __1979-1988__: Beethoven-Gymnasium, Bonn 
 
-Employment
-----------
+### Professional Experience
+<div class="hline"></div>
 
 * __2005-present__: Postdoc at the <A HREF="http://www.cibiv.at">Center for Integrative Bioinformatics Vienna</A> (CIBIV), <A HREF="http://www.mfpl.ac.at/">Max F. Perutz Laboratories</A> (MFPL), <A HREF="http://www.univie.ac.at">University of Vienna</A><br>, Vienna, Austria
 * __2003-2005__: Postdoc at the <A HREF="http://www.fz-juelich.de/nic">John-von-Neumann Institute for Computing</A> (NIC), <A HREF="http://www.fz-juelich.de/">Research Center Jülich</A>, Jülich

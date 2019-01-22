@@ -6,10 +6,11 @@ layout: personalpage
 title: Milica Krunic
 
 #either Head, Postdoc, PhD student, or Student
-position: PhD student
+position: Postdoc
 
 # image that will appear in the people page
-image: /assets/img/people/milica_krunic.png
+image: /assets/img/people/new_pics/milica_1.png
+image2: /assets/img/people/new_pics/milica_2.png
 
 # name appeared in publications, used to display personal publications
 pubname: M. Krunic
@@ -19,44 +20,36 @@ pubyear: true
 
 # address lines, appeared at the beginning of personal page
 address: |
-  <strong>Dr. rer. nat.</strong><br>
+  <strong>Email:</strong> milica.krunic(AT)univie.ac.at<br>
+  <strong>Phone:</strong> ++43 +1 / 4277 - 74327<br>
+  <br>
+  <strong>Postal address:</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>
   Max F. Perutz Laboratories<br>
   Campus Vienna Biocenter 5 (VBC5), Ebene 1, Room 1812.4<br>
   A-1030 Wien, Austria<br>
-  Phone: ++43 +1 / 4277 - 74326<br>
-  Email: minh.bui(AT)univie.ac.at<br>
+
 
 ---
 
-Research interests
-------------------
+### Research interests
+<div class="hline"></div>
 
-* Bioinformatics
-* Phylogenetics
+* Analysis of Next Generation Sequencing (NGS) data: RNA-Seq, DNA-Seq, microarrays, amplicon sequencing
+* Personalized medicine
+* Experimental design
 
-Education
----------
+### Education
+<div class="hline"></div>
 
-* __Jan 2006 - Jan 2009__: Ph.D. in Bioinformatics, University of Vienna, Austria
-Center for Integrative Bioinformatics Vienna (CIBIV), Max F. Perutz Laboratories
-Thesis: Computational Methods in Biodiversity Conservation
-Advisor: Prof. Dr. Arndt von Haeseler
-
-
-Employment
-----------
-
-* __Since Feb 2009__: Postdoctoral researcher, Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, University of Vienna, Austria.
+* __2018__: PhD, Bioinformatics, University of Vienna
+* __2008__: MSc, Molecular Biology and Physiology, University of Belgrade
+* __2002__: Abitur
 
 
-Funding
--------
+### Professional Experience
+<div class="hline"></div>
 
-* __2013-2015__: Fast methods for sequence analysis problems with large data sets, National Foundation for Science and Technology Development (NAFOSTED), Vietnam
-
-Awards
-------
-
-* __2003-2005__: Master study scholarship, Konrad-Adenauer-Stiftung (KAS), Germany.
+* __June 2018 - present__: PostDoc at the Center for Integrative Bioinformatics Vienna (CIBIV)
+* __April 2011 - May 2018__: PhD studies at the Center for Integrative Bioinformatics Vienna (CIBIV)
 

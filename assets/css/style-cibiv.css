@@ -93,6 +93,22 @@ body {
     padding: 5px;
 }
 
+.imageCIBIV {
+    position: relative;
+    float: left;
+}
+
+.imageCIBIV .hoverImg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: none;
+}
+
+.imageCIBIV:hover .hoverImg {
+    display: block;
+}
+
 /* =======================================
                     Header
  ========================================= */
