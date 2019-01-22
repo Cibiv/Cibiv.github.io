@@ -6,7 +6,7 @@ layout: personalpage
 title: Veronika Bošková
 
 # CHANGE: either Head, Postdoc, PhD student, Student, Guest researcher, System administrator, or Secretery
-position: PostDoc
+position: Postdoc
 
 # image that will appear in the people page
 image: /assets/img/people/new_pics/veronika_1.png
@@ -23,7 +23,7 @@ address: |
     <strong>Email:</strong> boskovav57(AT)univie.ac.at<br>
     <strong>Phone:</strong> ++43 +1 / 4277 - 74330<br>
     <br>
-    <strong>Postal Address:</strong><br>
+    <strong>Postal address:</strong><br>
     Center for Integrative Bioinformatics Vienna (CIBIV)<br>
     Max F. Perutz Laboratories<br>
     Campus Vienna Biocenter 5 (VBC5)<br>
