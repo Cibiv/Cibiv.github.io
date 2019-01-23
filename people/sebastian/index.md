@@ -21,7 +21,7 @@ pubyear: true
 # CHANGE: address lines, appeared at the beginning of personal page
 address: |
     <strong>Email:</strong> sebastian(DOT)burgstaller-muehlbacher(AT)univie.ac.at<br>
-    <strong>Phone:</strong> ++43 +1 / 4277 - xxxxx<br>
+    <strong>Phone:</strong> ++43 +1 / 4277 - 74324<br>
     <br>
     <strong>Postal Address:</strong><br>
     Center for Integrative Bioinformatics Vienna (CIBIV)<br>

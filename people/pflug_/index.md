@@ -21,7 +21,7 @@ pubyear: true
 # address lines, appeared at the beginning of personal page
 address: |
   <strong>Email:</strong> florian.pflug(AT)univie.ac.at<br>
-  <strong>Phone:</strong> ++43 +1 / 4277 - 74326<br>
+  <strong>Phone:</strong> ++43 +1 / 4277 - 74323<br>
   <br>
   <strong>Postal address:</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>

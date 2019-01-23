@@ -20,7 +20,7 @@ pubyear: false
 # address lines, appeared at the beginning of personal page
 address: |
  <strong>Email:</strong> stephen.crotty(AT)univie.ac.at<br>
- <strong>Phone:</strong> ++43 +1 / 4277 - 74326<br>
+ <strong>Phone:</strong> ++43 +1 / 4277 - 74325<br>
  <br>
  <strong>Postal address:</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>

@@ -21,7 +21,7 @@ title: People
             <div class="col-md-3">
                 <div style="height:20px;"></div>
                 
-                <!--<a href="{{ page.url | prepend: site.baseurl }}">-->
+                <a href="{{ page.url | prepend: site.baseurl }}">
                     <div class="imageCIBIV">
                         <div class="imageInn">
                             <img class="img-circle" src="{{page.image}}" width=180 alt="{{page.title}}">
@@ -30,8 +30,7 @@ title: People
                             <img class="img-circle" src="{{page.image2}}" width=180 alt="{{page.title}}">
                         </div>
                     </div>
-                    <!--<img class="img-circle" src="{{page.image}}" width=180 alt="{{page.title}}">
-                </a>-->
+                </a>
                 <br>
                 <p><font size="3"><a href="{{ page.url | prepend: site.baseurl }}">{{page.title}}</a></font><br>
                 {{page.position}}</p>

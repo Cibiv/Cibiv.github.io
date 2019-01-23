@@ -19,7 +19,7 @@ pubyear: true
 
 # CHANGE: address lines, appeared at the beginning of personal page
 address: |
-    <strong>Website:</strong> <a HREF="boskovav.github.io"> boskovav.github.io</a><br>
+    <strong>Website:</strong> <a HREF="https://boskovav.github.io/"> boskovav.github.io</a><br>
     <strong>Email:</strong> boskovav57(AT)univie.ac.at<br>
     <strong>Phone:</strong> ++43 +1 / 4277 - 74330<br>
     <br>
@@ -32,43 +32,43 @@ address: |
 # CHANGE or delete: publications before CIBIV
 
 publications:
-- authors: Veronika Boskova, Tanja Stadler, and Carsten Magnus
+- authors: V. Boskova, T. Stadler, and C. Magnus
   year: 2018
   title: "The influence of phylodynamic model specifications on parameter estimates of the Zika virus epidemic."
   journal: Virus Evolution, 4(1)&#58; vex044. 
   links: (<A HREF="https://doi.org/10.1093/ve/vex044">DOI&#58; 10.1093/ve/vex044 </A>)
 
-- authors: Joëlle Barido-Sottani<sup>e</sup>, Veronika Bošková<sup>e</sup>, Louis Du Plessis<sup>e</sup>, Denise Kühnert<sup>e</sup>, Carsten Magnus<sup>e</sup>, Venelin Mitov<sup>e</sup>, Nicola F. Müller<sup>e</sup>, Jūlija Pečerska<sup>e</sup>, David A. Rasmussen<sup>e</sup>, Chi Zhang<sup>e</sup>, Alexei J. Drummond, Tracy A. Heath, Oliver G. Pybus, Timothy G. Vaughan, and Tanja Stadler
+- authors: J. Barido-Sottani<sup>e</sup>, V. Boskova<sup>e</sup>, L. Du Plessis<sup>e</sup>, D. Kühnert<sup>e</sup>, C. Magnus<sup>e</sup>, V. Mitov<sup>e</sup>, N. F. Müller<sup>e</sup>, J. Pečerska<sup>e</sup>, D. A. Rasmussen<sup>e</sup>, C. Zhang<sup>e</sup>, A. J. Drummond, T. A. Heath, O. G. Pybus, T. G. Vaughan, and T. Stadler
   year: 2017
   title: "Taming the BEAST - A Community Teaching Material Resource for BEAST 2."
   journal: Systematic Biology, 67(1) 170-174. 
   links: (<A HREF="https://doi.org/10.1093/sysbio/syx060">DOI&#58; 10.1093/sysbio/syx060</A>)
      
-- authors: Dominik M. Meinel, Richard Kuehl, Reinhard Zbinden, Veronika Boskova, Christian Garzoni, Davide Fadini, Marisa Dolina, Benjamin Blümel, Thomas Weibel, Sarah Tschudin-Sutter, Andreas F. Widmer, Julia A. Bielicki, Alexa Dierig, Ulrich Heininger, Regina Konrad, Anja Berger, Vladimira Hinic, Daniel Goldenberger, Annette Blaich, Tanja Stadler, Manuel Battegay, Andreas Sing, and Adrian Egli
+- authors: D. M. Meinel, R. Kuehl, R. Zbinden, V. Boskova, C. Garzoni, D. Fadini, M. Dolina, B. Blümel, T. Weibel, S. Tschudin-Sutter, A. F. Widmer, J. A. Bielicki, A. Dierig, U. Heininger, R. Konrad, A. Berger, V. Hinic, D. Goldenberger, A. Blaich, T. Stadler, M. Battegay, A. Sing, and A. Egli
   year: 2016
   title: "Outbreak investigation for toxigenic Corynebacterium diphtheriae wound infections in refugees from Northeast Africa and Syria in Switzerland and Germany by whole genome sequencing."
   journal: Clinical Microbiology and Infection, 22(12)&#58; 1003.e1-1003.e8. 
   links: (<A HREF="https://doi.org/10.1016/j.cmi.2016.08.010">DOI&#58; 10.1016/j.cmi.2016.08.010</A>)
      
-- authors: Dhanasekaran Vijaykrishna, Edward C. Holmes, Udayan Joseph, Mathieu Fourment, Yvonne C.F. Su, Rebecca Halpin, Raphael T.C. Lee, Yi-Mo Deng, Vithiagaran Gunalan, Xudong Lin, Timothy B. Stockwell, Nadia B. Fedorova, Bin Zhou, Natalie Spirason, Denise Kühnert, Veronika Bošková, Tanja Stadler, Anna-Maria Costa, Dominic E Dwyer, Q Sue Huang, Lance C Jennings, William Rawlinson, Sheena G Sullivan, Aeron C Hurt, Sebastian Maurer-Stroh, David E Wentworth, Gavin JD Smith, and Ian G Barr
+- authors: D. Vijaykrishna, E. C. Holmes, U. Joseph, M. Fourment, Y. C.F. Su, R. Halpin, R. T.C. Lee, Y. M. Deng, V. Gunalan, X. Lin, T. B. Stockwell, N. B. Fedorova, B. Zhou, N. Spirason, D. Kühnert, V. Boskova, T. Stadler, A.-M. Costa, D. E. Dwyer, Q. S. Huang, L. C Jennings, W. Rawlinson, S. G. Sullivan, A. C Hurt, S. Maurer-Stroh, D. E Wentworth, G. J.D. Smith, and I. G. Barr
   year: 2015
   title: "The contrasting phylodynamics of human influenza B viruses."
   journal: eLife, 4&#58; e05055. 
   links: (<A HREF="https://doi.org/10.7554/eLife.05055">DOI&#58; 10.7554/eLife.05055</A>)
      
-- authors: Stefan Zoller, Veronika Boskova, and Maria Anisimova
+- authors: S. Zoller, V. Boskova, and M. Anisimova
   year: 2015
   title: "Maximum-likelihood tree estimation using codon substitution models with multiple partitions."
   journal: Molecular Biology and Evolution, 32(8)&#58; 2208-2216. 
   links: (<A HREF="https://doi.org/10.1093/molbev/msv097">DOI&#58; 10.1093/molbev/msv097</A>)
      
-- authors: Veronika Boskova, Sebastian Bonhoeffer, and Tanja Stadler
+- authors: V. Boskova, S. Bonhoeffer, and T. Stadler
   year: 2014
   title: "Inference of epidemiological dynamics based on simulated phylogenies using birth-death and coalescent models."
   journal: PLoS Computational Biology, 10(11)&#58; e1003913. 
   links: (<A HREF="https://doi.org/10.1371/journal.pcbi.1003913">DOI&#58; 10.1371/journal.pcbi.1003913</A>)
      
-- authors: Sebastiaan van Heesch, Michal Mokry, Veronika Boskova, Wade Junker, Rajdeep Mehon, Pim Toonen, Ewart de Bruijn, James D Shull, Timothy J Aitman, Edwin Cuppen, and Victor Guryev
+- authors: S. van Heesch, M. Mokry, V. Boskova, W. Junker, R. Mehon, P. Toonen, E. de Bruijn, J. D. Shull, T. J. Aitman, E. Cuppen, and V. Guryev
   year: 2013
   title: "Systematic biases in DNA copy number originate from isolation procedures."
   journal: Genome biology, 14(4)&#58; R33. 

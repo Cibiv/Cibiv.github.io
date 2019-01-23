@@ -20,7 +20,7 @@ pubyear: true
 # CHANGE: address lines, appeared at the beginning of personal page
 address: |
     <strong>Email:</strong> cassiusmanuelperez(AT)gmail.com<br>
-    <strong>Phone:</strong> ++43 +1 / xxxx - xxxxx<br>
+    <strong>Phone:</strong> ++43 +1 / 4277 - 74326<br>
     <br>
     <strong>Postal address:</strong><br>
     Center for Integrative Bioinformatics Vienna (CIBIV)<br>
@@ -45,9 +45,11 @@ address: |
 ### Education
 <div class="hline"></div>
 
-* __Sep 2011 - Jun 2015__: Bachelor in Mathematics at the Polythecnic University of Catalonia <br>
+* __Sep 2017 - Present__: PhD student in Bioinformatics at CIBIV<br>
 * __Feb 2016 - Mar 2017__: Master's degree in Mathematics at the Polythecnic University of Catalonia and the University of Vienna <br>
-* __Sep 2017 - Present__: PhD student in Bioinformatics at CIBIV
+* __Sep 2011 - Jun 2015__: Bachelor in Mathematics at the Polythecnic University of Catalonia <br>
+
+
 
 
 ### Professional Experience

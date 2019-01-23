@@ -6,7 +6,7 @@ layout: personalpage
 title: Iris Gruber
 
 #either Head, Postdoc, PhD student, or Student
-position: Secretary
+position: Project assistant
 
 # image that will appear in the people page
 image: /assets/img/people/new_pics/iris_1.png

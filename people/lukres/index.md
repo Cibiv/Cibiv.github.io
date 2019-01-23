@@ -20,7 +20,7 @@ pubyear: true
 # CHANGE: address lines, appeared at the beginning of personal page
 address: |
   <strong>Email:</strong> lukasz.reszczynski(AT)univie.ac.at<br>
-  <strong>Phone:</strong> +43 (0)14277-74323<br>
+  <strong>Phone:</strong> +43 (0) 14277-74324<br>
   <br>
   <strong>Postal address:</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>
