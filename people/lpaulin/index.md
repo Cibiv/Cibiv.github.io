@@ -72,7 +72,7 @@ publications:
 
 __2018__
 * European LCG-UNAM Symposium, Paris France, April 19-20<br>
-Talk: “Title of the tallk/Poster”
+Talk: "Understanding the sampling properties of high throughput sequencing technologies"
 
 __2018__
 * ASHG San Diego, USA, October 16-20, Poster presented with Fritz Sedlazeck<br>
