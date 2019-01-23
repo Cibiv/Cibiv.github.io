@@ -28,7 +28,8 @@ address: |
   Campus Vienna Biocenter 5 (VBC5)<br>
   A-1030 Wien, Austria<br>
   <br>
-  <strong>Publications:</strong> The full list of publications is available at <A href="https://scholar.google.at/citations?user=XqglmcgAAAAJ&hl=en">Google Scholar</A><br>
+  <strong>Publications:</strong><br>
+  The full list of publications is available at <A href="https://scholar.google.at/citations?user=XqglmcgAAAAJ&hl=en">Google Scholar</A><br>
 
 ---
 

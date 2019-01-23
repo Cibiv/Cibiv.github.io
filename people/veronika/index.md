@@ -43,7 +43,8 @@ publications:
   title: "Taming the BEAST - A Community Teaching Material Resource for BEAST 2."
   journal: Systematic Biology, 67(1) 170-174. 
   links: (<A HREF="https://doi.org/10.1093/sysbio/syx060">DOI&#58; 10.1093/sysbio/syx060</A>)
-     
+     <br><sup>e</sup>&nbsp;contributed equally
+  
 - authors: D. M. Meinel, R. Kuehl, R. Zbinden, V. Boskova, C. Garzoni, D. Fadini, M. Dolina, B. Blümel, T. Weibel, S. Tschudin-Sutter, A. F. Widmer, J. A. Bielicki, A. Dierig, U. Heininger, R. Konrad, A. Berger, V. Hinic, D. Goldenberger, A. Blaich, T. Stadler, M. Battegay, A. Sing, and A. Egli
   year: 2016
   title: "Outbreak investigation for toxigenic Corynebacterium diphtheriae wound infections in refugees from Northeast Africa and Syria in Switzerland and Germany by whole genome sequencing."
