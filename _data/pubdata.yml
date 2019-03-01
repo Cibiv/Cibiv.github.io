@@ -49,6 +49,15 @@ publications:
     #   <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29672674">PMID&#58; 29672674</A>,
     #   <A HREF="http://www.cibiv.at/software/trumicount/">software</A>)
 
+  - authors: D. Schrempf, <U>B.Q. Minh</U>, <U>A. von Haeseler</U>, and C. Cosiol
+    year: in press
+    title: Polymorphism-aware species trees with advanced mutation models, bootstrap and rate heterogeneity.
+    journal: <EM>Mol. Biol. Evol.</em>, 35, accepted.
+    # links: |
+    #   (<A HREF="http://dx.doi.org/10.1093/bioinformatics/bty283">DOI&#58; 10.1093/bioinformatics/bty283</A>,
+    #   <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29672674">PMID&#58; 29672674</A>,
+    #   <A HREF="http://www.cibiv.at/software/trumicount/">software</A>)
+
 
 ########### 2018 ###########
 
