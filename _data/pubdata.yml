@@ -27,7 +27,7 @@ publications:
   - authors: T. Neumann, V.A. Herzog, M. Muhar, <U>A. von Haeseler</U>, J. Zuber; S.L. Ameres, and <U>P. Rescheneder</U>
     year: in press
     title: Quantification of experimentally induced nucleotide conversions in high-throughput sequencing datasets.
-    journal: <EM>BMC Bioinform.</em>, 20.
+    journal: <EM>BMC Bioinform.</em>, 20, accepted.
 #    links: |
 #      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
@@ -37,7 +37,7 @@ publications:
   - authors: D. Schrempf, <U>B.Q. Minh</U>, <U>A. von Haeseler</U>, and C. Cosiol
     year: in press
     title: Polymorphism-aware species trees with advanced mutation models, bootstrap and rate heterogeneity.
-    journal: <EM>Mol. Biol. Evol.</em>, 35, accepted.
+    journal: <EM>Mol. Biol. Evol.</em>, 35, in press.
     links: |
       (<A HREF="http://dx.doi.org/10.1093/molbev/msz043">DOI&#58; 10.1093/molbev/msz043</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/30825307">PMID&#58; 30825307</A>)
