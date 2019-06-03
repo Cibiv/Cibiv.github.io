@@ -24,17 +24,6 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
-  - authors: T. Neumann, V.A. Herzog, M. Muhar, <U>A. von Haeseler</U>, J. Zuber; S.L. Ameres, and <U>P. Rescheneder</U>
-    year: in press
-    title: Quantification of experimentally induced nucleotide conversions in high-throughput sequencing datasets.
-    journal: <EM>BMC Bioinform.</em>, 20, 258.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1186/s12859-019-2849-7">DOI&#58; 10.1186/s12859-019-2849-7</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-
-  - authors: S. Uhse, <U>F.G. Pflug</U>, <U>A. von Haeseler</U>, and A. Djamei
     year: in press
     title: Insertion pool sequencing for insertional mutant analysis in complex host-microbe interactions.
     journal: <EM>Current Protocols in Plant Biology</em>, accepted.
@@ -62,6 +51,17 @@ publications:
        (<A HREF="http://dx.doi.org/10.3390/jpm9010010">DOI&#58; 10.3390/jpm9010010</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/30717290">PMID&#58; 30717290</A>
 
+  - authors: T. Neumann, V.A. Herzog, M. Muhar, <U>A. von Haeseler</U>, J. Zuber; S.L. Ameres, and <U>P. Rescheneder</U>
+    year: 2019
+    title: Quantification of experimentally induced nucleotide conversions in high-throughput sequencing datasets.
+    journal: <EM>BMC Bioinform.</em>, 20, 258.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1186/s12859-019-2849-7">DOI&#58; 10.1186/s12859-019-2849-7</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31109287">PMID&#58; 31109287</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+
+  - authors: S. Uhse, <U>F.G. Pflug</U>, <U>A. von Haeseler</U>, and A. Djamei
   - authors: S. Schenk, S. Bannister, F.J. Sedlazeck, D. Anrather, <U>B.Q. Minh</U>, A. Bileck, M. Hartl, <U>A. von Haeseler</U>, C. Gerner, F. Raible, and K. Tessmar-Raible
     year: 2019
     title: Combined transcriptome and proteome profiling reveals specific molecular brain signatures for sex, maturation and circalunar clock phase.
