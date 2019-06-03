@@ -153,7 +153,7 @@ publications:
         <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29186593">PMID&#58; 29186593</A>,
         <A HREF="http://www.iqtree.org/">software</A>)
 
-  - authors: <U>F. Pflug</U> and <U>A. von Haeseler</U>
+  - authors: <U>F.G. Pflug</U> and <U>A. von Haeseler</U>
     year: 2018
     title: TRUmiCount&#58; Correctly counting absolute numbers of molecules using unique molecular identifiers.
     journal: <EM>Bioinformatics</em>, 34, 3137-3144.
@@ -171,7 +171,7 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/29713083">PMID&#58; 29713083</A>)
        <BR><sup>e</sup>&nbsp;contributed equally
 
-  - authors: S. Uhse, <U>F. Pflug</U>, A. Stirnberg, K. Ehrlinger, <U>A. von Haeseler</U>, and A. Djamei
+  - authors: S. Uhse, <U>F.G. Pflug</U>, A. Stirnberg, K. Ehrlinger, <U>A. von Haeseler</U>, and A. Djamei
     year: 2018
     title: In vivo Insertion Pool Sequencing identifies Virulence Factors in a complex Fungal-Host Interaction.
     journal: <EM>PLoS Biol.</em>, 16, e2005129.
