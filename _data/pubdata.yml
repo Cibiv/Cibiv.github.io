@@ -24,6 +24,7 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
+  - authors: S. Uhse, <U>F.G. Pflug</U>, <U>A. von Haeseler</U>, and A. Djamei
     year: in press
     title: Insertion pool sequencing for insertional mutant analysis in complex host-microbe interactions.
     journal: <EM>Current Protocols in Plant Biology</em>, accepted.
@@ -61,7 +62,6 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
-  - authors: S. Uhse, <U>F.G. Pflug</U>, <U>A. von Haeseler</U>, and A. Djamei
   - authors: S. Schenk, S. Bannister, F.J. Sedlazeck, D. Anrather, <U>B.Q. Minh</U>, A. Bileck, M. Hartl, <U>A. von Haeseler</U>, C. Gerner, F. Raible, and K. Tessmar-Raible
     year: 2019
     title: Combined transcriptome and proteome profiling reveals specific molecular brain signatures for sex, maturation and circalunar clock phase.
