@@ -10,7 +10,7 @@ publications:
 #    links: |
 #      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>)
 #
-### article template (11 lines)
+### article template (10 lines)
 #  - authors: N. Popitsch, <U>P. Rescheneder</U>, and <U>A. von Haeseler</U>
 #    year: in press
 #    title: TTTT.
@@ -30,6 +30,16 @@ publications:
     journal: <EM>BMC Bioinform.</em>, 20, 258.
     links: |
       (<A HREF="http://dx.doi.org/10.1186/s12859-019-2849-7">DOI&#58; 10.1186/s12859-019-2849-7</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+
+  - authors: S. Uhse, <U>F.G. Pflug</U>, <U>A. von Haeseler</U>, and A. Djamei
+    year: in press
+    title: Insertion pool sequencing for insertional mutant analysis in complex host-microbe interactions.
+    journal: <EM>Current Protocols in Plant Biology</em>, accepted.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1002/cppb.20097">DOI&#58; 10.1002/cppb.20097</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
