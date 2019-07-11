@@ -25,7 +25,7 @@ address: |
   <br>
   <strong>Postal address:</strong><br>
   Center for Integrative Bioinformatics Vienna (CIBIV)<br>
-  Max F. Perutz Laboratories<br>
+  Max Perutz Labs<br>
   Campus Vienna Biocenter 5 (VBC5)<br>
   A-1030 Wien, Austria<br>
   <br>
