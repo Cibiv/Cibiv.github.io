@@ -24,16 +24,6 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
-  - authors: R.J.E. Alves, M. Kerou, <U>A. Zappe</U>, R. Bittner, S.S. Abby, <U>H.A. Schmidt</U>, K. Pfeifer, and C. Schleper
-    year: in press
-    title: Ammonia Oxidation by the Arctic Terrestrial Thaumarchaeote Candidatus Nitrosocosmicus arcticus Is Stimulated by Increasing Temperatures.
-    journal: <EM>Front. Microbiol.</em>, 10, 1571, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.3389/fmicb.2019.01571">DOI&#58; 10.3389/fmicb.2019.01571</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-
   - authors: S. Uhse, <U>F.G. Pflug</U>, <U>A. von Haeseler</U>, and A. Djamei
     year: in press
     title: Insertion pool sequencing for insertional mutant analysis in complex host-microbe interactions.
@@ -45,6 +35,15 @@ publications:
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
 ########### 2019 ###########
+
+  - authors: R.J.E. Alves, M. Kerou, <U>A. Zappe</U>, R. Bittner, S.S. Abby, <U>H.A. Schmidt</U>, K. Pfeifer, and C. Schleper
+    year: 2019
+    title: Ammonia Oxidation by the Arctic Terrestrial Thaumarchaeote Candidatus Nitrosocosmicus arcticus Is Stimulated by Increasing Temperatures.
+    journal: <EM>Front. Microbiol.</em>, 10, 1571.
+    links: |
+      (<A HREF="http://dx.doi.org/10.3389/fmicb.2019.01571">DOI&#58; 10.3389/fmicb.2019.01571</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31379764">PMID&#58; 31379764</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC6657660">PMCID&#58; PMC6657660</A>)
 
   - authors: A. Jain, D. Perisa, F. Fliedner, <U>A. von Haeseler</U>, and I. Ebersberger
     year: 2019
