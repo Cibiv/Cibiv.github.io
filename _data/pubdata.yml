@@ -24,6 +24,15 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
+  - authors: <U>S.M. Crotty</U>, B.Q. Minh, N.G. Bean, B.R. Holland, J. Tuke, L.S. Jermiin, and <U>A. von Haeseler</U>
+    year: in press
+    title: GHOST: Recovering Historical Signal from Heterotachously-evolved Sequence Alignments .
+    journal: <EM>Syst. Biol.</em>, 68, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/sysbio/syz051">DOI&#58; 10.1093/sysbio/syz051</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31364711">PMID&#58; 31364711</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+#
   - authors: S. Uhse, <U>F.G. Pflug</U>, <U>A. von Haeseler</U>, and A. Djamei
     year: in press
     title: Insertion pool sequencing for insertional mutant analysis in complex host-microbe interactions.
