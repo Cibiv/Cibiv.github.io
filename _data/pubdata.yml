@@ -24,16 +24,6 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
-  - authors: P. Breitling, A. Stamatakis, <U>O. Chernomor</U>, B. Bettisworth, and <U>L. Reszczynski</U>
-    year: 2019
-    title: Empirical Analysis of Phylogenetic Quasi-Terraces
-    journal: <EM>bioRxiv/EM>, 810309.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/810309">DOI&#58; 10.1101/810309</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
   - authors: <U>S.M. Crotty</U>, B.Q. Minh, N.G. Bean, B.R. Holland, J. Tuke, L.S. Jermiin, and <U>A. von Haeseler</U>
     year: in press
     title: GHOST&#58; Recovering Historical Signal from Heterotachously-evolved Sequence Alignments .
@@ -41,16 +31,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1093/sysbio/syz051">DOI&#58; 10.1093/sysbio/syz051</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31364711">PMID&#58; 31364711</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
-  - authors: <U>T. Drucks</U>, <U>A.F. Leuchtenberger</U>, <U>S. Burgstaller-Muehlbacher</U>, <U>S.M. Crotty</U>, <U>H.A. Schmidt</U>, and <U>A. von Haeseler</U>
-    year: 2019
-    title: Distinguishing Felsenstein zone from Farris zone using neural networks
-    journal: <EM>bioRxiv/EM>, 822288.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/822288">DOI&#58; 10.1101/822288</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 #
   - authors: S. Uhse, <U>F.G. Pflug</U>, <U>A. von Haeseler</U>, and A. Djamei
@@ -74,6 +54,26 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31379764">PMID&#58; 31379764</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC6657660">PMCID&#58; PMC6657660</A>)
 
+  - authors: P. Breitling, A. Stamatakis, <U>O. Chernomor</U>, B. Bettisworth, and <U>L. Reszczynski</U>
+    year: 2019
+    title: Empirical Analysis of Phylogenetic Quasi-Terraces
+    journal: <EM>bioRxiv/EM>, 810309.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/810309">DOI&#58; 10.1101/810309</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+#
+  - authors: <U>T. Drucks</U>, <U>A.F. Leuchtenberger</U>, <U>S. Burgstaller-Muehlbacher</U>, <U>S.M. Crotty</U>, <U>H.A. Schmidt</U>, and <U>A. von Haeseler</U>
+    year: 2019
+    title: Distinguishing Felsenstein zone from Farris zone using neural networks
+    journal: <EM>bioRxiv/EM>, 822288.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/822288">DOI&#58; 10.1101/822288</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+#
   - authors: A. Jain, D. Perisa, F. Fliedner, <U>A. von Haeseler</U>, and I. Ebersberger
     year: 2019
     title: The evolutionary traceability of a protein.
