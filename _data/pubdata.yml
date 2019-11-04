@@ -57,7 +57,7 @@ publications:
   - authors: P. Breitling, A. Stamatakis, <U>O. Chernomor</U>, B. Bettisworth, and <U>L. Reszczynski</U>
     year: 2019
     title: Empirical Analysis of Phylogenetic Quasi-Terraces
-    journal: <EM>bioRxiv/EM>, 810309.
+    journal: <EM>bioRxiv</EM>, 810309.
     links: |
       (<A HREF="http://dx.doi.org/10.1101/810309">DOI&#58; 10.1101/810309</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
@@ -67,7 +67,7 @@ publications:
   - authors: <U>T. Drucks</U>, <U>A.F. Leuchtenberger</U>, <U>S. Burgstaller-Muehlbacher</U>, <U>S.M. Crotty</U>, <U>H.A. Schmidt</U>, and <U>A. von Haeseler</U>
     year: 2019
     title: Distinguishing Felsenstein zone from Farris zone using neural networks
-    journal: <EM>bioRxiv/EM>, 822288.
+    journal: <EM>bioRxiv</EM>, 822288.
     links: |
       (<A HREF="http://dx.doi.org/10.1101/822288">DOI&#58; 10.1101/822288</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
