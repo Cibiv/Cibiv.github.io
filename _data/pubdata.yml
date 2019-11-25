@@ -32,25 +32,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/sysbio/syz051">DOI&#58; 10.1093/sysbio/syz051</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31364711">PMID&#58; 31364711</A>)
 
-  - authors: <U>S. Madritsch</U>, E. Wischnitzki, P. Kotrade, A. Ashoub, A. Burg, S. Fluch, W. Br&uuml;ggemann, and E.M. Sehr
-    year: 2019
-    title: Elucidating Drought Stress Tolerance in European Oaks Through Cross-Species Transcriptomics.
-    journal: <EM>G3-Genes Genomes Genet.</em>, 9, 3181-3199.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1534/g3.119.400456">DOI&#58; 10.1534/g3.119.400456</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31395652">PMID&#58; 31395652</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-
-  - authors: S. Uhse, <U>F.G. Pflug</U>, <U>A. von Haeseler</U>, and A. Djamei
-    year: in press
-    title: Insertion pool sequencing for insertional mutant analysis in complex host-microbe interactions.
-    journal: <EM>Current Protocols in Plant Biology</em>, 4, e20086, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1002/cppb.20097">DOI&#58; 10.1002/cppb.20097</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-
 ########### 2019 ###########
 
   - authors: R.J.E. Alves, M. Kerou, <U>A. Zappe</U>, R. Bittner, S.S. Abby, <U>H.A. Schmidt</U>, K. Pfeifer, and C. Schleper
@@ -98,6 +79,15 @@ publications:
        (<A HREF="http://dx.doi.org/10.3390/jpm9010010">DOI&#58; 10.3390/jpm9010010</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/30717290">PMID&#58; 30717290</A>
 
+  - authors: <U>S. Madritsch</U>, E. Wischnitzki, P. Kotrade, A. Ashoub, A. Burg, S. Fluch, W. Br&uuml;ggemann, and E.M. Sehr
+    year: 2019
+    title: Elucidating Drought Stress Tolerance in European Oaks Through Cross-Species Transcriptomics.
+    journal: <EM>G3-Genes Genomes Genet.</em>, 9, 3181-3199.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1534/g3.119.400456">DOI&#58; 10.1534/g3.119.400456</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31395652">PMID&#58; 31395652</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC6778798">PMCID&#58; PMC6778798</A>)
+
   - authors: T. Neumann, V.A. Herzog, M. Muhar, <U>A. von Haeseler</U>, J. Zuber; S.L. Ameres, and <U>P. Rescheneder</U>
     year: 2019
     title: Quantification of experimentally induced nucleotide conversions in high-throughput sequencing datasets.
@@ -124,6 +114,16 @@ publications:
       (<A HREF="https://academic.oup.com/mbe/article/36/6/1294/5368492?guestAccessKey=e09909e0-8361-4292-b547-fe6a3bda8427">free reprint</A>,
       <A HREF="http://dx.doi.org/10.1093/molbev/msz043">DOI&#58; 10.1093/molbev/msz043</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/30825307">PMID&#58; 30825307</A>)
+
+  - authors: S. Uhse, <U>F.G. Pflug</U>, <U>A. von Haeseler</U>, and A. Djamei
+    year: 2019
+    title: Insertion pool sequencing for insertional mutant analysis in complex host-microbe interactions.
+    journal: <EM>Current Protocols in Plant Biology</em>, 4, e20086.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1002/cppb.20097">DOI&#58; 10.1002/cppb.20097</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
 
 ########### 2018 ###########
