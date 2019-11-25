@@ -88,6 +88,16 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31395652">PMID&#58; 31395652</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC6778798">PMCID&#58; PMC6778798</A>)
 
+  - authors: <U>C. Manuel</U> and <U>A. von Haeseler</U>
+    year: 2019
+    title: Structure of the space of taboo-free sequences
+    journal: <EM>bioRxiv</EM>, 824847.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/824847">DOI&#58; 10.1101/824847</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+#
   - authors: T. Neumann, V.A. Herzog, M. Muhar, <U>A. von Haeseler</U>, J. Zuber; S.L. Ameres, and <U>P. Rescheneder</U>
     year: 2019
     title: Quantification of experimentally induced nucleotide conversions in high-throughput sequencing datasets.
