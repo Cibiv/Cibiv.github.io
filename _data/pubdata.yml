@@ -98,6 +98,16 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 #
+  - authors: B.Q. Minh, <U>H.A. Schmidt</U>, <U>O. Chernomor</U>, <U>D. Schrempf</U>, M. Woodhams, <U>A. von Haeseler</U>, and R. Lanfear
+    year: 2019
+    title: IQ-TREE 2&#58; New models and efficient methods for phylogenetic inference in the genomic era
+    journal: <EM>bioRxiv</EM>, 849372.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/849372">DOI&#58; 10.1101/849372</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+#
   - authors: T. Neumann, V.A. Herzog, M. Muhar, <U>A. von Haeseler</U>, J. Zuber; S.L. Ameres, and <U>P. Rescheneder</U>
     year: 2019
     title: Quantification of experimentally induced nucleotide conversions in high-throughput sequencing datasets.
