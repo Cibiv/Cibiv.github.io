@@ -31,8 +31,16 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1093/sysbio/syz051">DOI&#58; 10.1093/sysbio/syz051</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31364711">PMID&#58; 31364711</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
+
+  - authors: <U>S. Madritsch</U>, E. Wischnitzki, P. Kotrade, A. Ashoub, A. Burg, S. Fluch, W. Br&uuml;ggemann, and E.M. Sehr
+    year: 2019
+    title: Elucidating Drought Stress Tolerance in European Oaks Through Cross-Species Transcriptomics.
+    journal: <EM>G3-Genes Genomes Genet.</em>, 9, 3181-3199.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1534/g3.119.400456">DOI&#58; 10.1534/g3.119.400456</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31395652">PMID&#58; 31395652</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+
   - authors: S. Uhse, <U>F.G. Pflug</U>, <U>A. von Haeseler</U>, and A. Djamei
     year: in press
     title: Insertion pool sequencing for insertional mutant analysis in complex host-microbe interactions.
