@@ -32,6 +32,26 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/sysbio/syz051">DOI&#58; 10.1093/sysbio/syz051</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31364711">PMID&#58; 31364711</A>)
 
+  - authors: B.Q. Minh, <U>H.A. Schmidt</U>, <U>O. Chernomor</U>, <U>D. Schrempf</U>, M.D. Woodhams, <U>A. von Haeseler</U>, and R. Lanfear
+    year: in press
+    title: IQ-TREE 2&#58; New models and efficient methods for phylogenetic inference in the genomic era.
+    journal: <EM>Mol. Biol. Evol.</em>, 37.
+#    links: |
+#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+
+  - authors: R. Reinhardt, L. Truebestein, <U>H.A. Schmidt</U>, and T.A. Leonard
+    year: in press
+    title: It Takes Two to Tango&#58; Activation of Protein Kinase D by Dimerization
+    journal: <EM>BioEssays</em>.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1002/bies.201900222">DOI&#58; 10.1002/bies.201900222</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+
 ########### 2019 ###########
 
   - authors: R.J.E. Alves, M. Kerou, <U>A. Zappe</U>, R. Bittner, S.S. Abby, <U>H.A. Schmidt</U>, K. Pfeifer, and C. Schleper
@@ -459,7 +479,7 @@ publications:
       (<A HREF="http://dx.doi.org/10.1016/j.jtbi.2016.07.042">DOI&#58; 10.1016/j.jtbi.2016.07.042</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27480613">PMID&#58; 27480613</A>,
       <A HREF="http://www.cibiv.at/software/iqtree/">software</A>,
-      <A HREF="http://dx.doi.org/10.1101/048496">preprint-DOI:10.1101/048496</A>)
+      <A HREF="http://dx.doi.org/10.1101/048496">bioRxiv-preprint-DOI:10.1101/048496</A>)
 
   - authors: <U>J. Trifinopoulos</U>, <U>L.-T. Nguyen</U>, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: 2016
