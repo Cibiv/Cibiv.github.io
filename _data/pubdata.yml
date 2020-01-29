@@ -32,7 +32,7 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/sysbio/syz051">DOI&#58; 10.1093/sysbio/syz051</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31364711">PMID&#58; 31364711</A>)
 
-  - authors: B.Q. Minh, <U>H.A. Schmidt</U>, <U>O. Chernomor</U>, <U>D. Schrempf</U>, M.D. Woodhams, <U>A. von Haeseler</U>, and R. Lanfear
+  - authors: B.Q. Minh, <U>H.A. Schmidt</U>, <U>O. Chernomor</U>, <U>D. Schrempf</U>, M.D. Woodhams, <U>A. von Haeseler</U><sup>s</sup>, and R. Lanfear<sup>s</sup>
     year: in press
     title: IQ-TREE 2&#58; New models and efficient methods for phylogenetic inference in the genomic era.
     journal: <EM>Mol. Biol. Evol.</em>, 37.
@@ -41,6 +41,7 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+       <BR><sup>s</sup>&nbsp;co-senior authors.
 
   - authors: R. Reinhardt, L. Truebestein, <U>H.A. Schmidt</U>, and T.A. Leonard
     year: in press
