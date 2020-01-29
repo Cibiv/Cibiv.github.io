@@ -38,11 +38,11 @@ publications:
     journal: <EM>Mol. Biol. Evol.</em>, 37.
     links: |
        <A HREF="http://www.iqtree.org/">software</A>)
+       <BR><sup>s</sup>&nbsp;co-senior authors.
 #      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-       <BR><sup>s</sup>&nbsp;co-senior authors.
 
   - authors: R. Reinhardt, L. Truebestein, <U>H.A. Schmidt</U>, and T.A. Leonard
     year: in press
