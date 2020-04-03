@@ -24,13 +24,10 @@ publications:
 ### embargoed util May 8, 2017, 16:00 London time (GMT)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 
-  - authors: N. Popitsch, C.D. Huber, I. Buchumenski, E. Eisenberg, M. Jantsch, <U>A. von Haeseler</U> and <U>M. Gallach</U>
-    year: in press
-    title: A-to-I RNA editing uncovers hidden signals of adaptive genome evolution in animals.
-    journal: <EM>Genome Biol. Evol.</em>, 12.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1093/gbe/evaa046">DOI&#58; 10.1093/gbe/evaa046</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32145015">PMID&#58; 32145015</A>)
+########### accepted ###########
+
+
+########### in press ###########
 
   - authors: B.Q. Minh, <U>H.A. Schmidt</U>, <U>O. Chernomor</U>, <U>D. Schrempf</U>, M.D. Woodhams, <U>A. von Haeseler</U><sup>s</sup>, and R. Lanfear<sup>s</sup>
     year: in press
@@ -42,6 +39,14 @@ publications:
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32011700">PMID&#58; 32011700</A>,
        <A HREF="http://www.iqtree.org/">software</A>)
        <BR><sup>s</sup>&nbsp;co-senior authors.
+
+  - authors: N. Popitsch, C.D. Huber, I. Buchumenski, E. Eisenberg, M. Jantsch, <U>A. von Haeseler</U> and <U>M. Gallach</U>
+    year: in press
+    title: A-to-I RNA editing uncovers hidden signals of adaptive genome evolution in animals.
+    journal: <EM>Genome Biol. Evol.</em>, 12.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/gbe/evaa046">DOI&#58; 10.1093/gbe/evaa046</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32145015">PMID&#58; 32145015</A>)
 
 ########### 2020 ###########
 
@@ -61,6 +66,15 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1002/bies.201900222">DOI&#58; 10.1002/bies.201900222</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31997382">PMID&#58; 31997382</A>)
+
+  - authors: A. Waagmeester, G. Stupp, <U>S. Burgstaller-Muehlbacher</U>, B.M. Good, M. Griffith, O.L. Griffith, K. Hanspers, H. Hermjakob, T.S. Hudson, K. Hybiske, S.M. Keating, M. Manske, M. Mayers, D. Mietchen, E. Mitraka, A.R. Pico, T. Putman, A. Riutta, N. Queralt-Rosinach, L.M. Schriml, T. Shafee, D. Slenter, R. Stephan, K. Thornton, G. Tsueng, R. Tu, S. Ul-Hasan, E. Willighagen, C. Wu, and A.I. Su
+    year: 2020
+    title: Wikidata as a knowledge graph for the life sciences.
+    journal: <EM>eLife</em>, eLife 2020;9:e52614 doi: 10.7554/eLife.52614.
+    links: |
+      (<A HREF="http://dx.doi.org/10.7554/eLife.52614">DOI&#58; 10.7554/eLife.52614</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32180547">PMID&#58; 32180547</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC7077981">PMCID&#58; PMC7077981</A>)
 
 ########### 2019 ###########
 
