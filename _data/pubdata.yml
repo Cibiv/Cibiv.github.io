@@ -28,12 +28,10 @@ publications:
     year: in press
     title: A-to-I RNA editing uncovers hidden signals of adaptive genome evolution in animals.
     journal: <EM>Genome Biol. Evol.</em>, 12.
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/gbe/evaa046">DOI&#58; 10.1093/gbe/evaa046</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32145015">PMID&#58; 32145015</A>)
+
   - authors: B.Q. Minh, <U>H.A. Schmidt</U>, <U>O. Chernomor</U>, <U>D. Schrempf</U>, M.D. Woodhams, <U>A. von Haeseler</U><sup>s</sup>, and R. Lanfear<sup>s</sup>
     year: in press
     title: IQ-TREE 2&#58; New models and efficient methods for phylogenetic inference in the genomic era.
