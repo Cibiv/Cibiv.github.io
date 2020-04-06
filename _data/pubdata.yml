@@ -29,6 +29,16 @@ publications:
 
 ########### in press ###########
 
+  - authors: <U>I. Ferreira</U>, S. Beisken, L. Lueftinger, T. Weinmaier, M. Klein, J. Bacher, R. Patel, <U>A. von Haeseler</U>, and A.E. Posch
+    year: in press
+    title: Species Identification and Antibiotic Resistance Prediction by Analysis of Whole Genome Sequence Data Using ARESdb&#58; An Analysis of Isolates from the Unyvero Lower Respiratory Tract Infection Trial.
+    journal: <EM>J. Clin. Microbiol.</em>, accepted.
+#    links: |
+#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+#
   - authors: B.Q. Minh, <U>H.A. Schmidt</U>, <U>O. Chernomor</U>, <U>D. Schrempf</U>, M.D. Woodhams, <U>A. von Haeseler</U><sup>s</sup>, and R. Lanfear<sup>s</sup>
     year: in press
     title: IQ-TREE 2&#58; New models and efficient methods for phylogenetic inference in the genomic era.
