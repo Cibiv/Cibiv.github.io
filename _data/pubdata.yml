@@ -33,11 +33,9 @@ publications:
     year: in press
     title: Species Identification and Antibiotic Resistance Prediction by Analysis of Whole Genome Sequence Data Using ARESdb&#58; An Analysis of Isolates from the Unyvero Lower Respiratory Tract Infection Trial.
     journal: <EM>J. Clin. Microbiol.</em>, accepted.
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+    links: |
+      (<A HREF="http://dx.doi.org/10.1128/JCM.00273-20">DOI&#58; 10.1128/JCM.00273-20</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32295890">PMID&#58; 32295890</A>)
 
   - authors: N. Popitsch, C.D. Huber, I. Buchumenski, E. Eisenberg, M. Jantsch, <U>A. von Haeseler</U> and <U>M. Gallach</U>
     year: in press
