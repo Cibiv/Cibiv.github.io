@@ -49,9 +49,9 @@ address: |
 
 ### Professional Experience
 <div class="hline"></div>
-* __since 2017__: Dean of the Center of Molecular Biology at the University of Vienna; Head of the Center for Medical Biochemistry at the Medical University of Vienna; Scientific Director of the Max F. Perutz Laboratories
 * __since October 2010__: Full Professor for Bioinformatics at the Center for Molecular Biology and Department for Computer Sciences (University of Vienna) and at the Department for Medical Biochemistry (Medical University of Vienna), Austria
 * __since 2005__: Scientific Director of the Center for Integrative Bioinformatics Vienna (CIBIV).
+* __Apr 2017 - Mar 2020__: Dean of the Center of Molecular Biology at the University of Vienna; Head of the Center for Medical Biochemistry at the Medical University of Vienna; Scientific Director of the Max F. Perutz Laboratories
 * __Sept 2005 - Sept 2011__: WWTF Science Chair for Bioinformatics and Full Professor at the Medical University Vienna, the University Vienna, University of Veterinary Medicine, Austria
 * __2002 - Aug 2005__: Chairman of Computer Sciences, Heinrich Heine University, Düsseldorf, Germany
 * __2001 - Aug 2005__: Full Professor (C4) for Bioinformatics, Heinrich Heine University, Düsseldorf, Germany
