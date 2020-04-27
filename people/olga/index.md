@@ -73,7 +73,7 @@ publications:
 
 __2018__
 * The Tenth UTAS (mainly) Theoretical Phylogenetics Meeting, Hobart, TASMANIA, November 21-23, 2018.
-Talk: “Discussion on “small n, large p“ in phylogenetics and application of James-Stein estimator”
+Talk: “Characteristics of phylogenetic terraces and their influence on tree space exploration”
 
 __2017__
 * The 21st Annual New Zealand Phylogenomics Meeting 2017, Auckland, Waiheke, New Zealand, February 12-17, 2017. 
