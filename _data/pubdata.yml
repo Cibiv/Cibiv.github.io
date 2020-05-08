@@ -47,14 +47,6 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
-  - authors: N. Popitsch, C.D. Huber, I. Buchumenski, E. Eisenberg, M. Jantsch, <U>A. von Haeseler</U> and <U>M. Gallach</U>
-    year: in press
-    title: A-to-I RNA editing uncovers hidden signals of adaptive genome evolution in animals.
-    journal: <EM>Genome Biol. Evol.</em>, 12.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1093/gbe/evaa046">DOI&#58; 10.1093/gbe/evaa046</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32145015">PMID&#58; 32145015</A>)
-
 ########### 2020 ###########
 
   - authors: <U>S.M. Crotty</U>, B.Q. Minh, N.G. Bean, B.R. Holland, J. Tuke, L.S. Jermiin, and <U>A. von Haeseler</U>
@@ -76,6 +68,14 @@ publications:
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32011700">PMID&#58; 32011700</A>,
        <A HREF="http://www.iqtree.org/">software</A>)
        <BR><sup>s</sup>&nbsp;co-senior authors.
+
+  - authors: N. Popitsch, C.D. Huber, I. Buchumenski, E. Eisenberg, M. Jantsch, <U>A. von Haeseler</U> and <U>M. Gallach</U>
+    year: 2020
+    title: A-to-I RNA editing uncovers hidden signals of adaptive genome evolution in animals.
+    journal: <EM>Genome Biol. Evol.</em>, 12, 345-357.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/gbe/evaa046">DOI&#58; 10.1093/gbe/evaa046</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32145015">PMID&#58; 32145015</A>)
 
   - authors: R. Reinhardt, L. Truebestein, <U>H.A. Schmidt</U>, and T.A. Leonard
     year: 2020
