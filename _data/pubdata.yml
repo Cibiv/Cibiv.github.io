@@ -42,10 +42,8 @@ publications:
     title: Sampling bias and incorrect rooting make phylogenetic network tracing of SARS-COV-2 infections unreliable.
     journal: <EM>Proc. Natl. Acad. Sci. USA</em>, 117.
     links: |
-      (<A HREF="http://dx.doi.org/10.1073/pnas.2007295117">DOI&#58; 10.1073/pnas.2007295117</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+      (<A HREF="http://dx.doi.org/10.1073/pnas.2007295117">DOI&#58; 10.1073/pnas.2007295117</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32381734">PMID&#58; 32381734</A>)
 
 ########### 2020 ###########
 
