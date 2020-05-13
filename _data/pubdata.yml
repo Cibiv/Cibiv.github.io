@@ -1432,7 +1432,8 @@ publications:
     title: Testing Tree Topologies.
     journal: In P. Lemey, M. Salemi, A.M. Vandamme (eds.)<em>The Phylogenetic Handbook&#58; a Practical Approach to Phylogenetic Analysis and Hypothesis Testing.</em>, 2nd Edition, 381-404, Cambridge University Press, Cambridge.
     links: |
-      (ISBN: paperback: <a HREF="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521730716">9780521730716</a>, hardcover&#58; <a HREF="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521877107">9780521877107</a>,
+      (<A HREF="http://dx.doi.org/10.1017/CBO9780511819049.014">DOI&#58; 10.1017/CBO9780511819049.014</A>,
+       ISBN: paperback: <a HREF="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521730716">9780521730716</a>, hardcover&#58; <a HREF="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521877107">9780521877107</a>,
       <A HREF="http://www.thephylogenetichandbook.org/">book webpage</A>)
 
   - authors: <u>H.A. Schmidt</u> and <u>A. von Haeseler</u>
@@ -1440,7 +1441,8 @@ publications:
     title: Phylogenetic Inference Using Maximum Likelihood Methods.
     journal: In P. Lemey, M. Salemi, A.M. Vandamme (eds.)<em>The Phylogenetic Handbook&#58; a Practical Approach to Phylogenetic Analysis and Hypothesis Testing.</em>, 2nd Edition, 181-209, Cambridge University Press, Cambridge.
     links: |
-      (ISBN: paperback: <a HREF="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521730716">9780521730716</a>, hardcover&#58; <a HREF="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521877107">9780521877107</a>,
+      (<A HREF="http://dx.doi.org/10.1017/CBO9780511819049.008">DOI&#58; 10.1017/CBO9780511819049.008</A>,
+       ISBN: paperback: <a HREF="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521730716">9780521730716</a>, hardcover&#58; <a HREF="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521877107">9780521877107</a>,
       <A HREF="http://www.thephylogenetichandbook.org/">book webpage</A>)
 
   - authors: S. Simon, <u>S. Strauss</u>, <u>A. von Haeseler</u>, and H. Hadrys
@@ -1639,7 +1641,8 @@ publications:
     title: Phylogeny Reconstruction. In T. Lengauer (ed.)
     journal: <EM>Bioinformatics&#58; From Genomes to Therapies</em> 83-128, Wiley-VCH, Weinheim.
     links: |
-      (ISBN&nbsp;<A HREF="http://www.wiley.com/WileyCDA/WileyTitle/productCd-3527312781.html">978-3-527-31278-8</A>)
+      (<A HREF="http://dx.doi.org/10.1002/9783527619368.ch4">DOI&#58; 10.1002/9783527619368.ch4</A>,
+       ISBN&nbsp;<A HREF="http://www.wiley.com/WileyCDA/WileyTitle/productCd-3527312781.html">978-3-527-31278-8</A>)
 
   - authors:  M.R. Eckert, <u>T. Gesell</u>, <u>M. Grabner</u>, A. Gruber, K. Gonzales, I.L. Hofacker, <u>A. von Haeseler</u>, and E. Charpentier
     year: 2007
@@ -1840,7 +1843,8 @@ publications:
     title: Phylogenetic Parameter Estimation on COWs. In A.Y. Zomaya (ed.)
     journal: <EM>Parallel Computing for Bioinformatics and Computational Biology</em> 347-368, Wiley and Sons, New York.
     links: |
-      (ISBN&nbsp;<A HREF="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471718483.html">0-471-71848-3</A>)
+      (<A HREF="http://dx.doi.org/10.1002/0471756504.ch15">DOI&#58; 10.1002/0471756504.ch15</A>,
+       ISBN&nbsp;<A HREF="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471718483.html">0-471-71848-3</A>)
 
   - authors:  S. Taudien, <u>I. Ebersberger</u>, Gernot Gl&ouml;ckner, and Mattias Platzer
     year: 2006
@@ -1948,7 +1952,8 @@ publications:
     year: 2005
     title: PhyNav&#58; A novel approach to reconstruct large phylogenies. In C. Weihs and W. Gaul (eds.)
     journal: <EM>Classification, the Ubiquitous Challenge</em> Series Studies in Classification, Data Analysis, and Knowledge Organization, 386-393, Springer, Heidelberg/New York.
-    links:
+    links: |
+      (<A HREF="http://dx.doi.org/10.1007/3-540-28084-7_44">DOI&#58; 10.1007/3-540-28084-7_44</A>)
 
   - authors:  <u>L.S. Vinh</u> and <u>A. von Haeseler</u>
     year: 2005
