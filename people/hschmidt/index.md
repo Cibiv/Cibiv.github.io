@@ -52,7 +52,8 @@ publications:
     title: "Maximum Likelihood Analysis using TREE-PUZZLE. In A.D. Baxevanis, D.B. Davison, R.D.M. Page, G. Stormo, and L. Stein (eds.)"
     journal: Current Protocols in Bioinformatics, Supplement 1, Unit 6.6, pages 6.6.1-6.6.23, Wiley and Sons, New York. 
     links: |
-      (ISBN <A HREF="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471250937.html">0-471-25093-7</A>, 
+      (<A HREF="http://dx.doi.org/10.1002/0471250953.bi0606s01">DOI&#58; 10.1002/0471250953.bi0606s01</A>,
+       ISBN <A HREF="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471250937.html">0-471-25093-7</A>, 
        <A HREF="https://currentprotocols.onlinelibrary.wiley.com/">CP online</A>)
 
   - authors: H.A. Schmidt, E. Petzold, M. Vingron, and A. von Haeseler
@@ -98,6 +99,7 @@ publications:
     title: "The Phylogeny of Thermophiles and Hyperthermophiles and the Three Domains of Life. The Phylogeny of Thermophiles. In Seckbach, J. (ed.)" 
     journal: Enigmatic Microorganisms and Life in Extreme Environments, 291-304, Kluwer Academic Publishers, Dordrecht, Netherlands, 
     links: |
+      (<A HREF="http://dx.doi.org/10.1007/978-94-011-4838-2_23">DOI&#58; 10.1007/978-94-011-4838-2_23</A>, 
       (ISBN <A HREF="https://www.springer.com/de/book/9780792354925">978-0-7923-5492-5</A>)
 
   - authors: Bhattacharya, D. and Schmidt, H.A.
