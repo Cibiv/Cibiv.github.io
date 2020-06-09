@@ -29,6 +29,15 @@ publications:
 
 ########### in press ###########
 
+  - authors: <U>V. Boskova</U> and <U>T. Stadler</U>
+    year: in press
+    title: PIQMEE: Bayesian phylodynamic method for analysis of large datasets with duplicate sequences.
+    journal: <EM>Mol. Biol. Evol.</em>, 37, accepted.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/molbev/msaa136">DOI&#58; 10.1093/molbev/msaa136</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32492139">PMID&#58; 32492139</A>,
+       <A HREF="https://github.com/boskovav/piqmee/releases">software</A>)
+
   - authors: <U>I. Ferreira</U>, S. Beisken, L. Lueftinger, T. Weinmaier, M. Klein, J. Bacher, R. Patel, <U>A. von Haeseler</U>, and A.E. Posch
     year: in press
     title: Species Identification and Antibiotic Resistance Prediction by Analysis of Whole Genome Sequence Data Using ARESdb&#58; An Analysis of Isolates from the Unyvero Lower Respiratory Tract Infection Trial.
