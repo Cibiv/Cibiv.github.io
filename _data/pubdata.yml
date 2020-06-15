@@ -56,14 +56,6 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
-  - authors: C. Mavian, S. Kosakovsky Pond, S. Marini, B. Rife Magalis, A.-M. Vandamme, S. Dellicour, S.V. Scarpino, C. Houldcroft, J. Villabona-Arenas, T.K. Paisie, N.S. Trovao, C. Boucher, Y. Zhang, R.H. Scheuermann, O. Gascuel, T.T.-Y. Lam, M.A. Suchard, A. Abecasis, E. Wilkinson, T. de Oliveira, A.I. Bento, <U>H.A. Schmidt</U>, D. Martin, J. Hadfield, N. Faria, N.D. Grubaugh, R.A. Neher, G. Baele, P. Lemey, T. Stadler, J. Albert, K.A. Crandall, T, Leitner, A. Stamatakis, M. Prosperi and M. Salemi
-    year: in press
-    title: Sampling bias and incorrect rooting make phylogenetic network tracing of SARS-COV-2 infections unreliable.
-    journal: <EM>Proc. Natl. Acad. Sci. USA</em>, 117, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1073/pnas.2007295117">DOI&#58; 10.1073/pnas.2007295117</A>,
-       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32381734">PMID&#58; 32381734</A>)
-
 ########### 2020 ###########
 
   - authors: <U>S.M. Crotty</U>, B.Q. Minh, N.G. Bean, B.R. Holland, J. Tuke, L.S. Jermiin, and <U>A. von Haeseler</U>
@@ -74,6 +66,14 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/sysbio/syz051">DOI&#58; 10.1093/sysbio/syz051</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31364711">PMID&#58; 31364711</A>,
        <A HREF="http://www.iqtree.org/">software</A>)
+
+  - authors: C. Mavian, S. Kosakovsky Pond, S. Marini, B. Rife Magalis, A.-M. Vandamme, S. Dellicour, S.V. Scarpino, C. Houldcroft, J. Villabona-Arenas, T.K. Paisie, N.S. Trovao, C. Boucher, Y. Zhang, R.H. Scheuermann, O. Gascuel, T.T.-Y. Lam, M.A. Suchard, A. Abecasis, E. Wilkinson, T. de Oliveira, A.I. Bento, <U>H.A. Schmidt</U>, D. Martin, J. Hadfield, N. Faria, N.D. Grubaugh, R.A. Neher, G. Baele, P. Lemey, T. Stadler, J. Albert, K.A. Crandall, T, Leitner, A. Stamatakis, M. Prosperi and M. Salemi
+    year: 2020
+    title: Sampling bias and incorrect rooting make phylogenetic network tracing of SARS-COV-2 infections unreliable.
+    journal: <EM>Proc. Natl. Acad. Sci. USA</em>, 117, 12522-12523.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1073/pnas.2007295117">DOI&#58; 10.1073/pnas.2007295117</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32381734">PMID&#58; 32381734</A>)
 
   - authors: B.Q. Minh, <U>H.A. Schmidt</U>, <U>O. Chernomor</U>, <U>D. Schrempf</U>, M.D. Woodhams, <U>A. von Haeseler</U><sup>s</sup>, and R. Lanfear<sup>s</sup>
     year: 2020
