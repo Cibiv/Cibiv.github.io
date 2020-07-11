@@ -105,6 +105,16 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/gbe/evaa046">DOI&#58; 10.1093/gbe/evaa046</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32145015">PMID&#58; 32145015</A>)
 
+  - authors: <U>C. Prakash</U>, F.C. Trognitz, P. Venhuizen, <U>A. von Haeseler</U>, and Bodo Trognitz
+    year: 2020
+    title: A Compendium of Genome-Wide Sequence Reads From NBS (Nucleotide Binding Site) Domains of Resistance Genes in the Common Potato.
+    journal: <EM>Sci. Rep.</em>, 10, 11392.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41598-020-67848-z">DOI&#58; 10.1038/s41598-020-67848-z</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32647195">PMID&#58; 32647195</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+
   - authors: R. Reinhardt, L. Truebestein, <U>H.A. Schmidt</U>, and T.A. Leonard
     year: 2020
     title: It Takes Two to Tango&#58; Activation of Protein Kinase D by Dimerization
