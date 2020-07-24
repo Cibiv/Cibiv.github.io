@@ -53,9 +53,9 @@ publications:
     year: in press
     title: Large-Scale Assessment of Antimicrobial Resistance Marker Databases for Genetic Phenotype Prediction.
     journal: <EM>J. Antimicrob. Chemother.</em>, accepted.
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/jac/dkaa257">DOI&#58; 10.1093/jac/dkaa257</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32658975">PMID&#58; 32658975</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
