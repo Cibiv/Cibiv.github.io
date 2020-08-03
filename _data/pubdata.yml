@@ -48,7 +48,7 @@ publications:
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32637998">PMID&#58; 32637998</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
+
   - authors: N. Mahfouz, <U>I. Ferreira</U>, S. Beisken, <U>A. von Haeseler</U>, A. Posch
     year: in press
     title: Large-Scale Assessment of Antimicrobial Resistance Marker Databases for Genetic Phenotype Prediction.
@@ -122,8 +122,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1038/s41598-020-67848-z">DOI&#58; 10.1038/s41598-020-67848-z</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32647195">PMID&#58; 32647195</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
   - authors: R. Reinhardt, L. Truebestein, <U>H.A. Schmidt</U>, and T.A. Leonard
     year: 2020
@@ -133,14 +131,14 @@ publications:
       (<A HREF="http://dx.doi.org/10.1002/bies.201900222">DOI&#58; 10.1002/bies.201900222</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31997382">PMID&#58; 31997382</A>)
 
-  - authors: L. Riva, S. Yuan, X. Yin, L. Martin-Sancho, N. Matsunaga, <U>S. Burgstaller-Muehlbacher</U>, L. Pache, P.P. De Jesus, M.V. Hull, M. Chang, J. Fuk-Woo Chan, J. Cao, V. Kwok-Man Poon, K. Herbert, T.-T. Nguyen, Y. Pu, C. Nguyen, A. Rubanov, L. Martinez-Sobrido, W.-C. Liu, L. Miorin, K.M. White, J.R. Johnson, C. Benner, R. Sun, P.G. Schultz, A. Su, A. Garcia-Sastre, A.K. Chatterjee, K.-Y. Yuen, and S.K. Chanda
-    year: 2020
-    title: A Large-scale Drug Repositioning Survey for SARS-CoV-2 Antivirals.
-    journal: <EM>bioRxiv</EM>, 2020.04.16.044016.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/2020.04.16.044016">DOI&#58; 10.1101/2020.04.16.044016</A>,
-       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32511357">PMID&#58; 32511357</A>,
-       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC7263415">PMCID&#58; PMC7263415</A>)
+#  - authors: L. Riva, S. Yuan, X. Yin, L. Martin-Sancho, N. Matsunaga, <U>S. Burgstaller-Muehlbacher</U>, L. Pache, P.P. De Jesus, M.V. Hull, M. Chang, J. Fuk-Woo Chan, J. Cao, V. Kwok-Man Poon, K. Herbert, T.-T. Nguyen, Y. Pu, C. Nguyen, A. Rubanov, L. Martinez-Sobrido, W.-C. Liu, L. Miorin, K.M. White, J.R. Johnson, C. Benner, R. Sun, P.G. Schultz, A. Su, A. Garcia-Sastre, A.K. Chatterjee, K.-Y. Yuen, and S.K. Chanda
+#    year: 2020
+#    title: A Large-scale Drug Repositioning Survey for SARS-CoV-2 Antivirals.
+#    journal: <EM>bioRxiv</EM>, 2020.04.16.044016.
+#    links: |
+#      (<A HREF="http://dx.doi.org/10.1101/2020.04.16.044016">DOI&#58; 10.1101/2020.04.16.044016</A>,
+#       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32511357">PMID&#58; 32511357</A>,
+#       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC7263415">PMCID&#58; PMC7263415</A>)
 
   - authors: A. Waagmeester, G. Stupp, <U>S. Burgstaller-Muehlbacher</U>, B.M. Good, M. Griffith, O.L. Griffith, K. Hanspers, H. Hermjakob, T.S. Hudson, K. Hybiske, S.M. Keating, M. Manske, M. Mayers, D. Mietchen, E. Mitraka, A.R. Pico, T. Putman, A. Riutta, N. Queralt-Rosinach, L.M. Schriml, T. Shafee, D. Slenter, R. Stephan, K. Thornton, G. Tsueng, R. Tu, S. Ul-Hasan, E. Willighagen, C. Wu, and A.I. Su
     year: 2020
@@ -168,20 +166,14 @@ publications:
     journal: <EM>bioRxiv</EM>, 810309.
     links: |
       (<A HREF="http://dx.doi.org/10.1101/810309">DOI&#58; 10.1101/810309</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
-  - authors: <U>T. Drucks</U>, <U>A.F. Leuchtenberger</U>, <U>S. Burgstaller-Muehlbacher</U>, <U>S.M. Crotty</U>, <U>H.A. Schmidt</U>, and <U>A. von Haeseler</U>
-    year: 2019
-    title: Distinguishing Felsenstein zone from Farris zone using neural networks
-    journal: <EM>bioRxiv</EM>, 822288.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/822288">DOI&#58; 10.1101/822288</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
+
+#  - authors: <U>T. Drucks</U>, <U>A.F. Leuchtenberger</U>, <U>S. Burgstaller-Muehlbacher</U>, <U>S.M. Crotty</U>, <U>H.A. Schmidt</U>, and <U>A. von Haeseler</U>
+#    year: 2019
+#    title: Distinguishing Felsenstein zone from Farris zone using neural networks
+#    journal: <EM>bioRxiv</EM>, 822288.
+#    links: |
+#      (<A HREF="http://dx.doi.org/10.1101/822288">DOI&#58; 10.1101/822288</A>)
+
   - authors: A. Jain, D. Perisa, F. Fliedner, <U>A. von Haeseler</U>, and I. Ebersberger
     year: 2019
     title: The evolutionary traceability of a protein.
@@ -213,18 +205,15 @@ publications:
     journal: <EM>bioRxiv</EM>, 824847.
     links: |
       (<A HREF="http://dx.doi.org/10.1101/824847">DOI&#58; 10.1101/824847</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
-  - authors: B.Q. Minh, <U>H.A. Schmidt</U>, <U>O. Chernomor</U>, <U>D. Schrempf</U>, M.D. Woodhams, <U>A. von Haeseler</U><sup>s</sup>, and R. Lanfear<sup>s</sup>
-    year: 2019
-    title: IQ-TREE 2&#58; New models and efficient methods for phylogenetic inference in the genomic era.
-    journal: <EM>bioRxiv</EM>, 849372.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/849372">DOI&#58; 10.1101/849372</A>)
-       <BR><sup>s</sup>&nbsp;co-senior authors.
-#
+
+#  - authors: B.Q. Minh, <U>H.A. Schmidt</U>, <U>O. Chernomor</U>, <U>D. Schrempf</U>, M.D. Woodhams, <U>A. von Haeseler</U><sup>s</sup>, and R. Lanfear<sup>s</sup>
+#    year: 2019
+#    title: IQ-TREE 2&#58; New models and efficient methods for phylogenetic inference in the genomic era.
+#    journal: <EM>bioRxiv</EM>, 849372.
+#    links: |
+#      (<A HREF="http://dx.doi.org/10.1101/849372">DOI&#58; 10.1101/849372</A>)
+#       <BR><sup>s</sup>&nbsp;co-senior authors.
+
   - authors: T. Neumann, V.A. Herzog, M. Muhar, <U>A. von Haeseler</U>, J. Zuber; S.L. Ameres, and <U>P. Rescheneder</U>
     year: 2019
     title: Quantification of experimentally induced nucleotide conversions in high-throughput sequencing datasets.
@@ -232,8 +221,6 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1186/s12859-019-2849-7">DOI&#58; 10.1186/s12859-019-2849-7</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31109287">PMID&#58; 31109287</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
   - authors: S. Schenk, S. Bannister, F.J. Sedlazeck, D. Anrather, <U>B.Q. Minh</U>, A. Bileck, M. Hartl, <U>A. von Haeseler</U>, C. Gerner, F. Raible, and K. Tessmar-Raible
     year: 2019
@@ -257,10 +244,8 @@ publications:
     title: Insertion pool sequencing for insertional mutant analysis in complex host-microbe interactions.
     journal: <EM>Current Protocols in Plant Biology</em>, 4, e20086.
     links: |
-      (<A HREF="http://dx.doi.org/10.1002/cppb.20097">DOI&#58; 10.1002/cppb.20097</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+      (<A HREF="http://dx.doi.org/10.1002/cppb.20097">DOI&#58; 10.1002/cppb.20097</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31479207">PMID&#58; 31479207</A>)
 
 
 ########### 2018 ###########
