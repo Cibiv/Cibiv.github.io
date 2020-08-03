@@ -64,8 +64,8 @@ publications:
     title: Discovery of SARS-CoV-2 antiviral drugs through large-scale compound repurposing.
     journal: <EM>Nature</EM>, 280, in press.
     links: |
-      (<A HREF="http://dx.doi.org/10.1038/s41586-020-2577-1">DOI&#58; 10.1038/s41586-020-2577-1</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+      (<A HREF="http://dx.doi.org/10.1038/s41586-020-2577-1">DOI&#58; 10.1038/s41586-020-2577-1</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32707573">PMID&#58; 32707573</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
