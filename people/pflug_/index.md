@@ -6,7 +6,7 @@ layout: personalpage
 title: Florian Pflug
 
 #either Head, Postdoc, PhD student, or Student
-position: PhD student
+position: Postdoc
 
 # image that will appear in the people page
 image: /assets/img/people/new_pics/florian_1.png
