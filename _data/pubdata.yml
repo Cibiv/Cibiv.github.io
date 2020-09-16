@@ -43,11 +43,9 @@ publications:
     title: Complex evolution of light-dependent protochlorophyllide oxidoreductases in aerobic anoxygenic phototrophs&#58; origin, phylogeny and function.
     journal: <EM>Mol. Biol. Evol.</EM>, 37, accepted.
        <BR><sup>e</sup>&nbsp;contributed equally
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/molbev/msaa234">DOI&#58; 10.1093/molbev/msaa234</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32931580">PMID&#58; 32931580</A>)
 
   - authors: C. Esk, D. Lindenhofer, <U>S. Haendeler</U>, R.A. Wester, <U>F. Pflug</U>, <U>B. Schroeder</U>, J.A. Bagley, U. Elling, J. Zuber, <U>A. von Haeseler</U>, and J.A. Knoblich
     year: in press
