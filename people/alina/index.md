@@ -13,7 +13,7 @@ image: /assets/img/people/new_pics/alina_1.png
 image2: /assets/img/people/new_pics/alina_2.png
 
 # CHANGE: name appeared in publications, used to display personal publications
-pubname: A. Leuchtenberger
+pubname: A.F. Leuchtenberger
 
 # true to categorize publications into years
 pubyear: true
