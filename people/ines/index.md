@@ -44,7 +44,7 @@ address: |
 <div class="hline"></div>
 
 
-* __May 2018 - present__: Ph.D. student - Engineering Sciences Informatics/Computer Sciences - Universität Wien, Austria
+* __May 2018 - present__: Ph.D. student - Natural Sciences (Life Sc.): Molecular Biology - Universität Wien, Austria
 * __Sept 2014 - Jun 2017__: Master's degree - Bioinformatics and Computational Biology, Faculdade de Ciências da Universidade de Lisboa <br>
 * __Sept 2010 - Jun 2014__: Bachelor's degree - Molecular and genetics biology, Faculdade de Ciências da Universidade de Lisboa <br>
 
@@ -57,6 +57,10 @@ address: |
 
 ### Talks and Posters
 <div class="hline"></div>
+
+__2019__
+* ISCB-ECCB, Basel, 2019 <br>
+Poster: “Harmonizing Public Resources to Fight Antimicrobial Resistance”
 
 __2018__
 * OEGMBT - Austrian Association of Molecular Life Sciences and Biotechnology, Austria, 2018 <br>
