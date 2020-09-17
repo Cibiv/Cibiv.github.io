@@ -33,14 +33,15 @@ address: |
 ### Research interests
 <div class="hline"></div>
 
-* Next-Generation Sequencing (NGS)
-* Statistical Modelling of different NGS-based quantitative methods (e.g. RNA-Seq)
+* Stochastic models of biological and experimental systems (stem cell homeostatis, organoid development, PCR amplification)
+* Statistical Modelling of NGS-based quantitative methods (e.g. RNA-Seq)
+* Single-cell Sequencing
 * Absolute quantification methods (e.g. RNA-seq with UMIs)
 
 ### Education
 <div class="hline"></div>
 
-* __Jul 2015 - present__: Max F. Perutz Laboratories, Center for Integrative Bioinformatics VIenna, Phd.
+* __Jul 2015 - Dec 2019__: Max F. Perutz Laboratories, Center for Integrative Bioinformatics VIenna, Phd.
 * __Oct 2000 - Dec 2015__: Technical University of Vienna, Computer Science, B.Sc.
 * __Oct 2000 - Dec 2014__: Technical University of Vienna, Mathematics, Dipl.Ing.
 * __Sep 1994 - Jun 2000__: HTL TGM Wien Wexstraße, Department for Electronics
@@ -48,7 +49,8 @@ address: |
 ### Professional Experience
 <div class="hline"></div>
 
-* __20015 - present__: PhD Student at the Center for Integrative Bioinformatics Vienna (CIBIV)
+* __Jan 2020 - present__: Postdoc at the Center for Integrative Bioinformatics Vienna (CIBIV)
+* __2015 - Dec 2019__: PhD Student at the Center for Integrative Bioinformatics Vienna (CIBIV)
 * __2008 - 2015__: Self-employed software developer
 * __Summer 2007__: Various contributions to the open-source database system *PostgreSQL* (http://www.postgresql.org), payed through the "Google Summer of Code" program
 * __1995 - 2007__" Sofwaredeveloper at "solution-X software GmbH"
