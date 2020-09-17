@@ -84,3 +84,5 @@ Talk: *Correctly counting molecules using unique molecular identifiers*
 <div class="hline"></div>
 
 * TRUmiCount (http://www.cibiv.at/software/trumicount)
+* gwpcR -- An R package to simulate NGS library amplification and sequencing (https://github.com/Cibiv/gwpcR)
+* iPoolSeq-pipeline (https://cibiv.github.io/ipoolseq-pipeline)
