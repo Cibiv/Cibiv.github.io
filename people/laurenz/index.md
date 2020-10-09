@@ -57,6 +57,6 @@ publications:
 
 ### Professional experience
 <div class="hline"></div>
-* __Nov 2019 - present__: PhD Student at the Center for Integrative Bioinformatics Vienna (CIBIV)
+* __Dec 2019 - present__: PhD Student at the Center for Integrative Bioinformatics Vienna (CIBIV)
 * __Jul 2017 - Oct 2017__: Internship at Boehringer Ingelheim Vienna, Bioprocess Development
 
