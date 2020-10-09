@@ -13,7 +13,7 @@ image: /assets/img/people/new_pics/florian_1.png
 image2: /assets/img/people/new_pics/florian_2.png
 
 # name appeared in publications, used to display personal publications
-pubname: F. G. Pflug
+pubname: F.G. Pflug
 
 # true to categorize publications into years
 pubyear: true
