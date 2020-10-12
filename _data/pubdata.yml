@@ -29,19 +29,10 @@ publications:
 
 ########### in press ###########
 
-  - authors: <U>V. Boskova</U> and T. Stadler
-    year: in press
-    title: PIQMEE&#58; Bayesian phylodynamic method for analysis of large datasets with duplicate sequences.
-    journal: <EM>Mol. Biol. Evol.</EM>, 37, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1093/molbev/msaa136">DOI&#58; 10.1093/molbev/msaa136</A>,
-       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32492139">PMID&#58; 32492139</A>,
-       <A HREF="https://github.com/boskovav/piqmee/releases">software</A>)
-
   - authors: <U>O. Chernomor</U><sup>e</sup>, L. Peters<sup>e</sup>, J. Schneidewind<sup>e</sup>, A. Loeschcke, E. Knieps-Gr&uuml;nhagen, F. Schmitz, E. von Lieres, R.J. Kutta, V. Svensson, K.-E. Jaeger, T. Drepper, <U>A. von Haeseler</U>, and U. Krauss
     year: in press
     title: Complex evolution of light-dependent protochlorophyllide oxidoreductases in aerobic anoxygenic phototrophs&#58; origin, phylogeny and function.
-    journal: <EM>Mol. Biol. Evol.</EM>, 37, accepted.
+    journal: <EM>Mol. Biol. Evol.</EM>, 37, in press.
     links: |
       (<A HREF="http://dx.doi.org/10.1093/molbev/msaa234">DOI&#58; 10.1093/molbev/msaa234</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32931580">PMID&#58; 32931580</A>)
@@ -51,16 +42,6 @@ publications:
     year: in press
     title: A human tissue screen identifies a regulator of ER secretion as a brain size determinant.
     journal: <EM>Science</EM>, accepted.
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-
-  - authors: E. Janisiw, M. Raices, F. Balmir, <U>L. Paulin Paz</U>, A. Baudrimont, <U>A. von Haeseler</U>, J. Yanowitz, V. Jantsch, and N. Silva
-    year: in press
-    title: Poly(ADP-ribose) glycohydrolase coordinates meiotic DNA double-strand break induction and repair independent of its catalytic activity.
-    journal: <EM>Nat. Commun.</em>, 11, accepted.
 #    links: |
 #      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
@@ -88,17 +69,16 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
-  - authors: L. Riva, S. Yuan, X. Yin, L. Martin-Sancho, N. Matsunaga, L. Pache, <U>S. Burgstaller-Muehlbacher</U>, P.D. De Jesus, P. Teriete, M.V. Hull, M.W. Chang, J.F.-W. Chan, J. Cao, V.K.-M. Poon, K.M. Herbert, K. Cheng, T.-T.H. Nguyen, A. Rubanov, Y. Pu, C. Nguyen, A. Choi, R. Rathnasinghe, M. Schotsaert, L. Miorin, M. Dejosez, T.P. Zwaka, K.-Y. Sit, L. Martinez-Sobrido, W.-C. Liu, K.M. White, M.E. Chapman, E.K. Lendy, R.J. Glynne, R. Albrecht, E. Ruppin, A.D. Mesecar, J.R. Johnson, C. Benner, R. Sun, P.G. Schultz, A.I. Su, A. García-Sastre, A.K. Chatterjee, K.-Y. Yuen, and  S.K. Chanda 
-    year: in press
-    title: Discovery of SARS-CoV-2 antiviral drugs through large-scale compound repurposing.
-    journal: <EM>Nature</EM>, 280, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1038/s41586-020-2577-1">DOI&#58; 10.1038/s41586-020-2577-1</A>,
-       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32707573">PMID&#58; 32707573</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-
 ########### 2020 ###########
+
+  - authors: <U>V. Boskova</U> and T. Stadler
+    year: 2020
+    title: PIQMEE&#58; Bayesian phylodynamic method for analysis of large datasets with duplicate sequences.
+    journal: <EM>Mol. Biol. Evol.</EM>, 37, 3061-3075.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/molbev/msaa136">DOI&#58; 10.1093/molbev/msaa136</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32492139">PMID&#58; 32492139</A>,
+       <A HREF="https://github.com/boskovav/piqmee/releases">software</A>)
 
   - authors: <U>S.M. Crotty</U>, B.Q. Minh, N.G. Bean, B.R. Holland, J. Tuke, L.S. Jermiin, and <U>A. von Haeseler</U>
     year: 2020
@@ -116,6 +96,14 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1128/JCM.00273-20">DOI&#58; 10.1128/JCM.00273-20</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32295890">PMID&#58; 32295890</A>)
+
+  - authors: E. Janisiw, M. Raices, F. Balmir, <U>L. Paulin Paz</U>, A. Baudrimont, <U>A. von Haeseler</U>, J. Yanowitz, V. Jantsch, and N. Silva
+    year: 2020
+    title: Poly(ADP-ribose) glycohydrolase coordinates meiotic DNA double-strand break induction and repair independent of its catalytic activity.
+    journal: <EM>Nat. Commun.</em>, 11, 4869.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41467-020-18693-1">DOI&#58; 10.1038/s41467-020-18693-1</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32978394">PMID&#58; 32978394</A>)
 
   - authors: C. Mavian, S. Kosakovsky Pond, S. Marini, B. Rife Magalis, A.-M. Vandamme, S. Dellicour, S.V. Scarpino, C. Houldcroft, J. Villabona-Arenas, T.K. Paisie, N.S. Trovao, C. Boucher, Y. Zhang, R.H. Scheuermann, O. Gascuel, T.T.-Y. Lam, M.A. Suchard, A. Abecasis, E. Wilkinson, T. de Oliveira, A.I. Bento, <U>H.A. Schmidt</U>, D. Martin, J. Hadfield, N. Faria, N.D. Grubaugh, R.A. Neher, G. Baele, P. Lemey, T. Stadler, J. Albert, K.A. Crandall, T, Leitner, A. Stamatakis, M. Prosperi and M. Salemi
     year: 2020
@@ -159,6 +147,16 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1002/bies.201900222">DOI&#58; 10.1002/bies.201900222</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31997382">PMID&#58; 31997382</A>)
+
+  - authors: L. Riva, S. Yuan, X. Yin, L. Martin-Sancho, N. Matsunaga, L. Pache, <U>S. Burgstaller-Muehlbacher</U>, P.D. De Jesus, P. Teriete, M.V. Hull, M.W. Chang, J.F.-W. Chan, J. Cao, V.K.-M. Poon, K.M. Herbert, K. Cheng, T.-T.H. Nguyen, A. Rubanov, Y. Pu, C. Nguyen, A. Choi, R. Rathnasinghe, M. Schotsaert, L. Miorin, M. Dejosez, T.P. Zwaka, K.-Y. Sit, L. Martinez-Sobrido, W.-C. Liu, K.M. White, M.E. Chapman, E.K. Lendy, R.J. Glynne, R. Albrecht, E. Ruppin, A.D. Mesecar, J.R. Johnson, C. Benner, R. Sun, P.G. Schultz, A.I. Su, A. García-Sastre, A.K. Chatterjee, K.-Y. Yuen, and  S.K. Chanda 
+    year: 2020
+    title: Discovery of SARS-CoV-2 antiviral drugs through large-scale compound repurposing.
+    journal: <EM>Nature</EM>, 586, 113-119.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41586-020-2577-1">DOI&#58; 10.1038/s41586-020-2577-1</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32707573">PMID&#58; 32707573</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
 #  - authors: L. Riva, S. Yuan, X. Yin, L. Martin-Sancho, N. Matsunaga, <U>S. Burgstaller-Muehlbacher</U>, L. Pache, P.P. De Jesus, M.V. Hull, M. Chang, J. Fuk-Woo Chan, J. Cao, V. Kwok-Man Poon, K. Herbert, T.-T. Nguyen, Y. Pu, C. Nguyen, A. Rubanov, L. Martinez-Sobrido, W.-C. Liu, L. Miorin, K.M. White, J.R. Johnson, C. Benner, R. Sun, P.G. Schultz, A. Su, A. Garcia-Sastre, A.K. Chatterjee, K.-Y. Yuen, and S.K. Chanda
 #    year: 2020
