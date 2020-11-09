@@ -42,11 +42,9 @@ publications:
     year: in press
     title: A human tissue screen identifies a regulator of ER secretion as a brain size determinant.
     journal: <EM>Science</EM>, accepted.
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+    links: |
+      (<A HREF="http://dx.doi.org/10.1126/science.abb5390">DOI&#58; 10.1126/science.abb5390</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33122427">PMID&#58; 33122427</A>)
 
   - authors: <U>A.F. Leuchtenberger</U>, <U>S.M. Crotty</U>, <U>T. Drucks</U>, <U>H.A. Schmidt</U>, <U>S. Burgstaller-Muehlbacher</U>, and <U>A. von Haeseler</U>
     year: in press
