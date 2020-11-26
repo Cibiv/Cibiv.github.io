@@ -100,7 +100,16 @@ publications:
     journal: <EM>Nat. Commun.</em>, 11, 4869.
     links: |
       (<A HREF="http://dx.doi.org/10.1038/s41467-020-18693-1">DOI&#58; 10.1038/s41467-020-18693-1</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32978394">PMID&#58; 32978394</A>)
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32978394">PMID&#58; 32978394</A>)
+
+  - authors: <U>S. Madritsch</U>, S. Bomers, A. Posekany, A. Burg, R. Birke, F. Emerstorfer, R. Turetschek, S. Otte, H. Eigner, and E.M. Sehr
+    year: 2020
+    title: Integrative transcriptomics reveals genotypic impact on sugar beet storability.
+    journal: <EM>Plant Mol. Biol.</EM>, 104, 359–378.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1007/s11103-020-01041-8">DOI&#58; 10.1007/s11103-020-01041-8</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32754876">PMID&#58; 32754876</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC7593311">PMCID&#58; PMC7593311</A>)
 
   - authors: N. Mahfouz, <U>I. Ferreira</U>, S. Beisken, <U>A. von Haeseler</U>, A. Posch
     year: 2020
