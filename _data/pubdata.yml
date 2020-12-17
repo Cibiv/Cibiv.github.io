@@ -49,6 +49,16 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
+  - authors: J. Sims, G. Sestini, <U>C. Elgert</U>, <U>A. von Haeseler</U>, and P. Schl&ouml;gelhofer
+    year: in press
+    title: Sequencing of the Arabidopsis NOR2 reveals its distinct organization and tissue-specific rRNA ribosomal variants.
+    journal: <EM>Nat. Commun.</EM>, accepted.
+#    links: |
+#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+#
 ########### 2020 ###########
 
   - authors: <U>V. Boskova</U> and T. Stadler
