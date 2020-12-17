@@ -38,17 +38,6 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32931580">PMID&#58; 32931580</A>)
       <BR><sup>e</sup>&nbsp;contributed equally
 
-  - authors: <U>A.F. Leuchtenberger</U>, <U>S.M. Crotty</U>, <U>T. Drucks</U>, <U>H.A. Schmidt</U>, <U>S. Burgstaller-Muehlbacher</U>, and <U>A. von Haeseler</U>
-    year: in press
-    title: Distinguishing Felsenstein Zone From Farris Zone Using Neural Networks.
-    journal: <EM>Mol. Biol. Evol.</EM>, 37, in press.
-    links: |
-      (<A HREF="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa164/5868554?guestAccessKey=a2b8cd48-d71b-4db0-9bca-b45fea5c19f5">free reprint</A>,
-       <A HREF="http://dx.doi.org/10.1093/molbev/msaa164">DOI&#58; 10.1093/molbev/msaa164</A>,
-       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32637998">PMID&#58; 32637998</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-
   - authors: J. Sims, G. Sestini, <U>C. Elgert</U>, <U>A. von Haeseler</U>, and P. Schl&ouml;gelhofer
     year: in press
     title: Sequencing of the Arabidopsis NOR2 reveals its distinct organization and tissue-specific rRNA ribosomal variants.
@@ -111,6 +100,16 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1038/s41467-020-18693-1">DOI&#58; 10.1038/s41467-020-18693-1</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32978394">PMID&#58; 32978394</A>)
+
+  - authors: <U>A.F. Leuchtenberger</U>, <U>S.M. Crotty</U>, <U>T. Drucks</U>, <U>H.A. Schmidt</U>, <U>S. Burgstaller-Muehlbacher</U>, and <U>A. von Haeseler</U>
+    year: 2020
+    title: Distinguishing Felsenstein Zone From Farris Zone Using Neural Networks.
+    journal: <EM>Mol. Biol. Evol.</EM>, 37, 3632-3641.
+    links: |
+      (<A HREF="https://academic.oup.com/mbe/article/37/12/3632/5868554?guestAccessKey=71a4de7b-0eba-45f1-8067-2f9d11605388">free reprint</A>,
+       <A HREF="http://dx.doi.org/10.1093/molbev/msaa164">DOI&#58; 10.1093/molbev/msaa164</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32637998">PMID&#58; 32637998</A>,
+       <A HREF="https://github.com/Cibiv/zone-net/">software</A>)
 
   - authors: <U>S. Madritsch</U>, S. Bomers, A. Posekany, A. Burg, R. Birke, F. Emerstorfer, R. Turetschek, S. Otte, H. Eigner, and E.M. Sehr
     year: 2020
