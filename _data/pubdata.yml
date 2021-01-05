@@ -159,6 +159,15 @@ publications:
        <A HREF="http://www.iqtree.org/">software</A>)
        <BR><sup>s</sup>&nbsp;co-senior authors.
 
+  - authors: C. Missbach, H. Vogel, B.S. Hansson, E. Große-Wilde, A. Vilcinskas, and <U>T.S. Kaiser</U>
+    year: 2020
+    title: Developmental and sexual divergence in the olfactory system of the marine insect Clunio marinus.
+    journal: <EM>Sci. Rep.</EM>, 10, 2125.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41598-020-59063-7">DOI&#58; 10.1038/s41598-020-59063-7</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32034235">PMID&#58; 32034235</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC7005812">PMCID&#58; PMC7005812</A>)
+
   - authors: N. Popitsch, C.D. Huber, I. Buchumenski, E. Eisenberg, M. Jantsch, <U>A. von Haeseler</U> and <U>M. Gallach</U>
     year: 2020
     title: A-to-I RNA editing uncovers hidden signals of adaptive genome evolution in animals.
