@@ -32,7 +32,7 @@ publications:
   - authors: <U>O. Chernomor</U><sup>e</sup>, L. Peters<sup>e</sup>, J. Schneidewind<sup>e</sup>, A. Loeschcke, E. Knieps-Gr&uuml;nhagen, F. Schmitz, E. von Lieres, R.J. Kutta, V. Svensson, K.-E. Jaeger, T. Drepper, <U>A. von Haeseler</U>, and U. Krauss
     year: in press
     title: Complex evolution of light-dependent protochlorophyllide oxidoreductases in aerobic anoxygenic phototrophs&#58; origin, phylogeny and function.
-    journal: <EM>Mol. Biol. Evol.</EM>, 37, in press.
+    journal: <EM>Mol. Biol. Evol.</EM>, 38, in press.
     links: |
       (<A HREF="http://dx.doi.org/10.1093/molbev/msaa234">DOI&#58; 10.1093/molbev/msaa234</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32931580">PMID&#58; 32931580</A>)
@@ -41,7 +41,7 @@ publications:
   - authors: J. Sims, G. Sestini, <U>C. Elgert</U>, <U>A. von Haeseler</U>, and P. Schl&ouml;gelhofer
     year: in press
     title: Sequencing of the Arabidopsis NOR2 reveals its distinct organization and tissue-specific rRNA ribosomal variants.
-    journal: <EM>Nat. Commun.</EM>, accepted.
+    journal: <EM>Nat. Commun.</EM>, 12, accepted.
 #    links: |
 #      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
@@ -1844,7 +1844,7 @@ publications:
   - authors:  <u>H.A. Schmidt</u> and <u>A. von Haeseler</u>
     year: 2007
     title: Maximum Likelihood Analysis using TREE-PUZZLE. (revised version) In A.D. Baxevanis, D.B. Davison, R.D.M. Page, G. Stormo, and L. Stein (eds.)
-    journal: <EM>Current Protocols in Bioinformatics</em>, Unit 6.6, pages 6.6.1-6.6.23, Wiley and Sons, New York.
+    journal: <EM>Current Protocols in Bioinformatics</em>, 17, Unit 6.6, pages 6.6.1-6.6.23, Wiley and Sons, New York.
     links: |
       (<A HREF="http://dx.doi.org/10.1002/0471250953.bi0606s17">DOI&#58; 10.1002/0471250953.bi0606s17</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/18428792">PMID&#58; 18428792</A>,
