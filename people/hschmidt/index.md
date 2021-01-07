@@ -50,7 +50,7 @@ publications:
   - authors: H.A. Schmidt and A. von Haeseler
     year: 2003
     title: "Maximum Likelihood Analysis using TREE-PUZZLE. In A.D. Baxevanis, D.B. Davison, R.D.M. Page, G. Stormo, and L. Stein (eds.)"
-    journal: Current Protocols in Bioinformatics, Supplement 1, Unit 6.6, pages 6.6.1-6.6.23, Wiley and Sons, New York. 
+    journal: Current Protocols in Bioinformatics, 1, Unit 6.6, pages 6.6.1-6.6.23, Wiley and Sons, New York. 
     links: |
       (<A HREF="http://dx.doi.org/10.1002/0471250953.bi0606s01">DOI&#58; 10.1002/0471250953.bi0606s01</A>,
        ISBN <A HREF="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471250937.html">0-471-25093-7</A>, 
