@@ -38,24 +38,24 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32931580">PMID&#58; 32931580</A>)
       <BR><sup>e</sup>&nbsp;contributed equally
 
-  - authors: B.M. Fontinha, T. Zekoll, M. Al-Rawi, <U>M. Gallach</U>, F. Reithofer, A.J. Barker, M. Hofbauer, R.M. Fischer, <U>A. von Haeseler</U>, H. Baier, and K. Tessmar-Raible
-    year: in press
-    title: TMT-Opsins differentially modulate medaka brain function in a context-dependent manner.
-    journal: <EM>PLoS Biol.</EM>, 19, e3001012, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1371/journal.pbio.3001012">DOI&#58; 10.1371/journal.pbio.3001012</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33411725">PMID&#58; 33411725</A>)
-
-  - authors: T.S. Kaiser, A. Haeseler, K. Tessmar-Raible, and D.G. Heckel
+  - authors: <U>T.S. Kaiser</U>, <U>A. von Haeseler</U>, K. Tessmar-Raible, and D.G. Heckel
     year: in press
     title: Timing strains of the marine insect Clunio marinus evolved and persist in the face of gene flow.
-    journal: <EM>Mol. Ecol.</EM>, 30, accepted.
+    journal: <EM>Mol. Ecol.</EM>, 30, in press.
     links: |
       (<A HREF="http://dx.doi.org/10.1111/mec.15791">DOI&#58; 10.1111/mec.15791</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33410230">PMID&#58; 33410230</A>)
 
 
 ########### 2021 ###########
+
+  - authors: B.M. Fontinha, T. Zekoll, M. Al-Rawi, <U>M. Gallach</U>, F. Reithofer, A.J. Barker, M. Hofbauer, R.M. Fischer, <U>A. von Haeseler</U>, H. Baier, and K. Tessmar-Raible
+    year: 2021
+    title: TMT-Opsins differentially modulate medaka brain function in a context-dependent manner.
+    journal: <EM>PLoS Biol.</EM>, 19, e3001012.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1371/journal.pbio.3001012">DOI&#58; 10.1371/journal.pbio.3001012</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33411725">PMID&#58; 33411725</A>)
 
   - authors: J. Sims, G. Sestini, <U>C. Elgert</U>, <U>A. von Haeseler</U>, and P. Schl&ouml;gelhofer
     year: 2021
