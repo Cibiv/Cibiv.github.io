@@ -38,27 +38,34 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32931580">PMID&#58; 32931580</A>)
       <BR><sup>e</sup>&nbsp;contributed equally
 
-
   - authors: B.M. Fontinha, T. Zekoll, M. Al-Rawi, <U>M. Gallach</U>, F. Reithofer, A.J. Barker, M. Hofbauer, R.M. Fischer, <U>A. von Haeseler</U>, H. Baier, and K. Tessmar-Raible
     year: in press
     title: TMT-Opsins differentially modulate medaka brain function in a context-dependent manner.
-    journal: <EM>PLoS Biol.</EM>, accepted.
+    journal: <EM>PLoS Biol.</EM>, 19, e3001012, in press.
     links: |
-      (<A HREF="http://dx.doi.org/10.1371/journal.pbio.3001012">DOI&#58; 10.1371/journal.pbio.3001012</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
-  - authors: J. Sims, G. Sestini, <U>C. Elgert</U>, <U>A. von Haeseler</U>, and P. Schl&ouml;gelhofer
+      (<A HREF="http://dx.doi.org/10.1371/journal.pbio.3001012">DOI&#58; 10.1371/journal.pbio.3001012</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33411725">PMID&#58; 33411725</A>)
+
+  - authors: T.S. Kaiser, A. Haeseler, K. Tessmar-Raible, and D.G. Heckel
     year: in press
+    title: Timing strains of the marine insect Clunio marinus evolved and persist in the face of gene flow.
+    journal: <EM>Mol. Ecol.</EM>, 30, accepted.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1111/mec.15791">DOI&#58; 10.1111/mec.15791</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33410230">PMID&#58; 33410230</A>)
+
+
+########### 2021 ###########
+
+  - authors: J. Sims, G. Sestini, <U>C. Elgert</U>, <U>A. von Haeseler</U>, and P. Schl&ouml;gelhofer
+    year: 2021
     title: Sequencing of the Arabidopsis NOR2 reveals its distinct organization and tissue-specific rRNA ribosomal variants.
-    journal: <EM>Nat. Commun.</EM>, 12, accepted.
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
+    journal: <EM>Nat. Commun.</EM>, 12, 1-13.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41467-020-20728-6">DOI&#58; 10.1038/s41467-020-20728-6</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33452254">PMID&#58; 33452254</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/pmc7810690">PMCID&#58; PMC7810690</A>)
+
 ########### 2020 ###########
 
   - authors: <U>V. Boskova</U> and T. Stadler
