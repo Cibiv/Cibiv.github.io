@@ -9,8 +9,8 @@ title: Julia Naas
 position: PhD student
 
 # image that will appear in the people page
-image: /assets/img/people/main_page_empty_c.png
-image2: /assets/img/people/main_page_empty_c.png
+image: /assets/img/people/new_pics/julia_1.png
+image2: /assets/img/people/new_pics/julia_2.png
 
 # CHANGE: name appeared in publications, used to display personal publications
 pubname: J. Naas
