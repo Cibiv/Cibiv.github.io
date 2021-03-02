@@ -48,14 +48,6 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 #
-  - authors: <U>T.S. Kaiser</U>, <U>A. von Haeseler</U>, K. Tessmar-Raible, and D.G. Heckel
-    year: in press
-    title: Timing strains of the marine insect Clunio marinus evolved and persist in the face of gene flow.
-    journal: <EM>Mol. Ecol.</EM>, 30, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1111/mec.15791">DOI&#58; 10.1111/mec.15791</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33410230">PMID&#58; 33410230</A>)
-
 
 ########### 2021 ###########
 
@@ -66,6 +58,14 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1371/journal.pbio.3001012">DOI&#58; 10.1371/journal.pbio.3001012</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33411725">PMID&#58; 33411725</A>)
+
+  - authors: <U>T.S. Kaiser</U>, <U>A. von Haeseler</U>, K. Tessmar-Raible, and D.G. Heckel
+    year: 2021
+    title: Timing strains of the marine insect Clunio marinus evolved and persist in the face of gene flow.
+    journal: <EM>Mol. Ecol.</EM>, 30, 1264-1280.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1111/mec.15791">DOI&#58; 10.1111/mec.15791</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33410230">PMID&#58; 33410230</A>)
 
   - authors: J. Sims, G. Sestini, <U>C. Elgert</U>, <U>A. von Haeseler</U>, and P. Schl&ouml;gelhofer
     year: 2021
