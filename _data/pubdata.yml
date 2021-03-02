@@ -38,6 +38,16 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32931580">PMID&#58; 32931580</A>)
       <BR><sup>e</sup>&nbsp;contributed equally
 
+  - authors: E.B. Hodcroft, N. De Maio, R. Lanfear, D.R. MacCannell, B.Q. Minh, <U>H.A. Schmidt</U>, A. Stamatakis, N. Goldman, and C. Dessimoz
+    year: in press
+    title: Want to track pandemic variants faster? Fix the bioinformatics bottleneck.
+    journal: <EM>Nature</EM>, 591, 30-33.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/d41586-021-00525-x">DOI&#58; 10.1038/d41586-021-00525-x</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+#
   - authors: <U>T.S. Kaiser</U>, <U>A. von Haeseler</U>, K. Tessmar-Raible, and D.G. Heckel
     year: in press
     title: Timing strains of the marine insect Clunio marinus evolved and persist in the face of gene flow.
