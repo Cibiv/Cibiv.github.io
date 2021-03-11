@@ -29,27 +29,24 @@ publications:
 
 ########### in press ###########
 
-  - authors: <U>O. Chernomor</U><sup>e</sup>, L. Peters<sup>e</sup>, J. Schneidewind<sup>e</sup>, A. Loeschcke, E. Knieps-Gr&uuml;nhagen, F. Schmitz, E. von Lieres, R.J. Kutta, V. Svensson, K.-E. Jaeger, T. Drepper, <U>A. von Haeseler</U>, and U. Krauss
+  - authors: M.-T. Kurzbauer, M.P. Janisiw, <U>L.F. Paulin</U>, I. Prusén Mota, K. Tomanov, O. Krsicka, <U>A. von Haeseler</U>, V. Schubert, and Peter Schl&ouml;gelhofer
     year: in press
+    title: ATM controls meiotic DNA double-strand break formation and recombination and affects synaptonemal complex organization in plants.
+    journal: <EM>Plant Cell</EM>, 33, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/plcell/koab045">DOI&#58; 10.1093/plcell/koab045</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33659989">PMID&#58; 33659989</A>)
+
+########### 2021 ###########
+
+  - authors: <U>O. Chernomor</U><sup>e</sup>, L. Peters<sup>e</sup>, J. Schneidewind<sup>e</sup>, A. Loeschcke, E. Knieps-Gr&uuml;nhagen, F. Schmitz, E. von Lieres, R.J. Kutta, V. Svensson, K.-E. Jaeger, T. Drepper, <U>A. von Haeseler</U>, and U. Krauss
+    year: 2021
     title: Complex evolution of light-dependent protochlorophyllide oxidoreductases in aerobic anoxygenic phototrophs&#58; origin, phylogeny and function.
-    journal: <EM>Mol. Biol. Evol.</EM>, 38, in press.
+    journal: <EM>Mol. Biol. Evol.</EM>, 38, 819-837.
     links: |
       (<A HREF="http://dx.doi.org/10.1093/molbev/msaa234">DOI&#58; 10.1093/molbev/msaa234</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32931580">PMID&#58; 32931580</A>)
       <BR><sup>e</sup>&nbsp;contributed equally
-
-  - authors: E.B. Hodcroft, N. De Maio, R. Lanfear, D.R. MacCannell, B.Q. Minh, <U>H.A. Schmidt</U>, A. Stamatakis, N. Goldman, and C. Dessimoz
-    year: in press
-    title: Want to track pandemic variants faster? Fix the bioinformatics bottleneck.
-    journal: <EM>Nature</EM>, 591, 30-33.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1038/d41586-021-00525-x">DOI&#58; 10.1038/d41586-021-00525-x</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
-
-########### 2021 ###########
 
   - authors: B.M. Fontinha, T. Zekoll, M. Al-Rawi, <U>M. Gallach</U>, F. Reithofer, A.J. Barker, M. Hofbauer, R.M. Fischer, <U>A. von Haeseler</U>, H. Baier, and K. Tessmar-Raible
     year: 2021
@@ -58,6 +55,14 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1371/journal.pbio.3001012">DOI&#58; 10.1371/journal.pbio.3001012</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33411725">PMID&#58; 33411725</A>)
+
+  - authors: E.B. Hodcroft, N. De Maio, R. Lanfear, D.R. MacCannell, B.Q. Minh, <U>H.A. Schmidt</U>, A. Stamatakis, N. Goldman, and C. Dessimoz
+    year: 2021
+    title: Want to track pandemic variants faster? Fix the bioinformatics bottleneck.
+    journal: <EM>Nature</EM>, 591, 30-33.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/d41586-021-00525-x">DOI&#58; 10.1038/d41586-021-00525-x</A>)
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33649511">PMID&#58; 33649511</A>)
 
   - authors: <U>T.S. Kaiser</U>, <U>A. von Haeseler</U>, K. Tessmar-Raible, and D.G. Heckel
     year: 2021
@@ -121,7 +126,7 @@ publications:
 #       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32511357">PMID&#58; 32511357</A>,
 #       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC7263415">PMCID&#58; PMC7263415</A>)
 
-  - authors: E. Janisiw, M. Raices, F. Balmir, <U>L. Paulin Paz</U>, A. Baudrimont, <U>A. von Haeseler</U>, J. Yanowitz, V. Jantsch, and N. Silva
+  - authors: E. Janisiw, M. Raices, F. Balmir, <U>L.F. Paulin</U>, A. Baudrimont, <U>A. von Haeseler</U>, J. Yanowitz, V. Jantsch, and N. Silva
     year: 2020
     title: Poly(ADP-ribose) glycohydrolase coordinates meiotic DNA double-strand break induction and repair independent of its catalytic activity.
     journal: <EM>Nat. Commun.</em>, 11, 4869.
@@ -633,7 +638,7 @@ publications:
       <A HREF="http://www.meduniwien.ac.at/homepage/1/news-and-topstories/?tx_ttnews[tt_news]=6198&cHash=86a2dd471ca6ba2e1df7f885bfa5f25d">Medical University of Vienna</A>
       (<A HREF="http://www.meduniwien.ac.at/homepage/news-und-topstories/?tx_ttnews[tt_news]=6198&cHash=88e9a2168298df42f3764e1a4b6443af">German version</A>)
 
-  - authors: M. Jagut, P. Hamminger, A. Woglar, S. Millonigg, <U>L. Paulin</U>, M. Mikl, M.R. Dello Stritto, L. Tang, C. Habacher, A. Tam, <U>M. Gallach</U>, <U>A. von Haeseler</U>, A.M. Villeneuve, V. Jantsch
+  - authors: M. Jagut, P. Hamminger, A. Woglar, S. Millonigg, <U>L.F. Paulin</U>, M. Mikl, M.R. Dello Stritto, L. Tang, C. Habacher, A. Tam, <U>M. Gallach</U>, <U>A. von Haeseler</U>, A.M. Villeneuve, V. Jantsch
     year: 2016
     title: Separable Roles for a Caenorhabditis elegans RMI1 Homolog in Promoting and Antagonizing Meiotic Crossovers Ensure Faithful Chromosome Inheritance.
     journal: <EM>PLoS Biol.</EM>, 14, e1002412.
