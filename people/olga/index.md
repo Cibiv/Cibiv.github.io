@@ -46,7 +46,6 @@ publications:
 
 * Phylogenetics and Molecular Evolution
 * Algorithms and Software development
-* Methods for Conservation Optimization
 
 ### Education
 <div class="hline"></div>
@@ -61,6 +60,7 @@ publications:
 <div class="hline"></div>
 
 * __May 2016 - present__: Postdoctoral researcher, Center for Integrative Bioinformatics Vienna, University of Vienna, Austria.
+* __SS2020 , SS2021__: Tutor, Bioinformatik für Biologen, University of Vienna, Austria
 * __Aug 2017 - Jun 2018__: Maternity leave
 * __WS 2012, WS 2013__: Tutor, Introduction to bioinformatics, University of Vienna, Austria
 * __Oct 2011 - Apr 2016__: Scientific Assistant, Center for Integrative Bioinformatics Vienna (CIBIV), University of Vienna, Austria
@@ -70,6 +70,10 @@ publications:
 
 ### Talks and Posters
 <div class="hline"></div>
+
+__2020__
+* The Twelfth Theoretical Phylogenetics Meeting at UTAS, Hobart, TASMANIA, November 25-27, 2020 
+Talk: “Generating and sampling trees from a phylogenetic terrace”
 
 __2018__
 * The Tenth UTAS (mainly) Theoretical Phylogenetics Meeting, Hobart, TASMANIA, November 21-23, 2018.
