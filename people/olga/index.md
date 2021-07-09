@@ -71,39 +71,54 @@ publications:
 ### Talks and Posters
 <div class="hline"></div>
 
+__2021__
+* SMBE2021 - Society for Molecular Biology and Evolution, Virtual Meeting, July 3-8, 2021  
+Talk: “Gentrius: Generating species-trees from a set of incomplete overlapping unrooted subtrees and its application in supertree and supermatrix phylogenetic inference”
+
+
 __2020__
-* The Twelfth Theoretical Phylogenetics Meeting at UTAS, Hobart, TASMANIA, November 25-27, 2020 
+* The Twelfth Theoretical Phylogenetics Meeting at UTAS, Hobart, TASMANIA, November 25-27, 2020  
 Talk: “Generating and sampling trees from a phylogenetic terrace”
 
 __2018__
-* The Tenth UTAS (mainly) Theoretical Phylogenetics Meeting, Hobart, TASMANIA, November 21-23, 2018.
+* The Tenth UTAS (mainly) Theoretical Phylogenetics Meeting, Hobart, TASMANIA, November 21-23, 2018.  
 Talk: “Characteristics of phylogenetic terraces and their influence on tree space exploration”
 
 __2017__
-* The 21st Annual New Zealand Phylogenomics Meeting 2017, Auckland, Waiheke, New Zealand, February 12-17, 2017. 
+* The 21st Annual New Zealand Phylogenomics Meeting 2017, Auckland, Waiheke, New Zealand, February 12-17, 2017.  
 Talk: “Discussion on “small n, large p“ in phylogenetics and application of James-Stein estimator”
 
 __2016__
-* MCEB 2016 - Mathematical and computational evolutionary biology, Montpellier, France, June 12-16, 2016. 
-Talk: “Phylogenomics: Efficient analysis by accounting for phylogenetic terraces”
-* MASAMB 2016 - Mathematical and Statistical aspects of Molecular Biology, Cambridge, UK, October 3-4, 2016. 
+* MCEB 2016 - Mathematical and computational evolutionary biology, Montpellier, France, June 12-16, 2016.  
+Talk: “Phylogenomics: Efficient analysis by accounting for phylogenetic terraces” 
+  
+* MASAMB 2016 - Mathematical and Statistical aspects of Molecular Biology, Cambridge, UK, October 3-4, 2016.  
 Talk: “Phylogenetic terraces and efficient phylogenetic inference”
 
 __2014__
-* RECOMB - 18th Annual International Conference on Research in Computational Molecular Biology, Pittsburgh, Pennsylvania, USA, April 2-5, 2014. 
+* RECOMB - 18th Annual International Conference on Research in Computational Molecular Biology, Pittsburgh, Pennsylvania, USA, April 2-5, 2014.  
 Poster: “Terrace aware phylogenomic inference”
-* MCEB - Mathematical and computational evolutionary biology, Montpellier, France, June 15-19, 2014. 
+  
+* MCEB - Mathematical and computational evolutionary biology, Montpellier, France, June 15-19, 2014.  
 Poster: “Viable taxon selection under Split Diversity”
-* MAMOW – Mathematical Modelling Workshop: MathMods & Ema Alumni Meeting, L'Aquila, Italy, July 14-19, 2014. 
+  
+* MAMOW – Mathematical Modelling Workshop: MathMods & Ema Alumni Meeting, L'Aquila, Italy, July 14-19, 2014.  
 Talk: “Modelling Evolutionary Relationships: problems and challenges in Phylogenetics and its Applications”
 
 __2012__
-* 4th annual MFPL PhD and PostDoc Retreat, Sopron, Hungary, September 27-28, 2012. 
+* 4th annual MFPL PhD and PostDoc Retreat, Sopron, Hungary, September 27-28, 2012.  
 Poster: “Biodiversity and Conservation Planning: Phylogenetic Diversity under Food Web constraints”
 
 
 ### Software contributions
 <div class="hline"></div>
+
+* __Gentrius: Generating trees from incomplete unrooted subtrees.__ 
+  
+The implementation is available in branch __terragen__ (<a HREF="https://github.com/iqtree/iqtree2/tree/terragen">github</a>) from IQ-TREE2 github repository.  
+The code will be included in the main branch in the future releases.  
+For the __manual__ see this page (<a HREF="https://github.com/iqtree/iqtree2/tree/terragen/terrace">github</a>).  
+Feel free to contact me, if you have more questions.
 
 * __IQ-TREE__ 	- <a HREF="http://www.iqtree.org"> http://www.iqtree.org</a>
 * __PDA__	- <a HREF="http://www.cibiv.at/software/pda/">http://www.cibiv.at/software/pda/</a>
