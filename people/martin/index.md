@@ -54,8 +54,8 @@ publications:
 <div class="hline"></div>
 
 * __May 2019 - present__: Ph.D. in Bioinformatics, Center for Integrative Bioinformatics Vienna (CIBIV), Max Perutz Labs, Austria<br>
-* __Oct 2015 - Mar 2019__: M.Sc. in Comutational Science, University of Regensburg, Germany
-* __Oct 2012 - Aug 2016__: B.Sc. in Comutational Science, University of Regensburg, Germany
+* __Oct 2015 - Mar 2019__: M.Sc. in Computational Science, University of Regensburg, Germany
+* __Oct 2012 - Aug 2016__: B.Sc. in Computational Science, University of Regensburg, Germany
 
 ### Talks and Posters
 <div class="hline"></div>
