@@ -72,7 +72,7 @@ publications:
     title: Want to track pandemic variants faster? Fix the bioinformatics bottleneck.
     journal: <EM>Nature</EM>, 591, 30-33.
     links: |
-      (<A HREF="http://dx.doi.org/10.1038/d41586-021-00525-x">DOI&#58; 10.1038/d41586-021-00525-x</A>)
+      (<A HREF="http://dx.doi.org/10.1038/d41586-021-00525-x">DOI&#58; 10.1038/d41586-021-00525-x</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33649511">PMID&#58; 33649511</A>)
 
   - authors: <U>T.S. Kaiser</U>, <U>A. von Haeseler</U>, K. Tessmar-Raible, and D.G. Heckel
@@ -100,15 +100,21 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/34440114">PMID&#58; 34440114</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC8389688">PMCID&#58; PMC8389688</A>)
 
-  - authors: R. Revilla-i-Domingo, V.B. Veedin Rajan, M. Waldherr, G. Prohaczka, H. Musset, L. Orel, E. Gerrard, <U>M. Smolka</U>, M. Farlik, R.J. Lucas, F. Raible, and K. Tessmar-Raible
+  - authors: R. Revilla-i-Domingo, V.B. Veedin Rajan, M. Waldherr, G. Prohaczka, H. Musset, L. Orel, E. Gerrard, <U>M. Smolka</U>, A. Stockinger, M. Farlik, R.J. Lucas, F. Raible, and K. Tessmar-Raible
     year: 2021
     title: Characterization of cephalic and non-cephalic sensory cell types provides insight into joint photo- and mechanoreceptor evolution.
-    journal: <EM>bioRxiv</EM>, 2021.01.10.426124.
+    journal: <EM>eLife</EM>, 10, e66144.
     links: |
-      (<A HREF="http://dx.doi.org/10.1101/2021.01.10.426124">DOI&#58; 10.1101/2021.01.10.426124</A>)
-#       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32511357">PMID&#58; 32511357</A>,
-#       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC7263415">PMCID&#58; PMC7263415</A>)
+      (<A HREF="http://dx.doi.org/10.7554/eLife.66144">DOI&#58; 10.7554/eLife.66144</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/34350831">PMID&#58; 34350831</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC8367381">PMCID&#58; PMC8367381</A>)
 
+#  - authors: R. Revilla-i-Domingo, V.B. Veedin Rajan, M. Waldherr, G. Prohaczka, H. Musset, L. Orel, E. Gerrard, <U>M. Smolka</U>, M. Farlik, R.J. Lucas, F. Raible, and K. Tessmar-Raible
+#    year: 2021
+#    title: Characterization of cephalic and non-cephalic sensory cell types provides insight into joint photo- and mechanoreceptor evolution.
+#    journal: <EM>bioRxiv</EM>, 2021.01.10.426124.
+#    links: |
+#      (<A HREF="http://dx.doi.org/10.1101/2021.01.10.426124">DOI&#58; 10.1101/2021.01.10.426124</A>)
 
   - authors: J. Sims, G. Sestini, <U>C. Elgert</U>, <U>A. von Haeseler</U>, and P. Schl&ouml;gelhofer
     year: 2021
