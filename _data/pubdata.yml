@@ -29,15 +29,9 @@ publications:
 
 ########### in press ###########
 
-  - authors: J. Sims, F.A. Rabanal, <U>C. Elgert</U>, <U>A. von Haeseler</U>, and P. Schl&ouml;gelhofer
-    year: in press
-    title: It's just a matter of time&#58; Balancing Homologous Recombination and Non-Homologous End Joining at the rDNA Locus during Meiosis.
-    journal: <EM>Front. Plant Sci.</EM>, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.3389/fpls.2021.773052">DOI&#58; 10.3389/fpls.2021.773052</A>,
-      <A HREF="https://www.frontiersin.org/articles/10.3389/fpls.2021.773052/abstract">provisional link</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33452254">PMID&#58; 33452254</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/pmc7810690">PMCID&#58; PMC7810690</A>)
+
+########### 2022 ###########
+
 
 ########### 2021 ###########
 
@@ -116,6 +110,15 @@ publications:
 #    links: |
 #      (<A HREF="http://dx.doi.org/10.1101/2021.01.10.426124">DOI&#58; 10.1101/2021.01.10.426124</A>)
 
+  - authors: J. Sims, F.A. Rabanal, <U>C. Elgert</U>, <U>A. von Haeseler</U>, and P. Schl&ouml;gelhofer
+    year: 2021
+    title: It's just a matter of time&#58; Balancing Homologous Recombination and Non-Homologous End Joining at the rDNA Locus during Meiosis.
+    journal: <EM>Front. Plant Sci.</EM>, 12, 773052.
+    links: |
+      (<A HREF="http://dx.doi.org/10.3389/fpls.2021.773052">DOI&#58; 10.3389/fpls.2021.773052</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33452254">PMID&#58; 33452254</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC8580885">PMCID&#58; PMC8580885</A>)
+
   - authors: J. Sims, G. Sestini, <U>C. Elgert</U>, <U>A. von Haeseler</U>, and P. Schl&ouml;gelhofer
     year: 2021
     title: Sequencing of the Arabidopsis NOR2 reveals its distinct organization and tissue-specific rRNA ribosomal variants.
@@ -123,7 +126,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1038/s41467-020-20728-6">DOI&#58; 10.1038/s41467-020-20728-6</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/33452254">PMID&#58; 33452254</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/pmc7810690">PMCID&#58; PMC7810690</A>)
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC7810690">PMCID&#58; PMC7810690</A>)
 
 ########### 2020 ###########
 
