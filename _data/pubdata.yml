@@ -26,8 +26,26 @@ publications:
 
 ########### accepted ###########
 
+  - authors: M. Huth, L. Santini, E. Galimberti, J. Ramesmayer, F. Titz-Teixeira, R. Sehlke, M. Oberhuemer, S. Stummer, V. Herzog, M. Garmhausen, M. Romeike, A. Chugunova, K.F. Leesch, <U>L. Holcik</U>, K. Weipoltshammer, A. Lackner, C. Schoefer, <U>A. von Haeseler</U>, C. Buecker, A. Pauli, S. Ameres, A. Smith, A. Beyer, and M. Leeb
+    year: accepted
+    title: NMD is required for timely cell fate transitions by fine-tuning gene expression and regulating translation.
+    journal: <EM>Genes Dev.</EM>, 36, accepted.
+#    links: |
+#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+#
 
 ########### in press ###########
+
+  - authors: <U>S.M. Crotty</U>  and B.R. Holland
+    year: in press
+    title: Comparing partitioned models to mixture models&#58; Do information criteria apply?
+    journal: <EM>Syst. Biol.</EM>, 71, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/sysbio/syac003">DOI&#58; 10.1093/sysbio/syac003</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35041002">PMID&#58; 35041002</A>)
 
 
 ########### 2022 ###########
