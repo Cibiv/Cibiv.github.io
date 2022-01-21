@@ -30,10 +30,7 @@ address: |
   A-1030 Wien, Austria<br>
   <br>
   <strong>Publications:</strong><br>
-  Lists of publications are available via 
-	<A href="https://orcid.org/my-orcid?orcid=0000-0002-2311-8592">ORCID</A>,
-	<A href="https://scholar.google.at/citations?user=8lFCw7IAAAAJ&hl=en">Google Scholar</A>
-	<br>
+  Lists of publications are available via <A href="https://orcid.org/my-orcid?orcid=0000-0002-2311-8592">ORCID</A>, <A href="https://scholar.google.at/citations?user=8lFCw7IAAAAJ&hl=en">Google Scholar</A><br>
 
 publications:
   - authors: B. Klempa, R. Ulrich, H. Meisel, D.H. Krüger, H.A. Schmidt, S. Kaluz, M. Labuda, and B. Hjelle
