@@ -6,7 +6,7 @@ layout: personalpage
 title: Heiko A. Schmidt
 
 #either Head, Postdoc, PhD student, or Student
-position: Postdoc
+position: Senior Postdoc
 
 # image that will appear in the people page
 image: /assets/img/people/new_pics/heiko_1.png
@@ -28,8 +28,12 @@ address: |
   Max Perutz Labs<br>
   Campus Vienna Biocenter 5 (VBC5)<br>
   A-1030 Wien, Austria<br>
-
-
+  <br>
+  <strong>Publications:</strong><br>
+  Lists of publications are available via 
+	<A href="https://orcid.org/my-orcid?orcid=0000-0002-2311-8592">ORCID</A>,
+	<A href="https://scholar.google.at/citations?user=8lFCw7IAAAAJ&hl=en">Google Scholar</A>
+	<br>
 
 publications:
   - authors: B. Klempa, R. Ulrich, H. Meisel, D.H. Krüger, H.A. Schmidt, S. Kaluz, M. Labuda, and B. Hjelle
@@ -139,7 +143,7 @@ publications:
 ### Professional Experience
 <div class="hline"></div>
 
-* __2005-present__: Postdoc at the <A HREF="http://www.cibiv.at">Center for Integrative Bioinformatics Vienna</A> (CIBIV), <A HREF="http://www.mfpl.ac.at/">Max F. Perutz Laboratories</A> (MFPL), <A HREF="http://www.univie.ac.at">University of Vienna</A><br>, Vienna, Austria
+* __2005-present__: Postdoc at the <A HREF="http://www.cibiv.at">Center for Integrative Bioinformatics Vienna</A> (CIBIV), <A HREF="http://www.maxperutzlabs.ac.at/">Max Perutz Labs</A> (formerly Max F. Perutz Laboratories, MFPL), <A HREF="http://www.univie.ac.at">University of Vienna</A>, Vienna, Austria
 * __2003-2005__: Postdoc at the <A HREF="http://www.fz-juelich.de/nic">John-von-Neumann Institute for Computing</A> (NIC), <A HREF="http://www.fz-juelich.de/">Research Center Jülich</A>, Jülich
 * __2001-2003__: Staff scientist at the <A HREF="http://cmb.molgen.mpg.de/">Computational Molecular Biology</A>, <A HREF="http://www.molgen.mpg.de/">MPI for Molecular Genetics</A>, Berlin
 * __1997-2001__: Staff scientist at the <A HREF="http://www.dkfz.de/tbi/">Theoretical Bioinformatics</A>, <A HREF="http://www.dkfz.de/">DKFZ</A>, Heidelberg
