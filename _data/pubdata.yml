@@ -26,17 +26,6 @@ publications:
 
 ########### accepted ###########
 
-  - authors: M. Huth, L. Santini, E. Galimberti, J. Ramesmayer, F. Titz-Teixeira, R. Sehlke, M. Oberhuemer, S. Stummer, V. Herzog, M. Garmhausen, M. Romeike, A. Chugunova, K.F. Leesch, <U>L. Holcik</U>, K. Weipoltshammer, A. Lackner, C. Schoefer, <U>A. von Haeseler</U>, C. Buecker, A. Pauli, S. Ameres, A. Smith, A. Beyer, and M. Leeb
-    year: 2022
-    title: NMD is required for timely cell fate transitions by fine-tuning gene expression and regulating translation.
-    journal: <EM>Genes Dev.</EM>, 36, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/gad.347690.120">DOI&#58; 10.1101/gad.347690.120</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35241478">PMID&#58; 35241478</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
-
 ########### in press ###########
 
   - authors: <U>S.M. Crotty</U>  and B.R. Holland
@@ -46,6 +35,17 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1093/sysbio/syac003">DOI&#58; 10.1093/sysbio/syac003</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35041002">PMID&#58; 35041002</A>)
+
+  - authors: M. Huth, L. Santini, E. Galimberti, J. Ramesmayer, F. Titz-Teixeira, R. Sehlke, M. Oberhuemer, S. Stummer, V. Herzog, M. Garmhausen, M. Romeike, A. Chugunova, K.F. Leesch, <U>L. Holcik</U>, K. Weipoltshammer, A. Lackner, C. Schoefer, <U>A. von Haeseler</U>, C. Buecker, A. Pauli, S. Ameres, A. Smith, A. Beyer, and M. Leeb
+    year: in press
+    title: NMD is required for timely cell fate transitions by fine-tuning gene expression and regulating translation.
+    journal: <EM>Genes Dev.</EM>, 36, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/gad.347690.120">DOI&#58; 10.1101/gad.347690.120</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35241478">PMID&#58; 35241478</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+#
 
 
 ########### 2022 ###########
