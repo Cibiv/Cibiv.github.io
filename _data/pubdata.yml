@@ -27,12 +27,12 @@ publications:
 ########### accepted ###########
 
   - authors: M. Huth, L. Santini, E. Galimberti, J. Ramesmayer, F. Titz-Teixeira, R. Sehlke, M. Oberhuemer, S. Stummer, V. Herzog, M. Garmhausen, M. Romeike, A. Chugunova, K.F. Leesch, <U>L. Holcik</U>, K. Weipoltshammer, A. Lackner, C. Schoefer, <U>A. von Haeseler</U>, C. Buecker, A. Pauli, S. Ameres, A. Smith, A. Beyer, and M. Leeb
-    year: accepted
+    year: 2022
     title: NMD is required for timely cell fate transitions by fine-tuning gene expression and regulating translation.
-    journal: <EM>Genes Dev.</EM>, 36, accepted.
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+    journal: <EM>Genes Dev.</EM>, 36, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/gad.347690.120">DOI&#58; 10.1101/gad.347690.120</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35241478">PMID&#58; 35241478</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 #
