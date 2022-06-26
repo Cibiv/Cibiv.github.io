@@ -28,15 +28,6 @@ publications:
 
 ########### in press ###########
 
-  - authors: C. Bangert, S. Villazala-Merino, <U>M. Fahrenberger</U>, T. Krausgruber, W.M. Bauer, V. Stanek, N.J. Campion, T. Bartosik, T. Quint, G. Regelsberger, V. Niederberger-Leppin, C. Bock, S. Schneider, and J. Eckl-Dorna
-    year: in press
-    title: Comprehensive Analysis of Nasal Polyps Reveals a More Pronounced Type 2 Transcriptomic Profile of Epithelial Cells and Mast Cells in Aspirin-Exacerbated Respiratory Disease.
-    journal: <EM>Front. Immunol.</EM>, 13, 850494, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.3389/fimmu.2022.850494">DOI&#58; 10.3389/fimmu.2022.850494</A>,
-       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35418991">PMID&#58; 35418991</A>,
-       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC8996080">PMCID&#58; PMC8996080</A>)
-
   - authors: <U>S.M. Crotty</U>  and B.R. Holland
     year: in press
     title: Comparing partitioned models to mixture models&#58; Do information criteria apply?
@@ -47,6 +38,15 @@ publications:
 
 
 ########### 2022 ###########
+
+  - authors: C. Bangert, S. Villazala-Merino, <U>M. Fahrenberger</U>, T. Krausgruber, W.M. Bauer, V. Stanek, N.J. Campion, T. Bartosik, T. Quint, G. Regelsberger, V. Niederberger-Leppin, C. Bock, S. Schneider, and J. Eckl-Dorna
+    year: 2022
+    title: Comprehensive Analysis of Nasal Polyps Reveals a More Pronounced Type 2 Transcriptomic Profile of Epithelial Cells and Mast Cells in Aspirin-Exacerbated Respiratory Disease.
+    journal: <EM>Front. Immunol.</EM>, 13, 850494.
+    links: |
+      (<A HREF="http://dx.doi.org/10.3389/fimmu.2022.850494">DOI&#58; 10.3389/fimmu.2022.850494</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35418991">PMID&#58; 35418991</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC8996080">PMCID&#58; PMC8996080</A>)
 
   - authors: M.P.S. Dekens, B.M Fontinha, <U>M. Gallach</U>, S. Pfl&uuml;gler, and K. Tessmar-Raible
     year: 2022
