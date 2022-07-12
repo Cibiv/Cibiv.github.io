@@ -213,14 +213,12 @@ publications:
       (<A HREF="http://dx.doi.org/10.1128/JCM.00273-20">DOI&#58; 10.1128/JCM.00273-20</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32295890">PMID&#58; 32295890</A>)
 
-  - authors: E. Galimberti, R. Sehlke, M. Huth, M. Garmhausen, M. Romeike, J. Ramesmayer, S. Stummer, F. Titz-Teixeira, V. Herzog, A. Chugunova, K.F. Leesch, <U>L. Holcik</U>, Klara</U> Weipoltshammer, L. Santini, A. Lackner, <U>A. von Haeseler</U>, C. B&uuml;cker, A. Pauli, C. Schoefer, S.L. Ameres, A. Smith, A. Beyer, and M. Leeb
-    year: 2020
-    title: NMD is required for timely cell fate transitions by fine-tuning gene expression and controlling translation.
-    journal: <EM>bioRxiv</EM>, 2020.07.07.180133.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/2020.07.07.180133">DOI&#58; 10.1101/2020.07.07.180133</A>)
-#       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32511357">PMID&#58; 32511357</A>,
-#       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC7263415">PMCID&#58; PMC7263415</A>)
+#  - authors: E. Galimberti, R. Sehlke, M. Huth, M. Garmhausen, M. Romeike, J. Ramesmayer, S. Stummer, F. Titz-Teixeira, V. Herzog, A. Chugunova, K.F. Leesch, <U>L. Holcik</U>, Klara</U> Weipoltshammer, L. Santini, A. Lackner, <U>A. von Haeseler</U>, C. B&uuml;cker, A. Pauli, C. Schoefer, S.L. Ameres, A. Smith, A. Beyer, and M. Leeb
+#    year: 2020
+#    title: NMD is required for timely cell fate transitions by fine-tuning gene expression and controlling translation.
+#    journal: <EM>bioRxiv</EM>, 2020.07.07.180133.
+#    links: |
+#      (<A HREF="http://dx.doi.org/10.1101/2020.07.07.180133">DOI&#58; 10.1101/2020.07.07.180133</A>)
 
   - authors: E. Janisiw, M. Raices, F. Balmir, <U>L.F. Paulin</U>, A. Baudrimont, <U>A. von Haeseler</U>, J. Yanowitz, V. Jantsch, and N. Silva
     year: 2020
