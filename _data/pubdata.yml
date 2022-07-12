@@ -81,6 +81,15 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1101/2022.03.11.483643">DOI&#58; 10.1101/2022.03.11.483643</A>)
 
+  - authors: J. Voznica, A. Zhukova, <U>V. Boskova</U>, E. Saulnier, F. Lemoine, M. Moslonka-Lefebvre, and O. Gascuel
+    year: 2022
+    title: Deep learning from phylogenies to uncover the epidemiological dynamics of outbreaks.
+    journal: <EM>Nat. Commun.</EM>, 13, 3896.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41467-022-31511-0">DOI&#58; 10.1038/s41467-022-31511-0</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35794110">PMID&#58; 35794110</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC9258765">PMCID&#58; PMC9258765</A>)
+
 
 ########### 2021 ###########
 
