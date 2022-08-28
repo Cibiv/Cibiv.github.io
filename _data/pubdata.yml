@@ -38,10 +38,19 @@ publications:
 
   - authors: Á. Vértesy, O.L. Eichmueller, <U>J. Naas</U>, M. Novatchkova, C. Esk, M. Balmaña, S. Ladstaetter, C. Bock, <U>A. von Haeseler</U>, and J.A. Knoblich
     year: in press
-    title: Gruffi removes stressed cells from brain organoid datasets.
+    title: Gruffi&#58; an algorithm for computational removal of stressed cells from brain organoid transcriptomic datasets.
     journal: <EM>EMBO J.</EM>, 41, in press.
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
+    links: |
+      (<A HREF="http://dx.doi.org/10.15252/embj.2022111118">DOI&#58; 10.15252/embj.2022111118</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35919947">PMID&#58; 35919947</A>,
+      <A HREF="https://github.com/jn-goe/gruffi">software</A>)
+
+  - authors: S. Tiedeck, M.B. Heindl, P. Kramlinger, <U>J. Naas</U>, F. Br&uul;tting, N. Kirkwood, P. Mulvaney, and G. Herink
+    year: in press
+    title: Single-Pixel Fluorescence Spectroscopy Using Near-Field Dispersion for Single-Photon Counting and Single-Shot Acquisition.
+    journal: <EM>ACS Photonic</EM>, 9, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1021/acsphotonics.2c00710">DOI&#58; 10.1021/acsphotonics.2c00710</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
