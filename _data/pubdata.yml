@@ -36,18 +36,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/sysbio/syac003">DOI&#58; 10.1093/sysbio/syac003</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35041002">PMID&#58; 35041002</A>)
 
-  - authors: J. Kaczanowska<sup>e</sup>, F. Ganglberger<sup>e</sup>, <U>O. Chernomor</U><sup>e</sup>, D. Kargl, B. Galik, A. Hess, Y. Moodley, <U>A. von Haeseler</U>, K. B&uuml;hler, and W. Haubensak
-    year: 2022
-    title: Molecular archaeology of human cognitive traits.
-    journal: <EM>Cell Rep.</EM>, 40, 111287.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1016/j.celrep.2022.111287">DOI&#58; 10.1016/j.celrep.2022.111287</A>)
-      <BR><sup>e</sup>&nbsp;contributed equally
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
-
   - authors: S. Tiedeck, M.B. Heindl, P. Kramlinger, <U>J. Naas</U>, F. Br&uuml;tting, N. Kirkwood, P. Mulvaney, and G. Herink
     year: in press
     title: Single-Pixel Fluorescence Spectroscopy Using Near-Field Dispersion for Single-Photon Counting and Single-Shot Acquisition.
