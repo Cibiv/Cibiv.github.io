@@ -26,26 +26,29 @@ publications:
 
 ########### accepted ###########
 
+
 ########### in press ###########
 
-  - authors: <U>S.M. Crotty</U>  and B.R. Holland
+  - authors: <U>L.F. Paulin</U>, M. Raveendran, R.A. Harris, J. Rogers, <U>A. von Haeseler</U> und F.J. Sedlazeck
     year: in press
-    title: Comparing partitioned models to mixture models&#58; Do information criteria apply?
-    journal: <EM>Syst. Biol.</EM>, 71, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1093/sysbio/syac003">DOI&#58; 10.1093/sysbio/syac003</A>,
-       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35041002">PMID&#58; 35041002</A>)
-
-  - authors: S. Tiedeck, M.B. Heindl, P. Kramlinger, <U>J. Naas</U>, F. Br&uuml;tting, N. Kirkwood, P. Mulvaney, and G. Herink
-    year: in press
-    title: Single-Pixel Fluorescence Spectroscopy Using Near-Field Dispersion for Single-Photon Counting and Single-Shot Acquisition.
-    journal: <EM>ACS Photonic</EM>, 9, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1021/acsphotonics.2c00710">DOI&#58; 10.1021/acsphotonics.2c00710</A>)
+    title: BMC Bioinform.
+    journal: <EM>2022</EM>, in press.
+#    links: |
+#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
+
+#  - authors: M. Schwaiger<sup>e</sup>, C. Andrikou<sup>e</sup>, R. Dnyansagar<sup>e</sup>, P. Ferrer Murguia, P. Paganos, D. Voronov, B. Zimmermann, T. Lebedeva, <U>H.A. Schmidt</U>, G. Genikhovich, G. Benvenuto, M.I. Arnone, and U. Technau
+#    year: in press
+#    title: An ancestral Wnt-Brachyury feedback loop in axial patterning and recruitment of mesoderm-determining target genes
+#    journal: <EM>Nat. Ecol. Evol.</EM>, in press.
+#      <BR><sup>e</sup>&nbsp;contributed equally
+#    links: |
+#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+
 
 ########### 2022 ###########
 
@@ -57,6 +60,15 @@ publications:
       (<A HREF="http://dx.doi.org/10.3389/fimmu.2022.850494">DOI&#58; 10.3389/fimmu.2022.850494</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35418991">PMID&#58; 35418991</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC8996080">PMCID&#58; PMC8996080</A>)
+
+  - authors: <U>S.M. Crotty</U>  and B.R. Holland
+    year: 2022
+    title: Comparing partitioned models to mixture models&#58; Do information criteria apply?
+    journal: <EM>Syst. Biol.</EM>, 71, 1541–1548.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/sysbio/syac003">DOI&#58; 10.1093/sysbio/syac003</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35041002">PMID&#58; 35041002</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC9558833">PMCID&#58; PMC9558833</A>)
 
   - authors: M.P.S. Dekens, B.M Fontinha, <U>M. Gallach</U>, S. Pfl&uuml;gler, and K. Tessmar-Raible
     year: 2022
@@ -79,12 +91,16 @@ publications:
     title: Molecular archaeology of human cognitive traits.
     journal: <EM>Cell Rep.</EM>, 40, 111287.
     links: |
-      (<A HREF="http://dx.doi.org/10.1016/j.celrep.2022.111287">DOI&#58; 10.1016/j.celrep.2022.111287</A>)
+      (<A HREF="http://dx.doi.org/10.1016/j.celrep.2022.111287">DOI&#58; 10.1016/j.celrep.2022.111287</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/36044840">PMID&#58; 36044840</A>)
       <BR><sup>e</sup>&nbsp;contributed equally
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
+
+  - authors: S. Tiedeck, M.B. Heindl, P. Kramlinger, <U>J. Naas</U>, F. Br&uuml;tting, N. Kirkwood, P. Mulvaney, and G. Herink
+    year: 2022
+    title: Single-Pixel Fluorescence Spectroscopy Using Near-Field Dispersion for Single-Photon Counting and Single-Shot Acquisition.
+    journal: <EM>ACS Photonic</EM>, 9, 2931–2937.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1021/acsphotonics.2c00710">DOI&#58; 10.1021/acsphotonics.2c00710</A>)
 
   - authors: Á. Vértesy, O.L. Eichmueller, <U>J. Naas</U>, M. Novatchkova, C. Esk, M. Balmaña, S. Ladstaetter, C. Bock, <U>A. von Haeseler</U>, and J.A. Knoblich
     year: 2022
