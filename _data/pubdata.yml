@@ -31,8 +31,8 @@ publications:
 
   - authors: <U>L.F. Paulin</U>, M. Raveendran, R.A. Harris, J. Rogers, <U>A. von Haeseler</U> und F.J. Sedlazeck
     year: in press
-    title: BMC Bioinform.
-    journal: <EM>2022</EM>, in press.
+    title: SVhound&#58; Detection of regions that harbor yet undetected Structural Variation.
+    journal: <EM>BMC Bioinform.</EM>, in press.
 #    links: |
 #      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
