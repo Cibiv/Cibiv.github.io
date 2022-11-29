@@ -67,7 +67,7 @@ publications:
   - authors: D. Liebers, H.A. Schmidt, M. Vingron, and A. von Haeseler
     year: 2002
     title: "Computer assisted phylogenetic analysis of large genomic datasets. In J. Wadzack, A. Haese, and B. L&ouml;hmer (eds.)" 
-    journal: Progress Report 1999 - 2002&#58; German Human Genome Project. 68-69, Druckhaus Schmergow, Berlin. (ISBN&#58; 9783000100970)
+    journal: Progress Report 1999 - 2002&#58; German Human Genome Project (DHGP). 68-69, Druckhaus Schmergow, Berlin. (ISBN&#58; 978-3-00-010097-0)
 
   - authors: H.A. Schmidt and A. von Haeseler
     year: 2002
