@@ -39,15 +39,6 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
-  - authors: M. Schwaiger<sup>e</sup>, C. Andrikou<sup>e</sup>, R. Dnyansagar<sup>e</sup>, P. Ferrer Murguia, P. Paganos, D. Voronov, B. Zimmermann, T. Lebedeva, <U>H.A. Schmidt</U>, G. Genikhovich, G. Benvenuto, M.I. Arnone, and U. Technau
-    year: in press
-    title: An ancestral Wnt-Brachyury feedback loop in axial patterning and recruitment of mesoderm-determining target genes.
-    journal: <EM>Nat. Ecol. Evol.</EM>, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1038/s41559-022-01905-w">DOI&#58; 10.1038/s41559-022-01905-w</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/36396969">PMID&#58; 36396969</A>)
-      <BR><sup>e</sup>&nbsp;contributed equally
-
 
 ########### 2022 ###########
 
@@ -92,6 +83,15 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1016/j.celrep.2022.111287">DOI&#58; 10.1016/j.celrep.2022.111287</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/36044840">PMID&#58; 36044840</A>)
+      <BR><sup>e</sup>&nbsp;contributed equally
+
+  - authors: M. Schwaiger<sup>e</sup>, C. Andrikou<sup>e</sup>, R. Dnyansagar<sup>e</sup>, P. Ferrer Murguia, P. Paganos, D. Voronov, B. Zimmermann, T. Lebedeva, <U>H.A. Schmidt</U>, G. Genikhovich, G. Benvenuto, M.I. Arnone, and U. Technau
+    year: 2022
+    title: An ancestral Wnt-Brachyury feedback loop in axial patterning and recruitment of mesoderm-determining target genes.
+    journal: <EM>Nat. Ecol. Evol.</EM>, 6, 1921–1939.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41559-022-01905-w">DOI&#58; 10.1038/s41559-022-01905-w</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/36396969">PMID&#58; 36396969</A>)
       <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: S. Tiedeck, M.B. Heindl, P. Kramlinger, <U>J. Naas</U>, F. Br&uuml;tting, N. Kirkwood, P. Mulvaney, and G. Herink
