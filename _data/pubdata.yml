@@ -29,15 +29,18 @@ publications:
 
 ########### in press ###########
 
+
+
+########### 2023 ###########
+
   - authors: <U>L.F. Paulin</U>, M. Raveendran, R.A. Harris, J. Rogers, <U>A. von Haeseler</U> und F.J. Sedlazeck
-    year: in press
+    year: 2023
     title: SVhound&#58; Detection of regions that harbor yet undetected Structural Variation.
-    journal: <EM>BMC Bioinform.</EM>, 24, 23, in press.
+    journal: <EM>BMC Bioinform.</EM>, 24, 23.
     links: |
-      (<A HREF="http://dx.doi.org/10.1186/s12859-022-05046-6">DOI&#58; 10.1186/s12859-022-05046-6</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+      (<A HREF="http://dx.doi.org/10.1186/s12859-022-05046-6">DOI&#58; 10.1186/s12859-022-05046-6</A>,
+       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/36670361">PMID&#58; 36670361</A>,
+       <A HREF="https://github.com/lfpaulin/SVhound">software</A>)
 
 
 ########### 2022 ###########
