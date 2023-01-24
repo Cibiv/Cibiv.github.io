@@ -33,6 +33,13 @@ publications:
 
 ########### 2023 ###########
 
+  - authors: <U>O. Chernomor</U>, <U>C. Elgert</U>, and <U>A. von Haeseler</U>
+    year: 2023
+    title: Identifying equally scoring trees in phylogenomics with incomplete data using Gentrius.
+    journal: <EM>bioRxiv</EM>, 2022.03.11.483643
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/2023.01.19.524678">DOI&#58; 10.1101/2023.01.19.524678</A>)
+
   - authors: <U>L.F. Paulin</U>, M. Raveendran, R.A. Harris, J. Rogers, <U>A. von Haeseler</U> und F.J. Sedlazeck
     year: 2023
     title: SVhound&#58; Detection of regions that harbor yet undetected Structural Variation.
