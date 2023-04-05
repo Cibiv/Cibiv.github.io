@@ -79,7 +79,7 @@ publications:
 
   - authors: <U>S. Burgstaller-Muehlbacher</U>, S.M. Crotty, <U>H.A Schmidt</U>, <U>T. Drucks</U>, and <U>A. von Haeseler</U>
     year: 2022
-    title: ModelRevelator: Fast phylogenetic model estimation via deep learning.
+    title: ModelRevelator&#58; Fast phylogenetic model estimation via deep learning.
     journal: <EM>bioRxiv</EM>, 2021.12.22.473813
     links: |
       (<A HREF="http://dx.doi.org/10.1101/2021.12.22.473813v2">DOI&#58; 10.1101/2021.12.22.473813v2</A>)
