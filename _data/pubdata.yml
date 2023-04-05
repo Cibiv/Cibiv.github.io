@@ -77,7 +77,7 @@ publications:
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35418991">PMID&#58; 35418991</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC8996080">PMCID&#58; PMC8996080</A>)
 
-  - authors: <U>S. Burgstaller-Muehlbacher</U>, S.M. Crotty, <U>H.A Schmidt</U>, <U>T. Drucks</U>, and <U>A. von Haeseler</U>
+  - authors: <U>S. Burgstaller-Muehlbacher</U>, S.M. Crotty, <U>H.A. Schmidt</U>, <U>T. Drucks</U>, and <U>A. von Haeseler</U>
     year: 2022
     title: ModelRevelator&#58; Fast phylogenetic model estimation via deep learning.
     journal: <EM>bioRxiv</EM>, 2021.12.22.473813
