@@ -47,6 +47,15 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1101/2023.03.20.533408">DOI&#58; 10.1101/2023.03.20.533408</A>)
 
+  - authors: S. Kattner, <S>J. M&uuml;ller</S>, K. Glanz, M. Manoochehri, C. Sylvester, Y. Vainshtein, M.M. Berger, T. Brenner, and K. Sohn
+    year: 2023
+    title: Identification of two early blood biomarkers ACHE and CLEC12A for improved risk stratification of critically ill COVID-19 patients.
+    journal: <EM>Sci. Rep.</EM>, 13, 4388.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41598-023-30158-1">DOI&#58; 10.1038/s41598-023-30158-1</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/36928077">PMID&#58; 36928077</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC10019437">PMCID&#58; PMC10019437</A>)
+
   - authors: <U>L.F. Paulin</U>, M. Raveendran, R.A. Harris, J. Rogers, <U>A. von Haeseler</U> und F.J. Sedlazeck
     year: 2023
     title: SVhound&#58; Detection of regions that harbor yet undetected Structural Variation.
