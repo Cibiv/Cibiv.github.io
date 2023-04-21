@@ -29,7 +29,16 @@ publications:
 
 ########### in press ###########
 
-
+  - authors: R. Kleinova, V. Rajendra, <U>A.F. Leuchtenberger</U>, C.L. Giudice, C. Vesely, U. Kapoor, A. Tanzer, S. Derdak, E. Picardi, and M.F Jantsch
+    year: in press
+    title: The ADAR1 editome reveals drivers of editing-specificity for ADAR1-isoforms.
+    journal: <EM>Nucleic Acids Res.</EM>, 51, in press.
+    journal: <EM>JJJJ</EM>, 15, 725.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/nar/gkad265">DOI&#58; 10.1093/nar/gkad265</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37026479">PMID&#58; 37026479</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
 ########### 2023 ###########
 
@@ -40,14 +49,14 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1101/2023.01.19.524678">DOI&#58; 10.1101/2023.01.19.524678</A>)
 
-  - authors: N. Durut, A.E. Kornienko, <S>H.A. Schmidt</S>, N. Lettner, M. Dona, M. Nordborg, and O. Mittelsten Scheid
+  - authors: N. Durut, A.E. Kornienko, <U>H.A. Schmidt</U>, N. Lettner, M. Dona, M. Nordborg, and O. Mittelsten Scheid
     year: 2023
     title: Long non-coding RNAs contribute to DNA damage resistance in Arabidopsis thaliana.
     journal: <EM>bioRxiv</EM>, 2023.03.20.533408
     links: |
       (<A HREF="http://dx.doi.org/10.1101/2023.03.20.533408">DOI&#58; 10.1101/2023.03.20.533408</A>)
 
-  - authors: S. Kattner, <S>J. M&uuml;ller</S>, K. Glanz, M. Manoochehri, C. Sylvester, Y. Vainshtein, M.M. Berger, T. Brenner, and K. Sohn
+  - authors: S. Kattner, <U>J. M&uuml;ller</U>, K. Glanz, M. Manoochehri, C. Sylvester, Y. Vainshtein, M.M. Berger, T. Brenner, and K. Sohn
     year: 2023
     title: Identification of two early blood biomarkers ACHE and CLEC12A for improved risk stratification of critically ill COVID-19 patients.
     journal: <EM>Sci. Rep.</EM>, 13, 4388.
