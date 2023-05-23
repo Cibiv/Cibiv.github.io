@@ -51,7 +51,7 @@ publications:
     journal: <EM>Proceedings of the 22nd IEEE International Workshop on High Performance Computational Biology (HiCOMB 2023)</EM>  in conjunction with <EM>IEEE International Parallel and Distributed Processing Symposium (IPDPS)</EM> (St. Petersburg, FL, USA), 139-148. IEEE Computer Society, Piscataway, NJ, USA.
     links: |
       (<A HREF="http://dx.doi.org/10.1109/IPDPSW59300.2023.00035">DOI&#58; 10.1109/IPDPSW59300.2023.00035</A>)
-      # <A HREF="http://hicomb.org/proceedings.html">HiCOMB Online Proceedings</A>)
+#       <A HREF="http://hicomb.org/proceedings.html">HiCOMB Online Proceedings</A>)
 
 ########### 2023 ###########
 
