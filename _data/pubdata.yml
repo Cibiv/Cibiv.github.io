@@ -37,18 +37,10 @@ publications:
       (<A HREF="http://dx.doi.org/10.1016/j.kint.2023.03.035">DOI&#58; 10.1016/j.kint.2023.03.035</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37098381">PMID&#58; 37098381</A>)
 
-  - authors: R. Kleinova, V. Rajendra, <U>A.F. Leuchtenberger</U>, C.L. Giudice, C. Vesely, U. Kapoor, A. Tanzer, S. Derdak, E. Picardi, and M.F Jantsch
-    year: in press
-    title: The ADAR1 editome reveals drivers of editing-specificity for ADAR1-isoforms.
-    journal: <EM>Nucleic Acids Res.</EM>, 51, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1093/nar/gkad265">DOI&#58; 10.1093/nar/gkad265</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37026479">PMID&#58; 37026479</A>)
-
   - authors: A. Togkousidis, <U>O. Chernomor</U>, and A. Stamatakis
     year: in press
     title: Parallel Inference of Phylogenetic Stands with Gentrius.
-    journal: <EM>Proceedings of the 22nd IEEE International Workshop on High Performance Computational Biology (HiCOMB 2023)</EM>  in conjunction with <EM>IEEE International Parallel and Distributed Processing Symposium (IPDPS)</EM> (St. Petersburg, FL, USA), 139-148 (in press). IEEE Computer Society, Piscataway, NJ, USA.
+    journal: <EM>Proceedings of the 22nd IEEE International Workshop on High Performance Computational Biology -- HiCOMB 2023</EM>  (St. Petersburg, FL, USA), 139-148 (in press). IEEE Computer Society, Piscataway, NJ, USA.
     links: |
       (<A HREF="http://dx.doi.org/10.1109/IPDPSW59300.2023.00035">DOI&#58; 10.1109/IPDPSW59300.2023.00035</A>)
 #       <A HREF="http://hicomb.org/proceedings.html">HiCOMB Online Proceedings</A>)
@@ -77,6 +69,14 @@ publications:
       (<A HREF="http://dx.doi.org/10.1038/s41598-023-30158-1">DOI&#58; 10.1038/s41598-023-30158-1</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/36928077">PMID&#58; 36928077</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC10019437">PMCID&#58; PMC10019437</A>)
+
+  - authors: R. Kleinova, V. Rajendra, <U>A.F. Leuchtenberger</U>, C.L. Giudice, C. Vesely, U. Kapoor, A. Tanzer, S. Derdak, E. Picardi, and M.F Jantsch
+    year: 2023
+    title: The ADAR1 editome reveals drivers of editing-specificity for ADAR1-isoforms.
+    journal: <EM>Nucleic Acids Res.</EM>, 51, 4191–4207.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/nar/gkad265">DOI&#58; 10.1093/nar/gkad265</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37026479">PMID&#58; 37026479</A>)
 
   - authors: <U>L.F. Paulin</U>, M. Raveendran, R.A. Harris, J. Rogers, <U>A. von Haeseler</U> und F.J. Sedlazeck
     year: 2023
