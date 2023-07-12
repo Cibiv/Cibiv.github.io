@@ -36,31 +36,14 @@ publications:
 #    links: |
 #      (<A HREF="http://dx.doi.org/10.1101/2023.03.20.533408">DOI&#58; 10.1101/2023.03.20.533408</A>)
 
-  - authors: S. Grampp, R. Kr&uuml;ger, V. Lauer, S. Uebel, K.X. Knaup, <U>J. Naas</U>, V. H&ouml;ffken, T. Weide, N. Schiffer, S. Naas, and J. Sch&ouml;del
-    year: in press
-    title: Hypoxia hits APOL1 in the kidney.
-    journal: <EM>Kidney Int.</EM>, 103, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1016/j.kint.2023.03.035">DOI&#58; 10.1016/j.kint.2023.03.035</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37098381">PMID&#58; 37098381</A>)
-
-  - authors: G. Martello, G.M. Ferlazzo, A. Gambetta, S. Amato, N. Cannizzaro, S. Angiolillo, M. Arboit, L. Diamante, E. Carbognin, P. Romani, F. La Torre, E. Galimberti, <U<F. Pflug</U>, M. Luoni, S. Giannelli, G. Pepe, L. Capocci, A. Di Pardo, P. Vanzani, L. Zennaro, V. Broccoli, M. Leeb, E. Moro, and V. Maglione
-    year: in press
-    title: A genome-wide screening in pluripotent cells identifies MTF1 as a suppressor of mutant huntingtin toxicity.
-    journal: <EM>Nat. Commun.</EM>, 14, in press.
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
   - authors: S. Naas, R. Kr&uuml;ger, K.X. Knaup, <U>J. Naas</U>, S. Grampp, N. Schiffer, M. Wiesener, and J. Sch&ouml;del
     year: in press
     title: Hypoxia controls expression of kidney-pathogenic MUC1 variants.
     journal: <EM>Life Sci. Alliance</EM>, 6, e202302078, in press.
     links: |
       (<A HREF="http://dx.doi.org/10.26508/lsa.202302078">DOI&#58; 10.26508/lsa.202302078</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37316299">PMID&#58; 37316299</A>)
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37316299">PMID&#58; 37316299</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC10267510">PMCID&#58; PMC10267510</A>)
 
   - authors: A. Togkousidis, <U>O. Chernomor</U>, and A. Stamatakis
     year: in press
@@ -85,6 +68,23 @@ publications:
     journal: <EM>bioRxiv</EM>, 2023.03.20.533408
     links: |
       (<A HREF="http://dx.doi.org/10.1101/2023.03.20.533408">DOI&#58; 10.1101/2023.03.20.533408</A>)
+
+  - authors: G.M. Ferlazzo, A.M. Gambetta, S. Amato, N. Cannizzaro, S. Angiolillo, M. Arboit, L. Diamante, E. Carbognin, P. Romani, F. La Torre, E. Galimberti, <U<F. Pflug</U>, M. Luoni, S. Giannelli, G. Pepe, L. Capocci, A. Di Pardo, P. Vanzani, L. Zennaro, V. Broccoli, M. Leeb, E. Moro, V. Maglione, and G. Martello, 
+    year: 2023
+    title: Genome-wide screening in pluripotent cells identifies MTF1 as a suppressor of mutant huntingtin toxicity.
+    journal: <EM>Nat. Commun.</EM>, 14, 3962.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41467-023-39552-9">DOI&#58; 10.1038/s41467-023-39552-9</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37407555">PMID&#58; 37407555</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC10322923">PMCID&#58; PMC10322923</A>)
+
+  - authors: S. Grampp, R. Kr&uuml;ger, V. Lauer, S. Uebel, K.X. Knaup, <U>J. Naas</U>, V. H&ouml;ffken, T. Weide, N. Schiffer, S. Naas, and J. Sch&ouml;del
+    year: 2023
+    title: Hypoxia hits APOL1 in the kidney.
+    journal: <EM>Kidney Int.</EM>, 104, 53-60.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1016/j.kint.2023.03.035">DOI&#58; 10.1016/j.kint.2023.03.035</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37098381">PMID&#58; 37098381</A>)
 
   - authors: S. Kattner, <U>J. M&uuml;ller</U>, K. Glanz, M. Manoochehri, C. Sylvester, Y. Vainshtein, M.M. Berger, T. Brenner, and K. Sohn
     year: 2023
