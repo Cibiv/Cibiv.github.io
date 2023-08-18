@@ -29,29 +29,25 @@ publications:
 
 ########### in press ###########
 
+  - authors: <U>S. Burgstaller-Muehlbacher</U>, S.M. Crotty, <U>H.A Schmidt</U>, <U>F. Reden</U>, <U>T. Drucks</U>, and <U>A. von Haeseler</U>
+    year: in press
+    title: ModelRevelator: Fast phylogenetic model estimation via deep learning.
+    journal: <EM>Mol. Phylogenet. Evol.</EM>, 188, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1016/j.ympev.2023.107905">DOI&#58; 10.1016/j.ympev.2023.107905</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+#
   - authors: N. Durut, A.E. Kornienko, <U>H.A. Schmidt</U>, N. Lettner, M. Dona, M. Nordborg, and O. Mittelsten Scheid
     year: in press
-    title: Long non-coding RNAs contribute to DNA damage resistance in Arabidopsis thaliana.
-    journal: <EM>Genetics</EM>, accepted
-#    links: |
-#      (<A HREF="http://dx.doi.org/10.1101/2023.03.20.533408">DOI&#58; 10.1101/2023.03.20.533408</A>)
-
-  - authors: S. Naas, R. Kr&uuml;ger, K.X. Knaup, <U>J. Naas</U>, S. Grampp, N. Schiffer, M. Wiesener, and J. Sch&ouml;del
-    year: in press
-    title: Hypoxia controls expression of kidney-pathogenic MUC1 variants.
-    journal: <EM>Life Sci. Alliance</EM>, 6, e202302078, in press.
+    title: Long noncoding RNAs contribute to DNA damage resistance in Arabidopsis thaliana.
+    journal: <EM>Genetics</EM>, iyad135, in press.
     links: |
-      (<A HREF="http://dx.doi.org/10.26508/lsa.202302078">DOI&#58; 10.26508/lsa.202302078</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37316299">PMID&#58; 37316299</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC10267510">PMCID&#58; PMC10267510</A>)
-
-  - authors: A. Togkousidis, <U>O. Chernomor</U>, and A. Stamatakis
-    year: in press
-    title: Parallel Inference of Phylogenetic Stands with Gentrius.
-    journal: <EM>Proceedings of the 22nd IEEE International Workshop on High Performance Computational Biology -- HiCOMB 2023</EM>  (St. Petersburg, FL, USA), 139-148 (in press). IEEE Computer Society, Piscataway, NJ, USA.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1109/IPDPSW59300.2023.00035">DOI&#58; 10.1109/IPDPSW59300.2023.00035</A>)
-#       <A HREF="http://hicomb.org/proceedings.html">HiCOMB Online Proceedings</A>)
+      (<A HREF="http://dx.doi.org/10.1093/genetics/iyad135">DOI&#58; 10.1093/genetics/iyad135</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37467473">PMID&#58; 37467473</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
 ########### 2023 ###########
 
@@ -103,6 +99,15 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/nar/gkad265">DOI&#58; 10.1093/nar/gkad265</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37026479">PMID&#58; 37026479</A>)
 
+  - authors: S. Naas, R. Kr&uuml;ger, K.X. Knaup, <U>J. Naas</U>, S. Grampp, N. Schiffer, M. Wiesener, and J. Sch&ouml;del
+    year: 2023
+    title: Hypoxia controls expression of kidney-pathogenic MUC1 variants.
+    journal: <EM>Life Sci. Alliance</EM>, 6, e202302078.
+    links: |
+      (<A HREF="http://dx.doi.org/10.26508/lsa.202302078">DOI&#58; 10.26508/lsa.202302078</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37316299">PMID&#58; 37316299</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC10267510">PMCID&#58; PMC10267510</A>)
+
   - authors: <U>L.F. Paulin</U>, M. Raveendran, R.A. Harris, J. Rogers, <U>A. von Haeseler</U> und F.J. Sedlazeck
     year: 2023
     title: SVhound&#58; Detection of regions that harbor yet undetected Structural Variation.
@@ -111,6 +116,14 @@ publications:
       (<A HREF="http://dx.doi.org/10.1186/s12859-022-05046-6">DOI&#58; 10.1186/s12859-022-05046-6</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/36670361">PMID&#58; 36670361</A>,
        <A HREF="https://github.com/lfpaulin/SVhound">software</A>)
+
+  - authors: A. Togkousidis, <U>O. Chernomor</U>, and A. Stamatakis
+    year: 2023
+    title: Parallel Inference of Phylogenetic Stands with Gentrius.
+    journal: <EM>Proceedings of the IEEE Intl. Symposium on Parallel and Distributed Processing Workshops and Phd Forum -- IPDPSW 2023</EM>  (St. Petersburg, FL, USA), 139-148. IEEE Computer Society, Piscataway, NJ, USA.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1109/IPDPSW59300.2023.00035">DOI&#58; 10.1109/IPDPSW59300.2023.00035</A>)
+#       <A HREF="http://hicomb.org/proceedings.html">HiCOMB Online Proceedings</A>)
 
 
 ########### 2022 ###########
@@ -124,12 +137,12 @@ publications:
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35418991">PMID&#58; 35418991</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC8996080">PMCID&#58; PMC8996080</A>)
 
-  - authors: <U>S. Burgstaller-Muehlbacher</U>, S.M. Crotty, <U>H.A. Schmidt</U>, <U>T. Drucks</U>, and <U>A. von Haeseler</U>
-    year: 2022
-    title: ModelRevelator&#58; Fast phylogenetic model estimation via deep learning.
-    journal: <EM>bioRxiv</EM>, 2021.12.22.473813
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/2021.12.22.473813v2">DOI&#58; 10.1101/2021.12.22.473813v2</A>)
+#  - authors: <U>S. Burgstaller-Muehlbacher</U>, S.M. Crotty, <U>H.A. Schmidt</U>, <U>T. Drucks</U>, and <U>A. von Haeseler</U>
+#    year: 2022
+#    title: ModelRevelator&#58; Fast phylogenetic model estimation via deep learning.
+#    journal: <EM>bioRxiv</EM>, 2021.12.22.473813
+#    links: |
+#      (<A HREF="http://dx.doi.org/10.1101/2021.12.22.473813v2">DOI&#58; 10.1101/2021.12.22.473813v2</A>)
 
   - authors: <U>S.M. Crotty</U>  and B.R. Holland
     year: 2022
