@@ -29,7 +29,7 @@ publications:
 
 ########### in press ###########
 
-  - authors: <U>S. Burgstaller-Muehlbacher</U>, S.M. Crotty, <U>H.A Schmidt</U>, <U>F. Reden</U>, <U>T. Drucks</U>, and <U>A. von Haeseler</U>
+  - authors: <U>S. Burgstaller-Muehlbacher</U>, S.M. Crotty, <U>H.A. Schmidt</U>, <U>F. Reden</U>, <U>T. Drucks</U>, and <U>A. von Haeseler</U>
     year: in press
     title: ModelRevelator&#58; Fast phylogenetic model estimation via deep learning.
     journal: <EM>Mol. Phylogenet. Evol.</EM>, 188, in press.
@@ -58,13 +58,13 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1101/2023.01.19.524678">DOI&#58; 10.1101/2023.01.19.524678</A>)
 
-  - authors: N. Durut, A.E. Kornienko, <U>H.A. Schmidt</U>, N. Lettner, M. Dona, M. Nordborg, and O. Mittelsten Scheid
-    year: 2023
-    title: Long non-coding RNAs contribute to DNA damage resistance in Arabidopsis thaliana.
-    journal: <EM>bioRxiv</EM>, 2023.03.20.533408
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/2023.03.20.533408">DOI&#58; 10.1101/2023.03.20.533408</A>)
-
+#  - authors: N. Durut, A.E. Kornienko, <U>H.A. Schmidt</U>, N. Lettner, M. Dona, M. Nordborg, and O. Mittelsten Scheid
+#    year: 2023
+#    title: Long non-coding RNAs contribute to DNA damage resistance in Arabidopsis thaliana.
+#    journal: <EM>bioRxiv</EM>, 2023.03.20.533408
+#    links: |
+#      (<A HREF="http://dx.doi.org/10.1101/2023.03.20.533408">DOI&#58; 10.1101/2023.03.20.533408</A>)
+#
   - authors: G.M. Ferlazzo, A.M. Gambetta, S. Amato, N. Cannizzaro, S. Angiolillo, M. Arboit, L. Diamante, E. Carbognin, P. Romani, F. La Torre, E. Galimberti, <U>F. Pflug</U>, M. Luoni, S. Giannelli, G. Pepe, L. Capocci, A. Di Pardo, P. Vanzani, L. Zennaro, V. Broccoli, M. Leeb, E. Moro, V. Maglione, and G. Martello, 
     year: 2023
     title: Genome-wide screening in pluripotent cells identifies MTF1 as a suppressor of mutant huntingtin toxicity.
