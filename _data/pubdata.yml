@@ -49,6 +49,17 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
+  - authors: <U>E.I. Kiselev</U>, <U>F. Pflug</U>, and <U>A. von Haeseler</U>
+    year: in press
+    title: Critical growth of cerebral tissue in organoidsI&#58; theory and experiments.
+    journal: <EM>Phys. Rev. Lett.</EM>, accepted.
+    links: |
+      (<A HREF="https://journals.aps.org/prl/accepted/40076Kc5Gd81ac0836628994b6ddf8ab699b0ebec">abstract</A>)
+#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+
 ########### 2023 ###########
 
   - authors: <U>O. Chernomor</U>, <U>C. Elgert</U>, and <U>A. von Haeseler</U>
