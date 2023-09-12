@@ -39,16 +39,6 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 #
-  - authors: N. Durut, A.E. Kornienko, <U>H.A. Schmidt</U>, N. Lettner, M. Dona, M. Nordborg, and O. Mittelsten Scheid
-    year: in press
-    title: Long noncoding RNAs contribute to DNA damage resistance in Arabidopsis thaliana.
-    journal: <EM>Genetics</EM>, iyad135,  in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1093/genetics/iyad135">DOI&#58; 10.1093/genetics/iyad135</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37467473">PMID&#58; 37467473</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-
   - authors: <U>E.I. Kiselev</U>, <U>F. Pflug</U>, and <U>A. von Haeseler</U>
     year: in press
     title: Critical growth of cerebral tissue in organoidsI&#58; theory and experiments.
@@ -76,6 +66,15 @@ publications:
 #    links: |
 #      (<A HREF="http://dx.doi.org/10.1101/2023.03.20.533408">DOI&#58; 10.1101/2023.03.20.533408</A>)
 #
+  - authors: N. Durut, A.E. Kornienko, <U>H.A. Schmidt</U>, N. Lettner, M. Dona, M. Nordborg, and O. Mittelsten Scheid
+    year: in press
+    title: Long noncoding RNAs contribute to DNA damage resistance in Arabidopsis thaliana.
+    journal: <EM>Genetics</EM>, 225, iyad135.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/genetics/iyad135">DOI&#58; 10.1093/genetics/iyad135</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37467473">PMID&#58; 37467473</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC10471225">PMCID&#58; PMC10471225</A>)
+
   - authors: G.M. Ferlazzo, A.M. Gambetta, S. Amato, N. Cannizzaro, S. Angiolillo, M. Arboit, L. Diamante, E. Carbognin, P. Romani, F. La Torre, E. Galimberti, <U>F. Pflug</U>, M. Luoni, S. Giannelli, G. Pepe, L. Capocci, A. Di Pardo, P. Vanzani, L. Zennaro, V. Broccoli, M. Leeb, E. Moro, V. Maglione, and G. Martello, 
     year: 2023
     title: Genome-wide screening in pluripotent cells identifies MTF1 as a suppressor of mutant huntingtin toxicity.
