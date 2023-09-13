@@ -1790,7 +1790,8 @@ publications:
     title: Taxon Selection under Split Diversity.
     journal: <EM>Syst. Biol.</em>, 57, 586-594.
     links: |
-      (<A HREF="http://dx.doi.org/10.1093/sysbio/syp058">DOI&#58; 10.1093/sysbio/syp058</A>)
+      (<A HREF="http://dx.doi.org/10.1093/sysbio/syp058">DOI&#58; 10.1093/sysbio/syp058</A>;
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/20525611">PMID&#58; 20525611</A>)
 
   - authors: <u>B.Q. Minh</u>, F. Pardi, <u>S. Klaere</u>, and <u>A. von Haeseler</u>
     year: 2009
