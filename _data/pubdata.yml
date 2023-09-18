@@ -38,7 +38,7 @@ publications:
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37595933">PMID&#58; 37595933</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-#
+
   - authors: <U>E.I. Kiselev</U>, <U>F. Pflug</U>, and <U>A. von Haeseler</U>
     year: in press
     title: Critical growth of cerebral tissue in organoidsI&#58; theory and experiments.
@@ -170,6 +170,16 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.15252/embr.202051528">DOI&#58; 10.15252/embr.202051528</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35233929">PMID&#58; 35233929</A>)
+
+  - authors: A. Gosselink, <U>T. Hofer</U>, E. Criado-Moronati, <U>A. von Haeseler</U> and J. Kollet
+    year: 2022
+    title: InspectorCell: Finding Ground Truth in Multiplexed Microscopy Images.
+    journal: <EM>J. Open Source Softw.</EM>, 7, 4949.
+    links: |
+      (<A HREF="http://dx.doi.org/10.21105/joss.04949">DOI&#58; 10.21105/joss.04949</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
   - authors: M. Huth, L. Santini, E. Galimberti, J. Ramesmayer, F. Titz-Teixeira, R. Sehlke, M. Oberhuemer, S. Stummer, V. Herzog, M. Garmhausen, M. Romeike, A. Chugunova, K.F. Leesch, <U>L. Holcik</U>, K. Weipoltshammer, A. Lackner, C. Schoefer, <U>A. von Haeseler</U>, C. Buecker, A. Pauli, S. Ameres, A. Smith, A. Beyer, and M. Leeb
     year: 2022
