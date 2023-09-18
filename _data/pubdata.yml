@@ -173,7 +173,7 @@ publications:
 
   - authors: A. Gosselink, <U>T. Hofer</U>, E. Criado-Moronati, <U>A. von Haeseler</U> and J. Kollet
     year: 2022
-    title: InspectorCell: Finding Ground Truth in Multiplexed Microscopy Images.
+    title: InspectorCell&#58; Finding Ground Truth in Multiplexed Microscopy Images.
     journal: <EM>J. Open Source Softw.</EM>, 7, 4949.
     links: |
       (<A HREF="http://dx.doi.org/10.21105/joss.04949">DOI&#58; 10.21105/joss.04949</A>)
