@@ -6,7 +6,7 @@ layout: personalpage
 title: Cassius Manuel Perez de los Cobos Hermosa
 
 # CHANGE: either Head, Postdoc, PhD student, Student, Guest researcher, System administrator, or Secretery
-position: PhD student
+position: Postdoc
 
 # image that will appear in the people page
 image: /assets/img/people/new_pics/cassius_1.png
