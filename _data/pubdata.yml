@@ -29,17 +29,6 @@ publications:
 
 ########### in press ###########
 
-  - authors: <U>E.I. Kiselev</U>, <U>F. Pflug</U>, and <U>A. von Haeseler</U>
-    year: in press
-    title: Critical growth of cerebral tissue in organoidsI&#58; theory and experiments.
-    journal: <EM>Phys. Rev. Lett.</EM>, accepted.
-    links: |
-      (<A HREF="https://journals.aps.org/prl/accepted/40076Kc5Gd81ac0836628994b6ddf8ab699b0ebec">abstract</A>)
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-
 ########### 2023 ###########
 
   - authors: <U>S. Burgstaller-Muehlbacher</U>, S.M. Crotty, <U>H.A. Schmidt</U>, <U>F. Reden</U>, <U>T. Drucks</U>, and <U>A. von Haeseler</U>
@@ -100,6 +89,15 @@ publications:
       (<A HREF="http://dx.doi.org/10.1038/s41598-023-30158-1">DOI&#58; 10.1038/s41598-023-30158-1</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/36928077">PMID&#58; 36928077</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC10019437">PMCID&#58; PMC10019437</A>)
+
+  - authors: <U>E.I. Kiselev</U>, <U>F. Pflug</U>, and <U>A. von Haeseler</U>
+    year: 2023
+    title: Critical growth of cerebral tissue in organoidsI&#58; theory and experiments.
+    journal: <EM>Phys. Rev. Lett.</EM>, 131, 178402.
+    links: |
+#      (<A HREF="https://journals.aps.org/prl/accepted/40076Kc5Gd81ac0836628994b6ddf8ab699b0ebec">abstract</A>)
+      (<A HREF="http://dx.doi.org/10.1103/PhysRevLett.131.178402">DOI&#58; 10.1103/PhysRevLett.131.178402</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37955473">PMID&#58; 37955473</A>)
 
   - authors: R. Kleinova, V. Rajendra, <U>A.F. Leuchtenberger</U>, C.L. Giudice, C. Vesely, U. Kapoor, A. Tanzer, S. Derdak, E. Picardi, and M.F Jantsch
     year: 2023
