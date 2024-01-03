@@ -26,16 +26,17 @@ publications:
 
 ########### accepted ###########
 
-  - authors: C. Schmidt, A. Deyett, T. Ilmer, <U>S. Haendeler</U>, A. Torres Caballero, M. Novatchkova, M.A. Netzer, L. Ceci Ginistrelli, E. Mancheno Juncosa, T. Bhattacharya, A. Mujadzic, L. Pimpale, S.M. Jahnel, M. Cirigliano, D. Reumann, K. Tavernini, N. Papai, S. Hering, P. Hofbauer, and S. Mendjan
-    year: in press
-    title: Multi-chamber cardioids unravel human heart development and cardiac defects.
-    journal: <EM>Cell</EM>, 186, 5587-5605.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1016/j.cell.2023.10.030">DOI&#58; 10.1016/j.cell.2023.10.030</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38029745">PMID&#58; 38029745</A>)
+  - authors: <U>A.F. Leuchtenberger</U> and <U>A. von Haeseler</U>
+    year: accepted
+    title: Learning from an Artificial Neural Network in Phylogenetics.
+    journal: <EM>IEEE/ACM Trans. Comput. Biol. Bioinform.</EM>, accepted.
+#    links: |
+#      (<A HREF="http://dx.doi.org/10.1093/nar/gkad265">DOI&#58; 10.1093/nar/gkad265</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/37026479">PMID&#58; 37026479</A>)
 
 
 ########### in press ###########
+
 
 ########### 2023 ###########
 
@@ -131,6 +132,14 @@ publications:
       (<A HREF="http://dx.doi.org/10.1186/s12859-022-05046-6">DOI&#58; 10.1186/s12859-022-05046-6</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/36670361">PMID&#58; 36670361</A>,
        <A HREF="https://github.com/lfpaulin/SVhound">software</A>)
+
+  - authors: C. Schmidt, A. Deyett, T. Ilmer, <U>S. Haendeler</U>, A. Torres Caballero, M. Novatchkova, M.A. Netzer, L. Ceci Ginistrelli, E. Mancheno Juncosa, T. Bhattacharya, A. Mujadzic, L. Pimpale, S.M. Jahnel, M. Cirigliano, D. Reumann, K. Tavernini, N. Papai, S. Hering, P. Hofbauer, and S. Mendjan
+    year: 2023
+    title: Multi-chamber cardioids unravel human heart development and cardiac defects.
+    journal: <EM>Cell</EM>, 186, 5587-5605.e27.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1016/j.cell.2023.10.030">DOI&#58; 10.1016/j.cell.2023.10.030</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38029745">PMID&#58; 38029745</A>)
 
   - authors: A. Togkousidis, <U>O. Chernomor</U>, and A. Stamatakis
     year: 2023
