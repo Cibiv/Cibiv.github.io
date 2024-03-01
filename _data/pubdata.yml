@@ -49,6 +49,13 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38308296">PMID&#58; 38308296</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC10836044">PMCID&#58; PMC10836044</A>)
 
+  - authors: <U>J. Naas</U>, G. Nies, H. Li, S. Stoldt, B. Schmitzer, S. Jakobs, and A. Munk
+    year: 2024
+    title: MultiMatch&#58; Geometry-Informed Colocalization in Multi-Color Super-Resolution Microscopy.
+    journal: <EM>bioRxiv</EM>, 2024.02.28.581557
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/2024.02.28.581557">DOI&#58; 10.1101/2024.02.28.581557</A>)
+
 
 ########### 2023 ###########
 
