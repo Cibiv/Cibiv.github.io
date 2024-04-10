@@ -26,16 +26,29 @@ publications:
 
 ########### accepted ###########
 
+  - authors: D. Lindenhofer<sup>e</sup>, <U>S. Haendeler</U><sup>e</sup>, C. Esk<sup>e</sup>, J.B. Littleboy<sup>e</sup>, C. Brunet Avalos, <U>J. Naas</U>, <U>F.G. Pflug</U>, E.G.P. van de Ven, D. Reumann, A.D. Baffet, <U>A. von Haeseler</U>, and J.A. Knoblich
+    year: accepted
+    title: Cerebral organoids display dynamic clonal growth and tunable tissue replenishment.
+    journal: <EM>Nat. Cell Biol.</EM>, accepted.
+#    links: |
+#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+      <BR><sup>e</sup>&nbsp;contributed equally
+
+  - authors: <U>F.G. Pflug</U>, <U>S. Haendeler</U>, C. Esk, D. Lindenhofer, J.A. Knoblich, and <U>A. von Haeseler</U>
+    year: accepted
+    title: Neutral competition explains the clonal composition of neural organoids.
+    journal: <EM>PLoS Comput. Biol.</EM>, accepted.
+#    links: |
+#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+
 
 ########### in press ###########
-
-  - authors: <U>A.F. Leuchtenberger</U> and <U>A. von Haeseler</U>
-    year: in press
-    title: Learning from an Artificial Neural Network in Phylogenetics.
-    journal: <EM>IEEE/ACM Trans. Comput. Biol. Bioinform.</EM>, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1109/TCBB.2024.3352268">DOI&#58; 10.1109/TCBB.2024.3352268</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38198267">PMID&#58; 38198267</A>)
 
 
 ########### 2024 ###########
@@ -48,6 +61,14 @@ publications:
       (<A HREF="http://dx.doi.org/10.1186/s12943-024-01943-x">DOI&#58; 10.1186/s12943-024-01943-x</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38308296">PMID&#58; 38308296</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC10836044">PMCID&#58; PMC10836044</A>)
+
+  - authors: <U>A.F. Leuchtenberger</U> and <U>A. von Haeseler</U>
+    year: 2024
+    title: Learning from an Artificial Neural Network in Phylogenetics.
+    journal: <EM>IEEE/ACM Trans. Comput. Biol. Bioinform.</EM>, 21, 278-288.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1109/TCBB.2024.3352268">DOI&#58; 10.1109/TCBB.2024.3352268</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38198267">PMID&#58; 38198267</A>)
 
   - authors: <U>J. Naas</U>, G. Nies, H. Li, S. Stoldt, B. Schmitzer, S. Jakobs, and A. Munk
     year: 2024
