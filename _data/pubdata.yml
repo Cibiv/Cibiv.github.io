@@ -51,6 +51,16 @@ publications:
 
 ########### in press ###########
 
+  - authors: N.S. H&auml;fker, <U>L. Holcik</U>, A.M. Mat, A. Ćoric, K. Vadiwala, I. Beets, A.W. Stockinger, C.E. Atria, S. Hammer, R. Revilla-i-Domingo, L. Schoofs, F. Raible, and K. Tessmar-Raible
+    year: in press
+    title: Molecular circadian rhythms are robust in marine annelids lacking rhythmic behavior.
+    journal: <EM>PLoS Biol.</EM>, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1371/journal.pbio.3002572">DOI&#58; 10.1371/journal.pbio.3002572</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38603542">PMID&#58; 38603542</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+
 
 ########### 2024 ###########
 
@@ -971,8 +981,8 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1016/j.jtbi.2016.07.042">DOI&#58; 10.1016/j.jtbi.2016.07.042</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/27480613">PMID&#58; 27480613</A>,
-      <A HREF="http://www.cibiv.at/software/iqtree/">software</A>,
-      <A HREF="http://dx.doi.org/10.1101/048496">bioRxiv-preprint-DOI:10.1101/048496</A>)
+      <A HREF="http://www.cibiv.at/software/iqtree/">software</A>)
+      # <A HREF="http://dx.doi.org/10.1101/048496">bioRxiv-preprint-DOI:10.1101/048496</A>)
 
   - authors: <U>J. Trifinopoulos</U>, <U>L.-T. Nguyen</U>, <U>A. von Haeseler</U>, and <U>B.Q. Minh</U>
     year: 2016
