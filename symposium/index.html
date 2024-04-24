@@ -6,119 +6,117 @@
     <title>Symposium Event</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <style>
         #map {
             height: 400px;  /* The height is 400 pixels */
-            width: 100%;  /* The width is the width of the web page */
+            width: 60%;  /* The width is the width of the web page */
         }
     </style>
 </head>
 <body>
     <header>
         <!-- Navigation Bar -->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-light">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">Symposium Logo</a>
+                <a class="navbar-brand" href="#">
+                	<img src="CIBIV-logo-2.png" alt="Symposium Logo" height="40"> <!-- Adjust height as needed -->
+            	</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Speakers</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Program</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Contact</a>
-                        </li>
-                    </ul>
+						<li class="nav-item">
+							<a class="nav-link active" aria-current="page" href="#home">Home</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#speakers">Speakers</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#program">Program</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#contact">Contact</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#location">Location</a>
+						</li>
+					</ul>
                 </div>
             </div>
         </nav>
 
-        <!-- Carousel -->
-        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-indicators">
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            </div>
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="https://via.placeholder.com/900x400" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="https://via.placeholder.com/900x400" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="https://via.placeholder.com/900x400" class="d-block w-100" alt="...">
-                </div>
-            </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
-        </div>
+        <!-- Banner -->
+        <div class="banner">
+			<img src="cibiv_banner.png" alt="CIBIV Banner" class="d-block w-100">
+		</div>
     </header>
 
     <div class="container my-5">
         <h1 class="mb-4">One-Day Symposium</h1>
         <!-- Registration Button -->
         <div class="mb-3">
-            <a href="registration-link.html" class="btn btn-primary">Register Now</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeGJtt5NR8InozfylznloHBO8QRv_gw1siEvi3K-TIWZmdXDg/viewform" class="btn btn-primary">Register Now</a>
         </div>
         <!-- Speakers List -->
-        <h2 class="mb-3">Speakers</h2>
+        <h2 id="speakers" class="mb-3">Speakers</h2>
         <ul class="list-group mb-4">
-            <li class="list-group-item">Dr. Alice Johnson - Keynote on Biotechnology</li>
-            <li class="list-group-item">Prof. Mark Lee - Panel Discussion on Machine Learning</li>
-            <li class="list-group-item">Dr. Susan Paul - Workshop on Cybersecurity</li>
+            <li class="list-group-item">Eva Musterfrau - Spaceholders and their use</li>
+            <li class="list-group-item">Max Mustermann - The importance of good examples</li>
         </ul>
         <!-- Speaker Program Link -->
         <div class="mb-3">
-            <a href="program-link.html" class="btn btn-outline-secondary">View Speaker Program</a>
+            <a href="program-link.html" class="btn btn-outline-secondary">Program will follow shortly</a>
         </div>
         <!-- Contact Information -->
-        <h2>Contact Information</h2>
-        <p>Email: info@symposium.org</p>
-        <p>Phone: (123) 456-7890</p>
+        <h2 id="contact" > Contact Information</h2>
+        <p>If you have any questions, feel free to contact Iris Gruber.</p>
+        <p>Email: iris.gruber@univie.ac.at</p>
+        <p>Phone: ++43 +1 / 4277 - 74320</p>
         <!-- Google Maps Embed -->
-        <h2>Location</h2>
+        <h2 id="location"> Location</h2>
+        <p>Oskar-Morgenstern-Platz 1, 1090 Wien</p>
         <div id="map"></div>
     </div>
 
     <footer class="text-center text-lg-start bg-light text-muted">
         <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-            © 2024 Symposium Event. All rights reserved.
+            © 2024 CIBIV. All rights reserved.
         </div>
     </footer>
 
     <!-- Bootstrap JS and Popper.js -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- Google Maps -->
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+    <!-- Initialize Leaflet Map -->
     <script>
-        function initMap() {
-            var symposiumLocation = { lat: -34.397, lng: 150.644 };  // Coordinates for the event location
-            var map = new google.maps.Map(document.getElementById('map'), {
-                zoom: 8,
-                center: symposiumLocation
-            });
-            var marker = new google.maps.Marker({
-                position: symposiumLocation,
-                map: map
-            });
-        }
+        var map = L.map('map').setView([48.21924422183951, 16.367305084157014], 13); // Coordinates of Vienna
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+
+        var marker = L.marker([48.21924422183951, 16.367305084157014]).addTo(map) // Coordinates of Oskar-Morgenstern-Platz 1
+            .bindPopup('Oskar-Morgenstern-Platz 1, 1090 Wien')
+            .openPopup();
     </script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
     </script>
+    
+    <script>
+		document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    		anchor.addEventListener('click', function (e) {
+        	e.preventDefault();
+        	document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        	});
+    	});
+	});
+</script>
 </body>
 </html>
