@@ -37,32 +37,21 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
-  - authors: <U>F.G. Pflug</U>, <U>S. Haendeler</U>, C. Esk, D. Lindenhofer, J.A. Knoblich, and <U>A. von Haeseler</U>
-    year: accepted
-    title: Neutral competition explains the clonal composition of neural organoids.
-    journal: <EM>PLoS Comput. Biol.</EM>, accepted.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/2021.10.06.463206">bioRxiv-preprint-DOI:10.1101/2021.10.06.463206</A>)
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-
 
 ########### in press ###########
 
+
+########### 2024 ###########
+
   - authors: N.S. H&auml;fker, <U>L. Holcik</U>, A.M. Mat, A. Ćoric, K. Vadiwala, I. Beets, A.W. Stockinger, C.E. Atria, S. Hammer, R. Revilla-i-Domingo, L. Schoofs, F. Raible, and K. Tessmar-Raible
-    year: in press
+    year: 2024
     title: Molecular circadian rhythms are robust in marine annelids lacking rhythmic behavior.
-    journal: <EM>PLoS Biol.</EM>, 22, e3002572, in press.
+    journal: <EM>PLoS Biol.</EM>, 22, e3002572.
     links: |
       (<A HREF="http://dx.doi.org/10.1371/journal.pbio.3002572">DOI&#58; 10.1371/journal.pbio.3002572</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38603542">PMID&#58; 38603542</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-
-
-########### 2024 ###########
 
   - authors: C. Hartwig, <U>J. Müller</U>, H. Klett, D. Kouhestani, A. Mittelst&auml;dt, A. Anthuber, P. David, M. Brunner, A. Jacobsen, K. Glanz, I. Swierzy, L. Ro&szlig;deutsch, B. Kl&ouml;sch, R. Gr&uuml;tzmann, T. Wittenberger, K. Sohn, and G.F. Weber
     year: 2024
@@ -87,6 +76,15 @@ publications:
     journal: <EM>bioRxiv</EM>, 2024.02.28.581557
     links: |
       (<A HREF="http://dx.doi.org/10.1101/2024.02.28.581557">DOI&#58; 10.1101/2024.02.28.581557</A>)
+
+  - authors: <U>F.G. Pflug</U>, <U>S. Haendeler</U>, C. Esk, D. Lindenhofer, J.A. Knoblich, and <U>A. von Haeseler</U>
+    year: 2024
+    title: Neutral competition explains the clonal composition of neural organoids.
+    journal: <EM>PLoS Comput. Biol.</EM>, 20, e1012054.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1371/journal.pcbi.1012054">DOI&#58; 10.1371/journal.pcbi.1012054</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38648250">PMID&#58; 38648250</A>)
+#      (<A HREF="http://dx.doi.org/10.1101/2021.10.06.463206">bioRxiv-preprint-DOI:10.1101/2021.10.06.463206</A>)
 
 
 ########### 2023 ###########
