@@ -29,13 +29,13 @@ publications:
   - authors: D. Lindenhofer<sup>e</sup>, <U>S. Haendeler</U><sup>e</sup>, C. Esk<sup>e</sup>, J.B. Littleboy<sup>e</sup>, C. Brunet Avalos, <U>J. Naas</U>, <U>F.G. Pflug</U>, E.G.P. van de Ven, D. Reumann, A.D. Baffet, <U>A. von Haeseler</U>, and J.A. Knoblich
     year: accepted
     title: Cerebral organoids display dynamic clonal growth and tunable tissue replenishment.
-    journal: <EM>Nat. Cell Biol.</EM>, accepted.
-      <BR><sup>e</sup>&nbsp;contributed equally
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
+    journal: <EM>Nat. Cell Biol.</EM>, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41556-024-01412-z">DOI&#58; 10.1038/s41556-024-01412-z</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+      <BR><sup>e</sup>&nbsp;contributed equally
 
 
 ########### in press ###########
