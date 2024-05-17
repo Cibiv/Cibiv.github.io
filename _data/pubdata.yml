@@ -29,15 +29,6 @@ publications:
 
 ########### in press ###########
 
-  - authors: D. Lindenhofer<sup>e</sup>, <U>S. Haendeler</U><sup>e</sup>, C. Esk<sup>e</sup>, J.B. Littleboy<sup>e</sup>, C. Brunet Avalos, <U>J. Naas</U>, <U>F.G. Pflug</U>, E.G.P. van de Ven, D. Reumann, A.D. Baffet, <U>A. von Haeseler</U>, and J.A. Knoblich
-    year: in press
-    title: Cerebral organoids display dynamic clonal growth and tunable tissue replenishment.
-    journal: <EM>Nat. Cell Biol.</EM>, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1038/s41556-024-01412-z">DOI&#58; 10.1038/s41556-024-01412-z</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38714853">PMID&#58; 38714853</A>)
-      <BR><sup>e</sup>&nbsp;contributed equally
-
   - authors: M. Sonntag<sup>e</sup>, V.K. Elgeti<sup>e</sup>, Y. Vainshtein, L, Jenner, <U>J. Müller</U>, T. Brenner, S.O. Decker, and K. Sohn
     year: in press
     title: Suppression PCR-Based Selective Enrichment Sequencing for Pathogen and Antimicrobial Resistance Detection on Cell-Free DNA in Sepsis — A Targeted, Blood Culture-Independent Approach for Rapid Pathogen and Resistance Diagnostics in Septic Patients.
@@ -75,6 +66,15 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1109/TCBB.2024.3352268">DOI&#58; 10.1109/TCBB.2024.3352268</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38198267">PMID&#58; 38198267</A>)
+
+  - authors: D. Lindenhofer<sup>e</sup>, <U>S. Haendeler</U><sup>e</sup>, C. Esk<sup>e</sup>, J.B. Littleboy<sup>e</sup>, C. Brunet Avalos, <U>J. Naas</U>, <U>F.G. Pflug</U>, E.G.P. van de Ven, D. Reumann, A.D. Baffet, <U>A. von Haeseler</U>, and J.A. Knoblich
+    year: 2024
+    title: Cerebral organoids display dynamic clonal growth and tunable tissue replenishment.
+    journal: <EM>Nat. Cell Biol.</EM>, 26, 710-718.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41556-024-01412-z">DOI&#58; 10.1038/s41556-024-01412-z</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38714853">PMID&#58; 38714853</A>)
+      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: <U>J. Naas</U>, G. Nies, H. Li, S. Stoldt, B. Schmitzer, S. Jakobs, and A. Munk
     year: 2024
