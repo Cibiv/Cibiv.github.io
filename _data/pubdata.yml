@@ -37,14 +37,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1002/eji.202350946">DOI&#58; 10.1002/eji.202350946</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38763899">PMID&#58; 38763899</A>)
 
-  - authors: M. Sonntag<sup>e</sup>, V.K. Elgeti<sup>e</sup>, Y. Vainshtein, L, Jenner, <U>J. Müller</U>, T. Brenner, S.O. Decker, and K. Sohn
-    year: in press
-    title: Suppression PCR-Based Selective Enrichment Sequencing for Pathogen and Antimicrobial Resistance Detection on Cell-Free DNA in Sepsis — A Targeted, Blood Culture-Independent Approach for Rapid Pathogen and Resistance Diagnostics in Septic Patients.
-    journal: <EM>Int. J. Mol. Sci.</EM>, 25, 5463, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.3390/ijms25105463">DOI&#58; 10.3390/ijms25105463</A>)
-      <BR><sup>e</sup>&nbsp;contributed equally
-
 
 ########### 2024 ###########
 
@@ -99,6 +91,15 @@ publications:
       (<A HREF="http://dx.doi.org/10.1371/journal.pcbi.1012054">DOI&#58; 10.1371/journal.pcbi.1012054</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38648250">PMID&#58; 38648250</A>)
 #      (<A HREF="http://dx.doi.org/10.1101/2021.10.06.463206">bioRxiv-preprint-DOI:10.1101/2021.10.06.463206</A>)
+
+  - authors: M. Sonntag<sup>e</sup>, V.K. Elgeti<sup>e</sup>, Y. Vainshtein, L, Jenner, <U>J. Müller</U>, T. Brenner, S.O. Decker, and K. Sohn
+    year: 2024
+    title: Suppression PCR-Based Selective Enrichment Sequencing for Pathogen and Antimicrobial Resistance Detection on Cell-Free DNA in Sepsis — A Targeted, Blood Culture-Independent Approach for Rapid Pathogen and Resistance Diagnostics in Septic Patients.
+    journal: <EM>Int. J. Mol. Sci.</EM>, 25, 5463.
+    links: |
+      (<A HREF="http://dx.doi.org/10.3390/ijms25105463">DOI&#58; 10.3390/ijms25105463</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38791501">PMID&#58; 38791501</A>)
+      <BR><sup>e</sup>&nbsp;contributed equally
 
 
 ########### 2023 ###########
