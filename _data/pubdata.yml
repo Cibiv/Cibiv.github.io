@@ -43,7 +43,7 @@ publications:
   - authors: <U>M. Fahrenberger</U>, C. Esk, and <U>A. von Haeseler</U>
     year: 2024
     title: GTestimate&#58; Improving relative gene expression estimation in scRNA-seq using the Good-Turing estimator.
-    journal: <EM>bioRxiv</EM>, 10.1101/2024.07.02.601501 
+    journal: <EM>bioRxiv</EM>, 2024.07.02.601501 
     links: |
       (<A HREF="http://dx.doi.org/10.1101/2024.07.02.601501">DOI&#58; 10.1101/2024.07.02.601501</A>)
 
