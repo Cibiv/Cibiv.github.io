@@ -6,7 +6,7 @@ layout: personalpage
 title: Alina Leuchtenberger
 
 # CHANGE: either Head, Postdoc, PhD student, Student, Guest researcher, System administrator, or Secretery
-position: PhD student
+position: Postdoc
 
 # image that will appear in the people page
 image: /assets/img/people/new_pics/alina_1.png
@@ -50,7 +50,8 @@ address: |
 ### Professional Experience
 <div class="hline"></div>
 
-* __Jan 2019 - present__: PhD Student at the Center for Integrative Bioinformatics Vienna (CIBIV)
+* __July 2024 - present__: Postdoc at the Center for Integrative Bioinformatics Vienna (CIBIV)
+* __Jan 2019 - June 2024 : PhD Student at the Center for Integrative Bioinformatics Vienna (CIBIV)
 
 
 
