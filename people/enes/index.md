@@ -29,6 +29,14 @@ address: |
   Dr. Bohr Gasse 9<br>
   A-1030 Wien, Austria<br>
   
+publications:
+  - authors: R. Kawahara, A. Chernykh, K. Alagesan, M. Bern, W. Cao, R.J. Chalkley, K. Cheng, M.S. Choo, N. Edwards, R. Goldman, M. Hoffmann, Y. Hu, Y. Huang, J.Y. Kim, D. Kletter, B. Liquet, M. Liu, Y. Mechref, B. Meng, S. Neelamegham, T. Nguyen-Khuong, J. Nilsson, A. Pap, G.W. Park, B.L. Parker, C.L. Pegg, J.M. Penninger, T.K. Phung, M. Pioch, E. Rapp, <u>E. Sakalli</u>, M. Sanda, B.L. Schulz, N.E. Scott, G. Sofronov, J. Stadlmann, S.Y. Vakhrushev, C.M. Woo, H.-Y. Wu, P. Yang, W. Ying, H. Zhang, Y. Zhang, J. Zhao, J. Zaia, S.M. Haslam, G. Palmisano, J.S. Yoo, G. Larson, K.-H. Khoo, K.F. Medzihradszky, D. Kolarich, N.H. Packer, and M. Thaysen-Andersen
+    year: 2021
+    title: "Community evaluation of glycoproteomics informatics solutions reveals high-performance search strategies for serum glycopeptide analysis."
+    journal: Nat. Methods, 18, 1304-1316. 
+    links: |
+      (<A HREF="http://dx.doi.org/10.1128/10.1038/s41592-021-01309-x">DOI&#58; 10.1038/s41592-021-01309-x</A>)
+
   
 # CHANGE: everything below
 ---
@@ -49,13 +57,5 @@ address: |
 
 * __May 2023 - present__: Ph.D. student, Center for Integrative Bioinformatics Vienna (CIBIV), University of Vienna, Austria
 
-
-publications:
-  - authors: R. Kawahara, A. Chernykh, K. Alagesan, M. Bern, W. Cao, R.J. Chalkley, K. Cheng, M.S. Choo, N. Edwards, R. Goldman, M. Hoffmann, Y. Hu, Y. Huang, J.Y. Kim, D. Kletter, B. Liquet, M. Liu, Y. Mechref, B. Meng, S. Neelamegham, T. Nguyen-Khuong, J. Nilsson, A. Pap, G.W. Park, B.L. Parker, C.L. Pegg, J.M. Penninger, T.K. Phung, M. Pioch, E. Rapp, <u>E. Sakalli</u>, M. Sanda, B.L. Schulz, N.E. Scott, G. Sofronov, J. Stadlmann, S.Y. Vakhrushev, C.M. Woo, H.-Y. Wu, P. Yang, W. Ying, H. Zhang, Y. Zhang, J. Zhao, J. Zaia, S.M. Haslam, G. Palmisano, J.S. Yoo, G. Larson, K.-H. Khoo, K.F. Medzihradszky, D. Kolarich, N.H. Packer, and M. Thaysen-Andersen
-    year: 2021
-    title: "Community evaluation of glycoproteomics informatics solutions reveals high-performance search strategies for serum glycopeptide analysis."
-    journal: Nat. Methods, 18, 1304-1316. 
-    links: |
-      (<A HREF="http://dx.doi.org/10.1128/10.1038/s41592-021-01309-x">DOI&#58; 10.1038/s41592-021-01309-x</A>)
 
 
