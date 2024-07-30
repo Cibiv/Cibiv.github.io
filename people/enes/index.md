@@ -3,7 +3,7 @@
 layout: personalpage
 
 # CHANGE: name, also appears as title of the personal page
-title: Enes Berk Sakalli
+title: Enes Sakalli
 
 # CHANGE: either Head, Postdoc, PhD student, Student, or Guest researcher
 position: PhD student
@@ -13,7 +13,7 @@ image: /assets/img/people/new_pics/enes_1.png
 image2: /assets/img/people/new_pics/enes_2.png
 
 # CHANGE: name appeared in publications, used to display personal publications
-pubname: E. Berk Sakalli
+pubname: E. Sakalli
 
 # true to categorize publications into years
 pubyear: true
@@ -35,17 +35,16 @@ address: |
 ### Research interests
 <div class="hline"></div>
 
-* Single-cell Sequencing
-* Microscope Image Processing
+* Phylogeny
 
 ### Education
 <div class="hline"></div>
 
-* __Oct 2018 - Jan 2021__: M.Sc. in Mathematics, University of Göttingen, Germany
-* __Oct 2015 - Oct 2018__: B.Sc. in Mathematics, University of Göttingen, Germany
+* M.Sc. in Bioinformatics, University of Vienna, Austria
+* B.Sc. in Bioinformatics, University of Applied Sciences Hagenberg, Austria
 
 
 ### Professional Experience
 <div class="hline"></div>
 
-* __Feb 2021 - present__: Ph.D. student, Center for Integrative Bioinformatics Vienna (CIBIV), University of Vienna, Austria
+* __May 2023 - present__: Ph.D. student, Center for Integrative Bioinformatics Vienna (CIBIV), University of Vienna, Austria
