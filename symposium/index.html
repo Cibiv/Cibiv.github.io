@@ -116,7 +116,7 @@
 
     <!-- Initialize Leaflet Map -->
     <script>
-        var map = L.map('map').setView([48.19048723451089, 16.401954711341507], 13); // Coordinates of Vienna
+        var map = L.map('map').setView([48.19048723451089, 16.401954711341507], 14); // Coordinates of Vienna
 
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
@@ -126,6 +126,7 @@
             .bindPopup('Heurigen Restaurant zur alten Weinpresse, Landstraßer Hauptstraße 126, 1030 Wien')
         var marker2 = L.marker([48.19048723451089, 16.401954711341507]).addTo(map) // Coordinates of Oskar-Morgenstern-Platz 1
             .bindPopup('University of Vienna Biology Building (UBB), Djerassipl. 1, 1030 Wien')
+            .openPopup()
 
     </script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
