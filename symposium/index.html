@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Symposium Event</title>
+    <link rel="icon" href="cibiv-icon.png" type="image/png">
+    <title>Symposium</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Leaflet CSS -->
@@ -55,29 +56,50 @@
     </header>
 
     <div class="container my-5">
-        <h1 class="mb-4">One-Day Symposium</h1>
+        <h1 class="mb-4">Symposium - "A good tree bears good fruit"</h1>
         <!-- Registration Button -->
         <div class="mb-3">
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeGJtt5NR8InozfylznloHBO8QRv_gw1siEvi3K-TIWZmdXDg/viewform" class="btn btn-primary">Register Now</a>
         </div>
         <!-- Speakers List -->
+<!--
         <h2 id="speakers" class="mb-3">Speakers</h2>
         <ul class="list-group mb-4">
             <li class="list-group-item">Eva Musterfrau - Spaceholders and their use</li>
             <li class="list-group-item">Max Mustermann - The importance of good examples</li>
         </ul>
+-->
+
+		<h2 id="speakers" class="mb-3">Speakers</h2>
+		<ul class="list-group mb-4">
+            <li class="list-group-item"> To be announced </li>
+        </ul>
+		
         <!-- Speaker Program Link -->
-        <div class="mb-3">
-            <a href="program-link.html" class="btn btn-outline-secondary">Program will follow shortly</a>
-        </div>
+        <h2 id="program" class="mb-3">Program</h2>
+        <ul class="list-group mb-4">
+            <li class="list-group-item">
+                <b>Day 1 (Hörsaal 3)</b>
+                <ul class="list-group">
+                    <li class="list-group-item">TBA</li>
+                    <li class="list-group-item">19:00, Conference-Dinner, <a href="https://www.heuriger-zur-alten-weinpresse.at/">bei der Weinpresse</a></li>
+                </ul>
+            </li>
+            <li class="list-group-item">
+                <b>Day 2 (Hörsaal 1)</b>
+                <ul class="list-group">
+                    <li class="list-group-item">TBA</li>
+                </ul>
+            </li>
+        </ul>
         <!-- Contact Information -->
         <h2 id="contact" > Contact Information</h2>
-        <p>If you have any questions, feel free to contact Iris Gruber.</p>
-        <p>Email: iris.gruber@univie.ac.at</p>
-        <p>Phone: ++43 +1 / 4277 - 74320</p>
+        <p>If you have any questions, feel free to contact us:</p>
+        <p>Email: avh.symposium@gmail.com</p>
+        <p>Iris Gruber: ++43 +1 / 4277 - 74320</p>
         <!-- Google Maps Embed -->
         <h2 id="location"> Location</h2>
-        <p>Oskar-Morgenstern-Platz 1, 1090 Wien</p>
+        <p>University of Vienna Biology Building (UBB)</p>
         <div id="map"></div>
     </div>
 
@@ -94,15 +116,15 @@
 
     <!-- Initialize Leaflet Map -->
     <script>
-        var map = L.map('map').setView([48.21924422183951, 16.367305084157014], 13); // Coordinates of Vienna
+        var map = L.map('map').setView([48.19048723451089, 16.401954711341507], 13); // Coordinates of Vienna
 
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
             attribution: '© OpenStreetMap contributors'
         }).addTo(map);
 
-        var marker = L.marker([48.21924422183951, 16.367305084157014]).addTo(map) // Coordinates of Oskar-Morgenstern-Platz 1
-            .bindPopup('Oskar-Morgenstern-Platz 1, 1090 Wien')
+        var marker = L.marker([48.19048723451089, 16.401954711341507]).addTo(map) // Coordinates of Oskar-Morgenstern-Platz 1
+            .bindPopup('University of Vienna Biology Building (UBB), Djerassipl. 1, 1030 Wien')
             .openPopup();
     </script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
