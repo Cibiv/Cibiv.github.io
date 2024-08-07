@@ -82,7 +82,7 @@
                 <b>Day 1 (Hörsaal 3)</b>
                 <ul class="list-group">
                     <li class="list-group-item">TBA</li>
-                    <li class="list-group-item">19:00, Conference-Dinner, <a href="https://www.heuriger-zur-alten-weinpresse.at/">bei der Weinpresse</a></li>
+                    <li class="list-group-item">19:00, Conference-Dinner, <a href="https://www.heuriger-zur-alten-weinpresse.at/">Heuriger zur alten Weinpresse</a></li>
                 </ul>
             </li>
             <li class="list-group-item">
@@ -122,10 +122,11 @@
             maxZoom: 19,
             attribution: '© OpenStreetMap contributors'
         }).addTo(map);
-
-        var marker = L.marker([48.19048723451089, 16.401954711341507]).addTo(map) // Coordinates of Oskar-Morgenstern-Platz 1
+        var marker1 = L.marker([48.19595593779885, 16.39589117772693]).addTo(map) // Coordinates of Oskar-Morgenstern-Platz 1
+            .bindPopup('Heurigen Restaurant zur alten Weinpresse, Landstraßer Hauptstraße 126, 1030 Wien')
+        var marker2 = L.marker([48.19048723451089, 16.401954711341507]).addTo(map) // Coordinates of Oskar-Morgenstern-Platz 1
             .bindPopup('University of Vienna Biology Building (UBB), Djerassipl. 1, 1030 Wien')
-            .openPopup();
+
     </script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
     </script>
