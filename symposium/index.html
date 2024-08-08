@@ -14,6 +14,41 @@
             height: 400px;  /* The height is 400 pixels */
             width: 60%;  /* The width is the width of the web page */
         }
+		table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+            text-align: left;
+        }
+        .list-group-item > b {
+            background-color: #e0e0e0;
+            display: inline-block;
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+        }
+        .list-group-item ul .list-group-item > b {
+            background-color: #e0e0e0;
+            display: inline-block;
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+        }
+        .btn-link {
+            color: black;
+            text-decoration: none;
+        }
+        .btn-link:hover {
+            color: black;
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -62,36 +97,133 @@
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeGJtt5NR8InozfylznloHBO8QRv_gw1siEvi3K-TIWZmdXDg/viewform" class="btn btn-primary">Register Now</a>
         </div>
         <!-- Speakers List -->
-<!--
-        <h2 id="speakers" class="mb-3">Speakers</h2>
-        <ul class="list-group mb-4">
-            <li class="list-group-item">Eva Musterfrau - Spaceholders and their use</li>
-            <li class="list-group-item">Max Mustermann - The importance of good examples</li>
-        </ul>
--->
+    <h2 id="speakers" class="mb-3">Speakers</h2>
+    <div class="card">
+        <div class="card-header" id="headingSpeakers">
+            <h2 class="mb-0">
+                <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseSpeakers" aria-expanded="true" aria-controls="collapseSpeakers">
+                    <i class="fas fa-chevron-down"></i> Toggle Speakers List
+                </button>
+            </h2>
+        </div>
+        <div id="collapseSpeakers" class="collapse" aria-labelledby="headingSpeakers">
+            <div class="card-body">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Affiliation</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Ingo Ebersberger</td>
+                            <td>Goethe University Frankfurt</td>
+                        </tr>
+                        <tr>
+                            <td>Jörg Menche</td>
+                            <td>University of Vienna</td>
+                        </tr>
+                        <tr>
+                            <td>Ellen Baake</td>
+                            <td>University of Bielefeld</td>
+                        </tr>
+                        <tr>
+                            <td>Minh Bui</td>
+                            <td>Australian National University</td>
+                        </tr>
+                        <tr>
+                            <td>Dirk Metzler</td>
+                            <td>Ludwig Maximilian University of Munich</td>
+                        </tr>
+                        <tr>
+                            <td>Philip Stevens</td>
+                            <td>Noscendo GmbH</td>
+                        </tr>
+                        <tr>
+                            <td>Nick Goldman</td>
+                            <td>EMBL-European Bioinformatics Institute</td>
+                        </tr>
+                        <tr>
+                            <td>Sebastian Zoellner</td>
+                            <td>University of Michigan</td>
+                        </tr>
+                        <tr>
+                            <td>Heiko Schmidt</td>
+                            <td>CIBIV</td>
+                        </tr>
+                        <tr>
+                            <td>Lars Jermiin</td>
+                            <td>University of Galway</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
 
-		<h2 id="speakers" class="mb-3">Speakers</h2>
-		<ul class="list-group mb-4">
-            <li class="list-group-item"> To be announced </li>
-        </ul>
-		
-        <!-- Speaker Program Link -->
-        <h2 id="program" class="mb-3">Program</h2>
-        <ul class="list-group mb-4">
-            <li class="list-group-item">
-                <b>Day 1 (Hörsaal 3)</b>
-                <ul class="list-group">
-                    <li class="list-group-item">TBA</li>
-                    <li class="list-group-item">19:00, Conference-Dinner, <a href="https://www.heuriger-zur-alten-weinpresse.at/">Heuriger zur alten Weinpresse</a></li>
-                </ul>
-            </li>
-            <li class="list-group-item">
-                <b>Day 2 (Hörsaal 1)</b>
-                <ul class="list-group">
-                    <li class="list-group-item">TBA</li>
-                </ul>
-            </li>
-        </ul>
+    <!-- Program -->
+
+    <h2 id="program" class="mb-3">Program</h2>
+    <div class="accordion" id="programAccordion">
+        <div class="card">
+            <div class="card-header" id="headingDay1">
+                <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseDay1" aria-expanded="true" aria-controls="collapseDay1">
+                        <i class="fas fa-chevron-down"></i> Day 1 (Hörsaal 3)
+                    </button>
+                </h2>
+            </div>
+            <div id="collapseDay1" class="collapse" aria-labelledby="headingDay1" data-parent="#programAccordion">
+                <div class="card-body">
+                    <ul class="list-group">
+                        <li class="list-group-item"><b>09:00 - 09:30 - Registration & Coffee</b></li>
+                        <li class="list-group-item"><b>09:30 - 09:45 - Welcome</b></li>
+                        <li class="list-group-item">09:45 - 10:15 - Talk 1</li>
+                        <li class="list-group-item">10:20 - 10:50 - Talk 2</li>
+                        <li class="list-group-item"><b>10:55 - 11:10 - Coffee & Poster Break</b></li>
+                        <li class="list-group-item">11:10 - 11:40 - Talk 3</li>
+                        <li class="list-group-item">11:45 - 12:15 - Talk 4</li>
+                        <li class="list-group-item"><b>12:15 - 13:45 - Lunch at UBB</b></li>
+                        <li class="list-group-item">13:45 - 14:15 - Talk 5</li>
+                        <li class="list-group-item">14:20 - 14:50 - Talk 6</li>
+                        <li class="list-group-item"><b>14:55 - 15:25 - Coffee & Poster Break</b></li>
+                        <li class="list-group-item">15:30 - 16:00 - Talk 7</li>
+                        <li class="list-group-item">16:05 - 16:35 - Talk 8</li>
+                        <li class="list-group-item">16:40 - 17:00 - Surprise</li>
+                        <li class="list-group-item"><b>19:00 - Conference Dinner: Heuriger zur alten Weinpresse</b></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header" id="headingDay2">
+                <h2 class="mb-0">
+                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseDay2" aria-expanded="false" aria-controls="collapseDay2">
+                        <i class="fas fa-chevron-down"></i> Day 2 (Hörsaal 1)
+                    </button>
+                </h2>
+            </div>
+            <div id="collapseDay2" class="collapse" aria-labelledby="headingDay2" data-parent="#programAccordion">
+                <div class="card-body">
+                    <ul class="list-group">
+                        <li class="list-group-item"><b>09:30 - 10:00 - Coffee</b></li>
+                        <li class="list-group-item">10:00 - 10:30 - Talk 9</li>
+                        <li class="list-group-item">10:35 - 11:05 - Talk 10</li>
+                        <li class="list-group-item"><b>11:10 - 11:25 - Coffee & Poster Break</b></li>
+                        <li class="list-group-item">10:25 - 10:55 - Talk 11</li>
+                        <li class="list-group-item">11:00 - 11:30 - Talk 12</li>
+                        <li class="list-group-item">11:35 - 12:05 - Poster Presentation</li>
+                        <li class="list-group-item"><b>12:10 - 12:30 - Goodbye</b></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
         <!-- Contact Information -->
         <h2 id="contact" > Contact Information</h2>
         <p>If you have any questions, feel free to contact us:</p>
