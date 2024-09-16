@@ -39,7 +39,7 @@ publications:
 
   - authors: <U>J. Naas</U>, G. Nies, H. Li, S. Stoldt, B. Schmitzer, S. Jakobs, and A. Munk
     year: in press
-    title: MultiMatch: Geometry-Informed Colocalization in Multi-Color Super-Resolution Microscopy. 
+    title: MultiMatch&#58; Geometry-Informed Colocalization in Multi-Color Super-Resolution Microscopy. 
     journal: <EM>Commun. Biol.</EM>, 7, 1139.
     links: |
       (<A HREF="http://dx.doi.org/10.1038/s42003-024-06772-8">DOI&#58; 10.1038/s42003-024-06772-8</A>,
