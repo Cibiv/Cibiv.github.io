@@ -29,25 +29,17 @@ publications:
 
 ########### in press ###########
 
-  - authors: V. Beneke, K.M. Grieger, C. Hartwig, <U>J. Müller</U>, K. Sohn, A.-R. Blaudszun, N. Hilger, D. Schaudien, S. Fricke, A. Braun, K. Sewald, and C. Hesse
-    year: in press
-    title: Homeostatic T helper 17 cell responses triggered by complex microbiota are maintained in ex vivo intestinal tissue slices.
-    journal: <EM>Eur. J. Immunol.</EM>, 54, e2350946, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1002/eji.202350946">DOI&#58; 10.1002/eji.202350946</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38763899">PMID&#58; 38763899</A>)
-
-  - authors: <U>J. Naas</U>, G. Nies, H. Li, S. Stoldt, B. Schmitzer, S. Jakobs, and A. Munk
-    year: in press
-    title: MultiMatch&#58; Geometry-Informed Colocalization in Multi-Color Super-Resolution Microscopy. 
-    journal: <EM>Commun. Biol.</EM>, 7, 1139.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1038/s42003-024-06772-8">DOI&#58; 10.1038/s42003-024-06772-8</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/39271907">PMID&#58; 39271907</A>)
-
 
 
 ########### 2024 ###########
+
+  - authors: V. Beneke, K.M. Grieger, C. Hartwig, <U>J. Müller</U>, K. Sohn, A.-R. Blaudszun, N. Hilger, D. Schaudien, S. Fricke, A. Braun, K. Sewald, and C. Hesse
+    year: 2024
+    title: Homeostatic T helper 17 cell responses triggered by complex microbiota are maintained in ex vivo intestinal tissue slices.
+    journal: <EM>Eur. J. Immunol.</EM>, 54, e2350946.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1002/eji.202350946">DOI&#58; 10.1002/eji.202350946</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38763899">PMID&#58; 38763899</A>)
 
   - authors: <U>M. Fahrenberger</U>, C. Esk, and <U>A. von Haeseler</U>
     year: 2024
@@ -94,10 +86,18 @@ publications:
 
   - authors: <U>J. Naas</U>, G. Nies, H. Li, S. Stoldt, B. Schmitzer, S. Jakobs, and A. Munk
     year: 2024
-    title: MultiMatch&#58; Geometry-Informed Colocalization in Multi-Color Super-Resolution Microscopy.
-    journal: <EM>bioRxiv</EM>, 2024.02.28.581557
+    title: MultiMatch&#58; Geometry-Informed Colocalization in Multi-Color Super-Resolution Microscopy. 
+    journal: <EM>Commun. Biol.</EM>, 7, 1139.
     links: |
-      (<A HREF="http://dx.doi.org/10.1101/2024.02.28.581557">DOI&#58; 10.1101/2024.02.28.581557</A>)
+      (<A HREF="http://dx.doi.org/10.1038/s42003-024-06772-8">DOI&#58; 10.1038/s42003-024-06772-8</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/39271907">PMID&#58; 39271907</A>)
+
+#  - authors: <U>J. Naas</U>, G. Nies, H. Li, S. Stoldt, B. Schmitzer, S. Jakobs, and A. Munk
+#    year: 2024
+#    title: MultiMatch&#58; Geometry-Informed Colocalization in Multi-Color Super-Resolution Microscopy.
+#    journal: <EM>bioRxiv</EM>, 2024.02.28.581557
+#    links: |
+#      (<A HREF="http://dx.doi.org/10.1101/2024.02.28.581557">DOI&#58; 10.1101/2024.02.28.581557</A>)
 
   - authors: <U>F.G. Pflug</U>, <U>S. Haendeler</U>, C. Esk, D. Lindenhofer, J.A. Knoblich, and <U>A. von Haeseler</U>
     year: 2024
