@@ -37,14 +37,6 @@ publications:
       (<A HREF="http://dx.doi.org/10.1101/gr.279326.124">DOI&#58; 10.1101/gr.279326.124</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/39271293">PMID&#58; 39271293</A>)
 
-  - authors: N. Popitsch, T. Neumann, <U>A. von Haeseler</U>, and S.L. Ameres
-    year: in press
-    title: Splice_sim&#58; a nucleotide conversion-enabled RNA-seq simulation and evaluation framework.
-    journal: <EM>Genome Biol.</EM>, 25, 166.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1186/s13059-024-03313-8">DOI&#58; 10.1186/s13059-024-03313-8</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38918865">PMID&#58; 38918865</A>)
-
 
 ########### 2024 ###########
 
@@ -122,6 +114,14 @@ publications:
       (<A HREF="http://dx.doi.org/10.1371/journal.pcbi.1012054">DOI&#58; 10.1371/journal.pcbi.1012054</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38648250">PMID&#58; 38648250</A>)
 #      (<A HREF="http://dx.doi.org/10.1101/2021.10.06.463206">bioRxiv-preprint-DOI:10.1101/2021.10.06.463206</A>)
+
+  - authors: N. Popitsch, T. Neumann, <U>A. von Haeseler</U>, and S.L. Ameres
+    year: 2024
+    title: Splice_sim&#58; a nucleotide conversion-enabled RNA-seq simulation and evaluation framework.
+    journal: <EM>Genome Biol.</EM>, 25, 166.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1186/s13059-024-03313-8">DOI&#58; 10.1186/s13059-024-03313-8</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38918865">PMID&#58; 38918865</A>)
 
   - authors: M. Sonntag<sup>e</sup>, V.K. Elgeti<sup>e</sup>, Y. Vainshtein, L, Jenner, <U>J. Müller</U>, T. Brenner, S.O. Decker, and K. Sohn
     year: 2024
