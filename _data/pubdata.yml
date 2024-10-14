@@ -74,6 +74,13 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38308296">PMID&#58; 38308296</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC10836044">PMCID&#58; PMC10836044</A>)
 
+  - authors: <U>L. Holcik</U>, <U>A. von Haeseler</U>, and <U>F.G. Pflug</U>
+    year: 2024
+    title: GuaCAMOLE&#58; GC-bias aware estimation improves the accuracy of metagenomic species abundances.
+    journal: <EM>bioRxiv</EM>, 2024.09.20.614100
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/2024.09.20.614100">DOI&#58; 10.1101/2024.09.20.614100</A>)
+
   - authors: <U>A.F. Leuchtenberger</U> and <U>A. von Haeseler</U>
     year: 2024
     title: Learning from an Artificial Neural Network in Phylogenetics.
