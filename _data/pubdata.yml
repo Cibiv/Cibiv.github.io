@@ -39,20 +39,6 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
-  - authors: <U>O. Chernomor</U>, <U>C. Elgert</U>, and <U>A. von Haeseler</U>
-    year: 2023
-    journal: <EM>bioRxiv</EM>, 2022.03.11.483643
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/2023.01.19.524678">DOI&#58; 10.1101/2023.01.19.524678</A>)
-
-  - authors: <U>J. Müller</U>, C. Hartwig, M. Sonntag, L. Bitzer, C. Adelmann, Y. Vainshtein, K. Glanz, S.O. Decker, T. Brenner, G.F. Weber, <U>A. von Haeseler</U>, and K. Sohn
-    year: in press
-    title: A novel approach for in vivo DNA footprinting using short double-stranded cell-free DNA from plasma.
-    journal: <EM>Genome Res.</EM>, 34, 1185-1195.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/gr.279326.124">DOI&#58; 10.1101/gr.279326.124</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/39271293">PMID&#58; 39271293</A>)
-
 
 ########### 2024 ###########
 
@@ -113,6 +99,14 @@ publications:
       (<A HREF="http://dx.doi.org/10.1038/s41556-024-01412-z">DOI&#58; 10.1038/s41556-024-01412-z</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38714853">PMID&#58; 38714853</A>)
       <BR><sup>e</sup>&nbsp;contributed equally
+
+  - authors: <U>J. Müller</U>, C. Hartwig, M. Sonntag, L. Bitzer, C. Adelmann, Y. Vainshtein, K. Glanz, S.O. Decker, T. Brenner, G.F. Weber, <U>A. von Haeseler</U>, and K. Sohn
+    year: 2024
+    title: A novel approach for in vivo DNA footprinting using short double-stranded cell-free DNA from plasma.
+    journal: <EM>Genome Res.</EM>, 34, 1185-1195.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/gr.279326.124">DOI&#58; 10.1101/gr.279326.124</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/39271293">PMID&#58; 39271293</A>)
 
   - authors: <U>J. Naas</U>, G. Nies, H. Li, S. Stoldt, B. Schmitzer, S. Jakobs, and A. Munk
     year: 2024
