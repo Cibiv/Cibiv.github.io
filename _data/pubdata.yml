@@ -117,6 +117,7 @@ publications:
       (<A HREF="http://dx.doi.org/10.1038/s42003-024-06772-8">DOI&#58; 10.1038/s42003-024-06772-8</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/39271907">PMID&#58; 39271907</A>)
 
+### published
 #  - authors: <U>J. Naas</U>, G. Nies, H. Li, S. Stoldt, B. Schmitzer, S. Jakobs, and A. Munk
 #    year: 2024
 #    title: MultiMatch&#58; Geometry-Informed Colocalization in Multi-Color Super-Resolution Microscopy.
@@ -165,11 +166,20 @@ publications:
 
   - authors: <U>O. Chernomor</U>, <U>C. Elgert</U>, and <U>A. von Haeseler</U>
     year: 2023
-    title: Identifying equally scoring trees in phylogenomics with incomplete data using Gentrius.
-    journal: <EM>bioRxiv</EM>, 2022.03.11.483643
+    title: Gentrius&#58; generating trees compatible with a set of unrooted subtrees and its application to phylogenetic terraces.
+    journal: <EM>bioRxiv</EM>, 2023.01.19.524678
     links: |
       (<A HREF="http://dx.doi.org/10.1101/2023.01.19.524678">DOI&#58; 10.1101/2023.01.19.524678</A>)
 
+### title outdated
+#  - authors: <U>O. Chernomor</U>, <U>C. Elgert</U>, and <U>A. von Haeseler</U>
+#    year: 2023
+#    title: Identifying equally scoring trees in phylogenomics with incomplete data using Gentrius.
+#    journal: <EM>bioRxiv</EM>, 2022.03.11.483643
+#    links: |
+#      (<A HREF="http://dx.doi.org/10.1101/2023.01.19.524678">DOI&#58; 10.1101/2023.01.19.524678</A>)
+
+### published
 #  - authors: N. Durut, A.E. Kornienko, <U>H.A. Schmidt</U>, N. Lettner, M. Dona, M. Nordborg, and O. Mittelsten Scheid
 #    year: 2023
 #    title: Long non-coding RNAs contribute to DNA damage resistance in Arabidopsis thaliana.
@@ -274,6 +284,7 @@ publications:
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35418991">PMID&#58; 35418991</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC8996080">PMCID&#58; PMC8996080</A>)
 
+### published
 #  - authors: <U>S. Burgstaller-Muehlbacher</U>, S.M. Crotty, <U>H.A. Schmidt</U>, <U>T. Drucks</U>, and <U>A. von Haeseler</U>
 #    year: 2022
 #    title: ModelRevelator&#58; Fast phylogenetic model estimation via deep learning.
@@ -350,6 +361,7 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/35919947">PMID&#58; 35919947</A>,
       <A HREF="https://github.com/jn-goe/gruffi">software</A>)
 
+### published
 #  - authors: Á. Vértesy, O.L. Eichmueller, <U>J. Naas</U>, M. Novatchkova, C. Esk, M. Balmaña, S. Ladstaetter, C. Bock, <U>A. von Haeseler</U>, and J.A. Knoblich
 #    year: 2022
 #    title: Cellular stress in brain organoids is limited to a distinct and bioinformatically removable subpopulation.
@@ -437,6 +449,7 @@ publications:
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/34350831">PMID&#58; 34350831</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC8367381">PMCID&#58; PMC8367381</A>)
 
+### published
 #  - authors: R. Revilla-i-Domingo, V.B. Veedin Rajan, M. Waldherr, G. Prohaczka, H. Musset, L. Orel, E. Gerrard, <U>M. Smolka</U>, M. Farlik, R.J. Lucas, F. Raible, and K. Tessmar-Raible
 #    year: 2021
 #    title: Characterization of cephalic and non-cephalic sensory cell types provides insight into joint photo- and mechanoreceptor evolution.
@@ -498,6 +511,7 @@ publications:
       (<A HREF="http://dx.doi.org/10.1128/JCM.00273-20">DOI&#58; 10.1128/JCM.00273-20</A>,
        <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/32295890">PMID&#58; 32295890</A>)
 
+### published
 #  - authors: E. Galimberti, R. Sehlke, M. Huth, M. Garmhausen, M. Romeike, J. Ramesmayer, S. Stummer, F. Titz-Teixeira, V. Herzog, A. Chugunova, K.F. Leesch, <U>L. Holcik</U>, Klara</U> Weipoltshammer, L. Santini, A. Lackner, <U>A. von Haeseler</U>, C. B&uuml;cker, A. Pauli, C. Schoefer, S.L. Ameres, A. Smith, A. Beyer, and M. Leeb
 #    year: 2020
 #    title: NMD is required for timely cell fate transitions by fine-tuning gene expression and controlling translation.
@@ -614,6 +628,7 @@ publications:
 #      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
 #      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
 
+### published
 #  - authors: L. Riva, S. Yuan, X. Yin, L. Martin-Sancho, N. Matsunaga, <U>S. Burgstaller-Muehlbacher</U>, L. Pache, P.P. De Jesus, M.V. Hull, M. Chang, J. Fuk-Woo Chan, J. Cao, V. Kwok-Man Poon, K. Herbert, T.-T. Nguyen, Y. Pu, C. Nguyen, A. Rubanov, L. Martinez-Sobrido, W.-C. Liu, L. Miorin, K.M. White, J.R. Johnson, C. Benner, R. Sun, P.G. Schultz, A. Su, A. Garcia-Sastre, A.K. Chatterjee, K.-Y. Yuen, and S.K. Chanda
 #    year: 2020
 #    title: A Large-scale Drug Repositioning Survey for SARS-CoV-2 Antivirals.
@@ -650,6 +665,7 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1101/810309">DOI&#58; 10.1101/810309</A>)
 
+### published
 #  - authors: <U>T. Drucks</U>, <U>A.F. Leuchtenberger</U>, <U>S. Burgstaller-Muehlbacher</U>, <U>S.M. Crotty</U>, <U>H.A. Schmidt</U>, and <U>A. von Haeseler</U>
 #    year: 2019
 #    title: Distinguishing Felsenstein zone from Farris zone using neural networks
@@ -682,6 +698,7 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/31395652">PMID&#58; 31395652</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC6778798">PMCID&#58; PMC6778798</A>)
 
+### published
 #  - authors: <U>C. Manuel</U> and <U>A. von Haeseler</U>
 #    year: 2019
 #    title: Structure of the space of taboo-free sequences
@@ -689,6 +706,7 @@ publications:
 #    links: |
 #      (<A HREF="http://dx.doi.org/10.1101/824847">DOI&#58; 10.1101/824847</A>)
 
+### published
 #  - authors: B.Q. Minh, <U>H.A. Schmidt</U>, <U>O. Chernomor</U>, <U>D. Schrempf</U>, M.D. Woodhams, <U>A. von Haeseler</U><sup>s</sup>, and R. Lanfear<sup>s</sup>
 #    year: 2019
 #    title: IQ-TREE 2&#58; New models and efficient methods for phylogenetic inference in the genomic era.
