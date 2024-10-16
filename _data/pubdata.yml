@@ -29,6 +29,22 @@ publications:
 
 ########### in press ###########
 
+  - authors: <U>O. Chernomor</U>, <U>C. Elgert</U>, and <U>A. von Haeseler</U>
+    year: in press
+    title: Gentrius: generating trees compatible with a set of unrooted subtrees and its application to phylogenetic terraces.
+    journal: <EM>Mol. Biol. Evol.</EM>, 41, in press
+#    links: |
+#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
+#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
+#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
+
+  - authors: <U>O. Chernomor</U>, <U>C. Elgert</U>, and <U>A. von Haeseler</U>
+    year: 2023
+    journal: <EM>bioRxiv</EM>, 2022.03.11.483643
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/2023.01.19.524678">DOI&#58; 10.1101/2023.01.19.524678</A>)
+
   - authors: <U>J. Müller</U>, C. Hartwig, M. Sonntag, L. Bitzer, C. Adelmann, Y. Vainshtein, K. Glanz, S.O. Decker, T. Brenner, G.F. Weber, <U>A. von Haeseler</U>, and K. Sohn
     year: in press
     title: A novel approach for in vivo DNA footprinting using short double-stranded cell-free DNA from plasma.
