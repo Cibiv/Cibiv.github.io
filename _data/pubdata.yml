@@ -29,17 +29,6 @@ publications:
 
 ########### in press ###########
 
-  - authors: <U>O. Chernomor</U>, <U>C. Elgert</U>, and <U>A. von Haeseler</U>
-    year: in press
-    title: Gentrius&#58; generating trees compatible with a set of unrooted subtrees and its application to phylogenetic terraces.
-    journal: <EM>Mol. Biol. Evol.</EM>, 41, in press
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/2023.01.19.524678">bioRxiv-preprint-DOI:10.1101/2023.01.19.524678</A>)
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>,
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/XXXXX">PMID&#58; XXXXX</A>)
-#      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/XXXXX">PMCID&#58; XXXXX</A>)
-#      <A HREF="http://www.cibiv.at/software/XXXXX/">software</A>)
-
 
 ########### 2024 ###########
 
@@ -50,6 +39,16 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1002/eji.202350946">DOI&#58; 10.1002/eji.202350946</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/38763899">PMID&#58; 38763899</A>)
+
+  - authors: <U>O. Chernomor</U>, <U>C. Elgert</U>, and <U>A. von Haeseler</U>
+    year: 2024
+    title: Gentrius&#58; generating trees compatible with a set of unrooted subtrees and its application to phylogenetic terraces.
+    journal: <EM>Mol. Biol. Evol.</EM>, 41, msae219.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/molbev/msae219">DOI&#58; 10.1093/molbev/msae219</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/39431557">PMID&#58; 39431557</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC11536181">PMCID&#58; PMC11536181</A>)
+#      (<A HREF="http://dx.doi.org/10.1101/2023.01.19.524678">bioRxiv-preprint-DOI:10.1101/2023.01.19.524678</A>)
 
   - authors: <U>M. Fahrenberger</U>, C. Esk, and <U>A. von Haeseler</U>
     year: 2024
@@ -108,6 +107,14 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1101/gr.279326.124">DOI&#58; 10.1101/gr.279326.124</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/39271293">PMID&#58; 39271293</A>)
+
+  - authors: <U>J. Naas</U><sup>e</sup>, M. Balmana<sup>e</sup>, <U>L. Holcik</U>, M. Novatchkova, L. Dobnikar, T. Krausgruber, S. Ladstatter, C. Bock, <U>A. von Haeseler</U>, C. Esk, and J.A. Knoblich
+    year: 2024
+    title: Reconstitution of Human Brain Cell Diversity in Organoids via Four Protocols.
+    journal: <EM>bioRxiv</EM>, 2024.11.15.623576
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/2024.11.15.623576">DOI&#58; 10.1101/2024.11.15.623576</A>)
+      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: <U>J. Naas</U>, G. Nies, H. Li, S. Stoldt, B. Schmitzer, S. Jakobs, and A. Munk
     year: 2024
