@@ -28,7 +28,7 @@ publications:
 
   - authors: <U>C. Manuel</U>, <U>E. Sakalli</U>, <U>H.A. Schmidt</U>, C. Vi&ntilde;as, <U>A. von Haeseler</U>, and </U>C. Elgert</U>
     year: accepted
-    title: When the Past Fades: Detecting phylogenetic signal with SatuTe.
+    title: When the Past Fades&#58; Detecting phylogenetic signal with SatuTe.
     journal: <EM>Mol. Biol. Evol.</EM>, 42, accepted.
 #    links: |
 #      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>)
@@ -41,7 +41,7 @@ publications:
 
 ########### 2025 ###########
 
-  - authors: M. Sonntag, <U>J. Müller</U>, T. Brenner, S.O. Decker, <U>A. von Haeseler</U>, and K. Sohn
+  - authors: M. Sonntag, <U>J. Müller</U>, T. Brenner, S.O. Decker, <U>A. von Haeseler</U>, K. Sohn, and the German Anaesthesia and Intensive Care Trials Group (GAIN-CARE)
     year: 2025
     title: Human in vivo footprints from blood plasma samples for improved diagnostics in septic patients.
     journal: <EM>medRxiv</EM>, 2025.01.29.25320179
