@@ -26,17 +26,16 @@ publications:
 
 ########### accepted ###########
 
-  - authors: <U>C. Manuel</U>, <U>E. Sakalli</U>, <U>H.A. Schmidt</U>, C. Vi&ntilde;as, <U>A. von Haeseler</U>, and </U>C. Elgert</U>
-    year: accepted
-    title: When the Past Fades&#58; Detecting phylogenetic signal with SatuTe.
-    journal: <EM>Mol. Biol. Evol.</EM>, 42, accepted.
-#    links: |
-#      (<A HREF="http://dx.doi.org/XXXXX">DOI&#58; XXXXX</A>)
-
-
 
 ########### in press ###########
 
+  - authors: <U>C. Manuel</U>, <U>E. Sakalli</U>, <U>H.A. Schmidt</U>, C. Vi&ntilde;as, <U>A. von Haeseler</U>, and </U>C. Elgert</U>
+    year: in press
+    title: When the Past Fades&#58; Detecting phylogenetic signal with SatuTe.
+    journal: <EM>Mol. Biol. Evol.</EM>, 42, msaf090, in press.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/molbev/msaf090">DOI&#58; 10.1093/molbev/msaf090</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/40423578">PMID&#58; 40423578</A>)
 
 
 ########### 2025 ###########
