@@ -29,16 +29,23 @@ publications:
 
 ########### in press ###########
 
-  - authors: <U>C. Manuel</U>, <U>E. Sakalli</U>, <U>H.A. Schmidt</U>, C. Vi&ntilde;as, <U>A. von Haeseler</U>, and </U>C. Elgert</U>
+  - authors: <U>M. Fahrenberger</U>, C. Esk, J.A. Knoblich, and <U>A. von Haeseler</U>
     year: in press
-    title: When the Past Fades&#58; Detecting phylogenetic signal with SatuTe.
-    journal: <EM>Mol. Biol. Evol.</EM>, 42, msaf090, in press.
+    title: GTestimate&#58; Improving relative gene expression estimation in scRNA-seq using the Good-Turing estimator.
+    journal: <EM>GigaScience</EM>, 14, in press.
     links: |
-      (<A HREF="http://dx.doi.org/10.1093/molbev/msaf090">DOI&#58; 10.1093/molbev/msaf090</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/40423578">PMID&#58; 40423578</A>)
+      (<A HREF="http://dx.doi.org/10.1101/2024.07.02.601501">bioRxiv-preprint-DOI&#58; 10.1101/2024.07.02.601501</A>)
 
 
 ########### 2025 ###########
+
+  - authors: <U>C. Manuel</U>, <U>E. Sakalli</U>, <U>H.A. Schmidt</U>, C. Vi&ntilde;as, <U>A. von Haeseler</U>, and </U>C. Elgert</U>
+    year: 2025
+    title: When the Past Fades&#58; Detecting phylogenetic signal with SatuTe.
+    journal: <EM>Mol. Biol. Evol.</EM>, 42, msaf090.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/molbev/msaf090">DOI&#58; 10.1093/molbev/msaf090</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/40423578">PMID&#58; 40423578</A>)
 
   - authors: M. Sonntag, <U>J. Müller</U>, T. Brenner, S.O. Decker, <U>A. von Haeseler</U>, K. Sohn, and the German Anaesthesia and Intensive Care Trials Group (GAIN-CARE)
     year: 2025
