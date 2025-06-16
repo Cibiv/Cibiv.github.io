@@ -75,12 +75,12 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC11536181">PMCID&#58; PMC11536181</A>)
 #      (<A HREF="http://dx.doi.org/10.1101/2023.01.19.524678">bioRxiv-preprint-DOI:10.1101/2023.01.19.524678</A>)
 
-  - authors: <U>M. Fahrenberger</U>, C. Esk, and <U>A. von Haeseler</U>
-    year: 2024
-    title: GTestimate&#58; Improving relative gene expression estimation in scRNA-seq using the Good-Turing estimator.
-    journal: <EM>bioRxiv</EM>, 2024.07.02.601501 
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/2024.07.02.601501">DOI&#58; 10.1101/2024.07.02.601501</A>)
+#  - authors: <U>M. Fahrenberger</U>, C. Esk, and <U>A. von Haeseler</U>
+#    year: 2024
+#    title: GTestimate&#58; Improving relative gene expression estimation in scRNA-seq using the Good-Turing estimator.
+#    journal: <EM>bioRxiv</EM>, 2024.07.02.601501 
+#    links: |
+#      (<A HREF="http://dx.doi.org/10.1101/2024.07.02.601501">DOI&#58; 10.1101/2024.07.02.601501</A>)
 
   - authors: N.S. H&auml;fker, <U>L. Holcik</U>, A.M. Mat, A. Ćoric, K. Vadiwala, I. Beets, A.W. Stockinger, C.E. Atria, S. Hammer, R. Revilla-i-Domingo, L. Schoofs, F. Raible, and K. Tessmar-Raible
     year: 2024
