@@ -6,7 +6,7 @@ layout: personalpage
 title: Heiko A. Schmidt
 
 #either Head, Postdoc, PhD student, or Student
-position: Senior Postdoc
+position: Postdoc
 
 # image that will appear in the people page
 image: /assets/img/people/new_pics/heiko_1.png
@@ -31,6 +31,9 @@ address: |
   <br>
   <strong>Publications:</strong><br>
   Lists of publications are available via <A href="https://orcid.org/0000-0002-2311-8592">ORCID</A>, <A href="https://scholar.google.at/citations?user=8lFCw7IAAAAJ&hl=en">Google Scholar</A>, <A href="https://publons.com/researcher/AAC-4650-2022/">WoS ResearcherID</A><br>
+  <br>
+  <strong>Teaching:</strong><br>
+  <A href="https://ufind.univie.ac.at/en/person.html?id=28689">U:Find page at University of Vienna</A>
 
 publications:
   - authors: B. Klempa, R. Ulrich, H. Meisel, D.H. Krüger, H.A. Schmidt, S. Kaluz, M. Labuda, and B. Hjelle
