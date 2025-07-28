@@ -47,6 +47,13 @@ publications:
       (<A HREF="http://dx.doi.org/10.1093/molbev/msaf090">DOI&#58; 10.1093/molbev/msaf090</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/40423578">PMID&#58; 40423578</A>)
 
+  - authors: <U>J. Naas</U>, <U>A. von Haeseler</U>, <U>C. Elgert</U>
+    year: 2025
+    title: Rethinking scRNA-seq Trajectories in Phylogenetic Paradigms: Overcoming Challenges of Missing Ancestral Information.
+    journal: <EM>bioRxiv</EM>, 2025.07.22.664676
+    links: |
+      (<A HREF="http://dx.doi.org/10.1101/10.1101/2025.07.22.664676">DOI&#58; 10.1101/2025.07.22.664676</A>)
+
   - authors: M. Sonntag, <U>J. Müller</U>, T. Brenner, S.O. Decker, <U>A. von Haeseler</U>, K. Sohn, and the German Anaesthesia and Intensive Care Trials Group (GAIN-CARE)
     year: 2025
     title: Human in vivo footprints from blood plasma samples for improved diagnostics in septic patients.
