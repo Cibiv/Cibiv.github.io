@@ -63,12 +63,13 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1101/10.1101/2025.07.22.664676">DOI&#58; 10.1101/2025.07.22.664676</A>)
 
-  - authors: M. Sonntag, <U>J. Müller</U>, T. Brenner, S.O. Decker, <U>A. von Haeseler</U>, K. Sohn, and the German Anaesthesia and Intensive Care Trials Group (GAIN-CARE)
+  - authors: M. Sonntag<sup>e</sup>, <U>J. Müller</U><sup>e</sup>, T. Brenner, S.O. Decker, <U>A. von Haeseler</U>, K. Sohn, and the German Anaesthesia and Intensive Care Trials Group (GAIN-CARE)
     year: 2025
     title: Human in vivo footprints from blood plasma samples for improved diagnostics in septic patients.
     journal: <EM>medRxiv</EM>, 2025.01.29.25320179
     links: |
       (<A HREF="http://dx.doi.org/10.1101/2025.01.29.25320179">DOI&#58; 10.1101/2025.01.29.25320179</A>)
+      <BR><sup>e</sup>&nbsp;contributed equally
 
 
 ########### 2024 ###########
