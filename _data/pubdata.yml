@@ -29,24 +29,18 @@ publications:
 
 ########### in press ###########
 
-  - authors: <U>M. Fahrenberger</U>, C. Esk, J.A. Knoblich, and <U>A. von Haeseler</U>
-    year: in press
-    title: GTestimate&#58; Improving relative gene expression estimation in scRNA-seq using the Good-Turing estimator.
-    journal: <EM>GigaScience</EM>, 14, in press.
-    links: |
-      (<A HREF="http://dx.doi.org/10.1101/2024.07.02.601501">bioRxiv-preprint-DOI&#58; 10.1101/2024.07.02.601501</A>)
-
-  - authors: <U>J. Naas</U><sup>e</sup>, M. Balmana<sup>e</sup>, <U>L. Holcik</U>, M. Novatchkova, L. Dobnikar, T. Krausgruber, S. Ladstatter, C. Bock, <U>A. von Haeseler</U>, C. Esk, and J.A. Knoblich
-    year: in press
-    title: Quantitative profiling of human brain organoid cell diversity across four protocols and multiple cell lines.
-    journal: <EM>Cell Rep.</EM>, 44, 116168, in press
-    links: |
-      (<A HREF="http://dx.doi.org/10.1016/j.celrep.2025.116168">DOI&#58; 10.1016/j.celrep.2025.116168</A>,
-      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/40864552">PMID&#58; 40864552</A>)
-      <BR><sup>e</sup>&nbsp;contributed equally
-
 
 ########### 2025 ###########
+
+  - authors: <U>M. Fahrenberger</U>, C. Esk, J.A. Knoblich, and <U>A. von Haeseler</U>
+    year: 2025
+    title: GTestimate&#58; Improving relative gene expression estimation in scRNA-seq using the Good-Turing estimator.
+    journal: <EM>GigaScience</EM>, 14, giaf084.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/gigascience/giaf084">DOI&#58; 10.1093/gigascience/giaf084</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/41159548">PMID&#58; 41159548</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC12569601">PMCID&#58; PMC12569601</A>,
+      <A HREF="https://www.github.com/Martin-Fahrenberger/GTestimate/">software</A>)
 
   - authors: <U>C. Manuel</U>, <U>E. Sakalli</U>, <U>H.A. Schmidt</U>, C. Vi&ntilde;as, <U>A. von Haeseler</U>, and </U>C. Elgert</U>
     year: 2025
@@ -55,6 +49,15 @@ publications:
     links: |
       (<A HREF="http://dx.doi.org/10.1093/molbev/msaf090">DOI&#58; 10.1093/molbev/msaf090</A>,
       <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/40423578">PMID&#58; 40423578</A>)
+
+  - authors: <U>J. Naas</U><sup>e</sup>, M. Balmana<sup>e</sup>, <U>L. Holcik</U>, M. Novatchkova, L. Dobnikar, T. Krausgruber, S. Ladstatter, C. Bock, <U>A. von Haeseler</U>, C. Esk, and J.A. Knoblich
+    year: 2025
+    title: Quantitative profiling of human brain organoid cell diversity across four protocols and multiple cell lines.
+    journal: <EM>Cell Rep.</EM>, 44, 116168.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1016/j.celrep.2025.116168">DOI&#58; 10.1016/j.celrep.2025.116168</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/40864552">PMID&#58; 40864552</A>)
+      <BR><sup>e</sup>&nbsp;contributed equally
 
   - authors: <U>J. Naas</U>, <U>A. von Haeseler</U>, <U>C. Elgert</U>
     year: 2025
