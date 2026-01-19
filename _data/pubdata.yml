@@ -42,6 +42,16 @@ publications:
       <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC12569601">PMCID&#58; PMC12569601</A>,
       <A HREF="https://www.github.com/Martin-Fahrenberger/GTestimate/">software</A>)
 
+  - authors: <U>L. Holcik</U>, <U>A. von Haeseler</U>, and <U>F.G. Pflug</U>
+    year: 2025
+    title: Genomic GC bias correction improves species abundance estimation from metagenomic data. 
+    journal: <EM>Nat. Commun.</EM>, 16, 10523.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1038/s41467-025-65530-4">DOI&#58; 10.1038/s41467-025-65530-4</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/41298355">PMID&#58; 41298355</A>,
+      <A HREF="http://www.ncbi.nlm.nih.gov/pmc/PMC12658245">PMCID&#58; PMC12658245</A>,
+      <A HREF="https://github.com/Cibiv/GuaCAMOLE">software</A>)
+
   - authors: <U>C. Manuel</U>, <U>E. Sakalli</U>, <U>H.A. Schmidt</U>, C. Vi&ntilde;as, <U>A. von Haeseler</U>, and </U>C. Elgert</U>
     year: 2025
     title: When the Past Fades&#58; Detecting phylogenetic signal with SatuTe.
