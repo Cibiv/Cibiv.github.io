@@ -3,7 +3,7 @@
 layout: personalpage
 
 # name, appeared as title of the personal page as well
-title: Arndt von Haeseler <b style='color:red;'>(retired)</b>
+title: Arndt von Haeseler
 
 #either Head, Postdoc, PhD student, or Student
 position: Head <b style='color:red;'>(retired)</b>
