@@ -17,6 +17,8 @@ pubname: A. von Haeseler
 # true to categorize publications into years
 pubyear: true
 
+<strong><b style='color:red;'>Arndt von Haeseler has retired and does no longer accept any students.</b></strong>
+
 # address lines, appeared at the beginning of personal page
 address: |
   <strong>Email:</strong> arndt.von.haeseler(AT)univie.ac.at<br>
