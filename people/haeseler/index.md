@@ -3,10 +3,10 @@
 layout: personalpage
 
 # name, appeared as title of the personal page as well
-title: Arndt von Haeseler
+title: Arndt von Haeseler <b style='color:red;'>(retired)</b>
 
 #either Head, Postdoc, PhD student, or Student
-position: Head
+position: Head <b style='color:red;'>(retired)</b>
 
 # image that will appear in the people page
 image: /assets/img/people/new_pics/arndt_1.png
