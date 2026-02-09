@@ -17,7 +17,6 @@ pubname: A. von Haeseler
 # true to categorize publications into years
 pubyear: true
 
-<strong><b style='color:red;'>Arndt von Haeseler has retired and does no longer accept any students.</b></strong>
 
 # address lines, appeared at the beginning of personal page
 address: |
@@ -34,6 +33,8 @@ address: |
   The full list of publications is available at <A href="https://scholar.google.at/citations?user=XqglmcgAAAAJ&hl=en">Google Scholar</A><br>
 
 ---
+
+<strong><b style='color:red;'>Arndt von Haeseler has retired and does no longer accept any students.</b></strong>
 
 ### Research interests
 <div class="hline"></div>
