@@ -6,7 +6,7 @@ layout: personalpage
 title: Robert Happel
 
 #either Head, Postdoc, PhD student, or Student
-position: System administrator
+position: System administrator<BR><b style='color:red;'>(now at <A HREF="https://lisc.univie.ac.at/">LISC</A>)
 
 # image that will appear in the people page
 image: /assets/img/people/new_pics/robert_1.png
