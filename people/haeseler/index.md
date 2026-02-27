@@ -6,7 +6,7 @@ layout: personalpage
 title: Arndt von Haeseler
 
 #either Head, Postdoc, PhD student, or Student
-position: Head <b style='color:red;'>(now at <A HREF="https://netmed.lbg.ac.at/team/arndt-von-haeseler/">LBI-NetMed</A>)</b>
+position: Head <BR><b style='color:red;'>(now at <A HREF="https://netmed.lbg.ac.at/team/arndt-von-haeseler/">LBI-NetMed</A>)</b>
 
 # image that will appear in the people page
 image: /assets/img/people/new_pics/arndt_1.png
