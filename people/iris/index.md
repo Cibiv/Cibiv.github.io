@@ -6,7 +6,7 @@ layout: personalpage
 title: Iris Gruber
 
 #either Head, Postdoc, PhD student, or Student
-position: Project assistant<BR><b style='color:red;'>(now at <A HREF="https://structbio.univie.ac.at/people/administration/">Max Perutz Labs</A>)</b>
+position: Project assistant<BR><b style='color:red;'>(now <A HREF="https://structbio.univie.ac.at/people/administration/">Max Perutz Labs</A>)</b>
 
 # image that will appear in the people page
 image: /assets/img/people/new_pics/iris_1.png
