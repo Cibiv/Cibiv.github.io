@@ -21,20 +21,20 @@ pubyear: true
 # address lines, appeared at the beginning of personal page
 address: |
   <strong>Email:</strong> arndt.von.haeseler(AT)univie.ac.at<br>
-  <strong>Phone:</strong> ++43 +1 / 4277 - 74307<br>
+  <strong>Phone:</strong> <S>++43 +1 / 4277 - 74307</S><br>
   <br>
   <strong>Postal address:</strong><br>
-  Center for Integrative Bioinformatics Vienna (CIBIV)<br>
-  Max Perutz Labs<br>
-  Campus Vienna Biocenter 5 (VBC5)<br>
-  A-1030 Wien, Austria<br>
+  <S>Center for Integrative Bioinformatics Vienna (CIBIV)</S><br>
+  <S>Max Perutz Labs</S><br>
+  <S>Campus Vienna Biocenter 5 (VBC5)</S><br>
+  <S>A-1030 Wien, Austria</S><br>
   <br>
   <strong>Publications:</strong><br>
   The full list of publications is available at <A href="https://scholar.google.at/citations?user=XqglmcgAAAAJ&hl=en">Google Scholar</A><br>
 
 ---
 
-### <span style='color:red;'>Arndt von Haeseler has retired and does no longer accept any students.</span>
+### <span style='color:red;'>Arndt von Haeseler has retired from this post and does no longer accept any students.</span>
 
 ### Research interests
 <div class="hline"></div>
