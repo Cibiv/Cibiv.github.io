@@ -34,7 +34,7 @@ address: |
 
 ---
 
-### <span style='color:red;'>Arndt von Haeseler has retired from this post and does no longer accept any students.</span>
+### <span style='color:red;'>Arndt von Haeseler has retired from this post<BR> and does no longer accept any students.</span>
 
 ### Research interests
 <div class="hline"></div>
