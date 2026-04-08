@@ -30,6 +30,17 @@ publications:
 ########### in press ###########
 
 
+
+########### 2026 ###########
+
+  - authors: <U>E.B. Sakalli</U>, <U>S.E. Haendeler</U>, <U>A. von Haeseler</U>, <U>H.A. Schmidt</U>
+    year: 2026
+    title: Phylo-Movies&#58; Animating Phylogenetic Trees from Sliding-Window Analyses.
+    journal: <EM>bioRxiv</EM>, 2026.04.01.715821
+    links: |
+      (<A HREF="http://dx.doi.org/10.64898/2026.04.01.715821">DOI&#58; 10.64898/2026.04.01.715821</A>)
+
+
 ########### 2025 ###########
 
   - authors: <U>M. Fahrenberger</U>, C. Esk, J.A. Knoblich, and <U>A. von Haeseler</U>
@@ -74,7 +85,7 @@ publications:
     title: Rethinking scRNA-seq Trajectories in Phylogenetic Paradigms&#58; Overcoming Challenges of Missing Ancestral Information.
     journal: <EM>bioRxiv</EM>, 2025.07.22.664676
     links: |
-      (<A HREF="http://dx.doi.org/10.1101/10.1101/2025.07.22.664676">DOI&#58; 10.1101/2025.07.22.664676</A>)
+      (<A HREF="http://dx.doi.org/10.1101/2025.07.22.664676">DOI&#58; 10.1101/2025.07.22.664676</A>)
 
   - authors: M. Sonntag<sup>e</sup>, <U>J. Müller</U><sup>e</sup>, T. Brenner, S.O. Decker, <U>A. von Haeseler</U>, K. Sohn, and the German Anaesthesia and Intensive Care Trials Group (GAIN-CARE)
     year: 2025
