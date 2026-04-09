@@ -69,7 +69,7 @@ address: |
 
 ### Awards and Honors
 <div class="hline"></div>
-* __2021-2024__: <A HREF="https://www.webofscience.com/wos/author/record/HCI-9958-2022">Highly Cited Researcher</A> in the field of Cross-Field
+* __2021-2025__: <A HREF="https://www.webofscience.com/wos/author/record/HCI-9958-2022">Highly Cited Researcher</A> in the field of Cross-Field
 * __since April 2012__: Visiting Professor at Division of theoretical Genetics, National Institute of Genetics, Mishima, Japan
 * __2005__: Award of the WWTF Science Chairs, Vienna, Austria
 * __since 1999__: Honorary Professor for Theoretical Biology, University of Leipzig, Germany
