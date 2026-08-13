@@ -29,6 +29,14 @@ publications:
 
 ########### in press ###########
 
+  - authors: <U>E.B. Sakalli</U>, <U>S.E. Haendeler</U>, <U>A. von Haeseler</U>, <U>H.A. Schmidt</U>
+    year: in press
+    title: Phylo-Movies&#58; Animating Phylogenetic Trees from Sliding-Window Analyses.
+    journal: <EM>Mol. Biol. Evol.</EM>, 43, msag194.
+    links: |
+      (<A HREF="http://dx.doi.org/10.1093/molbev/msag194">DOI&#58; 10.1093/molbev/msag194</A>, 
+      <A HREF="https://enesberksakalli.github.io/phylo-movies">software</A>)
+
 
 
 ########### 2026 ###########
